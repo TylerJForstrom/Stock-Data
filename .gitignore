@@ -1,0 +1,15 @@
+# Restricted-license data must NEVER be committed to this public repo.
+# FINRA short interest, Tiingo/Stooq price caches, and anything derived from
+# them lives here, local-only. See README "Licensing split".
+vault/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+coverage.xml
+build/
+dist/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/

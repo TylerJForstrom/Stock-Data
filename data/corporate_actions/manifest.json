@@ -1,0 +1,30 @@
+{
+  "basis": "current_fully_split_adjusted",
+  "files": [
+    {
+      "bytes": 13058,
+      "name": "dividends.parquet",
+      "rows": 448,
+      "sha256": "2e54ba5ccf97c0ce8b7b9cafaa29366a20ed70b507163e4d0030e1e8fc386df9"
+    },
+    {
+      "bytes": 276,
+      "name": "splits.jsonl",
+      "sha256": "f3f5a0334dde02805d0bc09a708f524ae29355cf8fae50e5f9525b5278cba602"
+    }
+  ],
+  "generated_at_utc": "2026-07-28T15:45:01Z",
+  "granularity": "fiscal_period (no ex-dates in XBRL)",
+  "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
+  "schema_version": "1.0",
+  "source_urls": [
+    "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000000.json",
+    "https://www.sec.gov/files/company_tickers.json"
+  ],
+  "tickers_requested": [
+    "AAPL",
+    "JNJ",
+    "O"
+  ],
+  "tickers_unresolved": []
+}

@@ -1,0 +1,50 @@
+name: Daily symbol snapshot
+
+on:
+  schedule:
+    # Odd minute, off the congested top of hour; GitHub cron is best-effort
+    # (5-60+ min jitter, occasional skips) and the job is a watermark-style
+    # snapshot, so exact timing does not matter.
+    - cron: "17 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - name: Snapshot symbol directories
+        run: stock-data snapshot-symbols --data-dir data
+      - name: Commit results (heartbeat always)
+        # Runs even when the snapshot step failed: the heartbeat file records
+        # the failure and committing it resets GitHub's 60-day scheduled-workflow
+        # inactivity timer, so the archive cannot silently stop.
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "snapshot: $(date -u +%Y-%m-%d)"
+          # Rebase-retry: a concurrent commit on main must not discard the snapshot.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            git pull --rebase origin main || exit 1
+          done
+          exit 1
