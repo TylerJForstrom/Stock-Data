@@ -54,6 +54,7 @@ any member repo reads this before cross-project work.
 ## Decision log
 
 - 2026-07-28: Stock-Grader is the system of record for methodology.
-  Stock-Rater's fate (archive vs presentation layer) awaits owner decision;
-  its accession-byte archiving and bitemporal lineage ideas belong in
-  Stock-Data regardless.
+- 2026-07-28: Owner decision — Stock-Rater is ARCHIVED. No further work; the
+  repo/folder may be kept or deleted at the owner's convenience. Its two ideas
+  worth harvesting into Stock-Data: exact-accession-byte archiving and
+  bitemporal lineage tracking.
