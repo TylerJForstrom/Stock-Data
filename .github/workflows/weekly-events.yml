@@ -21,7 +21,12 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -e .
+      - name: Check prior weekly-event freshness
+        # Eight days allows normal cron jitter but catches a skipped weekly run.
+        # The following always() steps still self-heal and publish the archive.
+        run: stock-data check-staleness --max-age-days 8 data/events
       - name: Sweep 8-K items and delisting forms
+        if: always()
         run: stock-data events --data-dir data
       - name: Commit
         if: always()

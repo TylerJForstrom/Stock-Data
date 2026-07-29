@@ -24,7 +24,14 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -e .
+      - name: Check prior snapshot freshness
+        # Run before collection so missed cadences make the scheduled run red.
+        # The following always() steps still self-heal and publish the archive.
+        run: >-
+          stock-data check-staleness --max-age-days 2
+          data/symbols/current data/symbols/events
       - name: Snapshot symbol directories
+        if: always()
         run: stock-data snapshot-symbols --data-dir data
       - name: Commit results (heartbeat always)
         # Runs even when the snapshot step failed: the heartbeat file records

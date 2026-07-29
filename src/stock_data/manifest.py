@@ -79,3 +79,22 @@ def read_manifest(dataset_dir: str) -> dict[str, object]:
             f"(supported: {SCHEMA_VERSION})"
         )
     return manifest
+
+
+def manifest_generated_at(dataset_dir: str) -> dt.datetime:
+    """Return a dataset manifest's generation time as an aware UTC datetime."""
+    manifest = read_manifest(dataset_dir)
+    value = manifest.get("generated_at_utc")
+    if not isinstance(value, str):
+        raise ValueError(f"{dataset_dir}/manifest.json has no generated_at_utc timestamp")
+    try:
+        generated = dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError as exc:
+        raise ValueError(
+            f"{dataset_dir}/manifest.json has invalid generated_at_utc {value!r}"
+        ) from exc
+    if generated.tzinfo is None:
+        raise ValueError(
+            f"{dataset_dir}/manifest.json generated_at_utc must include a timezone"
+        )
+    return generated.astimezone(dt.UTC)

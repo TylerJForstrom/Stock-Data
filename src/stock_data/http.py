@@ -18,7 +18,6 @@ USER_AGENT = "Stock-Data/0.1 (Tyler Forstrom; tylerjamesforstrom@gmail.com)"
 # Minimum seconds between requests, per host suffix. First match wins.
 _HOST_INTERVALS: list[tuple[str, float]] = [
     ("sec.gov", 1.0 / 8.0),
-    ("finra.org", 0.5),
     ("nasdaqtrader.com", 0.5),
     ("treasury.gov", 0.5),
 ]

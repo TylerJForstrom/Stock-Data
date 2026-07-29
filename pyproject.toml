@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "stock-data"
 version = "0.1.0"
-description = "Data foundry: archives and derives industry-standard equity datasets from free primary sources (SEC EDGAR, exchange directories, FINRA, Treasury)"
+description = "Data foundry: archives and derives industry-standard equity datasets from free primary sources (SEC EDGAR, exchange directories, Treasury)"
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }

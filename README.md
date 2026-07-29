@@ -18,7 +18,6 @@ are reading.
 | Symbol directory snapshots | SEC `company_tickers*.json`, Nasdaq Trader symbol directories | daily (git-scraped) | `data/symbols/current/` |
 | Listing/delisting/change events | Daily symbol-directory diffs | daily (git-scraped) | `data/symbols/events/` |
 | Corporate actions (dividends per share, splits) | Reconstructed from SEC XBRL companyfacts | on demand / quarterly | `data/corporate_actions/` |
-| FINRA short interest | FINRA bi-monthly files | bi-monthly | `vault/` (local only, never committed) |
 
 The daily symbol-directory snapshot is the point-in-time universe archive: each
 day's diff is a free listing/delisting/ticker-change event stream. Each event
@@ -48,9 +47,9 @@ Verified properties this pipeline relies on:
 
 This is a public repository. Only US-government public-domain data (SEC,
 Treasury, exchange reference directories) and datasets computed from it are
-committed here. **Restricted-license data — FINRA short interest, Tiingo/Stooq
-price caches — is written only to `vault/`, which is gitignored and must never
-be committed or otherwise redistributed.**
+committed here. Restricted-license collection and storage belongs in the
+private Stock-Vault repository; that data must never be committed here or
+otherwise redistributed.
 
 ## Usage
 
@@ -58,13 +57,14 @@ be committed or otherwise redistributed.**
 pip install -e ".[dev]"
 stock-data snapshot-symbols            # archive today's symbol directories + diff events
 stock-data corporate-actions --tickers AAPL MSFT JNJ
-stock-data finra-short-interest --since 2026-01-01   # writes to vault/ only
 ```
 
-Scheduled GitHub Actions run the daily snapshot (see
-`.github/workflows/daily-snapshot.yml`). Every scheduled run commits a
-heartbeat even when sources are unchanged, because GitHub disables cron
-workflows after 60 days without commits.
+Scheduled GitHub Actions run the daily symbol snapshot and weekly SEC-event
+sweep. Before updating, they fail red when the prior snapshot is more than two
+days old or the prior weekly artifact is more than eight days old. Collection
+and commit steps still run after that alert so the archives self-heal. Every
+daily run commits a heartbeat even when sources are unchanged, because GitHub
+disables cron workflows after 60 days without commits.
 
 ## Fair access
 

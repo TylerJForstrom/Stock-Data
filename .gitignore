@@ -1,6 +1,5 @@
-# Restricted-license data must NEVER be committed to this public repo.
-# FINRA short interest, Tiingo/Stooq price caches, and anything derived from
-# them lives here, local-only. See README "Licensing split".
+# Defense in depth: restricted-license data belongs in Stock-Vault and must
+# NEVER be committed to this public repository.
 vault/
 
 __pycache__/
