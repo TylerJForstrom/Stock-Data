@@ -1,0 +1,31 @@
+{
+  "delisting_forms": [
+    "15",
+    "15-12B",
+    "15-12G",
+    "15-15D",
+    "25",
+    "25-NSE"
+  ],
+  "files": [
+    {
+      "bytes": 1562225,
+      "name": "flagged_events.jsonl.gz",
+      "sha256": "f63ee77de6e1499b3c9575dc0b636d200add5d381094f57a46251e0b79799242"
+    }
+  ],
+  "flagged_item_codes": {
+    "1.03": "bankruptcy_or_receivership",
+    "2.04": "debt_acceleration",
+    "3.01": "delisting_notice",
+    "4.01": "auditor_change",
+    "4.02": "non_reliance_on_financials",
+    "5.02": "officer_departure"
+  },
+  "generated_at_utc": "2026-07-29T15:23:27Z",
+  "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
+  "schema_version": "1.0",
+  "source_urls": [
+    "https://data.sec.gov/submissions/CIK0000000000.json"
+  ]
+}
