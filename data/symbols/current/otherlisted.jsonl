@@ -90,6 +90,7 @@
 {"etf": "N", "exchange": "N", "name": "Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "ADC$A"}
 {"etf": "N", "exchange": "N", "name": "ADC Therapeutics SA Common Shares", "test_issue": "N", "ticker": "ADCT"}
 {"etf": "Y", "exchange": "P", "name": "Hedgeye Index Adds ETF", "test_issue": "N", "ticker": "ADDS"}
+{"etf": "N", "exchange": "N", "name": "ADI Global Distribution Inc. Common Stock When-Issued", "test_issue": "N", "ticker": "ADIG.V"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ADI Daily ETF", "test_issue": "N", "ticker": "ADIU"}
 {"etf": "Y", "exchange": "P", "name": "Guinness Atkinson Asia Pacific Dividend Builder ETF", "test_issue": "N", "ticker": "ADIV"}
 {"etf": "N", "exchange": "N", "name": "Archer-Daniels-Midland Company Common Stock", "test_issue": "N", "ticker": "ADM"}
@@ -846,6 +847,7 @@
 {"etf": "Y", "exchange": "P", "name": "Invesco Bloomberg MVP Multi-factor ETF", "test_issue": "N", "ticker": "BMVP"}
 {"etf": "N", "exchange": "N", "name": "Bristol-Myers Squibb Company Common Stock", "test_issue": "N", "ticker": "BMY"}
 {"etf": "N", "exchange": "N", "name": "Brookfield Corporation Class A Limited Voting Shares", "test_issue": "N", "ticker": "BN"}
+{"etf": "Y", "exchange": "Z", "name": "Amplify Fairlead Tactical Bitcoin ETF", "test_issue": "N", "ticker": "BNAV"}
 {"etf": "Y", "exchange": "P", "name": "FlexShares Core Select Bond Fund", "test_issue": "N", "ticker": "BNDC"}
 {"etf": "Y", "exchange": "P", "name": "Quadratic Deflation ETF", "test_issue": "N", "ticker": "BNDD"}
 {"etf": "Y", "exchange": "P", "name": "NEOS Enhanced Income Aggregate Bond ETF", "test_issue": "N", "ticker": "BNDI"}
@@ -2867,6 +2869,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Gold Explorers ETF", "test_issue": "N", "ticker": "GOEX"}
 {"etf": "N", "exchange": "N", "name": "Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "GOF"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi GOOGL 2x Daily ETF", "test_issue": "N", "ticker": "GOGL"}
+{"etf": "Y", "exchange": "Z", "name": "Direxion GOOGL Defined Income Boost ETF", "test_issue": "N", "ticker": "GOIB"}
 {"etf": "N", "exchange": "N", "name": "Gold.com, Inc. Common Stock", "test_issue": "N", "ticker": "GOLD"}
 {"etf": "N", "exchange": "N", "name": "Acushnet Holdings Corp. Common Stock", "test_issue": "N", "ticker": "GOLF"}
 {"etf": "Y", "exchange": "P", "name": "Gabelli Opportunities in Live and Sports ETF", "test_issue": "N", "ticker": "GOLS"}
@@ -3372,6 +3375,7 @@
 {"etf": "Y", "exchange": "P", "name": "Innovator International Developed Power Buffer ETF  March", "test_issue": "N", "ticker": "IMAR"}
 {"etf": "N", "exchange": "N", "name": "Imax Corporation Common Stock", "test_issue": "N", "ticker": "IMAX"}
 {"etf": "Y", "exchange": "P", "name": "Innovator International Developed Power Buffer ETF - May", "test_issue": "N", "ticker": "IMAY"}
+{"etf": "N", "exchange": "A", "name": "IMC Rare Earths Ltd Ordinary Shares", "test_issue": "N", "ticker": "IMC"}
 {"etf": "Y", "exchange": "P", "name": "iShares Morningstar Mid-Cap ETF", "test_issue": "N", "ticker": "IMCB"}
 {"etf": "Y", "exchange": "P", "name": "iShares Morningstar Mid-Cap Growth ETF", "test_issue": "N", "ticker": "IMCG"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco Managed Futures Strategy ETF", "test_issue": "N", "ticker": "IMF"}
@@ -4179,6 +4183,7 @@
 {"etf": "Y", "exchange": "P", "name": "Harbor Health Care ETF", "test_issue": "N", "ticker": "MEDI"}
 {"etf": "N", "exchange": "N", "name": "NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares", "test_issue": "N", "ticker": "MEGI"}
 {"etf": "N", "exchange": "N", "name": "Methode Electronics, Inc. Common Stock", "test_issue": "N", "ticker": "MEI"}
+{"etf": "Y", "exchange": "Z", "name": "Direxion META Defined Income Boost ETF", "test_issue": "N", "ticker": "MEIB"}
 {"etf": "Y", "exchange": "P", "name": "Matthews Emerging Markets Equity Active ETF", "test_issue": "N", "ticker": "MEM"}
 {"etf": "Y", "exchange": "P", "name": "Roundhill Meme Stock ETF", "test_issue": "N", "ticker": "MEME"}
 {"etf": "Y", "exchange": "P", "name": "Matthews Emerging Markets ex China Active ETF", "test_issue": "N", "ticker": "MEMX"}
@@ -4213,9 +4218,9 @@
 {"etf": "Y", "exchange": "Z", "name": "Cambria Chesapeake Pure Trend ETF", "test_issue": "N", "ticker": "MFUT"}
 {"etf": "N", "exchange": "N", "name": "Mistras Group Inc Common Stock", "test_issue": "N", "ticker": "MG"}
 {"etf": "N", "exchange": "N", "name": "Magna International, Inc. Common Stock", "test_issue": "N", "ticker": "MGA"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Mega Cap ETF", "test_issue": "N", "ticker": "MGC"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap ETF", "test_issue": "N", "ticker": "MGC"}
 {"etf": "N", "exchange": "N", "name": "Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "MGF"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Mega Cap Growth ETF", "test_issue": "N", "ticker": "MGK"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap Growth ETF", "test_issue": "N", "ticker": "MGK"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "test_issue": "N", "ticker": "MGKX"}
 {"etf": "N", "exchange": "A", "name": "The Marygold Companies, Inc. Common Stock", "test_issue": "N", "ticker": "MGLD"}
 {"etf": "N", "exchange": "N", "name": "MGM Resorts International Common Stock", "test_issue": "N", "ticker": "MGM"}
@@ -4226,7 +4231,7 @@
 {"etf": "N", "exchange": "N", "name": "Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060", "test_issue": "N", "ticker": "MGRB"}
 {"etf": "N", "exchange": "N", "name": "Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061", "test_issue": "N", "ticker": "MGRD"}
 {"etf": "N", "exchange": "N", "name": "Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064", "test_issue": "N", "ticker": "MGRE"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Mega Cap Value ETF", "test_issue": "N", "ticker": "MGV"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap Value ETF", "test_issue": "N", "ticker": "MGV"}
 {"etf": "N", "exchange": "N", "name": "Magnolia Oil & Gas Corporation Class A Common Stock", "test_issue": "N", "ticker": "MGY"}
 {"etf": "N", "exchange": "N", "name": "McGraw Hill, Inc. Common Stock", "test_issue": "N", "ticker": "MH"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniHoldings Fund, Inc. Common Stock", "test_issue": "N", "ticker": "MHD"}
@@ -4438,6 +4443,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares National Muni Bond ETF", "test_issue": "N", "ticker": "MUB"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock", "test_issue": "N", "ticker": "MUC"}
 {"etf": "N", "exchange": "N", "name": "Mitsubishi UFJ Financial Group, Inc. Common Stock", "test_issue": "N", "ticker": "MUFG"}
+{"etf": "Y", "exchange": "Z", "name": "Direxion MU Defined Income Boost ETF", "test_issue": "N", "ticker": "MUIB"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock", "test_issue": "N", "ticker": "MUJ"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2030 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNA"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2035 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNB"}
@@ -4726,6 +4732,7 @@
 {"etf": "Y", "exchange": "P", "name": "YieldMax NVDA Option Income Strategy ETF", "test_issue": "N", "ticker": "NVDY"}
 {"etf": "N", "exchange": "N", "name": "Nuveen AMT-Free Municipal Credit Income Fund ", "test_issue": "N", "ticker": "NVG"}
 {"etf": "N", "exchange": "N", "name": "Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)", "test_issue": "N", "ticker": "NVGS"}
+{"etf": "Y", "exchange": "Z", "name": "Direxion NVDA Defined Income Boost ETF", "test_issue": "N", "ticker": "NVIB"}
 {"etf": "Y", "exchange": "Z", "name": "REX NVDA Growth & Income ETF", "test_issue": "N", "ticker": "NVII"}
 {"etf": "Y", "exchange": "P", "name": "Horizon Kinetics Energy and Remediation ETF", "test_issue": "N", "ticker": "NVIR"}
 {"etf": "Y", "exchange": "Z", "name": "YieldMax NVDA Performance & Distribution Target 25 ETF", "test_issue": "N", "ticker": "NVIT"}
@@ -5123,6 +5130,7 @@
 {"etf": "N", "exchange": "A", "name": "Platinum Group Metals Ltd. Ordinary Shares (Canada)", "test_issue": "N", "ticker": "PLG"}
 {"etf": "Y", "exchange": "Z", "name": "PL Growth and Income ETF", "test_issue": "N", "ticker": "PLGI"}
 {"etf": "N", "exchange": "N", "name": "Pelagos Insurance Capital Limited Common Shares", "test_issue": "N", "ticker": "PLGO"}
+{"etf": "Y", "exchange": "Z", "name": "Direxion PLTR Defined Income Boost ETF", "test_issue": "N", "ticker": "PLIB"}
 {"etf": "N", "exchange": "N", "name": "Planet Fitness, Inc. Common Stock", "test_issue": "N", "ticker": "PLNT"}
 {"etf": "N", "exchange": "N", "name": "Douglas Dynamics, Inc. Common Stock", "test_issue": "N", "ticker": "PLOW"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra PLTR", "test_issue": "N", "ticker": "PLTA"}
@@ -5514,6 +5522,7 @@
 {"etf": "N", "exchange": "N", "name": "Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share", "test_issue": "N", "ticker": "REXR$C"}
 {"etf": "Y", "exchange": "P", "name": "iShares Residential and Multisector Real Estate ETF", "test_issue": "N", "ticker": "REZ"}
 {"etf": "N", "exchange": "N", "name": "Resideo Technologies, Inc. Common Stock ", "test_issue": "N", "ticker": "REZI"}
+{"etf": "N", "exchange": "N", "name": "Resideo Technologies, Inc. Common Stock When-Issued", "test_issue": "N", "ticker": "REZI.V"}
 {"etf": "N", "exchange": "N", "name": "Regions Financial Corporation Common Stock", "test_issue": "N", "ticker": "RF"}
 {"etf": "N", "exchange": "N", "name": "Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed-to-Floating Rate Non-Cumulative  Perpetual Preferred Stock, Series C", "test_issue": "N", "ticker": "RF$C"}
 {"etf": "N", "exchange": "N", "name": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E", "test_issue": "N", "ticker": "RF$E"}
@@ -6616,6 +6625,7 @@
 {"etf": "Y", "exchange": "P", "name": "Truth Social American Energy Security ETF", "test_issue": "N", "ticker": "TSES"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long TSEM Daily ETF", "test_issue": "N", "ticker": "TSEU"}
 {"etf": "N", "exchange": "N", "name": "TCW Strategic Income Fund, Inc. Common Stock", "test_issue": "N", "ticker": "TSI"}
+{"etf": "Y", "exchange": "Z", "name": "Direxion TSLA Defined Income Boost ETF", "test_issue": "N", "ticker": "TSIB"}
 {"etf": "Y", "exchange": "P", "name": "Truth Social American Icons ETF", "test_issue": "N", "ticker": "TSIC"}
 {"etf": "Y", "exchange": "Z", "name": "REX TSLA Growth & Income ETF", "test_issue": "N", "ticker": "TSII"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra TSLA", "test_issue": "N", "ticker": "TSLI"}
@@ -6878,11 +6888,11 @@
 {"etf": "Y", "exchange": "Z", "name": "Cambria Value and Momentum ETF", "test_issue": "N", "ticker": "VAMO"}
 {"etf": "N", "exchange": "N", "name": "INNOVATE Corp. Common Stock", "test_issue": "N", "ticker": "VATE"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Materials ETF", "test_issue": "N", "ticker": "VAW"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Small-Cap ETF", "test_issue": "N", "ticker": "VB"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Small-Cap ETF", "test_issue": "N", "ticker": "VB"}
 {"etf": "N", "exchange": "N", "name": "Invesco Bond Fund Common Stock", "test_issue": "N", "ticker": "VBF"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Small-Cap Growth ETF", "test_issue": "N", "ticker": "VBK"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Small-Cap Growth ETF", "test_issue": "N", "ticker": "VBK"}
 {"etf": "Y", "exchange": "P", "name": "Vident U.S. Bond Strategy ETF", "test_issue": "N", "ticker": "VBND"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Small-Cap Value ETF", "test_issue": "N", "ticker": "VBR"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Small-Cap Value ETF", "test_issue": "N", "ticker": "VBR"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "test_issue": "N", "ticker": "VBX"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard ESG U.S. Corporate Bond ETF", "test_issue": "N", "ticker": "VCEB"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard U.S. High-Yield Corporate Bond Index ETF", "test_issue": "N", "ticker": "VCHY"}
@@ -6986,14 +6996,14 @@
 {"etf": "Y", "exchange": "P", "name": "Natixis Vaughan Nelson Select ETF", "test_issue": "N", "ticker": "VNSE"}
 {"etf": "N", "exchange": "N", "name": "Vontier Corporation Common Stock ", "test_issue": "N", "ticker": "VNT"}
 {"etf": "N", "exchange": "A", "name": "Vantage Corp Class A Ordinary Shares", "test_issue": "N", "ticker": "VNTG"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Mid-Cap ETF", "test_issue": "N", "ticker": "VO"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mid-Cap ETF", "test_issue": "N", "ticker": "VO"}
 {"etf": "N", "exchange": "N", "name": "VOC Energy Trust Units of Beneficial Interest", "test_issue": "N", "ticker": "VOC"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Mid-Cap Value ETF", "test_issue": "N", "ticker": "VOE"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mid-Cap Value ETF", "test_issue": "N", "ticker": "VOE"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 ETF", "test_issue": "N", "ticker": "VOO"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Growth ETF", "test_issue": "N", "ticker": "VOOG"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Value ETF", "test_issue": "N", "ticker": "VOOV"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "test_issue": "N", "ticker": "VOOX"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Mid-Cap Growth ETF", "test_issue": "N", "ticker": "VOT"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mid-Cap Growth ETF", "test_issue": "N", "ticker": "VOT"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Communication Services  ETF", "test_issue": "N", "ticker": "VOX"}
 {"etf": "Y", "exchange": "Z", "name": "Vox Populi ETF", "test_issue": "N", "ticker": "VOXP"}
 {"etf": "N", "exchange": "N", "name": "Voya Financial, Inc. Common Stock", "test_issue": "N", "ticker": "VOYA"}
@@ -7030,22 +7040,22 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard Wellington Fund Vanguard Short-Term Tax Exempt Bond ETF", "test_issue": "N", "ticker": "VTES"}
 {"etf": "N", "exchange": "N", "name": "VTEX Class A Common Shares", "test_issue": "N", "ticker": "VTEX"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Total Treasury ETF", "test_issue": "N", "ticker": "VTG"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Total Stock Market ETF", "test_issue": "N", "ticker": "VTI"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Total Stock Market ETF", "test_issue": "N", "ticker": "VTI"}
 {"etf": "N", "exchange": "N", "name": "Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares", "test_issue": "N", "ticker": "VTMX"}
 {"etf": "N", "exchange": "N", "name": "Invesco Trust for Investment Grade New York Municipals Common Stock", "test_issue": "N", "ticker": "VTN"}
 {"etf": "N", "exchange": "N", "name": "Bristow Group, Inc. Common Stock", "test_issue": "N", "ticker": "VTOL"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Total Inflation-Protected Securities ETF", "test_issue": "N", "ticker": "VTP"}
 {"etf": "N", "exchange": "N", "name": "Ventas, Inc. Common Stock", "test_issue": "N", "ticker": "VTR"}
 {"etf": "N", "exchange": "N", "name": "Vitesse Energy, Inc. Common Stock", "test_issue": "N", "ticker": "VTS"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Value ETF", "test_issue": "N", "ticker": "VTV"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Growth ETF", "test_issue": "N", "ticker": "VUG"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Value ETF", "test_issue": "N", "ticker": "VTV"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Growth ETF", "test_issue": "N", "ticker": "VUG"}
 {"etf": "Y", "exchange": "P", "name": "Virtus US Dividend ETF", "test_issue": "N", "ticker": "VUS"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard Ultra-Short Bond ETF", "test_issue": "N", "ticker": "VUSB"}
 {"etf": "Y", "exchange": "P", "name": "Vident U.S. Equity Strategy ETF", "test_issue": "N", "ticker": "VUSE"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard Wellington U.S. Growth Active ETF", "test_issue": "N", "ticker": "VUSG"}
 {"etf": "Y", "exchange": "P", "name": "Voya Ultra Short Income ETF", "test_issue": "N", "ticker": "VUSI"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard Wellington U.S. Value Active ETF", "test_issue": "N", "ticker": "VUSV"}
-{"etf": "Y", "exchange": "P", "name": "Vanguard Large-Cap ETF", "test_issue": "N", "ticker": "VV"}
+{"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Large-Cap ETF", "test_issue": "N", "ticker": "VV"}
 {"etf": "N", "exchange": "N", "name": "Invesco Senior Income Trust Common Stock (DE)", "test_issue": "N", "ticker": "VVR"}
 {"etf": "N", "exchange": "N", "name": "Valvoline Inc. Common Stock", "test_issue": "N", "ticker": "VVV"}
 {"etf": "N", "exchange": "N", "name": "V2X, Inc. Common Stock", "test_issue": "N", "ticker": "VVX"}
@@ -7176,6 +7186,7 @@
 {"etf": "N", "exchange": "N", "name": "Worthington Steel, Inc. Common Shares", "test_issue": "N", "ticker": "WS"}
 {"etf": "Y", "exchange": "P", "name": "Weitz Short Duration Bond ETF", "test_issue": "N", "ticker": "WSDB"}
 {"etf": "N", "exchange": "N", "name": "Williams-Sonoma, Inc. Common Stock (DE)", "test_issue": "N", "ticker": "WSM"}
+{"etf": "Y", "exchange": "P", "name": "Wasatch Small/Mid Cap ETF", "test_issue": "N", "ticker": "WSMD"}
 {"etf": "N", "exchange": "N", "name": "Watsco, Inc. Common Stock", "test_issue": "N", "ticker": "WSO"}
 {"etf": "N", "exchange": "N", "name": "Watsco, Inc. Class B Common Stock", "test_issue": "N", "ticker": "WSO.B"}
 {"etf": "N", "exchange": "N", "name": "West Pharmaceutical Services, Inc. Common Stock", "test_issue": "N", "ticker": "WST"}
