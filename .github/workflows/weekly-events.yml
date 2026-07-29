@@ -1,0 +1,38 @@
+name: weekly-events
+
+on:
+  schedule:
+    - cron: "43 8 * * 6"   # Saturdays: sweep the filer universe for red flags
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-events
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - name: Sweep 8-K items and delisting forms
+        run: stock-data events --data-dir data
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "events: $(date -u +%G-W%V)"
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase origin main || exit 1
+          done
+          exit 1

@@ -7,7 +7,7 @@ import datetime as dt
 import os
 import sys
 
-from . import corporate_actions, finra, symbols
+from . import corporate_actions, events, finra, symbols
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -29,6 +29,9 @@ def main(argv: list[str] | None = None) -> int:
     actions = sub.add_parser("corporate-actions", help="reconstruct dividends/splits from XBRL")
     actions.add_argument("--tickers", nargs="+", required=True)
 
+    ev = sub.add_parser("events", help="8-K red flags + delisting forms across the universe")
+    ev.add_argument("--limit", type=int, default=None, help="cap the CIK sweep (testing)")
+
     short_interest = sub.add_parser(
         "finra-short-interest", help="download FINRA short interest to the local vault"
     )
@@ -49,6 +52,10 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "corporate-actions":
         out = corporate_actions.run(args.data_dir, args.tickers)
         print(f"wrote {out}")
+        return 0
+    if args.command == "events":
+        stats = events.collect(args.data_dir, limit=args.limit)
+        print(f"events: {stats}")
         return 0
     if args.command == "finra-short-interest":
         paths = finra.fetch(args.vault_dir, args.since)
