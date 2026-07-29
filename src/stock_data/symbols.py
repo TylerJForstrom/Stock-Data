@@ -183,7 +183,9 @@ def snapshot(
     session = session or FairAccessSession()
     symbols_dir = os.path.join(data_dir, "symbols")
     current_dir = os.path.join(symbols_dir, "current")
+    events_dir = os.path.join(symbols_dir, "events")
     os.makedirs(current_dir, exist_ok=True)
+    os.makedirs(events_dir, exist_ok=True)
     today = dt.datetime.now(dt.UTC).strftime("%Y-%m-%d")
 
     event_counts: dict[str, int] = {}
@@ -212,12 +214,15 @@ def snapshot(
         all_events.extend(events)
         event_counts[source] = len(events)
 
+    events_path = os.path.join(events_dir, "events.jsonl")
+    existing = ""
+    if os.path.exists(events_path):
+        with open(events_path, encoding="utf-8") as handle:
+            existing = handle.read()
+        # Manifest hashes are over the published bytes, so normalize legacy
+        # Windows checkouts before hashing even when this run emits no events.
+        existing = "".join(line + "\n" for line in existing.splitlines())
     if all_events:
-        events_path = os.path.join(symbols_dir, "events.jsonl")
-        existing = ""
-        if os.path.exists(events_path):
-            with open(events_path, encoding="utf-8") as handle:
-                existing = handle.read()
         seen_lines = set(existing.splitlines())
         new_lines = [
             line
@@ -225,7 +230,16 @@ def snapshot(
             if line not in seen_lines
         ]
         if new_lines:
-            atomic_write_text(events_path, existing + "".join(line + "\n" for line in new_lines))
+            existing += "".join(line + "\n" for line in new_lines)
+    atomic_write_text(events_path, existing)
+
+    write_manifest(
+        events_dir,
+        source_urls=list(SOURCES.values()),
+        license_note=PUBLIC_DOMAIN_NOTE,
+        row_counts={"events.jsonl": sum(bool(line.strip()) for line in existing.splitlines())},
+        extra={"last_checked_date": today},
+    )
 
     # Only after events are durable do the baselines advance.
     for snapshot_path, content in staged:

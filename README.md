@@ -15,12 +15,16 @@ are reading.
 
 | Dataset | Source | Cadence | Location |
 |---|---|---|---|
-| Symbol directories + listing/delisting events | SEC `company_tickers*.json`, Nasdaq Trader symbol directories | daily (git-scraped) | `data/symbols/` |
+| Symbol directory snapshots | SEC `company_tickers*.json`, Nasdaq Trader symbol directories | daily (git-scraped) | `data/symbols/current/` |
+| Listing/delisting/change events | Daily symbol-directory diffs | daily (git-scraped) | `data/symbols/events/` |
 | Corporate actions (dividends per share, splits) | Reconstructed from SEC XBRL companyfacts | on demand / quarterly | `data/corporate_actions/` |
 | FINRA short interest | FINRA bi-monthly files | bi-monthly | `vault/` (local only, never committed) |
 
 The daily symbol-directory snapshot is the point-in-time universe archive: each
-day's diff is a free listing/delisting/ticker-change event stream. It only
+day's diff is a free listing/delisting/ticker-change event stream. Each event
+retains its documented top-level JSON object in
+`data/symbols/events/events.jsonl`, beside that dataset's own `manifest.json`.
+The archive only
 covers dates after the archiver started — which is why it runs first.
 
 ### Corporate-actions reconstruction (how and why it works)

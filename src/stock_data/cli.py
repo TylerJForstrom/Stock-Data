@@ -28,16 +28,30 @@ def main(argv: list[str] | None = None) -> int:
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
-    sub.add_parser("snapshot-symbols", parents=[shared], help="archive symbol directories and diff events")
+    sub.add_parser(
+        "snapshot-symbols",
+        parents=[shared],
+        help="archive symbol directories and diff events",
+    )
 
-    actions = sub.add_parser("corporate-actions", parents=[shared], help="reconstruct dividends/splits from XBRL")
+    actions = sub.add_parser(
+        "corporate-actions",
+        parents=[shared],
+        help="reconstruct dividends/splits from XBRL",
+    )
     actions.add_argument("--tickers", nargs="+", required=True)
 
-    ev = sub.add_parser("events", parents=[shared], help="8-K red flags + delisting forms across the universe")
+    ev = sub.add_parser(
+        "events",
+        parents=[shared],
+        help="8-K red flags + delisting forms across the universe",
+    )
     ev.add_argument("--limit", type=int, default=None, help="cap the CIK sweep (testing)")
 
     short_interest = sub.add_parser(
-        "finra-short-interest", parents=[shared], help="download FINRA short interest to the local vault"
+        "finra-short-interest",
+        parents=[shared],
+        help="download FINRA short interest to the local vault",
     )
     short_interest.add_argument(
         "--since", type=dt.date.fromisoformat, default=dt.date.today() - dt.timedelta(days=90)
