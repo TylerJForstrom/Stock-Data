@@ -39,7 +39,7 @@ any member repo reads this before cross-project work.
    ex-dates) are stated in manifests; nothing is presented as investment
    advice.
 
-## Current sequencing (2026-07-28)
+## Current sequencing (2026-07-30)
 
 1. Stock-Grader §0–§1 (stabilize + data integrity) — in progress (Codex).
 2. FoundryProvider adapter in Stock-Grader (consume symbols + corporate
@@ -50,6 +50,15 @@ any member repo reads this before cross-project work.
    known-answer tapes; trial ledger for multiple-testing control.
 5. Forward clocks: TickerPulse sentiment archive (URGENT — 30-day pruning is
    destroying data), paper-trade journal via the sim's risk-gated adapter.
+6. M5 wide-universe artifacts follow one publishable, fingerprinted path under
+   licensing option B. Stock-Vault's vendor-derived median-dollar-volume
+   screen, values, and ranks remain private and are not inputs to the public
+   artifact. The public path is: SEC bulk `EntityPublicFloat` rule -> immutable,
+   alphabetically sorted Stock-Grader universe file -> `frozen_scores_wide/`
+   panels -> backtest. The universe specification hash, universe identifier, and
+   universe fingerprint travel downstream so panels are comparable only within
+   the same universe. Repositories exchange these artifacts only; no project
+   imports another project's code.
 
 ## Decision log
 
@@ -58,3 +67,8 @@ any member repo reads this before cross-project work.
   repo/folder may be kept or deleted at the owner's convenience. Its two ideas
   worth harvesting into Stock-Data: exact-accession-byte archiving and
   bitemporal lineage tracking.
+- 2026-07-30: M5 licensing option B selected. Stock-Vault retains the private
+  median-dollar-volume screen and all restricted-data derivatives; the public
+  universe is generated solely from SEC bulk `EntityPublicFloat`, committed to
+  Stock-Grader as an immutable alphabetic membership artifact, and then flows
+  one way through fingerprinted `frozen_scores_wide/` panels to backtesting.
