@@ -28,3 +28,43 @@ def test_flagged_items_and_delisting_forms_extracted():
 
 def test_delisting_form_set_covers_deregistration_variants():
     assert {"25", "15", "15-12B"} <= DELISTING_FORMS
+
+
+def test_staleness_gate_reads_per_source_watermarks(tmp_path, capsys):
+    """A failing source must go STALE even while the manifest timestamp is fresh."""
+
+    from stock_data.cli import main
+    from stock_data.manifest import write_manifest
+
+    dataset = tmp_path / "symbols" / "current"
+    dataset.mkdir(parents=True)
+    (dataset / "x.jsonl").write_text("{}\n")
+    write_manifest(
+        str(dataset),
+        source_urls=[],
+        license_note="test",
+        extra={"last_success": {"nasdaqlisted": "2026-07-01", "sec_company_tickers": "2026-07-29"}},
+    )
+    code = main(["check-staleness", "--max-age-days", "2", str(dataset)])
+    err = capsys.readouterr().err
+    assert code == 1
+    assert "nasdaqlisted" in err and "last succeeded 2026-07-01" in err
+
+
+def test_staleness_gate_fresh_when_all_watermarks_current(tmp_path, capsys):
+    import datetime as dt
+
+    from stock_data.cli import main
+    from stock_data.manifest import write_manifest
+
+    today = dt.datetime.now(dt.UTC).strftime("%Y-%m-%d")
+    dataset = tmp_path / "symbols" / "current"
+    dataset.mkdir(parents=True)
+    (dataset / "x.jsonl").write_text("{}\n")
+    write_manifest(
+        str(dataset), source_urls=[], license_note="test",
+        extra={"last_success": {"nasdaqlisted": today}},
+    )
+    code = main(["check-staleness", "--max-age-days", "2", str(dataset)])
+    assert code == 0
+    assert "FRESH" in capsys.readouterr().out

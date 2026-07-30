@@ -152,9 +152,20 @@ def collect(data_dir: str, session: FairAccessSession | None = None,
         stats["ciks"] += 1
         if stats["ciks"] % 500 == 0:
             log(f"  events: {stats['ciks']} CIKs swept, {stats['new_events']} new events")
-            _write_events(events_path, all_events)
-            atomic_write_text(state_path, json.dumps({"week": week, "done": sorted(done)}))
+            _checkpoint(out_dir, events_path, state_path, all_events, week, done)
 
+    _checkpoint(out_dir, events_path, state_path, all_events, week, done)
+    return stats
+
+
+def _checkpoint(out_dir, events_path, state_path, all_events, week, done) -> None:
+    """Every checkpoint is self-consistent: file, progress, AND manifest.
+
+    The workflow commits with ``if: always()``; a mid-sweep timeout that
+    updated the events file but not its manifest would publish a dataset every
+    compliant consumer refuses (hash mismatch) for up to a week. A partial-
+    but-honestly-manifested sweep is fine; a desynced one is not.
+    """
     _write_events(events_path, all_events)
     atomic_write_text(state_path, json.dumps({"week": week, "done": sorted(done)}))
     write_manifest(
@@ -163,7 +174,6 @@ def collect(data_dir: str, session: FairAccessSession | None = None,
         license_note=PUBLIC_DOMAIN_NOTE,
         extra={"flagged_item_codes": FLAGGED_ITEMS, "delisting_forms": sorted(DELISTING_FORMS)},
     )
-    return stats
 
 
 def _write_events(path: str, events: list[dict]) -> None:

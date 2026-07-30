@@ -192,6 +192,19 @@ def snapshot(
     failures: list[str] = []
     all_events: list[dict[str, object]] = []
     staged: list[tuple[str, str]] = []  # (snapshot_path, new_content)
+    # Per-source success watermarks survive failed runs: the staleness gate
+    # reads these, so a single permanently broken source goes red instead of
+    # hiding behind the manifest's always-fresh write timestamp.
+    last_success: dict[str, str] = {}
+    previous_manifest_path = os.path.join(current_dir, "manifest.json")
+    if os.path.exists(previous_manifest_path):
+        try:
+            with open(previous_manifest_path, encoding="utf-8") as handle:
+                carried = json.load(handle).get("last_success")
+            if isinstance(carried, dict):
+                last_success = {str(k): str(v) for k, v in carried.items()}
+        except (json.JSONDecodeError, OSError):
+            pass
     for source, url in SOURCES.items():
         try:
             raw = session.get(url).text
@@ -213,6 +226,7 @@ def snapshot(
         staged.append((snapshot_path, _to_jsonl(records)))
         all_events.extend(events)
         event_counts[source] = len(events)
+        last_success[source] = today
 
     events_path = os.path.join(events_dir, "events.jsonl")
     existing = ""
@@ -223,11 +237,20 @@ def snapshot(
         # Windows checkouts before hashing even when this run emits no events.
         existing = "".join(line + "\n" for line in existing.splitlines())
     if all_events:
-        seen_lines = set(existing.splitlines())
+        # Date-agnostic dedupe: a crash retried on a later UTC day re-emits the
+        # same diffs with a different date field; comparing without the date
+        # drops those replays while genuine same-record re-listings (rare,
+        # months apart) still append because the baseline had reverted.
+        def _dateless(line: str) -> str:
+            record = json.loads(line)
+            record.pop("date", None)
+            return json.dumps(record, sort_keys=True)
+
+        seen_lines = {_dateless(line) for line in existing.splitlines() if line.strip()}
         new_lines = [
             line
             for line in (json.dumps(e, sort_keys=True) for e in all_events)
-            if line not in seen_lines
+            if _dateless(line) not in seen_lines
         ]
         if new_lines:
             existing += "".join(line + "\n" for line in new_lines)
@@ -250,7 +273,7 @@ def snapshot(
         source_urls=list(SOURCES.values()),
         license_note=PUBLIC_DOMAIN_NOTE,
         row_counts=None,
-        extra={"snapshot_date": today, "failures": failures},
+        extra={"snapshot_date": today, "failures": failures, "last_success": last_success},
     )
     # Heartbeat updates every run — scheduled workflows are disabled by GitHub
     # after 60 days without commits, so the workflow commits this even when

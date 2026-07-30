@@ -92,8 +92,36 @@ def main(argv: list[str] | None = None) -> int:
                 f"({age.total_seconds() / 86400:.2f} days old; "
                 f"maximum {args.max_age_days:g})"
             )
+            dataset_stale = False
             if age > threshold:
                 print(f"STALE {dataset_dir}: {detail}", file=sys.stderr)
+                dataset_stale = True
+            # A failing SOURCE hides behind the manifest's always-fresh write
+            # timestamp; per-source last_success watermarks do not.
+            watermarks = manifest.read_manifest(dataset_dir).get("last_success")
+            if isinstance(watermarks, dict):
+                for source_name, success_date in sorted(watermarks.items()):
+                    try:
+                        success_age = now - dt.datetime.fromisoformat(
+                            str(success_date)
+                        ).replace(tzinfo=dt.UTC)
+                    except ValueError:
+                        print(
+                            f"STALE {dataset_dir}: source {source_name} has "
+                            f"unparseable last_success {success_date!r}",
+                            file=sys.stderr,
+                        )
+                        dataset_stale = True
+                        continue
+                    if success_age > threshold + dt.timedelta(days=2):
+                        print(
+                            f"STALE {dataset_dir}: source {source_name} last "
+                            f"succeeded {success_date} "
+                            f"({success_age.total_seconds() / 86400:.1f} days ago)",
+                            file=sys.stderr,
+                        )
+                        dataset_stale = True
+            if dataset_stale:
                 stale = True
             else:
                 print(f"FRESH {dataset_dir}: {detail}")
