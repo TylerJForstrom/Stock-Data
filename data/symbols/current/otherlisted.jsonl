@@ -352,6 +352,7 @@
 {"etf": "Y", "exchange": "P", "name": "AltShares Merger Arbitrage ETF", "test_issue": "N", "ticker": "ARB"}
 {"etf": "Y", "exchange": "Z", "name": "Arrow Reserve Capital Management ETF", "test_issue": "N", "ticker": "ARCM"}
 {"etf": "N", "exchange": "N", "name": "Arcos Dorados Holdings Inc. Class A Shares", "test_issue": "N", "ticker": "ARCO"}
+{"etf": "Y", "exchange": "P", "name": "Aristotle Core Plus Income ETF", "test_issue": "N", "ticker": "ARCP"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long ACHR Daily ETF", "test_issue": "N", "ticker": "ARCX"}
 {"etf": "N", "exchange": "N", "name": "Ares Dynamic Credit Allocation Fund, Inc. Common Shares", "test_issue": "N", "ticker": "ARDC"}
 {"etf": "N", "exchange": "N", "name": "Ardent Health, Inc. Common Stock", "test_issue": "N", "ticker": "ARDT"}
@@ -381,6 +382,7 @@
 {"etf": "Y", "exchange": "P", "name": "Arm Holdings PLC ADRhedged", "test_issue": "N", "ticker": "ARMH"}
 {"etf": "N", "exchange": "N", "name": "Aramark Common Stock", "test_issue": "N", "ticker": "ARMK"}
 {"etf": "N", "exchange": "A", "name": "Armata Pharmaceuticals, Inc. Common Stock", "test_issue": "N", "ticker": "ARMP"}
+{"etf": "Y", "exchange": "P", "name": "Aristotle Multi-Sector Income ETF", "test_issue": "N", "ticker": "ARMS"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill ARM WeeklyPay ETF", "test_issue": "N", "ticker": "ARMW"}
 {"etf": "N", "exchange": "N", "name": "Archrock, Inc. Common Stock", "test_issue": "N", "ticker": "AROC"}
 {"etf": "Y", "exchange": "P", "name": "PMV Adaptive Risk Parity ETF", "test_issue": "N", "ticker": "ARP"}
@@ -2817,7 +2819,6 @@
 {"etf": "N", "exchange": "N", "name": "GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units", "test_issue": "N", "ticker": "GLOP$B"}
 {"etf": "N", "exchange": "N", "name": "GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units", "test_issue": "N", "ticker": "GLOP$C"}
 {"etf": "N", "exchange": "N", "name": "Global Partners LP Common Units representing Limited Partner Interests", "test_issue": "N", "ticker": "GLP"}
-{"etf": "N", "exchange": "N", "name": "Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests", "test_issue": "N", "ticker": "GLP$B"}
 {"etf": "N", "exchange": "A", "name": "Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "GLQ"}
 {"etf": "Y", "exchange": "P", "name": "Inspire Growth ETF", "test_issue": "N", "ticker": "GLRY"}
 {"etf": "Y", "exchange": "P", "name": "abrdn Physical Precious Metals Basket Shares ETF", "test_issue": "N", "ticker": "GLTR"}
@@ -3670,6 +3671,7 @@
 {"etf": "Y", "exchange": "P", "name": "JPMorgan Small & Mid Cap Enhanced Equity ETF", "test_issue": "N", "ticker": "JMEE"}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan High Yield Municipal ETF", "test_issue": "N", "ticker": "JMHI"}
 {"etf": "N", "exchange": "N", "name": "Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares", "test_issue": "N", "ticker": "JMIA"}
+{"etf": "N", "exchange": "N", "name": "Jersey Mike's Subs Inc. Class A Common Stock", "test_issue": "N", "ticker": "JMKE"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Multi-Market Income Fund (MA)", "test_issue": "N", "ticker": "JMM"}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan 100% U.S. Treasury Securities Money Market ETF", "test_issue": "N", "ticker": "JMMF"}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan U.S. Momentum Factor ETF", "test_issue": "N", "ticker": "JMOM"}
@@ -5500,6 +5502,7 @@
 {"etf": "Y", "exchange": "P", "name": "Columbia Research Enhanced Core ETF", "test_issue": "N", "ticker": "RECS"}
 {"etf": "N", "exchange": "A", "name": "Reed's, Inc. Common Stock", "test_issue": "N", "ticker": "REED"}
 {"etf": "Y", "exchange": "P", "name": "iShares Global REIT ETF", "test_issue": "N", "ticker": "REET"}
+{"etf": "N", "exchange": "N", "name": "Reformation Inc. Common Stock", "test_issue": "N", "ticker": "REF"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Research Enhanced International Equity ETF", "test_issue": "N", "ticker": "REFA"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares S&P MidCap 400 Dividend Aristocrats ETF", "test_issue": "N", "ticker": "REGL"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Large Cap Growth ETF", "test_issue": "N", "ticker": "REGS"}
@@ -5853,6 +5856,7 @@
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Utilities", "test_issue": "N", "ticker": "SDP"}
 {"etf": "N", "exchange": "N", "name": "Seadrill Limited Common Shares", "test_issue": "N", "ticker": "SDRL"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort S&P500", "test_issue": "N", "ticker": "SDS"}
+{"etf": "Y", "exchange": "P", "name": "Aristotle Short Term Income ETF", "test_issue": "N", "ticker": "SDUR"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest SMID Rising Dividend Achievers Target Income ETF", "test_issue": "N", "ticker": "SDVD"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Dividend ETF", "test_issue": "N", "ticker": "SDY"}
 {"etf": "N", "exchange": "N", "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share", "test_issue": "N", "ticker": "SE"}
