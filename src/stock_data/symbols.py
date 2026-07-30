@@ -20,7 +20,7 @@ import json
 import os
 
 from .http import FairAccessSession, atomic_write_text
-from .manifest import PUBLIC_DOMAIN_NOTE, write_manifest
+from .manifest import PUBLIC_DOMAIN_NOTE, publish_staged_dataset, write_manifest
 
 SOURCES: dict[str, str] = {
     "sec_company_tickers": "https://www.sec.gov/files/company_tickers.json",
@@ -191,7 +191,7 @@ def snapshot(
     event_counts: dict[str, int] = {}
     failures: list[str] = []
     all_events: list[dict[str, object]] = []
-    staged: list[tuple[str, str]] = []  # (snapshot_path, new_content)
+    staged: dict[str, str] = {}  # snapshot basename -> new content
     # Per-source success watermarks survive failed runs: the staleness gate
     # reads these, so a single permanently broken source goes red instead of
     # hiding behind the manifest's always-fresh write timestamp.
@@ -223,7 +223,7 @@ def snapshot(
         except Exception as exc:  # noqa: BLE001 - keep other sources alive
             failures.append(f"{source}: {exc}")
             continue
-        staged.append((snapshot_path, _to_jsonl(records)))
+        staged[f"{source}.jsonl"] = _to_jsonl(records)
         all_events.extend(events)
         event_counts[source] = len(events)
         last_success[source] = today
@@ -237,21 +237,40 @@ def snapshot(
         # Windows checkouts before hashing even when this run emits no events.
         existing = "".join(line + "\n" for line in existing.splitlines())
     if all_events:
-        # Date-agnostic dedupe: a crash retried on a later UTC day re-emits the
-        # same diffs with a different date field; comparing without the date
-        # drops those replays while genuine same-record re-listings (rare,
-        # months apart) still append because the baseline had reverted.
-        def _dateless(line: str) -> str:
-            record = json.loads(line)
-            record.pop("date", None)
-            return json.dumps(record, sort_keys=True)
+        # Date-agnostic dedupe, but only against each entity's LATEST event: a
+        # crash retried on a later UTC day re-emits the same diffs with a
+        # different date field, and comparing without the date drops those
+        # replays. Matching against ALL history would also swallow genuine
+        # repeats — a relisting identical to an old "added", a second
+        # delisting, a field oscillating back — so an intervening opposite
+        # event makes an identical repeat real again.
+        def _identity(line: str) -> tuple[str, tuple]:
+            """(dateless canonical line, entity key) for one event line."""
+            event = json.loads(line)
+            event.pop("date", None)
+            record = event.get("record") or {}
+            # A retired source's lines outlive its _KEYS entry (the file is
+            # append-only); fall back to whole-record identity for those.
+            key_fields = _KEYS.get(event["source"])
+            if key_fields is None:
+                entity = (event["source"], tuple(sorted(record.items())))
+            else:
+                entity = (event["source"], tuple(record.get(f) for f in key_fields))
+            return json.dumps(event, sort_keys=True), entity
 
-        seen_lines = {_dateless(line) for line in existing.splitlines() if line.strip()}
-        new_lines = [
-            line
-            for line in (json.dumps(e, sort_keys=True) for e in all_events)
-            if _dateless(line) not in seen_lines
-        ]
+        # The events file is append-only, so file order is chronological.
+        latest: dict[tuple, str] = {}
+        for line in existing.splitlines():
+            if line.strip():
+                dateless, entity = _identity(line)
+                latest[entity] = dateless
+        new_lines = []
+        for line in (json.dumps(e, sort_keys=True) for e in all_events):
+            dateless, entity = _identity(line)
+            if latest.get(entity) == dateless:
+                continue  # exact replay of this entity's newest event
+            latest[entity] = dateless
+            new_lines.append(line)
         if new_lines:
             existing += "".join(line + "\n" for line in new_lines)
     atomic_write_text(events_path, existing)
@@ -264,12 +283,13 @@ def snapshot(
         extra={"last_checked_date": today},
     )
 
-    # Only after events are durable do the baselines advance.
-    for snapshot_path, content in staged:
-        atomic_write_text(snapshot_path, content)
-
-    write_manifest(
+    # Only after events are durable do the baselines advance. Baselines and
+    # their manifest are staged together and renamed in succession, manifest
+    # last (see publish_staged_dataset), so a kill mid-publish cannot leave
+    # snapshots whose manifest sha256s no longer match.
+    publish_staged_dataset(
         current_dir,
+        {name: content.encode("utf-8") for name, content in staged.items()},
         source_urls=list(SOURCES.values()),
         license_note=PUBLIC_DOMAIN_NOTE,
         row_counts=None,

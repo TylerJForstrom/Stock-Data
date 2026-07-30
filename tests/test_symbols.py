@@ -2,6 +2,9 @@
 
 import hashlib
 import json
+import os
+
+import pytest
 
 from stock_data import symbols
 from stock_data.manifest import read_manifest
@@ -128,3 +131,103 @@ def test_snapshot_publishes_listing_events_as_own_manifest_dataset(tmp_path, mon
     normalized_entry = normalized_manifest["files"][0]
     assert normalized_entry["bytes"] == len(events_path.read_bytes())
     assert normalized_entry["sha256"] == hashlib.sha256(events_path.read_bytes()).hexdigest()
+
+
+MSFT_ROW = "MSFT|Microsoft Corporation|Q|N|N|100|N|N"
+
+
+def _nasdaq_raw(extra_rows=()):
+    insertion = "".join(f"{row}\n" for row in extra_rows)
+    return NASDAQ_RAW.replace("File Creation Time", insertion + "File Creation Time")
+
+
+def _event_rows(tmp_path):
+    text = (tmp_path / "symbols" / "events" / "events.jsonl").read_text()
+    return [json.loads(line) for line in text.splitlines()]
+
+
+def test_dedupe_keeps_genuine_relisting_and_second_delisting(tmp_path, monkeypatch):
+    """An added/removed cycle repeating must emit every leg, byte-identical or not."""
+    monkeypatch.setattr(symbols, "SOURCES", {"nasdaqlisted": "https://example.test/symbols"})
+
+    with_msft = _nasdaq_raw([MSFT_ROW])
+    # baseline, list, delist, relist, second delisting
+    for raw in (NASDAQ_RAW, with_msft, NASDAQ_RAW, with_msft, NASDAQ_RAW):
+        symbols.snapshot(str(tmp_path), session=_Session(raw))
+
+    rows = _event_rows(tmp_path)
+    assert [r["event"] for r in rows] == ["added", "removed", "added", "removed"]
+    assert all(r["record"]["ticker"] == "MSFT" for r in rows)
+
+
+def test_dedupe_keeps_field_oscillating_back(tmp_path, monkeypatch):
+    """A changed event identical to an OLDER changed is genuine when the field
+    moved away and back in between."""
+    monkeypatch.setattr(symbols, "SOURCES", {"nasdaqlisted": "https://example.test/symbols"})
+
+    renamed = NASDAQ_RAW.replace("Apple Inc. - Common Stock", "Apple Computer")
+    for raw in (NASDAQ_RAW, renamed, NASDAQ_RAW, renamed):
+        symbols.snapshot(str(tmp_path), session=_Session(raw))
+
+    rows = _event_rows(tmp_path)
+    assert [r["event"] for r in rows] == ["changed", "changed", "changed"]
+    assert [r["record"]["name"] for r in rows] == [
+        "Apple Computer",
+        "Apple Inc. - Common Stock",
+        "Apple Computer",
+    ]
+
+
+def test_dedupe_still_drops_crash_replay_of_latest_event(tmp_path, monkeypatch):
+    """The original purpose survives: a crash that appended events but never
+    advanced the baseline re-emits the same diff (on a later date) and it must
+    stay suppressed."""
+    monkeypatch.setattr(symbols, "SOURCES", {"nasdaqlisted": "https://example.test/symbols"})
+
+    symbols.snapshot(str(tmp_path), session=_Session(NASDAQ_RAW))
+    baseline_path = tmp_path / "symbols" / "current" / "nasdaqlisted.jsonl"
+    baseline = baseline_path.read_text()
+    symbols.snapshot(str(tmp_path), session=_Session(_nasdaq_raw([MSFT_ROW])))
+
+    events_path = tmp_path / "symbols" / "events" / "events.jsonl"
+    (row,) = _event_rows(tmp_path)
+    assert row["event"] == "added"
+    # Pretend the append happened on an earlier UTC day, then replay the run
+    # with the baseline reverted (events durable, baseline never advanced).
+    row["date"] = "2000-01-01"
+    events_path.write_text(json.dumps(row, sort_keys=True) + "\n")
+    replayed = events_path.read_text()
+    baseline_path.write_text(baseline)
+    symbols.snapshot(str(tmp_path), session=_Session(_nasdaq_raw([MSFT_ROW])))
+
+    assert events_path.read_text() == replayed
+
+
+def test_snapshot_baseline_publish_is_staged_with_manifest(tmp_path, monkeypatch):
+    """A kill while hashing the current/ baselines must not advance them ahead
+    of their manifest (previously the baselines were replaced first, leaving a
+    stale manifest whose hash mismatch consumers hard-refuse)."""
+    monkeypatch.setattr(symbols, "SOURCES", {"nasdaqlisted": "https://example.test/symbols"})
+
+    symbols.snapshot(str(tmp_path), session=_Session(NASDAQ_RAW))
+    current_dir = tmp_path / "symbols" / "current"
+    baseline_path = current_dir / "nasdaqlisted.jsonl"
+    baseline = baseline_path.read_bytes()
+
+    from stock_data import manifest
+
+    real_sha256 = manifest._sha256
+
+    def _boom(path):
+        if os.path.basename(path) == "nasdaqlisted.jsonl":
+            raise RuntimeError("simulated kill while hashing the baselines")
+        return real_sha256(path)
+
+    monkeypatch.setattr(manifest, "_sha256", _boom)
+    with pytest.raises(RuntimeError):
+        symbols.snapshot(str(tmp_path), session=_Session(_nasdaq_raw([MSFT_ROW])))
+
+    assert baseline_path.read_bytes() == baseline
+    entry = read_manifest(str(current_dir))["files"][0]
+    assert entry["name"] == "nasdaqlisted.jsonl"
+    assert entry["sha256"] == hashlib.sha256(baseline).hexdigest()

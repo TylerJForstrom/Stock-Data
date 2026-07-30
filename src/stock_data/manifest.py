@@ -70,6 +70,61 @@ def write_manifest(
     return manifest
 
 
+def publish_staged_dataset(
+    dataset_dir: str,
+    staged: dict[str, bytes],
+    *,
+    source_urls: list[str],
+    license_note: str,
+    row_counts: dict[str, int] | None = None,
+    extra: dict[str, object] | None = None,
+) -> dict[str, object]:
+    """Publish new file contents (basename -> bytes) plus a matching manifest.
+
+    Writing data files and only then computing manifest.json leaves a window —
+    file writes plus hashing — where a kill publishes data whose manifest
+    sha256s do not match, and consumers hard-refuse the dataset until the next
+    successful write. So EVERYTHING is staged first: the new contents, copies
+    of existing data files this publish does not rewrite (the manifest must
+    still cover them), and the manifest computed from those exact staged
+    bytes. Only then do renames go back-to-back, manifest LAST so it never
+    advertises a file that is not already published. A kill during writing or
+    hashing changes nothing; a kill between the final renames desyncs only
+    until the next publish rewrites every output and self-heals.
+    """
+    stage_dir = os.path.join(dataset_dir, ".staging")
+    os.makedirs(stage_dir, exist_ok=True)
+    for name in os.listdir(stage_dir):  # leftovers from a killed publish
+        os.remove(os.path.join(stage_dir, name))
+    for name in os.listdir(dataset_dir):
+        path = os.path.join(dataset_dir, name)
+        if name == "manifest.json" or name in staged or not os.path.isfile(path):
+            continue
+        if name.startswith("."):
+            continue  # hidden files are never manifested (see write_manifest)
+        with open(path, "rb") as src, open(os.path.join(stage_dir, name), "wb") as dst:
+            dst.write(src.read())
+    for name, payload in staged.items():
+        with open(os.path.join(stage_dir, name), "wb") as handle:
+            handle.write(payload)
+    manifest = write_manifest(
+        stage_dir,
+        source_urls=source_urls,
+        license_note=license_note,
+        row_counts=row_counts,
+        extra=extra,
+    )
+    # Carried-over copies are byte-identical to what is already published, so
+    # only the caller's new files move: fewer renames, smaller window.
+    for name in staged:
+        os.replace(os.path.join(stage_dir, name), os.path.join(dataset_dir, name))
+    os.replace(os.path.join(stage_dir, "manifest.json"), os.path.join(dataset_dir, "manifest.json"))
+    for name in os.listdir(stage_dir):  # don't leave copies for workflows to commit
+        os.remove(os.path.join(stage_dir, name))
+    os.rmdir(stage_dir)
+    return manifest
+
+
 def read_manifest(dataset_dir: str) -> dict[str, object]:
     with open(os.path.join(dataset_dir, "manifest.json"), encoding="utf-8") as handle:
         manifest = json.load(handle)

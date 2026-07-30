@@ -100,6 +100,17 @@ def main(argv: list[str] | None = None) -> int:
             # timestamp; per-source last_success watermarks do not.
             watermarks = manifest.read_manifest(dataset_dir).get("last_success")
             if isinstance(watermarks, dict):
+                # Watermarks only exist for sources that succeeded at least
+                # once — a collector broken from day one never writes one and
+                # would stay green forever. last_success is published by the
+                # symbols snapshotter, so its SOURCES map is the expected set.
+                for source_name in sorted(set(symbols.SOURCES) - set(watermarks)):
+                    print(
+                        f"STALE {dataset_dir}: source {source_name} never "
+                        f"succeeded (no last_success watermark)",
+                        file=sys.stderr,
+                    )
+                    dataset_stale = True
                 for source_name, success_date in sorted(watermarks.items()):
                     try:
                         success_age = now - dt.datetime.fromisoformat(

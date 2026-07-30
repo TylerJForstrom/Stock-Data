@@ -20,11 +20,12 @@ from __future__ import annotations
 
 import datetime as dt
 import gzip
+import io
 import json
 import os
 
-from .http import FairAccessSession, atomic_write_text
-from .manifest import PUBLIC_DOMAIN_NOTE, write_manifest
+from .http import FairAccessSession
+from .manifest import PUBLIC_DOMAIN_NOTE, publish_staged_dataset
 
 SUBMISSIONS_URL = "https://data.sec.gov/submissions/CIK{cik:010d}.json"
 
@@ -164,22 +165,32 @@ def _checkpoint(out_dir, events_path, state_path, all_events, week, done) -> Non
     The workflow commits with ``if: always()``; a mid-sweep timeout that
     updated the events file but not its manifest would publish a dataset every
     compliant consumer refuses (hash mismatch) for up to a week. A partial-
-    but-honestly-manifested sweep is fine; a desynced one is not.
+    but-honestly-manifested sweep is fine; a desynced one is not — so all
+    three outputs are staged first and renamed into place back-to-back with
+    the manifest last (see publish_staged_dataset): the manifest is computed
+    from the staged bytes BEFORE anything is published, a kill while writing
+    or hashing changes nothing, and a kill between the final renames is
+    healed by the next checkpoint rewriting all three.
     """
-    _write_events(events_path, all_events)
-    atomic_write_text(state_path, json.dumps({"week": week, "done": sorted(done)}))
-    write_manifest(
+    publish_staged_dataset(
         out_dir,
+        {
+            os.path.basename(events_path): _events_payload(all_events),
+            os.path.basename(state_path): json.dumps(
+                {"week": week, "done": sorted(done)}
+            ).encode("utf-8"),
+        },
         source_urls=[SUBMISSIONS_URL.format(cik=0)],
         license_note=PUBLIC_DOMAIN_NOTE,
         extra={"flagged_item_codes": FLAGGED_ITEMS, "delisting_forms": sorted(DELISTING_FORMS)},
     )
 
 
-def _write_events(path: str, events: list[dict]) -> None:
+def _events_payload(events: list[dict]) -> bytes:
+    """Deterministic gzip bytes (mtime=0, no embedded name) for stable hashes."""
     events = sorted(events, key=lambda e: (e.get("filing_date") or "", e["cik"]))
     payload = "".join(json.dumps(e, sort_keys=True) + "\n" for e in events)
-    tmp = path + ".tmp"
-    with gzip.GzipFile(tmp, "wb", mtime=0) as handle:
+    buffer = io.BytesIO()
+    with gzip.GzipFile(fileobj=buffer, mode="wb", mtime=0) as handle:
         handle.write(payload.encode("utf-8"))
-    os.replace(tmp, path)
+    return buffer.getvalue()

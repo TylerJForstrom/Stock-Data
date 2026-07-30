@@ -2,6 +2,10 @@
 # NEVER be committed to this public repository.
 vault/
 
+# Staged-but-unpublished dataset files (a kill mid-publish leaves these;
+# workflows commit with `git add -A data`, which must not pick them up).
+data/**/.staging/
+
 __pycache__/
 *.pyc
 .pytest_cache/
