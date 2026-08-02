@@ -7,7 +7,7 @@ import datetime as dt
 import os
 import sys
 
-from . import corporate_actions, events, manifest, symbols
+from . import corporate_actions, events, manifest, symbols, tickerpulse
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -43,6 +43,17 @@ def main(argv: list[str] | None = None) -> int:
     )
     ev.add_argument("--limit", type=int, default=None, help="cap the CIK sweep (testing)")
 
+    pulse = sub.add_parser(
+        "sentiment-snapshot",
+        parents=[shared],
+        help="mirror TickerPulse's derived per-ticker metrics into the foundry",
+    )
+    pulse.add_argument(
+        "--archive-dir",
+        required=True,
+        help="path to a TickerPulse checkout's archive/ directory",
+    )
+
     freshness = sub.add_parser(
         "check-staleness",
         help="fail when one or more dataset manifests are older than the allowed age",
@@ -56,6 +67,11 @@ def main(argv: list[str] | None = None) -> int:
     freshness.add_argument("dataset_dirs", nargs="+", metavar="DATASET_DIR")
 
     args = parser.parse_args(argv)
+    if args.command == "sentiment-snapshot":
+        written = tickerpulse.snapshot(args.data_dir, args.archive_dir)
+        for dataset, rows in sorted(written.items()):
+            print(f"sentiment/{dataset}: {rows} rows")
+        return 0
     if args.command == "snapshot-symbols":
         counts, failures = symbols.snapshot(args.data_dir)
         for source, count in sorted(counts.items()):

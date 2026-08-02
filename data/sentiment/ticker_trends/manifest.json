@@ -1,0 +1,64 @@
+{
+  "derivation": "aggregate counts and scores over public social posts",
+  "excluded_fields_note": "post text, author identity and post identifiers are excluded by an allowlist and must never be added",
+  "files": [
+    {
+      "bytes": 143999,
+      "name": "2026-07-28.jsonl",
+      "rows": 401,
+      "sha256": "22482e9de77d75484b8ac3b2185f524c350f6eec1eaba5746dbc53a1d130d0c1"
+    },
+    {
+      "bytes": 158593,
+      "name": "2026-07-29.jsonl",
+      "rows": 443,
+      "sha256": "d5f7a89d6238222fd2db6130f3f03f8eb5b94834c8be0ee5e1f5b7e5219e1380"
+    },
+    {
+      "bytes": 128753,
+      "name": "2026-07-30.jsonl",
+      "rows": 357,
+      "sha256": "c5272bde4490bf7220dff484a60b9fae27855b4d32dee3dfa833c8c3e74854ca"
+    },
+    {
+      "bytes": 130747,
+      "name": "2026-07-31.jsonl",
+      "rows": 363,
+      "sha256": "961764e64f43fdc0c0bf5f71c7595fd1fa4cae8d060e9c51269bb857a4629998"
+    },
+    {
+      "bytes": 131895,
+      "name": "2026-08-01.jsonl",
+      "rows": 368,
+      "sha256": "79a1d863bc6f8cdde09073c374ded66f33cbd2bc0f0524f393c363c1be9c0b66"
+    }
+  ],
+  "first_day": "2026-07-28",
+  "generated_at_utc": "2026-08-02T00:52:05Z",
+  "last_day": "2026-08-01",
+  "license_note": "Derived aggregate metrics computed by TickerPulse over public social posts (Reddit, StockTwits, Bluesky, Hacker News, finance RSS). Counts and scores only: no post text, author identity, or post identifier is included or redistributable. Not US-government public-domain data.",
+  "producer": "TickerPulse",
+  "published_fields": [
+    "ticker",
+    "mentions",
+    "mentions_prev",
+    "engagement",
+    "bull",
+    "bear",
+    "neutral",
+    "bull_bear_ratio",
+    "sentiment_avg",
+    "engagement_weighted_score",
+    "breakout_score",
+    "velocity",
+    "share_of_voice",
+    "phase",
+    "window_hours",
+    "platforms",
+    "updated_at"
+  ],
+  "schema_version": "1.0",
+  "source_urls": [
+    "https://github.com/TylerJForstrom/TickerPulse"
+  ]
+}
