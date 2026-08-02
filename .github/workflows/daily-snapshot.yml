@@ -20,6 +20,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check out TickerPulse for its derived metrics
+        # Public repo, so the default token reaches it. Only the archive/ tree is
+        # read, and only reviewed aggregate fields cross into this repository —
+        # see src/stock_data/tickerpulse.py.
+        uses: actions/checkout@v4
+        with:
+          repository: TylerJForstrom/TickerPulse
+          path: tickerpulse
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,9 +42,20 @@ jobs:
           if [ -f data/events/manifest.json ]; then
             stock-data check-staleness --max-age-days 8 data/events
           fi
+          # Sentiment is a forward-only clock (ECOSYSTEM.md Rule 4): a day not
+          # captured is gone. Bootstrap-guarded so the first run is not red.
+          if [ -f data/sentiment/ticker_buckets/manifest.json ]; then
+            stock-data check-staleness --max-age-days 3 data/sentiment/ticker_buckets
+          fi
       - name: Snapshot symbol directories
         if: always()
         run: stock-data snapshot-symbols --data-dir data
+      - name: Mirror TickerPulse derived metrics
+        # TickerPulse metrics enter the grader through the foundry, never
+        # directly (ECOSYSTEM.md Rule 2). Independent of the symbol snapshot, so
+        # neither failing costs the other its day.
+        if: always()
+        run: stock-data sentiment-snapshot --data-dir data --archive-dir tickerpulse/archive
       - name: Commit results (heartbeat always)
         # Runs even when the snapshot step failed: the heartbeat file records
         # the failure and committing it resets GitHub's 60-day scheduled-workflow

@@ -10,9 +10,17 @@ any member repo reads this before cross-project work.
 |---|---|---|
 | **Stock-Data** | Data foundry: the ONLY project that fetches external sources. Archives point-in-time snapshots, reconstructs corporate actions, publishes versioned datasets. | Sources → publishes artifacts |
 | **Stock-Grader** | System of record for grading methodology. Consumes foundry artifacts, produces score panels and research dossiers. Home of the backtest evaluator and its attestations. | Foundry artifacts → publishes reports/panels |
+| **Stock-Vault** | Private twin of the foundry: collectors for sources whose terms forbid redistribution (Massive/Polygon EOD, IBKR borrow, Finnhub recs, SSGA, FINRA, delisted cohorts), plus the Alpaca **paper** trader and its append-only journal. **Must never be made public.** | Restricted sources → private archives; reads Grader panels as artifacts |
 | **TickerPulse** | Sentiment/attention signal source. Its derived per-ticker daily metrics are archived by the foundry (raw social content is not). | Sources → foundry archives its metrics |
 | **Stock Market Simulation** | Forward/execution layer (paper trading behind risk gates) AND test oracle: generates tapes with known injected signal/null to calibrate the backtest harness's power and false-positive rate. It does not validate alpha. | Consumes panels; feeds test tapes to backtest |
-| **Stock-Rater** | Decision pending: archive, or revive as presentation layer rendering Stock-Grader output. Not a second grading engine. | — |
+| ~~**Stock-Rater**~~ | **ARCHIVED** by owner decision 2026-07-28; the repository no longer exists. Do not revive it as a second grading engine. If a presentation layer is ever wanted, that is a new decision. | — |
+
+**Membership note (2026-08-01).** `Portfolio-Insight-Copilot` is a public repository on the same
+account that consumes a Stock Market Simulation sample run. It is **not** an ecosystem member: it
+imports no member's artifacts through a manifest, publishes none, and carries no clock. It is listed
+here only so the next reader does not have to re-derive that. If it is ever wired to Stock-Grader
+output it becomes a presentation layer and needs a row above, a manifest contract, and a licensing
+review — a Finnhub-derived panel may not reach it.
 
 ## Rules
 

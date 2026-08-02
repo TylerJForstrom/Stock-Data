@@ -1,0 +1,93 @@
+{
+  "derivation": "aggregate counts and scores over public social posts",
+  "excluded_fields_note": "post text, author identity and post identifiers are excluded by an allowlist and must never be added",
+  "files": [
+    {
+      "bytes": 31186,
+      "name": "2026-07-21.jsonl",
+      "rows": 156,
+      "sha256": "d8598e7c68e39311b3f2e4babcc679881c3c692d99196dd21425fb50e819d20b"
+    },
+    {
+      "bytes": 115683,
+      "name": "2026-07-22.jsonl",
+      "rows": 581,
+      "sha256": "d4e1a2fb19e053d6f77dbfd8432a82d75a63c5692d80b1ea495863526044ec14"
+    },
+    {
+      "bytes": 130015,
+      "name": "2026-07-23.jsonl",
+      "rows": 651,
+      "sha256": "5b4158ce0c2ecfc14a404c2fb1858617aa8b22c59f3feec1d263b1ed2d42ba52"
+    },
+    {
+      "bytes": 128963,
+      "name": "2026-07-24.jsonl",
+      "rows": 649,
+      "sha256": "675b985e51d5a8b47ec61a1a7b5c0b4e547f55fc4d30dab7f33b12733518ca5f"
+    },
+    {
+      "bytes": 102245,
+      "name": "2026-07-25.jsonl",
+      "rows": 521,
+      "sha256": "30042e4a9b66c7b257669a565f5a6e624230f0b0ea6d35e224cc1913860ce102"
+    },
+    {
+      "bytes": 98048,
+      "name": "2026-07-26.jsonl",
+      "rows": 499,
+      "sha256": "28834112ccd3409b58ec1bf0188c95bc4c7de4e1bd94f6b275e5ef147f0c6092"
+    },
+    {
+      "bytes": 128306,
+      "name": "2026-07-27.jsonl",
+      "rows": 647,
+      "sha256": "491a748e978f0384705243f5e7a9d5b3b9a7bf78d1f340bf8fe49b140118d239"
+    },
+    {
+      "bytes": 177639,
+      "name": "2026-07-28.jsonl",
+      "rows": 900,
+      "sha256": "80771eb6ae7e17be56153d7739048eb743197af8e6cc03a52da5c7a4b8f8ed43"
+    },
+    {
+      "bytes": 193223,
+      "name": "2026-07-29.jsonl",
+      "rows": 981,
+      "sha256": "f7e1e8ba48f64f218f8d1bd39c58a47f5cf65b09dea8faa877707e8e6666f127"
+    },
+    {
+      "bytes": 182315,
+      "name": "2026-07-30.jsonl",
+      "rows": 925,
+      "sha256": "a1537e728d228006077ffe9778fa4695470b445ade0e8dc4f7daa493ac137c12"
+    },
+    {
+      "bytes": 174113,
+      "name": "2026-07-31.jsonl",
+      "rows": 882,
+      "sha256": "0929543390cc2a04ce3b9fdbdd5120d0bb3f107945a8d9305f5352f58d306712"
+    }
+  ],
+  "first_day": "2026-07-21",
+  "generated_at_utc": "2026-08-02T00:52:05Z",
+  "last_day": "2026-07-31",
+  "license_note": "Derived aggregate metrics computed by TickerPulse over public social posts (Reddit, StockTwits, Bluesky, Hacker News, finance RSS). Counts and scores only: no post text, author identity, or post identifier is included or redistributable. Not US-government public-domain data.",
+  "producer": "TickerPulse",
+  "published_fields": [
+    "ticker",
+    "bucket_start",
+    "bucket_minutes",
+    "mentions",
+    "engagement",
+    "bull",
+    "bear",
+    "neutral",
+    "sentiment_avg",
+    "platforms"
+  ],
+  "schema_version": "1.0",
+  "source_urls": [
+    "https://github.com/TylerJForstrom/TickerPulse"
+  ]
+}
