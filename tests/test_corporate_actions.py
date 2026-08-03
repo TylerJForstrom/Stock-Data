@@ -378,3 +378,59 @@ def test_classify_span():
     assert classify_span(dt.date(2023, 1, 1), dt.date(2023, 12, 31)) == "annual"
     assert classify_span(dt.date(2023, 1, 1), dt.date(2023, 1, 29)) == "monthly"
     assert classify_span(None, dt.date(2023, 1, 29)) == "instant"
+
+
+def test_listed_tickers_reads_the_foundrys_own_symbol_directory(tmp_path):
+    """Universe-wide coverage comes from the foundry's own artifact — choosing it
+    from a downstream consumer would invert the one-direction DAG."""
+    import json
+
+    from stock_data.corporate_actions import listed_tickers
+
+    directory = tmp_path / "symbols" / "current"
+    directory.mkdir(parents=True)
+    rows = [
+        {"ticker": "AAPL", "exchange": "Nasdaq", "cik": 320193},
+        {"ticker": "XOM", "exchange": "NYSE", "cik": 2115436},
+        {"ticker": "PINKCO", "exchange": None, "cik": 1},          # unlisted: excluded
+        {"ticker": "AAPL", "exchange": "Nasdaq", "cik": 320193},  # duplicate: once
+    ]
+    (directory / "sec_company_tickers_exchange.jsonl").write_text(
+        "\n".join(json.dumps(r) for r in rows) + "\n"
+    )
+    assert listed_tickers(str(tmp_path)) == ["AAPL", "XOM"]
+
+
+def test_a_few_failed_fetches_are_recorded_but_many_fail_the_run(tmp_path, monkeypatch):
+    """One dead CIK must not kill a 7,000-name sweep; a systemic failure must
+    not publish a dataset that silently covers half the universe."""
+    import json
+
+    import pytest
+
+    from stock_data import corporate_actions as ca
+
+    class Session:
+        def __init__(self, dead: set[str]):
+            self.dead = dead
+
+        def get(self, url):
+            for cik in self.dead:
+                if f"CIK{int(cik):010d}" in url:
+                    raise RuntimeError("HTTP 404")
+            payload = {"facts": {"dei": {}, "us-gaap": {}}}
+            return type("R", (), {"text": json.dumps(payload)})()
+
+    monkeypatch.setattr(
+        ca, "resolve_ciks", lambda session, tickers: {t: i + 1 for i, t in enumerate(tickers)}
+    )
+
+    # 1 failure out of 100: recorded in the manifest, run succeeds.
+    tickers = [f"T{i:03d}" for i in range(100)]
+    ca.run(str(tmp_path), tickers, Session(dead={"1"}))
+    manifest = json.loads((tmp_path / "corporate_actions" / "manifest.json").read_text())
+    assert list(manifest["tickers_failed"]) == ["T000"]
+
+    # 10 failures out of 100 (> 2%): loud.
+    with pytest.raises(RuntimeError, match="fetches failed"):
+        ca.run(str(tmp_path / "b"), tickers, Session(dead={str(i) for i in range(1, 11)}))
