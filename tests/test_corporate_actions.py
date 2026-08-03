@@ -417,7 +417,7 @@ def test_a_few_failed_fetches_are_recorded_but_many_fail_the_run(tmp_path, monke
         def get(self, url):
             for cik in self.dead:
                 if f"CIK{int(cik):010d}" in url:
-                    raise RuntimeError("HTTP 404")
+                    raise RuntimeError("HTTP 500 server error")
             payload = {"facts": {"dei": {}, "us-gaap": {}}}
             return type("R", (), {"text": json.dumps(payload)})()
 
@@ -434,3 +434,29 @@ def test_a_few_failed_fetches_are_recorded_but_many_fail_the_run(tmp_path, monke
     # 10 failures out of 100 (> 2%): loud.
     with pytest.raises(RuntimeError, match="fetches failed"):
         ca.run(str(tmp_path / "b"), tickers, Session(dead={str(i) for i in range(1, 11)}))
+
+
+def test_missing_companyfacts_members_are_expected_absence_not_failure(tmp_path, monkeypatch):
+    """213 of 7,655 CIKs 404'd on the first real sweep — registration shells and
+    funds with no companyfacts member. Expected absence is recorded but must not
+    trip the systemic-failure gate, or the weekly clock is red forever."""
+    import json
+
+    from stock_data import corporate_actions as ca
+
+    class Session:
+        def get(self, url):
+            for cik in range(1, 11):  # 10% of CIKs have no member: all 404
+                if f"CIK{cik:010d}" in url:
+                    raise RuntimeError(f"HTTP error 404 for {url}")
+            payload = {"facts": {"dei": {}, "us-gaap": {}}}
+            return type("R", (), {"text": json.dumps(payload)})()
+
+    monkeypatch.setattr(
+        ca, "resolve_ciks", lambda session, tickers: {t: i + 1 for i, t in enumerate(tickers)}
+    )
+    tickers = [f"T{i:03d}" for i in range(100)]
+    ca.run(str(tmp_path), tickers, Session())  # must NOT raise
+    manifest = json.loads((tmp_path / "corporate_actions" / "manifest.json").read_text())
+    assert len(manifest["tickers_no_companyfacts"]) == 10
+    assert manifest["tickers_failed"] == {}
