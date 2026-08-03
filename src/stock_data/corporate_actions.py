@@ -452,6 +452,37 @@ def resolve_ciks(session: FairAccessSession, tickers: list[str]) -> dict[str, in
     return resolved
 
 
+_LISTED_EXCHANGES = frozenset({"NYSE", "Nasdaq", "NYSE American", "NYSE Arca", "CBOE", "BATS"})
+
+#: Above this fraction of failed fetches the whole run fails: a few dead CIKs
+#: are the normal state of a 7,000-name sweep, but a systemic failure (SEC
+#: outage, throttling, a broken URL scheme) must not publish a dataset that
+#: silently covers half the universe.
+MAX_FAILED_FRACTION = 0.02
+
+
+def listed_tickers(data_dir: str) -> list[str]:
+    """Every listed ticker from the foundry's OWN symbol directory.
+
+    Deliberately the foundry's artifact, not the grader's universe: sources ->
+    foundry -> grader is one-directional, and the foundry choosing its coverage
+    from a downstream consumer would invert the DAG.
+    """
+    path = os.path.join(data_dir, "symbols", "current", "sec_company_tickers_exchange.jsonl")
+    seen: set[str] = set()
+    ordered: list[str] = []
+    with open(path, encoding="utf-8") as handle:
+        for line in handle:
+            if not line.strip():
+                continue
+            record = json.loads(line)
+            ticker = str(record.get("ticker", "")).upper()
+            if ticker and record.get("exchange") in _LISTED_EXCHANGES and ticker not in seen:
+                seen.add(ticker)
+                ordered.append(ticker)
+    return ordered
+
+
 def run(data_dir: str, tickers: list[str], session: FairAccessSession | None = None) -> str:
     """Fetch companyfacts per ticker, extract, write parquet + jsonl + manifest."""
     session = session or FairAccessSession()
@@ -462,9 +493,17 @@ def run(data_dir: str, tickers: list[str], session: FairAccessSession | None = N
     dividend_rows: list[dict[str, object]] = []
     split_lines: list[str] = []
     unresolved = [t for t in tickers if t.upper() not in cik_map]
+    failed: dict[str, str] = {}
     for ticker, cik in sorted(cik_map.items()):
-        facts = json.loads(session.get(COMPANYFACTS_URL.format(cik=cik)).text)
-        dividends, splits = extract_for_company(facts)
+        try:
+            facts = json.loads(session.get(COMPANYFACTS_URL.format(cik=cik)).text)
+            dividends, splits = extract_for_company(facts)
+        except Exception as exc:  # noqa: BLE001 -- recorded and threshold-gated below
+            # One dead CIK must not kill a 7,000-name sweep, but a silent drop
+            # digs a coverage hole nobody can see. Record it, publish it in the
+            # manifest, and fail the whole run past the threshold.
+            failed[ticker] = f"{type(exc).__name__}: {exc}"[:200]
+            continue
         for record in dividends:
             dividend_rows.append(
                 {
@@ -513,6 +552,13 @@ def run(data_dir: str, tickers: list[str], session: FairAccessSession | None = N
             "granularity": "fiscal_period (no ex-dates in XBRL)",
             "tickers_requested": sorted(t.upper() for t in tickers),
             "tickers_unresolved": sorted(t.upper() for t in unresolved),
+            "tickers_failed": dict(sorted(failed.items())),
         },
     )
+    if cik_map and len(failed) / len(cik_map) > MAX_FAILED_FRACTION:
+        raise RuntimeError(
+            f"corporate-actions: {len(failed)} of {len(cik_map)} fetches failed "
+            f"(> {MAX_FAILED_FRACTION:.0%}); the dataset was written for inspection but "
+            f"the run fails so the gap cannot pass silently"
+        )
     return out_dir

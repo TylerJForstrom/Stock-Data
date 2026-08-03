@@ -1,0 +1,58 @@
+name: weekly-corporate-actions
+
+# Universe-wide dividend/split reconstruction. Before this workflow the dataset
+# covered THREE tickers (AAPL, JNJ, O), written once by hand with no clock — so
+# the grader's dividend fallback was dead in production and the one dataset
+# with no automated refresh was also the one with no staleness gate.
+
+on:
+  schedule:
+    - cron: "51 9 * * 0" # Sundays 09:51 UTC — SEC's quietest window
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-corporate-actions
+  cancel-in-progress: false
+
+jobs:
+  reconstruct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[dev]"
+
+      - name: Check prior sweep freshness (armed after the first all-listed run)
+        # Gate BEFORE collection so a missed cadence turns the run red. Guarded
+        # on the manifest actually declaring an all-listed sweep: the legacy
+        # 3-ticker dataset predates this workflow and must not trip the alarm.
+        run: |
+          if grep -q '"tickers_failed"' data/corporate_actions/manifest.json 2>/dev/null; then
+            stock-data check-staleness --max-age-days 9 data/corporate_actions
+          else
+            echo "bootstrap: first all-listed sweep has not landed yet"
+          fi
+
+      - name: Reconstruct universe-wide
+        if: always()
+        run: stock-data corporate-actions --data-dir data --all-listed
+
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/corporate_actions
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "corporate-actions: $(date -u +%G-W%V)"
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase origin main || exit 1
+          done
+          exit 1

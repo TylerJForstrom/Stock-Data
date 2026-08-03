@@ -34,7 +34,13 @@ def main(argv: list[str] | None = None) -> int:
         parents=[shared],
         help="reconstruct dividends/splits from XBRL",
     )
-    actions.add_argument("--tickers", nargs="+", required=True)
+    scope = actions.add_mutually_exclusive_group(required=True)
+    scope.add_argument("--tickers", nargs="+")
+    scope.add_argument(
+        "--all-listed",
+        action="store_true",
+        help="every listed ticker from the foundry's own symbol directory",
+    )
 
     ev = sub.add_parser(
         "events",
@@ -82,7 +88,13 @@ def main(argv: list[str] | None = None) -> int:
             return 1  # every source failed: the archive is frozen, go red
         return 0
     if args.command == "corporate-actions":
-        out = corporate_actions.run(args.data_dir, args.tickers)
+        tickers = (
+            corporate_actions.listed_tickers(args.data_dir)
+            if args.all_listed
+            else args.tickers
+        )
+        print(f"corporate-actions: {len(tickers)} tickers")
+        out = corporate_actions.run(args.data_dir, tickers)
         print(f"wrote {out}")
         return 0
     if args.command == "events":
