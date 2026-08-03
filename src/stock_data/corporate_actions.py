@@ -494,15 +494,24 @@ def run(data_dir: str, tickers: list[str], session: FairAccessSession | None = N
     split_lines: list[str] = []
     unresolved = [t for t in tickers if t.upper() not in cik_map]
     failed: dict[str, str] = {}
+    no_facts: list[str] = []
     for ticker, cik in sorted(cik_map.items()):
         try:
             facts = json.loads(session.get(COMPANYFACTS_URL.format(cik=cik)).text)
             dividends, splits = extract_for_company(facts)
         except Exception as exc:  # noqa: BLE001 -- recorded and threshold-gated below
+            message = f"{type(exc).__name__}: {exc}"[:200]
+            if " 404 " in f" {exc} " or str(exc).rstrip().endswith("404"):
+                # A CIK with no companyfacts member (registration shells, funds)
+                # is the NORMAL state of a full sweep — measured 213 of 7,655 on
+                # the first run, every one a plain 404. Expected absence is
+                # recorded but does not count toward the systemic-failure gate.
+                no_facts.append(ticker)
+                continue
             # One dead CIK must not kill a 7,000-name sweep, but a silent drop
             # digs a coverage hole nobody can see. Record it, publish it in the
             # manifest, and fail the whole run past the threshold.
-            failed[ticker] = f"{type(exc).__name__}: {exc}"[:200]
+            failed[ticker] = message
             continue
         for record in dividends:
             dividend_rows.append(
@@ -553,6 +562,7 @@ def run(data_dir: str, tickers: list[str], session: FairAccessSession | None = N
             "tickers_requested": sorted(t.upper() for t in tickers),
             "tickers_unresolved": sorted(t.upper() for t in unresolved),
             "tickers_failed": dict(sorted(failed.items())),
+            "tickers_no_companyfacts": sorted(no_facts),
         },
     )
     if cik_map and len(failed) / len(cik_map) > MAX_FAILED_FRACTION:
