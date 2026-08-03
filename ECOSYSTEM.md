@@ -66,3 +66,17 @@ review — a Finnhub-derived panel may not reach it.
   repo/folder may be kept or deleted at the owner's convenience. Its two ideas
   worth harvesting into Stock-Data: exact-accession-byte archiving and
   bitemporal lineage tracking.
+
+## Decision log
+
+- **2026-08-02** — Derived backtest panels (per-row forward returns computed
+  from Massive free-tier EOD closes and stockanalysis.com delisted histories)
+  live in the PRIVATE vault under `data/backtest_panels/<profile>/`, per
+  licensing rule 5. The public grader repo commits only aggregate statistics:
+  the backtest markdown, build accounting, and the ledger line.
+- **2026-08-03** — Shadow paper arms (M3) consume grader frozen panels and the
+  vault EOD archive and write vault journals: sources → foundry → grader →
+  forward, same one-direction DAG, no new cycle, no code import in either
+  direction. Gap surfaced: `frozen_scores/` panels carry NO manifest.json —
+  consumers gate on the panel's own `schema_version` column; a per-profile
+  manifest is follow-up work for the grader.
