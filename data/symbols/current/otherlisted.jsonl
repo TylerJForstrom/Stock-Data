@@ -1587,6 +1587,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 15 Buffer ETF - April", "test_issue": "N", "ticker": "DDFA"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 15 Buffer ETF - December", "test_issue": "N", "ticker": "DDFD"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 15 Buffer ETF - February", "test_issue": "N", "ticker": "DDFF"}
+{"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 15 Buffer ETF - August", "test_issue": "N", "ticker": "DDFG"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 15 Buffer ETF - January", "test_issue": "N", "ticker": "DDFJ"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 15 Buffer ETF - July", "test_issue": "N", "ticker": "DDFL"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 15 Buffer ETF - March", "test_issue": "N", "ticker": "DDFM"}
@@ -1605,6 +1606,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - April", "test_issue": "N", "ticker": "DDTA"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - December", "test_issue": "N", "ticker": "DDTD"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - February", "test_issue": "N", "ticker": "DDTF"}
+{"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - August", "test_issue": "N", "ticker": "DDTG"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - January", "test_issue": "N", "ticker": "DDTJ"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - July", "test_issue": "N", "ticker": "DDTL"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - March", "test_issue": "N", "ticker": "DDTM"}
@@ -2739,7 +2741,6 @@
 {"etf": "Y", "exchange": "P", "name": "Genter Capital Taxable Quality Intermediate ETF", "test_issue": "N", "ticker": "GENT"}
 {"etf": "Y", "exchange": "P", "name": "Genter Capital International Dividend ETF", "test_issue": "N", "ticker": "GENW"}
 {"etf": "N", "exchange": "N", "name": "Geo Group Inc (The) REIT", "test_issue": "N", "ticker": "GEO"}
-{"etf": "Y", "exchange": "P", "name": "WisdomTree GeoAlpha Opportunities Fund", "test_issue": "N", "ticker": "GEOA"}
 {"etf": "N", "exchange": "N", "name": "Getty Images Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "GETY"}
 {"etf": "N", "exchange": "N", "name": "GE Vernova Inc. Common Stock", "test_issue": "N", "ticker": "GEV"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi GEV 2x Daily ETF", "test_issue": "N", "ticker": "GEVC"}
@@ -3268,12 +3269,10 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares Select U.S. REIT ETF", "test_issue": "N", "ticker": "ICF"}
 {"etf": "N", "exchange": "N", "name": "ICL Group Ltd. Ordinary Shares", "test_issue": "N", "ticker": "ICL"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco AAA CLO Floating Rate Note ETF", "test_issue": "N", "ticker": "ICLO"}
-{"etf": "Y", "exchange": "P", "name": "Bitwise COIN Option Income Strategy ETF", "test_issue": "N", "ticker": "ICOI"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Developed Markets International Cash Cows 100 ETF", "test_issue": "N", "ticker": "ICOW"}
 {"etf": "Y", "exchange": "P", "name": "iShares 0-1 Year TIPS Bond ETF", "test_issue": "N", "ticker": "ICPI"}
 {"etf": "Y", "exchange": "P", "name": "Tweedy, Browne International Insider + Value ETF", "test_issue": "N", "ticker": "ICPY"}
 {"etf": "N", "exchange": "N", "name": "InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "ICR$A"}
-{"etf": "Y", "exchange": "P", "name": "Bitwise CRCL Option Income Strategy ETF", "test_issue": "N", "ticker": "ICRC"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Ultra Short Duration Bond Active ETF", "test_issue": "N", "ticker": "ICSH"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Convertible Bond ETF", "test_issue": "N", "ticker": "ICVT"}
 {"etf": "N", "exchange": "N", "name": "IDACORP, Inc. Common Stock", "test_issue": "N", "ticker": "IDA"}
@@ -3306,7 +3305,6 @@
 {"etf": "Y", "exchange": "P", "name": "iShares Core MSCI Emerging Markets ETF", "test_issue": "N", "ticker": "IEMG"}
 {"etf": "Y", "exchange": "Z", "name": "iShares U.S. Oil & Gas Exploration & Production ETF", "test_issue": "N", "ticker": "IEO"}
 {"etf": "Y", "exchange": "Z", "name": "iShares U.S. Tech Independence Focused ETF", "test_issue": "N", "ticker": "IETC"}
-{"etf": "Y", "exchange": "P", "name": "Bitwise Ethereum Option Income Strategy ETF", "test_issue": "N", "ticker": "IETH"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core MSCI Europe ETF", "test_issue": "N", "ticker": "IEUR"}
 {"etf": "Y", "exchange": "P", "name": "iShares Europe ETF", "test_issue": "N", "ticker": "IEV"}
 {"etf": "N", "exchange": "N", "name": "IDEX Corporation Common Stock", "test_issue": "N", "ticker": "IEX"}
@@ -3333,7 +3331,6 @@
 {"etf": "Y", "exchange": "P", "name": "iShares 10  Year Investment Grade Corporate Bond ETF", "test_issue": "N", "ticker": "IGLB"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Gold Strategy Target Income ETF", "test_issue": "N", "ticker": "IGLD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Expanded Tech Sector ETF", "test_issue": "N", "ticker": "IGM"}
-{"etf": "Y", "exchange": "P", "name": "Bitwise GME Option Income Strategy ETF", "test_issue": "N", "ticker": "IGME"}
 {"etf": "Y", "exchange": "P", "name": "Invesco AI and Next Gen Software ETF", "test_issue": "N", "ticker": "IGPT"}
 {"etf": "N", "exchange": "N", "name": "CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "IGR"}
 {"etf": "Y", "exchange": "Z", "name": "iShares International Dividend Growth ETF", "test_issue": "N", "ticker": "IGRO"}
@@ -3381,8 +3378,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Invesco Managed Futures Strategy ETF", "test_issue": "N", "ticker": "IMF"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco International Developed Dynamic Multifactor ETF", "test_issue": "N", "ticker": "IMFL"}
 {"etf": "N", "exchange": "A", "name": "Imperial Oil Limited Common Stock", "test_issue": "N", "ticker": "IMO"}
-{"etf": "Y", "exchange": "P", "name": "Bitwise MARA Option Income Strategy ETF", "test_issue": "N", "ticker": "IMRA"}
-{"etf": "Y", "exchange": "P", "name": "Bitwise MSTR Option Income Strategy ETF", "test_issue": "N", "ticker": "IMST"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 5-10 Year USD Bond ETF", "test_issue": "N", "ticker": "IMTB"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco Agency MBS ETF", "test_issue": "N", "ticker": "IMTG"}
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI Intl Momentum Factor ETF", "test_issue": "N", "ticker": "IMTM"}
@@ -3781,7 +3776,7 @@
 {"etf": "Y", "exchange": "P", "name": "Kingsbarn Tactical Bond ETF", "test_issue": "N", "ticker": "KDRN"}
 {"etf": "Y", "exchange": "P", "name": "Keeley Dividend ETF", "test_issue": "N", "ticker": "KDVD"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2x Long KEEL ETF", "test_issue": "N", "ticker": "KEEX"}
-{"etf": "Y", "exchange": "P", "name": "KraneShares Emerging Markets Consumer Technology Index ETF", "test_issue": "N", "ticker": "KEMQ"}
+{"etf": "Y", "exchange": "P", "name": "KraneShares Public-Private Emerging Markets Internet and Technology ETF", "test_issue": "N", "ticker": "KEMQ"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares MSCI Emerging Markets ex China Index ETF", "test_issue": "N", "ticker": "KEMX"}
 {"etf": "N", "exchange": "N", "name": "Kenon Holdings Ltd. Ordinary Shares", "test_issue": "N", "ticker": "KEN"}
 {"etf": "N", "exchange": "N", "name": "Korea Electric Power Corporation Common Stock", "test_issue": "N", "ticker": "KEP"}
@@ -4793,7 +4788,10 @@
 {"etf": "Y", "exchange": "Z", "name": "State Street Loomis Sayles Opportunistic Bond ETF", "test_issue": "N", "ticker": "OBND"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares MSCI One Belt One Road Index ETF", "test_issue": "N", "ticker": "OBOR"}
 {"etf": "N", "exchange": "N", "name": "Owens Corning Inc Common Stock New", "test_issue": "N", "ticker": "OC"}
+{"etf": "N", "exchange": "N", "name": "Ocean Capital Acquisition Corporation Ordinary Shares", "test_issue": "N", "ticker": "OCAC"}
+{"etf": "N", "exchange": "N", "name": "Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share", "test_issue": "N", "ticker": "OCAC.R"}
 {"etf": "N", "exchange": "N", "name": "Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right", "test_issue": "N", "ticker": "OCAC.U"}
+{"etf": "N", "exchange": "N", "name": "Ocean Capital Acquisition Corporation Warrants, each exercisable for one ordinary share", "test_issue": "N", "ticker": "OCAC.W"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus October Deep Buffer ETF", "test_issue": "N", "ticker": "OCDB"}
 {"etf": "Y", "exchange": "P", "name": "ClearShares OCIO ETF", "test_issue": "N", "ticker": "OCIO"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus October Buffer ETF", "test_issue": "N", "ticker": "OCTB"}
@@ -4876,6 +4874,7 @@
 {"etf": "N", "exchange": "N", "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock", "test_issue": "N", "ticker": "OPP$B"}
 {"etf": "N", "exchange": "A", "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)", "test_issue": "N", "ticker": "OPP$C"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree European Opportunities Fund", "test_issue": "N", "ticker": "OPPE"}
+{"etf": "Y", "exchange": "P", "name": "WisdomTree GeoAlpha Opportunities Fund", "test_issue": "N", "ticker": "OPPG"}
 {"etf": "N", "exchange": "A", "name": "Ocean Power Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "OPTT"}
 {"etf": "N", "exchange": "N", "name": "Optimum Communications, Inc. Class A common stock", "test_issue": "N", "ticker": "OPTU"}
 {"etf": "N", "exchange": "N", "name": "Oppenheimer Holdings, Inc. Class A Common Stock (DE)", "test_issue": "N", "ticker": "OPY"}
@@ -5113,7 +5112,7 @@
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused Growth ETF", "test_issue": "N", "ticker": "PJFG"}
 {"etf": "Y", "exchange": "Z", "name": "PGIM Jennison Focused Mid-Cap ETF", "test_issue": "N", "ticker": "PJFM"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused Value ETF", "test_issue": "N", "ticker": "PJFV"}
-{"etf": "Y", "exchange": "P", "name": "PGIM Jennison International Opportunities ETF", "test_issue": "N", "ticker": "PJIO"}
+{"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused International Equity ETF", "test_issue": "N", "ticker": "PJIO"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Pharmaceuticals ETF", "test_issue": "N", "ticker": "PJP"}
 {"etf": "N", "exchange": "N", "name": "PJT Partners Inc. Class A Common Stock", "test_issue": "N", "ticker": "PJT"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Power Buffer ETF - July", "test_issue": "N", "ticker": "PJUL"}
@@ -5573,6 +5572,7 @@
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock", "test_issue": "N", "ticker": "RIV$A"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi RIVN 2x Daily ETF", "test_issue": "N", "ticker": "RIVC"}
 {"etf": "Y", "exchange": "Z", "name": "Principal Inflation Protection ETF", "test_issue": "N", "ticker": "RIZE"}
+{"etf": "Y", "exchange": "P", "name": "RJ ClariVest Capital Appreciation ETF", "test_issue": "N", "ticker": "RJCA"}
 {"etf": "Y", "exchange": "P", "name": "RJ Eagle GCM Dividend Select Income ETF", "test_issue": "N", "ticker": "RJDI"}
 {"etf": "N", "exchange": "N", "name": "Raymond James Financial, Inc. Common Stock", "test_issue": "N", "ticker": "RJF"}
 {"etf": "Y", "exchange": "P", "name": "RJ Eagle Municipal Income ETF", "test_issue": "N", "ticker": "RJMI"}
@@ -6674,7 +6674,6 @@
 {"etf": "N", "exchange": "N", "name": "Twilio Inc. Class A Common Stock", "test_issue": "N", "ticker": "TWLO"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Russell2000", "test_issue": "N", "ticker": "TWM"}
 {"etf": "N", "exchange": "N", "name": "Taiwan Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "TWN"}
-{"etf": "N", "exchange": "N", "name": "Two Harbors Investment Corp", "test_issue": "N", "ticker": "TWO"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)", "test_issue": "N", "ticker": "TWO$A"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$B"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$C"}
