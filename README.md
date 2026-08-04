@@ -17,6 +17,7 @@ are reading.
 |---|---|---|---|
 | Symbol directory snapshots | SEC `company_tickers*.json`, Nasdaq Trader symbol directories | daily (git-scraped) | `data/symbols/current/` |
 | Listing/delisting/change events | Daily symbol-directory diffs | daily (git-scraped) | `data/symbols/events/` |
+| Point-in-time membership intervals | Derived: the event stream replayed at the producer | daily (rebuilt from the above) | `data/symbols/pit/` |
 | Corporate actions (dividends per share, splits) | Reconstructed from SEC XBRL companyfacts | on demand / quarterly | `data/corporate_actions/` |
 
 The daily symbol-directory snapshot is the point-in-time universe archive: each
@@ -25,6 +26,17 @@ retains its documented top-level JSON object in
 `data/symbols/events/events.jsonl`, beside that dataset's own `manifest.json`.
 The archive only
 covers dates after the archiver started — which is why it runs first.
+
+`data/symbols/pit/` is that archive made directly queryable: one interval
+table per symbol-directory source (`{**record, valid_from, valid_to,
+provable_from}`, half-open `valid_from <= date < valid_to`, `valid_to: null` =
+still current), rebuilt daily by replaying the event stream once here at the
+producer. Consumers answer "who was listed on date D" with a hash-verified
+date-range lookup instead of carrying their own replay implementation. The
+manifest's `reconstructable_from` is the honest floor: rows with
+`provable_from: false` were already present at the archive boundary and their
+true start date is unknowable from this data — consumers must refuse earlier
+`asof` dates rather than treat today's survivors as history.
 
 ### Corporate-actions reconstruction (how and why it works)
 

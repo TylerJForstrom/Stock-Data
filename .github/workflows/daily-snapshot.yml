@@ -37,6 +37,11 @@ jobs:
         # The following always() steps still self-heal and publish the archive.
         run: |
           stock-data check-staleness --max-age-days 2 data/symbols/current data/symbols/events
+          # The pit tables are rebuilt by this same job; a stale manifest means
+          # the build step has been failing while snapshots advance.
+          if [ -f data/symbols/pit/manifest.json ]; then
+            stock-data check-staleness --max-age-days 2 data/symbols/pit
+          fi
           # Cross-coverage: the weekly sweep's clock is checked daily so a
           # disabled weekly workflow cannot fail silently.
           if [ -f data/events/manifest.json ]; then
@@ -56,6 +61,15 @@ jobs:
       - name: Snapshot symbol directories
         if: always()
         run: stock-data snapshot-symbols --data-dir data
+      - name: Rebuild point-in-time membership intervals
+        # Derived dataset: the event replay runs once here at the producer and
+        # data/symbols/pit/ is republished in the same commit that advances
+        # current/ + events/, so consumers (grader universe(asof)) always see a
+        # table in lockstep with the stream it replays. Runs even when the
+        # snapshot step failed: the previous current/events pair is still
+        # self-consistent, so the rebuild is too.
+        if: always()
+        run: stock-data build-pit --data-dir data
       - name: Mirror TickerPulse derived metrics
         # TickerPulse metrics enter the grader through the foundry, never
         # directly (ECOSYSTEM.md Rule 2). Independent of the symbol snapshot, so
