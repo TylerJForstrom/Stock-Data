@@ -163,3 +163,20 @@ portfolio piece; unarchive is a one-click reversal if it is ever demoed or wired
   `paper.py` is today's enforcement mechanism, not the invariant itself, so
   a legitimate refactor of the constant is not a violation, while ANY code
   path that reaches a live account is, regardless of mechanism.
+- **2026-08-04** — Point-in-time membership is now a published artifact,
+  `data/symbols/pit/` (one interval table per symbol-directory source,
+  rebuilt daily by replaying the event stream once at the producer;
+  `reconstructable_from` + per-row `provable_from` keep the pre-2026-07-28
+  boundary honest). Rationale: the PIT promise was being delivered by a
+  replay ALGORITHM re-typed per consumer (grader `universe(asof)` /
+  `symbol_directory(asof)`, vault `_CikMaps`) because rule 1 forbids the
+  code import that would deduplicate it — a covert import with drift risk,
+  and the vault copy read its inputs without manifest verification. The
+  artifact is the ecosystem's one sanctioned sharing mechanism, so replay
+  code now survives only in Stock-Data beside the event producer; consumers
+  do hash-verified date-range lookups. Migration is gated on conformance:
+  lookup == replay at every archived event date, tested in both producer
+  and consumer CI before any replay copy is deleted. This also lands the
+  "bitemporal lineage tracking" idea harvested from archived Stock-Rater
+  (2026-07-28 entry above). Grader migrated in the same batch; the vault's
+  `_CikMaps` collapse onto this artifact is follow-up work.
