@@ -48,6 +48,17 @@ portfolio piece; unarchive is a one-click reversal if it is ever demoed or wired
    values carry flags; granularity limits (e.g. fiscal-period dividends, no
    ex-dates) are stated in manifests; nothing is presented as investment
    advice.
+7. **Ticker symbology: canonical = the SEC dash form** (`BRK-B`). Four live
+   spellings of one class share exist — SEC/panels `BRK-B`, Polygon and
+   TickerPulse `BRK.B`, IB `BRK B`, FINRA `BRKB` — and every adapter boundary
+   canonicalizes (or variant-matches) on read so all of them resolve to one
+   issuer. Because code imports are forbidden (rule 1), each repo carries its
+   own copy of the ~20-line helper: Stock-Data `src/stock_data/tickers.py`,
+   Stock-Grader `src/stock_grader/data/symbols.py`, Stock-Vault
+   `src/stock_vault/tickers.py`; the copies must agree on the canonical form.
+   The no-separator FINRA form is never a blind variant — a squashed class
+   share can spell a different issuer's real ticker — so no-separator joins go
+   through an ambiguity-guarded index (Stock-Vault `build_squash_index`).
 
 ## Current sequencing (2026-07-28)
 
