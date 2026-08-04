@@ -31,9 +31,8 @@
 {"cik": 1001085, "provable_from": false, "ticker": "BRPSF", "title": "BROOKFIELD Corp /ON/", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1001085, "provable_from": false, "ticker": "BXDIF", "title": "BROOKFIELD Corp /ON/", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1001115, "provable_from": false, "ticker": "GEOS", "title": "GEOSPACE TECHNOLOGIES CORP", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1001171, "provable_from": false, "ticker": "BYFC", "title": "BROADWAY FINANCIAL CORP \\DE\\", "valid_from": "2026-07-28", "valid_to": "2026-07-31"}
-{"cik": 1001171, "provable_from": true, "ticker": "BYFC", "title": "BROADWAY FINANCIAL CORP DE", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
-{"cik": 1001171, "provable_from": true, "ticker": "BYFC", "title": "BROADWAY FINANCIAL CORP \\DE\\", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1001171, "provable_from": false, "ticker": "BYFC", "title": "BROADWAY FINANCIAL CORP \\DE\\", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1001171, "provable_from": true, "ticker": "BYFC", "title": "BROADWAY FINANCIAL CORP DE", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1001233, "provable_from": false, "ticker": "SGMOQ", "title": "SANGAMO THERAPEUTICS, INC", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1001250, "provable_from": false, "ticker": "EL", "title": "ESTEE LAUDER COMPANIES INC", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1001290, "provable_from": false, "ticker": "BAP", "title": "CREDICORP LTD", "valid_from": "2026-07-28", "valid_to": null}
@@ -90,8 +89,8 @@
 {"cik": 100517, "provable_from": false, "ticker": "UAL", "title": "United Airlines Holdings, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1005210, "provable_from": false, "ticker": "SPH", "title": "SUBURBAN PROPANE PARTNERS LP", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1005229, "provable_from": false, "ticker": "CMCO", "title": "COLUMBUS MCKINNON CORP", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1005284, "provable_from": false, "ticker": "OLED", "title": "UNIVERSAL DISPLAY CORP \\PA\\", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
-{"cik": 1005284, "provable_from": true, "ticker": "OLED", "title": "UNIVERSAL DISPLAY CORP PA", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1005284, "provable_from": false, "ticker": "OLED", "title": "UNIVERSAL DISPLAY CORP PA", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1005284, "provable_from": true, "ticker": "OLED", "title": "UNIVERSAL DISPLAY CORP \\PA\\", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1005286, "provable_from": false, "ticker": "LFCR", "title": "LIFECORE BIOMEDICAL, INC. \\DE\\", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1005516, "provable_from": false, "ticker": "BOSC", "title": "BOS BETTER ONLINE SOLUTIONS LTD", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1005731, "provable_from": false, "ticker": "IDT", "title": "IDT CORP", "valid_from": "2026-07-28", "valid_to": null}
@@ -130,13 +129,11 @@
 {"cik": 1011509, "provable_from": false, "ticker": "AUMN", "title": "Golden Minerals Co", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 101199, "provable_from": false, "ticker": "UFCS", "title": "UNITED FIRE GROUP INC", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1012019, "provable_from": false, "ticker": "RUSHA", "title": "RUSH ENTERPRISES INC TX", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
-{"cik": 1012019, "provable_from": true, "ticker": "RUSHA", "title": "RUSH ENTERPRISES INC \\TX\\", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1012019, "provable_from": true, "ticker": "RUSHA", "title": "RUSH ENTERPRISES INC TX", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
-{"cik": 1012019, "provable_from": true, "ticker": "RUSHA", "title": "RUSH ENTERPRISES INC \\TX\\", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1012019, "provable_from": true, "ticker": "RUSHA", "title": "RUSH ENTERPRISES INC \\TX\\", "valid_from": "2026-07-30", "valid_to": "2026-08-04"}
+{"cik": 1012019, "provable_from": true, "ticker": "RUSHA", "title": "RUSH ENTERPRISES INC TX", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1012019, "provable_from": false, "ticker": "RUSHB", "title": "RUSH ENTERPRISES INC TX", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
-{"cik": 1012019, "provable_from": true, "ticker": "RUSHB", "title": "RUSH ENTERPRISES INC \\TX\\", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1012019, "provable_from": true, "ticker": "RUSHB", "title": "RUSH ENTERPRISES INC TX", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
-{"cik": 1012019, "provable_from": true, "ticker": "RUSHB", "title": "RUSH ENTERPRISES INC \\TX\\", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1012019, "provable_from": true, "ticker": "RUSHB", "title": "RUSH ENTERPRISES INC \\TX\\", "valid_from": "2026-07-30", "valid_to": "2026-08-04"}
+{"cik": 1012019, "provable_from": true, "ticker": "RUSHB", "title": "RUSH ENTERPRISES INC TX", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1012037, "provable_from": false, "ticker": "CODGF", "title": "COMPAGNIE DE SAINT GOBAIN", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 101295, "provable_from": false, "ticker": "UG", "title": "UNITED GUARDIAN INC", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1013131, "provable_from": false, "ticker": "BVN", "title": "BUENAVENTURA MINING CO INC", "valid_from": "2026-07-28", "valid_to": null}
@@ -1624,7 +1621,7 @@
 {"cik": 1331284, "provable_from": false, "ticker": "DHT", "title": "DHT Holdings, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1331421, "provable_from": false, "ticker": "HLLK", "title": "SDR Drone, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1331421, "provable_from": true, "ticker": "HLLK", "title": "HALLMARK VENTURE GROUP, INC.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1331421, "provable_from": true, "ticker": "HLLK", "title": "SDR Drone, Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1331421, "provable_from": true, "ticker": "HLLK", "title": "SDR Drone, Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1331421, "provable_from": false, "ticker": "SDCO", "title": "SDR Drone, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1331421, "provable_from": true, "ticker": "SDCO", "title": "SDR Drone, Inc.", "valid_from": "2026-07-31", "valid_to": null}
 {"cik": 1331520, "provable_from": false, "ticker": "HOMB", "title": "HOME BANCSHARES INC", "valid_from": "2026-07-28", "valid_to": null}
@@ -1713,7 +1710,7 @@
 {"cik": 1346830, "provable_from": false, "ticker": "TVRD", "title": "Tvardi Therapeutics, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1346917, "provable_from": false, "ticker": "GNTOF", "title": "GENTOR RESOURCES INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1347123, "provable_from": false, "ticker": "EBRCZ", "title": "EBR Systems, Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1347123, "provable_from": true, "ticker": "NONE.", "title": "EBR Systems, Inc.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1347123, "provable_from": false, "ticker": "NONE.", "title": "EBR Systems, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 1347178, "provable_from": false, "ticker": "VNDA", "title": "Vanda Pharmaceuticals Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1347242, "provable_from": false, "ticker": "LIPO", "title": "LIPELLA PHARMACEUTICALS INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1347408, "provable_from": false, "ticker": "SGBAF", "title": "SES S.A.", "valid_from": "2026-07-28", "valid_to": null}
@@ -2238,10 +2235,10 @@
 {"cik": 1431567, "provable_from": false, "ticker": "OVLY", "title": "Oak Valley Bancorp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1431852, "provable_from": false, "ticker": "ODV", "title": "Osisko Gold Group Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1431852, "provable_from": true, "ticker": "ODV", "title": "Osisko Development Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1431852, "provable_from": true, "ticker": "ODV", "title": "Osisko Gold Group Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1431852, "provable_from": true, "ticker": "ODV", "title": "Osisko Gold Group Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1431852, "provable_from": false, "ticker": "ODVWZ", "title": "Osisko Gold Group Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1431852, "provable_from": true, "ticker": "ODVWZ", "title": "Osisko Development Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1431852, "provable_from": true, "ticker": "ODVWZ", "title": "Osisko Gold Group Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1431852, "provable_from": true, "ticker": "ODVWZ", "title": "Osisko Gold Group Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1431852, "provable_from": false, "ticker": "OGG", "title": "Osisko Gold Group Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1431852, "provable_from": true, "ticker": "OGG", "title": "Osisko Gold Group Inc.", "valid_from": "2026-07-31", "valid_to": null}
 {"cik": 1431852, "provable_from": false, "ticker": "OGGWZ", "title": "Osisko Gold Group Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
@@ -2253,8 +2250,8 @@
 {"cik": 1432364, "provable_from": false, "ticker": "AZUL", "title": "AZUL SA", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1432364, "provable_from": false, "ticker": "AZUXY", "title": "AZUL SA", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1432588, "provable_from": false, "ticker": "BHSIF", "title": "BAYHORSE SILVER INC.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1433087, "provable_from": true, "ticker": "FLIDF", "title": "FLSMIDTH & CO. A/S", "valid_from": "2026-08-04", "valid_to": null}
-{"cik": 1433087, "provable_from": true, "ticker": "FLIDY", "title": "FLSMIDTH & CO. A/S", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1433087, "provable_from": false, "ticker": "FLIDF", "title": "FLSMIDTH & CO. A/S", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1433087, "provable_from": false, "ticker": "FLIDY", "title": "FLSMIDTH & CO. A/S", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 1433195, "provable_from": false, "ticker": "APPF", "title": "APPFOLIO INC", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1433270, "provable_from": false, "ticker": "AR", "title": "ANTERO RESOURCES Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1433309, "provable_from": false, "ticker": "PLTYF", "title": "Plastec Technologies, Ltd.", "valid_from": "2026-07-28", "valid_to": null}
@@ -2901,7 +2898,7 @@
 {"cik": 1517767, "provable_from": false, "ticker": "CCID", "title": "Carlyle Credit Income Fund", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1517767, "provable_from": false, "ticker": "CCIF", "title": "Carlyle Credit Income Fund", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1518461, "provable_from": false, "ticker": "AMPG", "title": "AmpliTech Group, Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1518461, "provable_from": false, "ticker": "AMPGR", "title": "AmpliTech Group, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1518461, "provable_from": true, "ticker": "AMPGR", "title": "AmpliTech Group, Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1518461, "provable_from": false, "ticker": "AMPGZ", "title": "AmpliTech Group, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1518542, "provable_from": false, "ticker": "SPXSF", "title": "Spirax-Sarco Engineering PLC/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1518557, "provable_from": false, "ticker": "MMD", "title": "NYLI MacKay DefinedTerm Muni Opportunities Fund", "valid_from": "2026-07-28", "valid_to": null}
@@ -3795,7 +3792,7 @@
 {"cik": 1637873, "provable_from": false, "ticker": "ACVA", "title": "ACV Auctions Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1638097, "provable_from": false, "ticker": "ENTX", "title": "Entera Bio Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1638097, "provable_from": false, "ticker": "ENTXW", "title": "Entera Bio Ltd.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
-{"cik": 1638097, "provable_from": true, "ticker": "ENTXW", "title": "Entera Bio Ltd.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1638097, "provable_from": true, "ticker": "ENTXW", "title": "Entera Bio Ltd.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1638287, "provable_from": false, "ticker": "MTVA", "title": "MetaVia Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1638290, "provable_from": false, "ticker": "MCFT", "title": "MasterCraft Boat Holdings, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1638826, "provable_from": false, "ticker": "TTAN", "title": "ServiceTitan, Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -3813,11 +3810,11 @@
 {"cik": 1640043, "provable_from": false, "ticker": "PXS", "title": "Pyxis Tankers Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1640147, "provable_from": false, "ticker": "SNOW", "title": "Snowflake Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1640266, "provable_from": false, "ticker": "VYGR", "title": "Voyager Therapeutics, Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1640384, "provable_from": false, "ticker": "LMFA", "title": "LM FUNDING AMERICA, INC.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
-{"cik": 1640384, "provable_from": true, "ticker": "LMFA", "title": "POWERCOMPUTE, INC.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1640384, "provable_from": false, "ticker": "LMFA", "title": "POWERCOMPUTE, INC.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1640384, "provable_from": true, "ticker": "LMFA", "title": "LM FUNDING AMERICA, INC.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1640384, "provable_from": false, "ticker": "PWCM", "title": "LM FUNDING AMERICA, INC.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
-{"cik": 1640384, "provable_from": true, "ticker": "PWCM", "title": "LM FUNDING AMERICA, INC.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
-{"cik": 1640384, "provable_from": true, "ticker": "PWCM", "title": "POWERCOMPUTE, INC.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1640384, "provable_from": true, "ticker": "PWCM", "title": "POWERCOMPUTE, INC.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1640384, "provable_from": true, "ticker": "PWCM", "title": "LM FUNDING AMERICA, INC.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1640428, "provable_from": false, "ticker": "EVER", "title": "EverQuote, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1641229, "provable_from": false, "ticker": "FFMGF", "title": "First Mining Gold Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1641281, "provable_from": false, "ticker": "BOLT", "title": "Bolt Biotherapeutics, Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -3929,7 +3926,7 @@
 {"cik": 1655190, "provable_from": false, "ticker": "SHLAF", "title": "Schindler Holding AG/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1655190, "provable_from": false, "ticker": "SHLRF", "title": "Schindler Holding AG/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1655210, "provable_from": false, "ticker": "BYND", "title": "BEYOND MEAT, INC.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1655531, "provable_from": false, "ticker": "KLSVF", "title": "KLONDIKE SILVER CORP.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1655531, "provable_from": true, "ticker": "KLSVF", "title": "KLONDIKE SILVER CORP.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1655759, "provable_from": false, "ticker": "ARVN", "title": "ARVINAS, INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1655888, "provable_from": false, "ticker": "OBDC", "title": "Blue Owl Capital Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1655891, "provable_from": false, "ticker": "TRMD", "title": "TORM plc", "valid_from": "2026-07-28", "valid_to": null}
@@ -4356,7 +4353,7 @@
 {"cik": 1713863, "provable_from": false, "ticker": "RFL", "title": "Rafael Holdings, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1713923, "provable_from": false, "ticker": "AIJTY", "title": "Jianpu Technology Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1713930, "provable_from": false, "ticker": "NEXA", "title": "Nexa Resources S.A.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1713979, "provable_from": true, "ticker": "TRRFF", "title": "TRIFECTA GOLD LTD", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1713979, "provable_from": false, "ticker": "TRRFF", "title": "TRIFECTA GOLD LTD", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 1714174, "provable_from": false, "ticker": "BUR", "title": "Burford Capital Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1714562, "provable_from": false, "ticker": "GAME", "title": "GameSquare Holdings, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1714899, "provable_from": false, "ticker": "DNLI", "title": "Denali Therapeutics Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -4389,8 +4386,8 @@
 {"cik": 1718405, "provable_from": false, "ticker": "HYMC", "title": "HYCROFT MINING HOLDING CORP", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1718405, "provable_from": false, "ticker": "HYMCW", "title": "HYCROFT MINING HOLDING CORP", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1718500, "provable_from": false, "ticker": "AXIL", "title": "Axil Brands, Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1718512, "provable_from": false, "ticker": "GTES", "title": "Gates Industrial Corp plc", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
-{"cik": 1718512, "provable_from": true, "ticker": "GTES", "title": "Gates Industrial Corp Ltd.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1718512, "provable_from": false, "ticker": "GTES", "title": "Gates Industrial Corp Ltd.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1718512, "provable_from": true, "ticker": "GTES", "title": "Gates Industrial Corp plc", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1718728, "provable_from": false, "ticker": "SYTN", "title": "Syntiant Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1718939, "provable_from": false, "ticker": "IDAI", "title": "T Stamp Inc", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1719117, "provable_from": false, "ticker": "ARNNY", "title": "ASR Nederland N.V./ADR", "valid_from": "2026-07-28", "valid_to": null}
@@ -4500,7 +4497,7 @@
 {"cik": 1733998, "provable_from": false, "ticker": "NWN", "title": "Northwest Natural Holding Co", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1734005, "provable_from": false, "ticker": "APM", "title": "Niki BioSolutions, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1734005, "provable_from": true, "ticker": "APM", "title": "Aptorum Group Ltd", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1734005, "provable_from": true, "ticker": "APM", "title": "Niki BioSolutions, Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1734005, "provable_from": true, "ticker": "APM", "title": "Niki BioSolutions, Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1734005, "provable_from": false, "ticker": "NIKI", "title": "Niki BioSolutions, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1734005, "provable_from": true, "ticker": "NIKI", "title": "Niki BioSolutions, Inc.", "valid_from": "2026-07-31", "valid_to": null}
 {"cik": 1734107, "provable_from": false, "ticker": "SOHU", "title": "Sohu.com Ltd", "valid_from": "2026-07-28", "valid_to": null}
@@ -4635,7 +4632,7 @@
 {"cik": 1751912, "provable_from": false, "ticker": "NGEN", "title": "NERVGEN PHARMA CORP.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1752564, "provable_from": false, "ticker": "MRCIF", "title": "Mercari, Inc./ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1752828, "provable_from": false, "ticker": "CELU", "title": "Celularity Inc", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1752828, "provable_from": false, "ticker": "CELUW", "title": "Celularity Inc", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1752828, "provable_from": true, "ticker": "CELUW", "title": "Celularity Inc", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1753162, "provable_from": false, "ticker": "FTHM", "title": "Fathom Holdings Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1753368, "provable_from": false, "ticker": "SANG", "title": "Sangoma Technologies Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1753373, "provable_from": false, "ticker": "MTWO", "title": "M2i Global, Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -4729,7 +4726,7 @@
 {"cik": 1762417, "provable_from": false, "ticker": "DOYU", "title": "DouYu International Holdings Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1762506, "provable_from": false, "ticker": "VIST", "title": "Vista Energy, S.A.B. de C.V.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1762506, "provable_from": false, "ticker": "VSOGF", "title": "Vista Energy, S.A.B. de C.V.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1762831, "provable_from": true, "ticker": "DAIUF", "title": "Daifuku Co., Ltd./ADR", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 1762831, "provable_from": false, "ticker": "DAIUF", "title": "Daifuku Co., Ltd./ADR", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 1763329, "provable_from": false, "ticker": "AIBT", "title": "AIBOTICS, INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1763415, "provable_from": false, "ticker": "BITB", "title": "Bitwise Bitcoin ETF", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1763660, "provable_from": false, "ticker": "SEAV", "title": "SEATech Ventures Corp.", "valid_from": "2026-07-28", "valid_to": null}
@@ -5060,12 +5057,12 @@
 {"cik": 1804792, "provable_from": false, "ticker": "ARSMF", "title": "ARES STRATEGIC MINING INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1804792, "provable_from": false, "ticker": "USAM", "title": "ARES STRATEGIC MINING INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1805077, "provable_from": false, "ticker": "EOSE", "title": "Eos Energy Enterprises, Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1805077, "provable_from": false, "ticker": "EOSER", "title": "Eos Energy Enterprises, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1805077, "provable_from": true, "ticker": "EOSER", "title": "Eos Energy Enterprises, Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1805284, "provable_from": false, "ticker": "RKT", "title": "Rocket Companies, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1805385, "provable_from": false, "ticker": "EVLV", "title": "Evolv Technologies Holdings, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1805385, "provable_from": true, "ticker": "EVLVW", "title": "Evolv Technologies Holdings, Inc.", "valid_from": "2026-07-29", "valid_to": "2026-07-31"}
 {"cik": 1805521, "provable_from": false, "ticker": "FFAI", "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1805521, "provable_from": false, "ticker": "FFAIW", "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 1805521, "provable_from": true, "ticker": "FFAIW", "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1805526, "provable_from": false, "ticker": "DFDV", "title": "DeFi Development Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1805526, "provable_from": false, "ticker": "DFDVW", "title": "DeFi Development Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1805526, "provable_from": false, "ticker": "DFUKF", "title": "DeFi Development Corp.", "valid_from": "2026-07-28", "valid_to": null}
@@ -6174,7 +6171,7 @@
 {"cik": 1888525, "provable_from": true, "ticker": "MF", "title": "MindForge Inc.", "valid_from": "2026-07-31", "valid_to": null}
 {"cik": 1888525, "provable_from": false, "ticker": "UBXG", "title": "MindForge Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1888525, "provable_from": true, "ticker": "UBXG", "title": "U-BX Technology Ltd.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1888525, "provable_from": true, "ticker": "UBXG", "title": "MindForge Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1888525, "provable_from": true, "ticker": "UBXG", "title": "MindForge Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1888654, "provable_from": false, "ticker": "FEAM", "title": "5E Advanced Materials, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1888654, "provable_from": false, "ticker": "FEAV", "title": "5E Advanced Materials, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1888740, "provable_from": false, "ticker": "LSEB", "title": "LSEB Creative Corp.", "valid_from": "2026-07-28", "valid_to": null}
@@ -6328,10 +6325,10 @@
 {"cik": 1906364, "provable_from": true, "ticker": "FGMC", "title": "FG Merger II Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
 {"cik": 1906364, "provable_from": false, "ticker": "FGMCR", "title": "BOXABL Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1906364, "provable_from": true, "ticker": "FGMCR", "title": "FG Merger II Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1906364, "provable_from": true, "ticker": "FGMCR", "title": "BOXABL Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1906364, "provable_from": true, "ticker": "FGMCR", "title": "BOXABL Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1906364, "provable_from": false, "ticker": "FGMCU", "title": "BOXABL Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 1906364, "provable_from": true, "ticker": "FGMCU", "title": "FG Merger II Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 1906364, "provable_from": true, "ticker": "FGMCU", "title": "BOXABL Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 1906364, "provable_from": true, "ticker": "FGMCU", "title": "BOXABL Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 1907085, "provable_from": false, "ticker": "ODD", "title": "Oddity Tech Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1907108, "provable_from": false, "ticker": "LXEO", "title": "Lexeo Therapeutics, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1907184, "provable_from": false, "ticker": "ELBM", "title": "Electra Battery Materials Corp", "valid_from": "2026-07-28", "valid_to": null}
@@ -6932,8 +6929,8 @@
 {"cik": 2000410, "provable_from": false, "ticker": "EURKU", "title": "Eureka Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2000530, "provable_from": false, "ticker": "GMHS", "title": "Gamehaus Holdings Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2000638, "provable_from": false, "ticker": "ETHA", "title": "iShares Ethereum Trust ETF", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2000684, "provable_from": true, "ticker": "DHGR", "title": "Devonian Health Group Inc.", "valid_from": "2026-08-04", "valid_to": null}
-{"cik": 2000684, "provable_from": true, "ticker": "DVHGF", "title": "Devonian Health Group Inc.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2000684, "provable_from": false, "ticker": "DHGR", "title": "Devonian Health Group Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 2000684, "provable_from": false, "ticker": "DVHGF", "title": "Devonian Health Group Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2000756, "provable_from": false, "ticker": "KWM", "title": "K Wave Media Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2000756, "provable_from": false, "ticker": "KWMWW", "title": "K Wave Media Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2000775, "provable_from": false, "ticker": "BKHA", "title": "Black Hawk Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
@@ -7017,7 +7014,7 @@
 {"cik": 2011514, "provable_from": false, "ticker": "AVR", "title": "Anteris Technologies Global Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2011535, "provable_from": false, "ticker": "EZET", "title": "Franklin Ethereum Trust", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2011589, "provable_from": false, "ticker": "MOGMF", "title": "Mogotes Metals Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2011617, "provable_from": true, "ticker": "SINI", "title": "SIERRA INTERNATIONAL NETWORK INC", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2011617, "provable_from": false, "ticker": "SINI", "title": "SIERRA INTERNATIONAL NETWORK INC", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2011641, "provable_from": false, "ticker": "FERG", "title": "Ferguson Enterprises Inc. /DE/", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2011674, "provable_from": false, "ticker": "YDES", "title": "YD Bio Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2011674, "provable_from": false, "ticker": "YDESW", "title": "YD Bio Ltd", "valid_from": "2026-07-28", "valid_to": null}
@@ -7071,7 +7068,7 @@
 {"cik": 2016072, "provable_from": true, "ticker": "MBAV", "title": "Velos Acquisition I Corp.", "valid_from": "2026-07-31", "valid_to": null}
 {"cik": 2016072, "provable_from": false, "ticker": "MBAVU", "title": "Velos Acquisition I Corp.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 2016072, "provable_from": true, "ticker": "MBAVU", "title": "M3-Brigade Acquisition V Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 2016072, "provable_from": true, "ticker": "MBAVU", "title": "Velos Acquisition I Corp.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 2016072, "provable_from": true, "ticker": "MBAVU", "title": "Velos Acquisition I Corp.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 2016072, "provable_from": false, "ticker": "MBAVW", "title": "Velos Acquisition I Corp.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 2016072, "provable_from": true, "ticker": "MBAVW", "title": "M3-Brigade Acquisition V Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
 {"cik": 2016072, "provable_from": true, "ticker": "MBAVW", "title": "Velos Acquisition I Corp.", "valid_from": "2026-07-31", "valid_to": null}
@@ -7152,8 +7149,8 @@
 {"cik": 2023730, "provable_from": false, "ticker": "HDRN", "title": "Hadron Energy, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2023730, "provable_from": false, "ticker": "HDRNW", "title": "Hadron Energy, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2023796, "provable_from": false, "ticker": "FCHL", "title": "Fitness Champs Holdings Ltd", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2023870, "provable_from": false, "ticker": "LACHF", "title": "Lapco Holdings Limited/ADR", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
-{"cik": 2023870, "provable_from": false, "ticker": "LPCHY", "title": "Lapco Holdings Limited/ADR", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 2023870, "provable_from": true, "ticker": "LACHF", "title": "Lapco Holdings Limited/ADR", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2023870, "provable_from": true, "ticker": "LPCHY", "title": "Lapco Holdings Limited/ADR", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 2024114, "provable_from": false, "ticker": "TGHL", "title": "GrowHub Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2024203, "provable_from": false, "ticker": "CAPN", "title": "Cayson Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2024203, "provable_from": false, "ticker": "CAPNR", "title": "Cayson Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
@@ -7274,10 +7271,10 @@
 {"cik": 2030663, "provable_from": false, "ticker": "SZZLR", "title": "Sizzle Acquisition Corp. II", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2030663, "provable_from": false, "ticker": "SZZLU", "title": "Sizzle Acquisition Corp. II", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2030763, "provable_from": false, "ticker": "MEDS", "title": "Wellgistics Health, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
-{"cik": 2030763, "provable_from": true, "ticker": "MEDS", "title": "Wellgistics Health, Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
-{"cik": 2030763, "provable_from": true, "ticker": "MEDS", "title": "DataMeds AI, Inc.", "valid_from": "2026-08-04", "valid_to": null}
-{"cik": 2030763, "provable_from": false, "ticker": "WGRX", "title": "Wellgistics Health, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
-{"cik": 2030763, "provable_from": true, "ticker": "WGRX", "title": "DataMeds AI, Inc.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2030763, "provable_from": true, "ticker": "MEDS", "title": "DataMeds AI, Inc.", "valid_from": "2026-07-31", "valid_to": "2026-08-04"}
+{"cik": 2030763, "provable_from": true, "ticker": "MEDS", "title": "Wellgistics Health, Inc.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2030763, "provable_from": false, "ticker": "WGRX", "title": "DataMeds AI, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 2030763, "provable_from": true, "ticker": "WGRX", "title": "Wellgistics Health, Inc.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 2030781, "provable_from": false, "ticker": "SAIL", "title": "SailPoint, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2030829, "provable_from": false, "ticker": "PGAC", "title": "PANTAGES CAPITAL ACQUISITION Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2030829, "provable_from": false, "ticker": "PGACR", "title": "PANTAGES CAPITAL ACQUISITION Corp", "valid_from": "2026-07-28", "valid_to": null}
@@ -7416,7 +7413,7 @@
 {"cik": 2041047, "provable_from": false, "ticker": "CCAQ", "title": "COLLECTIVE ACQUISITION CORP.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2041047, "provable_from": false, "ticker": "CCAQU", "title": "COLLECTIVE ACQUISITION CORP.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2041047, "provable_from": false, "ticker": "CCAQW", "title": "COLLECTIVE ACQUISITION CORP.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2041208, "provable_from": true, "ticker": "TREO", "title": "Plum III Merger Corp.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2041208, "provable_from": false, "ticker": "TREO", "title": "Plum III Merger Corp.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2041338, "provable_from": false, "ticker": "TDIC", "title": "Dreamland Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2041385, "provable_from": false, "ticker": "RAL", "title": "Ralliant Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2041493, "provable_from": false, "ticker": "ALUB", "title": "Alussa Energy Acquisition Corp. II", "valid_from": "2026-07-28", "valid_to": null}
@@ -7504,7 +7501,7 @@
 {"cik": 2047177, "provable_from": false, "ticker": "CHEC", "title": "Chenghe Acquisition III Co.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2047177, "provable_from": false, "ticker": "CHECU", "title": "Chenghe Acquisition III Co.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2047177, "provable_from": false, "ticker": "CHECW", "title": "Chenghe Acquisition III Co.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2047190, "provable_from": false, "ticker": "TCGL", "title": "TechCreate Group Ltd.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 2047190, "provable_from": true, "ticker": "TCGL", "title": "TechCreate Group Ltd.", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 2047190, "provable_from": false, "ticker": "TCGLF", "title": "TechCreate Group Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2047235, "provable_from": false, "ticker": "WSBK", "title": "Winchester Bancorp, Inc./MD/", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2047273, "provable_from": false, "ticker": "BUUU", "title": "BUUU Group Ltd", "valid_from": "2026-07-28", "valid_to": null}
@@ -8473,8 +8470,7 @@
 {"cik": 2100603, "provable_from": false, "ticker": "MPJPY", "title": "Metaplanet Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2100603, "provable_from": false, "ticker": "MTPLF", "title": "Metaplanet Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2100704, "provable_from": false, "ticker": "EWAV", "title": "East West Ave Acquisition Corp.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2100704, "provable_from": true, "ticker": "EWAVU", "title": "East West Ave Acquisition Corp.", "valid_from": "2026-07-30", "valid_to": "2026-07-31"}
-{"cik": 2100704, "provable_from": true, "ticker": "EWAVU", "title": "East West Ave Acquisition Corp.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2100704, "provable_from": true, "ticker": "EWAVU", "title": "East West Ave Acquisition Corp.", "valid_from": "2026-07-30", "valid_to": "2026-08-04"}
 {"cik": 2100782, "provable_from": false, "ticker": "GENB", "title": "Generate Biomedicines, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2100805, "provable_from": false, "ticker": "JAN", "title": "Janus Living, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2100835, "provable_from": false, "ticker": "NYB", "title": "NYB Holdings Ltd", "valid_from": "2026-07-28", "valid_to": null}
@@ -8638,13 +8634,13 @@
 {"cik": 2113605, "provable_from": false, "ticker": "CHWM", "title": "Chilwa Minerals Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2113853, "provable_from": false, "ticker": "TELYF", "title": "TELYRX HOLDINGS INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2114044, "provable_from": false, "ticker": "COAG", "title": "Hemab Therapeutics Holdings, Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2114145, "provable_from": true, "ticker": "TRCX", "title": "TracX Logis Pte. Ltd.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2114145, "provable_from": false, "ticker": "TRCX", "title": "TracX Logis Pte. Ltd.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2114227, "provable_from": false, "ticker": "CXII", "title": "Churchill Capital Corp XII", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2114227, "provable_from": false, "ticker": "CXIIU", "title": "Churchill Capital Corp XII", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2114227, "provable_from": false, "ticker": "CXIIW", "title": "Churchill Capital Corp XII", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2114229, "provable_from": false, "ticker": "XIII", "title": "Churchill Capital Corp XIII", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 2114229, "provable_from": true, "ticker": "XIII", "title": "Churchill Capital Corp XIII", "valid_from": "2026-07-31", "valid_to": null}
-{"cik": 2114229, "provable_from": true, "ticker": "XIIIU", "title": "Churchill Capital Corp XIII", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2114229, "provable_from": false, "ticker": "XIIIU", "title": "Churchill Capital Corp XIII", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2114463, "provable_from": false, "ticker": "APBD", "title": "AParadise II Acquisition Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2115027, "provable_from": false, "ticker": "BAGZ", "title": "Cryptex Digital Market Cap ETF", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2115119, "provable_from": false, "ticker": "CLBK", "title": "Columbia Financial, Inc./MD/", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
@@ -8655,14 +8651,14 @@
 {"cik": 2115436, "provable_from": false, "ticker": "XOM", "title": "ExxonMobil Holdings Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2115899, "provable_from": false, "ticker": "LTAFF", "title": "Lithium Africa Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2116105, "provable_from": false, "ticker": "FWAC", "title": "Futurewave Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2116105, "provable_from": true, "ticker": "FWACR", "title": "Futurewave Acquisition Corp", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2116105, "provable_from": false, "ticker": "FWACR", "title": "Futurewave Acquisition Corp", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2116105, "provable_from": false, "ticker": "FWACU", "title": "Futurewave Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2116105, "provable_from": true, "ticker": "FWACW", "title": "Futurewave Acquisition Corp", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2116105, "provable_from": false, "ticker": "FWACW", "title": "Futurewave Acquisition Corp", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2116230, "provable_from": false, "ticker": "NCO", "title": "Southern Cross Acquisition I Corp.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2116230, "provable_from": true, "ticker": "NCOOR", "title": "Southern Cross Acquisition I Corp.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2116230, "provable_from": false, "ticker": "NCOOR", "title": "Southern Cross Acquisition I Corp.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2116230, "provable_from": false, "ticker": "NCOOU", "title": "Southern Cross Acquisition I Corp.", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
 {"cik": 2116230, "provable_from": true, "ticker": "NCOOU", "title": "Southern Cross Acquisition I Corp.", "valid_from": "2026-07-31", "valid_to": null}
-{"cik": 2116230, "provable_from": true, "ticker": "NCOOW", "title": "Southern Cross Acquisition I Corp.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2116230, "provable_from": false, "ticker": "NCOOW", "title": "Southern Cross Acquisition I Corp.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2116276, "provable_from": false, "ticker": "BEJEF", "title": "Beijer Ref AB/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2117197, "provable_from": false, "ticker": "CMPLY", "title": "Com7 PCL/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 21175, "provable_from": false, "ticker": "CNA", "title": "CNA FINANCIAL CORP", "valid_from": "2026-07-28", "valid_to": null}
@@ -8696,10 +8692,10 @@
 {"cik": 2123372, "provable_from": false, "ticker": "WXILY", "title": "Wuxi Lead Intelligent Equipment Co., Ltd./ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2123471, "provable_from": false, "ticker": "CCCT", "title": "Columbus Circle Capital Corp III", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2123471, "provable_from": false, "ticker": "CCCTU", "title": "Columbus Circle Capital Corp III", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2123471, "provable_from": true, "ticker": "CCCTW", "title": "Columbus Circle Capital Corp III", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2123471, "provable_from": false, "ticker": "CCCTW", "title": "Columbus Circle Capital Corp III", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2123475, "provable_from": false, "ticker": "ISNR", "title": "Snow Rothschild Acquisition Corp.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2123475, "provable_from": false, "ticker": "ISNRU", "title": "Snow Rothschild Acquisition Corp.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2123475, "provable_from": true, "ticker": "ISNRW", "title": "Snow Rothschild Acquisition Corp.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2123475, "provable_from": false, "ticker": "ISNRW", "title": "Snow Rothschild Acquisition Corp.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2123524, "provable_from": false, "ticker": "MUYNY", "title": "Muyuan Foods Co. Ltd/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2123531, "provable_from": false, "ticker": "EBGCY", "title": "Eastroc Beverage Group Co. Ltd/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2123531, "provable_from": false, "ticker": "ERBGF", "title": "Eastroc Beverage Group Co. Ltd/ADR", "valid_from": "2026-07-28", "valid_to": null}
@@ -8795,7 +8791,7 @@
 {"cik": 2134539, "provable_from": false, "ticker": "ITHEY", "title": "Ithaca Energy PLC/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2134539, "provable_from": false, "ticker": "ITHLF", "title": "Ithaca Energy PLC/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2134552, "provable_from": false, "ticker": "ULIT", "title": "US Elemental Inc.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2134856, "provable_from": true, "ticker": "XTER", "title": "Karman Line Acquisition Corp.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2134856, "provable_from": false, "ticker": "XTER", "title": "Karman Line Acquisition Corp.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2135163, "provable_from": false, "ticker": "ATAC", "title": "Albatross Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2135894, "provable_from": false, "ticker": "SXZTY", "title": "Shanghai Xizhi Technology Co., Ltd./ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2135939, "provable_from": false, "ticker": "NORT", "title": "Norient Acquisition", "valid_from": "2026-07-28", "valid_to": null}
@@ -8827,7 +8823,7 @@
 {"cik": 2141099, "provable_from": false, "ticker": "RGKUY", "title": "Rigaku Holdings Corporation/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2142762, "provable_from": false, "ticker": "ORCRY", "title": "Organo Corporation/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2142762, "provable_from": false, "ticker": "ORGJF", "title": "Organo Corporation/ADR", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 2143673, "provable_from": true, "ticker": "UROY", "title": "Uranium Royalty Corp.", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 2143673, "provable_from": false, "ticker": "UROY", "title": "Uranium Royalty Corp.", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
 {"cik": 2144745, "provable_from": false, "ticker": "BSUDY", "title": "Bradsaude S.A./ADR", "valid_from": "2026-07-28", "valid_to": "2026-07-29"}
 {"cik": 2144745, "provable_from": true, "ticker": "BSUDY", "title": "Bradsaude S.A./ADR", "valid_from": "2026-07-31", "valid_to": null}
 {"cik": 2144751, "provable_from": false, "ticker": "CPTKF", "title": "Capital Tankers Corp./ADR", "valid_from": "2026-07-28", "valid_to": "2026-07-30"}
@@ -9161,7 +9157,7 @@
 {"cik": 48287, "provable_from": false, "ticker": "HNI", "title": "HNI CORP", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 48465, "provable_from": false, "ticker": "HRL", "title": "HORMEL FOODS CORP /DE/", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 48898, "provable_from": false, "ticker": "HUBB", "title": "HUBBELL INC", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 4904, "provable_from": false, "ticker": "AEP", "title": "AMERICAN ELECTRIC POWER CO INC", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 4904, "provable_from": true, "ticker": "AEP", "title": "AMERICAN ELECTRIC POWER CO INC", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 49071, "provable_from": false, "ticker": "HUM", "title": "HUMANA INC", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 49196, "provable_from": false, "ticker": "HBAN", "title": "HUNTINGTON BANCSHARES INC /MD/", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 49196, "provable_from": false, "ticker": "HBANL", "title": "HUNTINGTON BANCSHARES INC /MD/", "valid_from": "2026-07-28", "valid_to": null}
@@ -9864,8 +9860,8 @@
 {"cik": 827054, "provable_from": false, "ticker": "MCHPP", "title": "MICROCHIP TECHNOLOGY INC", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 827099, "provable_from": false, "ticker": "CPWR", "title": "Ocean Thermal Energy Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 827187, "provable_from": false, "ticker": "SNBRQ", "title": "Sleep Number Corp", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 827773, "provable_from": false, "ticker": "PPT", "title": "PUTNAM PREMIER INCOME TRUST", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
-{"cik": 827773, "provable_from": true, "ticker": "PPT", "title": "FRANKLIN PREMIER INCOME TRUST", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 827773, "provable_from": false, "ticker": "PPT", "title": "FRANKLIN PREMIER INCOME TRUST", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 827773, "provable_from": true, "ticker": "PPT", "title": "PUTNAM PREMIER INCOME TRUST", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 827876, "provable_from": false, "ticker": "CLSK", "title": "CLEANSPARK, INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 827876, "provable_from": false, "ticker": "CLSKW", "title": "CLEANSPARK, INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 82811, "provable_from": false, "ticker": "RRX", "title": "REGAL REXNORD CORP", "valid_from": "2026-07-28", "valid_to": null}
@@ -10307,8 +10303,8 @@
 {"cik": 897322, "provable_from": false, "ticker": "GILT", "title": "GILAT SATELLITE NETWORKS LTD", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 897419, "provable_from": false, "ticker": "NMT", "title": "NUVEEN MASSACHUSETTS QUALITY MUNICIPAL INCOME FUND", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 897421, "provable_from": false, "ticker": "NPV", "title": "NUVEEN VIRGINIA QUALITY MUNICIPAL INCOME FUND", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 897448, "provable_from": false, "ticker": "AMRN", "title": "AMARIN CORP PLC\\UK", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
-{"cik": 897448, "provable_from": true, "ticker": "AMRN", "title": "AMARIN CORP PLCUK", "valid_from": "2026-08-04", "valid_to": null}
+{"cik": 897448, "provable_from": false, "ticker": "AMRN", "title": "AMARIN CORP PLCUK", "valid_from": "2026-07-28", "valid_to": "2026-08-04"}
+{"cik": 897448, "provable_from": true, "ticker": "AMRN", "title": "AMARIN CORP PLC\\UK", "valid_from": "2026-08-04", "valid_to": null}
 {"cik": 897723, "provable_from": false, "ticker": "SANM", "title": "SANMINA CORP", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 897802, "provable_from": false, "ticker": "SPE", "title": "SPECIAL OPPORTUNITIES FUND, INC.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 897802, "provable_from": false, "ticker": "SPE-PC", "title": "SPECIAL OPPORTUNITIES FUND, INC.", "valid_from": "2026-07-28", "valid_to": null}

@@ -1638,6 +1638,7 @@
 {"category": "G", "etf": "Y", "name": "iShares MSCI New Zealand ETF", "provable_from": false, "test_issue": "N", "ticker": "ENZL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Evolus, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EOLS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EOSE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "EOSEW", "valid_from": "2026-08-04", "valid_to": null}
 {"category": "S", "etf": "N", "name": "E-Power Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "EPOW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EPRX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Epsium Enterprise Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "EPSM", "valid_from": "2026-07-28", "valid_to": null}
@@ -1777,7 +1778,9 @@
 {"category": "G", "etf": "Y", "name": "Fidelity Crypto Industry and Digital Payments ETF", "provable_from": false, "test_issue": "N", "ticker": "FDIG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco Bloomberg Financial Data Providers ETF", "provable_from": false, "test_issue": "N", "ticker": "FDIQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "MarketDesk Focused U.S. Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "FDIV", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Freedom Metals Acquisition Corp. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "FDMM", "valid_from": "2026-08-04", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Freedom Metals Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "FDMMU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Freedom Metals Acquisition Corp. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "FDMMW", "valid_from": "2026-08-04", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "4D Molecular Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FDMT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust Dow Jones International Internet ETF", "provable_from": false, "test_issue": "N", "ticker": "FDNI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Founder-Led ETF", "provable_from": false, "test_issue": "N", "ticker": "FDRS", "valid_from": "2026-07-28", "valid_to": null}
@@ -1846,6 +1849,7 @@
 {"category": "G", "etf": "Y", "name": "First Trust Smith Opportunistic Fixed Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FIXD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST 20Y Treasuries ETF", "provable_from": false, "test_issue": "N", "ticker": "FIYY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "National Beverage Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FIZZ", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Units", "provable_from": true, "test_issue": "N", "ticker": "FJDIU", "valid_from": "2026-08-04", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust Japan AlphaDEX Fund", "provable_from": false, "test_issue": "N", "ticker": "FJP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust United Kingdom AlphaDEX Fund", "provable_from": false, "test_issue": "N", "ticker": "FKU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Franklin Wireless Corp. - common stock", "provable_from": false, "test_issue": "N", "ticker": "FKWL", "valid_from": "2026-07-28", "valid_to": null}
@@ -3600,6 +3604,7 @@
 {"category": "G", "etf": "N", "name": "Orchestra BioMed Holdings, Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "OBIO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Orange County Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OBT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Osprey Bitcoin Trust", "provable_from": false, "test_issue": "N", "ticker": "OBTC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Obsidian Therapeutics, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "OBX", "valid_from": "2026-08-04", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Optical Cable Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OCC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "OFS Credit Company, Inc. - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "OCCI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "OCCIM", "valid_from": "2026-07-28", "valid_to": null}
@@ -4885,6 +4890,7 @@
 {"category": "S", "etf": "N", "name": "TG Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TGTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Target Hospitality Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "TH International Limited - Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "THCH", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "BOA Acquisition Corp. II - Units", "provable_from": true, "test_issue": "N", "ticker": "THEOU", "valid_from": "2026-08-04", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Financial Corporation  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "THFF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "TryHard Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "THH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Lazard Equity Megatrends ETF", "provable_from": false, "test_issue": "N", "ticker": "THMZ", "valid_from": "2026-07-28", "valid_to": null}

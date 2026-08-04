@@ -1626,6 +1626,7 @@
 {"category": "G", "etf": "Y", "name": "iShares MSCI New Zealand ETF", "test_issue": "N", "ticker": "ENZL"}
 {"category": "G", "etf": "N", "name": "Evolus, Inc. - Common Stock", "test_issue": "N", "ticker": "EOLS"}
 {"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Common Stock", "test_issue": "N", "ticker": "EOSE"}
+{"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Warrant", "test_issue": "N", "ticker": "EOSEW"}
 {"category": "S", "etf": "N", "name": "E-Power Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "EPOW"}
 {"category": "S", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "test_issue": "N", "ticker": "EPRX"}
 {"category": "S", "etf": "N", "name": "Epsium Enterprise Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "EPSM"}
@@ -1765,7 +1766,9 @@
 {"category": "G", "etf": "Y", "name": "Fidelity Crypto Industry and Digital Payments ETF", "test_issue": "N", "ticker": "FDIG"}
 {"category": "G", "etf": "Y", "name": "Invesco Bloomberg Financial Data Providers ETF", "test_issue": "N", "ticker": "FDIQ"}
 {"category": "G", "etf": "Y", "name": "MarketDesk Focused U.S. Dividend ETF", "test_issue": "N", "ticker": "FDIV"}
+{"category": "G", "etf": "N", "name": "Freedom Metals Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "FDMM"}
 {"category": "G", "etf": "N", "name": "Freedom Metals Acquisition Corp. - Units", "test_issue": "N", "ticker": "FDMMU"}
+{"category": "G", "etf": "N", "name": "Freedom Metals Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "FDMMW"}
 {"category": "Q", "etf": "N", "name": "4D Molecular Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "FDMT"}
 {"category": "G", "etf": "Y", "name": "First Trust Dow Jones International Internet ETF", "test_issue": "N", "ticker": "FDNI"}
 {"category": "G", "etf": "Y", "name": "Founder-Led ETF", "test_issue": "N", "ticker": "FDRS"}
@@ -1834,6 +1837,7 @@
 {"category": "G", "etf": "Y", "name": "First Trust Smith Opportunistic Fixed Income ETF", "test_issue": "N", "ticker": "FIXD"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST 20Y Treasuries ETF", "test_issue": "N", "ticker": "FIYY"}
 {"category": "Q", "etf": "N", "name": "National Beverage Corp. - Common Stock", "test_issue": "N", "ticker": "FIZZ"}
+{"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Units", "test_issue": "N", "ticker": "FJDIU"}
 {"category": "G", "etf": "Y", "name": "First Trust Japan AlphaDEX Fund", "test_issue": "N", "ticker": "FJP"}
 {"category": "G", "etf": "Y", "name": "First Trust United Kingdom AlphaDEX Fund", "test_issue": "N", "ticker": "FKU"}
 {"category": "S", "etf": "N", "name": "Franklin Wireless Corp. - common stock", "test_issue": "N", "ticker": "FKWL"}
@@ -3579,6 +3583,7 @@
 {"category": "G", "etf": "N", "name": "Orchestra BioMed Holdings, Inc. - Ordinary Shares", "test_issue": "N", "ticker": "OBIO"}
 {"category": "S", "etf": "N", "name": "Orange County Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "OBT"}
 {"category": "G", "etf": "Y", "name": "Osprey Bitcoin Trust", "test_issue": "N", "ticker": "OBTC"}
+{"category": "S", "etf": "N", "name": "Obsidian Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "OBX"}
 {"category": "G", "etf": "N", "name": "Optical Cable Corporation - Common Stock", "test_issue": "N", "ticker": "OCC"}
 {"category": "S", "etf": "N", "name": "OFS Credit Company, Inc. - Closed End Fund", "test_issue": "N", "ticker": "OCCI"}
 {"category": "S", "etf": "N", "name": "OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock", "test_issue": "N", "ticker": "OCCIM"}
@@ -4859,6 +4864,7 @@
 {"category": "S", "etf": "N", "name": "TG Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "TGTX"}
 {"category": "S", "etf": "N", "name": "Target Hospitality Corp. - Common Stock", "test_issue": "N", "ticker": "TH"}
 {"category": "S", "etf": "N", "name": "TH International Limited - Ordinary shares", "test_issue": "N", "ticker": "THCH"}
+{"category": "G", "etf": "N", "name": "BOA Acquisition Corp. II - Units", "test_issue": "N", "ticker": "THEOU"}
 {"category": "Q", "etf": "N", "name": "First Financial Corporation  - Common Stock", "test_issue": "N", "ticker": "THFF"}
 {"category": "S", "etf": "N", "name": "TryHard Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "THH"}
 {"category": "G", "etf": "Y", "name": "Lazard Equity Megatrends ETF", "test_issue": "N", "ticker": "THMZ"}
