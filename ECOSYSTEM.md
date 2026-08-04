@@ -21,6 +21,8 @@ imports no member's artifacts through a manifest, publishes none, and carries no
 here only so the next reader does not have to re-derive that. If it is ever wired to Stock-Grader
 output it becomes a presentation layer and needs a row above, a manifest contract, and a licensing
 review — a Finnhub-derived panel may not reach it.
+**Archived 2026-08-03** per the audit recommendation: read-only, still publicly visible as a
+portfolio piece; unarchive is a one-click reversal if it is ever demoed or wired up again.
 
 ## Rules
 
@@ -80,6 +82,15 @@ review — a Finnhub-derived panel may not reach it.
   direction. Gap surfaced: `frozen_scores/` panels carry NO manifest.json —
   consumers gate on the panel's own `schema_version` column; a per-profile
   manifest is follow-up work for the grader.
+- **2026-08-03** — Repo-security pass: `protect-main` rulesets (block branch
+  deletion and non-fast-forward pushes on `main`) are active on all four
+  PUBLIC repos; Dependabot (pip + github-actions, weekly) and vulnerability
+  alerts enabled ecosystem-wide. **Residual gap:** the rulesets API returns
+  403 for the PRIVATE repos (Stock-Vault, Stock-Market-Sim) on the free plan,
+  so their `main` branches remain force-pushable and deletable by anyone with
+  push access — the vault journals' append-only guarantee rests on token
+  hygiene until a plan upgrade (or making the repo public, which Stock-Vault
+  must never do) closes it.
 - **2026-08-03** — DECLINED: using the sim as a differential test oracle for
   the code that replays `paper.target_portfolio` (the long-standing "sim as
   oracle for the shadow replay" variant). Three reasons. (1) The replay is
