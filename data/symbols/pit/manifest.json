@@ -1,5 +1,6 @@
 {
   "derivation": "pure function of data/symbols/current + data/symbols/events: the event stream replayed backward from the current snapshot at every event date, diffed into intervals; rebuilt in full on every publish",
+  "event_ordering": "events are un-applied newest-first by (date, position in the append-only events.jsonl); two snapshot runs on one UTC day emit two same-date events for one identity key, and the second must be reversed first",
   "files": [
     {
       "bytes": 1063815,
@@ -14,19 +15,19 @@
       "sha256": "8f0de4a6c2599eee2836c9ba4b6f0be764245b60b97a1724deee98d0fb66f807"
     },
     {
-      "bytes": 1511014,
+      "bytes": 1501451,
       "name": "sec_company_tickers.jsonl",
-      "rows": 10732,
-      "sha256": "0d29a0784f495106eccf4b145452842a421d3eac07031c2913b17d9f4f972510"
+      "rows": 10667,
+      "sha256": "89c9db709eeb2cc84687a89d3328e46d5157b0658801ce94275ef832e83b4780"
     },
     {
-      "bytes": 1736446,
+      "bytes": 1732674,
       "name": "sec_company_tickers_exchange.jsonl",
-      "rows": 10764,
-      "sha256": "027ff3f3077923a1b7ec20cba1b827687b63ffa8ddbf78bd7daef6dd3015997d"
+      "rows": 10742,
+      "sha256": "3356a73b1ac925bad838f44c0cc0920187a19bf3f80c60030a716f5ad79c98f1"
     }
   ],
-  "generated_at_utc": "2026-08-04T14:53:44Z",
+  "generated_at_utc": "2026-08-04T23:14:56Z",
   "input_sha256": {
     "data/symbols/current/nasdaqlisted.jsonl": "2dc03d470ebe2105f6f75db2dfe09936c36508c821828a6496912b54b9681cf7",
     "data/symbols/current/otherlisted.jsonl": "4493156343b530759e0266d1c3a0e19bc906b5f4f4a1e7e440d4268fab5aae63",
@@ -38,6 +39,13 @@
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "provable_from_note": "false = the row was already present at the archive boundary (reconstructable_from); its true start predates the event archive and is NOT provable from this dataset. true = the interval opens with an archived event.",
   "reconstructable_from": "2026-07-28",
+  "reconstructable_from_by_source": {
+    "nasdaqlisted": "2026-07-28",
+    "otherlisted": "2026-07-28",
+    "sec_company_tickers": "2026-07-28",
+    "sec_company_tickers_exchange": "2026-07-28"
+  },
+  "reconstructable_from_note": "reconstructable_from_by_source is the honest per-source floor: max(archive boundary, the date that source was first snapshotted). The scalar reconstructable_from is the latest of those \u2014 the conservative whole-dataset floor for consumers that do not read the per-source map. Refuse any asof earlier than a source's floor.",
   "schema_version": "1.0",
   "source_urls": [
     "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",

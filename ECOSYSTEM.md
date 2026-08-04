@@ -8,7 +8,7 @@ any member repo reads this before cross-project work.
 
 | Project | Role | Talks to |
 |---|---|---|
-| **Stock-Data** | Data foundry: the ONLY project that fetches external sources. Archives point-in-time snapshots, reconstructs corporate actions, publishes versioned datasets. | Sources → publishes artifacts |
+| **Stock-Data** | Data foundry: the only project that fetches PUBLIC-DOMAIN sources for redistribution. Archives point-in-time snapshots, reconstructs corporate actions, publishes versioned datasets. Restricted-source collection is NOT here — it lives in Stock-Vault (rule 5), and moving it here would be a licensing breach, not a cleanup. | Sources → publishes artifacts |
 | **Stock-Grader** | System of record for grading methodology. Consumes foundry artifacts, produces score panels and research dossiers. Home of the backtest evaluator and its attestations. | Foundry artifacts → publishes reports/panels |
 | **Stock-Vault** | Private twin of the foundry: collectors for sources whose terms forbid redistribution (Massive/Polygon EOD, IBKR borrow, Finnhub recs, SSGA, FINRA, delisted cohorts). ALSO the ecosystem's execution layer — the ONLY order path: the Alpaca **paper** trader (`src/stock_vault/paper.py`, paper endpoint only per rule 8, run by `paper-trader.yml`) with its append-only journal, plus the shadow/control arms that replay it. **Must never be made public.** | Restricted sources → private archives; reads Grader panels as artifacts; paper orders → Alpaca paper endpoint only |
 | **TickerPulse** | Sentiment/attention signal source. Its derived per-ticker daily metrics are archived by the foundry (raw social content is not). | Sources → foundry archives its metrics |
