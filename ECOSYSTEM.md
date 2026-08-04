@@ -80,3 +80,20 @@ review — a Finnhub-derived panel may not reach it.
   direction. Gap surfaced: `frozen_scores/` panels carry NO manifest.json —
   consumers gate on the panel's own `schema_version` column; a per-profile
   manifest is follow-up work for the grader.
+- **2026-08-03** — DECLINED: using the sim as a differential test oracle for
+  the code that replays `paper.target_portfolio` (the long-standing "sim as
+  oracle for the shadow replay" variant). Three reasons. (1) The replay is
+  Stock-Vault's `shadow.py`, which imports and calls `target_portfolio`
+  directly; its economic core is ~50 lines of next-close ± 5 bps arithmetic
+  already covered by 19 targeted tests, including rules-parity (a monkeypatch
+  proves shadow calls the pre-registered function), byte-identical rebuild,
+  the rebalance band, no-margin failed legs, splits, and stale write-downs.
+  (2) Structural mismatch: the sim's `Position.quantity` is int whole shares
+  while shadow fills fractional quantities from notional sizing
+  (`qty = spend / fill_px`), so an oracle comparison needs either a core sim
+  type change or rounding that makes disagreements ambiguous. (3) Rule 1
+  forbids cross-repo code imports, and an artifact handshake is
+  disproportionate machinery for a ~50-line target. The idea's defensible
+  kernel — generative invariant checking of shadow's float accounting — is
+  captured instead as hypothesis property tests inside Stock-Vault, mirroring
+  the sim's test PATTERN, not its code. Do not resurface the oracle variant.
