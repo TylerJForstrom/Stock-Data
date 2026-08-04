@@ -19,16 +19,16 @@ jobs:
   snapshot:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       - name: Check out TickerPulse for its derived metrics
         # Public repo, so the default token reaches it. Only the archive/ tree is
         # read, and only reviewed aggregate fields cross into this repository —
         # see src/stock_data/tickerpulse.py.
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           repository: TylerJForstrom/TickerPulse
           path: tickerpulse
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: "3.12"
       - run: pip install -e .
@@ -46,6 +46,12 @@ jobs:
           # captured is gone. Bootstrap-guarded so the first run is not red.
           if [ -f data/sentiment/ticker_buckets/manifest.json ]; then
             stock-data check-staleness --max-age-days 3 data/sentiment/ticker_buckets
+          fi
+          # Cross-coverage for the weekly corporate-actions sweep, same guard
+          # as that workflow's own gate: armed only once the manifest declares
+          # an all-listed sweep (the legacy 3-ticker dataset must not alarm).
+          if grep -q '"tickers_failed"' data/corporate_actions/manifest.json 2>/dev/null; then
+            stock-data check-staleness --max-age-days 9 data/corporate_actions
           fi
       - name: Snapshot symbol directories
         if: always()
