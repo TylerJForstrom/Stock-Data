@@ -32,6 +32,7 @@ import pandas as pd
 
 from .http import FairAccessSession, atomic_write_text
 from .manifest import PUBLIC_DOMAIN_NOTE, write_manifest
+from .tickers import ticker_variants
 
 COMPANYFACTS_URL = "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik:010d}.json"
 TICKER_MAP_URL = "https://www.sec.gov/files/company_tickers.json"
@@ -441,12 +442,19 @@ def extract_for_company(facts: dict) -> tuple[list[DividendRecord], list[SplitEv
 
 
 def resolve_ciks(session: FairAccessSession, tickers: list[str]) -> dict[str, int]:
+    """Map tickers to CIKs, trying every spelling of a class share.
+
+    The SEC map stores the canonical dash form (ECOSYSTEM.md rule 7); callers
+    arrive with dot or space forms too, so each variant is tried in order.
+    """
     payload = json.loads(session.get(TICKER_MAP_URL).text)
     lookup = {row["ticker"].upper(): int(row["cik_str"]) for row in payload.values()}
     resolved = {}
     for ticker in tickers:
-        normalized = ticker.upper().replace(".", "-")
-        cik = lookup.get(ticker.upper()) or lookup.get(normalized)
+        cik = next(
+            (lookup[variant] for variant in ticker_variants(ticker) if variant in lookup),
+            None,
+        )
         if cik:
             resolved[ticker.upper()] = cik
     return resolved
