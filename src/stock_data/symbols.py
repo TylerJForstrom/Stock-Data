@@ -196,13 +196,24 @@ def snapshot(
     # reads these, so a single permanently broken source goes red instead of
     # hiding behind the manifest's always-fresh write timestamp.
     last_success: dict[str, str] = {}
+    # A source's first-ever snapshot date is its point-in-time floor: before
+    # it, the foundry never fetched the source, so nothing can be reconstructed
+    # for it (pit.build reads this). It is recorded ONLY on the first-ever
+    # snapshot — for a source already being archived when this began, the true
+    # date is unknown and asserting today's would be a lie in the other
+    # direction — and carried forward verbatim from then on.
+    first_observed: dict[str, str] = {}
     previous_manifest_path = os.path.join(current_dir, "manifest.json")
     if os.path.exists(previous_manifest_path):
         try:
             with open(previous_manifest_path, encoding="utf-8") as handle:
-                carried = json.load(handle).get("last_success")
+                previous_manifest = json.load(handle)
+            carried = previous_manifest.get("last_success")
             if isinstance(carried, dict):
                 last_success = {str(k): str(v) for k, v in carried.items()}
+            carried_first = previous_manifest.get("first_observed")
+            if isinstance(carried_first, dict):
+                first_observed = {str(k): str(v) for k, v in carried_first.items()}
         except (json.JSONDecodeError, OSError):
             pass
     for source, url in SOURCES.items():
@@ -227,6 +238,8 @@ def snapshot(
         all_events.extend(events)
         event_counts[source] = len(events)
         last_success[source] = today
+        if not had_previous:
+            first_observed.setdefault(source, today)
 
     events_path = os.path.join(events_dir, "events.jsonl")
     existing = ""
@@ -293,7 +306,12 @@ def snapshot(
         source_urls=list(SOURCES.values()),
         license_note=PUBLIC_DOMAIN_NOTE,
         row_counts=None,
-        extra={"snapshot_date": today, "failures": failures, "last_success": last_success},
+        extra={
+            "snapshot_date": today,
+            "failures": failures,
+            "last_success": last_success,
+            "first_observed": first_observed,
+        },
     )
     # Heartbeat updates every run — scheduled workflows are disabled by GitHub
     # after 60 days without commits, so the workflow commits this even when

@@ -36,28 +36,38 @@ jobs:
         # Run before collection so missed cadences make the scheduled run red.
         # The following always() steps still self-heal and publish the archive.
         run: |
-          stock-data check-staleness --max-age-days 2 data/symbols/current data/symbols/events
+          # Every clock reports independently. GitHub's default shell is
+          # `bash -e`, so a chained gate would abort at the FIRST stale dataset
+          # and skip every later check — silencing the cross-coverage clocks
+          # exactly when something is already broken, which is when they are
+          # the whole point. Same accumulator idiom as Stock-Grader's
+          # monthly-forward-backtest.yml: one refusal must not suppress the rest.
+          set -uo pipefail
+          set +e
+          rc=0
+          stock-data check-staleness --max-age-days 2 data/symbols/current data/symbols/events || rc=1
           # The pit tables are rebuilt by this same job; a stale manifest means
           # the build step has been failing while snapshots advance.
           if [ -f data/symbols/pit/manifest.json ]; then
-            stock-data check-staleness --max-age-days 2 data/symbols/pit
+            stock-data check-staleness --max-age-days 2 data/symbols/pit || rc=1
           fi
           # Cross-coverage: the weekly sweep's clock is checked daily so a
           # disabled weekly workflow cannot fail silently.
           if [ -f data/events/manifest.json ]; then
-            stock-data check-staleness --max-age-days 8 data/events
+            stock-data check-staleness --max-age-days 8 data/events || rc=1
           fi
           # Sentiment is a forward-only clock (ECOSYSTEM.md Rule 4): a day not
           # captured is gone. Bootstrap-guarded so the first run is not red.
           if [ -f data/sentiment/ticker_buckets/manifest.json ]; then
-            stock-data check-staleness --max-age-days 3 data/sentiment/ticker_buckets
+            stock-data check-staleness --max-age-days 3 data/sentiment/ticker_buckets || rc=1
           fi
           # Cross-coverage for the weekly corporate-actions sweep, same guard
           # as that workflow's own gate: armed only once the manifest declares
           # an all-listed sweep (the legacy 3-ticker dataset must not alarm).
           if grep -q '"tickers_failed"' data/corporate_actions/manifest.json 2>/dev/null; then
-            stock-data check-staleness --max-age-days 9 data/corporate_actions
+            stock-data check-staleness --max-age-days 9 data/corporate_actions || rc=1
           fi
+          exit $rc
       - name: Snapshot symbol directories
         if: always()
         run: stock-data snapshot-symbols --data-dir data
