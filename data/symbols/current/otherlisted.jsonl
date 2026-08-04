@@ -90,7 +90,7 @@
 {"etf": "N", "exchange": "N", "name": "Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "ADC$A"}
 {"etf": "N", "exchange": "N", "name": "ADC Therapeutics SA Common Shares", "test_issue": "N", "ticker": "ADCT"}
 {"etf": "Y", "exchange": "P", "name": "Hedgeye Index Adds ETF", "test_issue": "N", "ticker": "ADDS"}
-{"etf": "N", "exchange": "N", "name": "ADI Global Distribution Inc. Common Stock When-Issued", "test_issue": "N", "ticker": "ADIG.V"}
+{"etf": "N", "exchange": "N", "name": "ADI Global Distribution Inc. Common Stock", "test_issue": "N", "ticker": "ADIG"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ADI Daily ETF", "test_issue": "N", "ticker": "ADIU"}
 {"etf": "Y", "exchange": "P", "name": "Guinness Atkinson Asia Pacific Dividend Builder ETF", "test_issue": "N", "ticker": "ADIV"}
 {"etf": "N", "exchange": "N", "name": "Archer-Daniels-Midland Company Common Stock", "test_issue": "N", "ticker": "ADM"}
@@ -447,6 +447,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Gold Miners ETF", "test_issue": "N", "ticker": "AUAU"}
 {"etf": "N", "exchange": "N", "name": "Atlantic Union Bankshares Corporation Common Stock", "test_issue": "N", "ticker": "AUB"}
 {"etf": "N", "exchange": "N", "name": "Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A", "test_issue": "N", "ticker": "AUB$A"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 10% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "AUGC"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Max Buffer ETF - August", "test_issue": "N", "ticker": "AUGM"}
 {"etf": "Y", "exchange": "Z", "name": "PGIM S&P 500 Buffer 12 ETF - August", "test_issue": "N", "ticker": "AUGP"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap Buffer10 Aug ETF", "test_issue": "N", "ticker": "AUGT"}
@@ -1064,6 +1065,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long CAT Daily ETF", "test_issue": "N", "ticker": "CATG"}
 {"etf": "N", "exchange": "N", "name": "Cato Corporation (The) Class A Common Stock", "test_issue": "N", "ticker": "CATO"}
 {"etf": "N", "exchange": "A", "name": "Perspective Therapeutics, Inc. Common Stock", "test_issue": "N", "ticker": "CATX"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "CAUG"}
 {"etf": "N", "exchange": "N", "name": "CAVA Group, Inc. Common Stock", "test_issue": "N", "ticker": "CAVA"}
 {"etf": "N", "exchange": "N", "name": "Chubb Limited  Common Stock", "test_issue": "N", "ticker": "CB"}
 {"etf": "N", "exchange": "N", "name": "Colony Bankcorp, Inc. Common Stock", "test_issue": "N", "ticker": "CBAN"}
@@ -1185,6 +1187,7 @@
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily CSI 300 China A Share Bull 2X ETF", "test_issue": "N", "ticker": "CHAU"}
 {"etf": "N", "exchange": "N", "name": "Community Healthcare Trust Incorporated Common Stock", "test_issue": "N", "ticker": "CHCT"}
 {"etf": "N", "exchange": "N", "name": "Church & Dwight Company, Inc. Common Stock", "test_issue": "N", "ticker": "CHD"}
+{"etf": "Y", "exchange": "Z", "name": "Calamos Active Hedged Equity ETF", "test_issue": "N", "ticker": "CHDG"}
 {"etf": "N", "exchange": "N", "name": "Chemed Corp", "test_issue": "N", "ticker": "CHE"}
 {"etf": "N", "exchange": "N", "name": "Chegg, Inc. Common Stock", "test_issue": "N", "ticker": "CHGG"}
 {"etf": "N", "exchange": "N", "name": "Choice Hotels International, Inc. Common Stock", "test_issue": "N", "ticker": "CHH"}
@@ -1465,6 +1468,7 @@
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $3.50 Series", "test_issue": "N", "ticker": "CTA$A"}
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $4.50 Series", "test_issue": "N", "ticker": "CTA$B"}
 {"etf": "Y", "exchange": "P", "name": "Simplify US Equity PLUS Managed Futures Strategy ETF", "test_issue": "N", "ticker": "CTAP"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 30% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "CTAU"}
 {"etf": "Y", "exchange": "Z", "name": "Castellan Targeted Equity ETF", "test_issue": "N", "ticker": "CTEF"}
 {"etf": "N", "exchange": "N", "name": "Claritev Corporation Class A Common Stock", "test_issue": "N", "ticker": "CTEV"}
 {"etf": "Y", "exchange": "P", "name": "ProShares S&P Kensho Cleantech ETF", "test_issue": "N", "ticker": "CTEX"}
@@ -2023,6 +2027,7 @@
 {"etf": "N", "exchange": "N", "name": "Equity Lifestyle Properties, Inc. Common Stock", "test_issue": "N", "ticker": "ELS"}
 {"etf": "N", "exchange": "N", "name": "Elevance Health, Inc. Common Stock", "test_issue": "N", "ticker": "ELV"}
 {"etf": "N", "exchange": "N", "name": "Emera Incorporated Common Shares", "test_issue": "N", "ticker": "EMA"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "EMAU"}
 {"etf": "Y", "exchange": "P", "name": "Global X Emerging Markets Bond ETF", "test_issue": "N", "ticker": "EMBD"}
 {"etf": "N", "exchange": "N", "name": "Embraer S.A. Common Stock", "test_issue": "N", "ticker": "EMBJ"}
 {"etf": "Y", "exchange": "P", "name": "VanEck Emerging Markets Bond ETF", "test_issue": "N", "ticker": "EMBX"}
@@ -2430,6 +2435,7 @@
 {"etf": "N", "exchange": "N", "name": "Comfort Systems USA, Inc. Common Stock", "test_issue": "N", "ticker": "FIX"}
 {"etf": "Y", "exchange": "P", "name": "FolioBeyond Enhanced Fixed Income Premium ETF", "test_issue": "N", "ticker": "FIXP"}
 {"etf": "Y", "exchange": "N", "name": "TCW Core Plus Bond ETF", "test_issue": "N", "ticker": "FIXT"}
+{"etf": "Y", "exchange": "P", "name": "Fitz-Gerald Must Have Portfolio and Options Overlay ETF", "test_issue": "N", "ticker": "FIZY"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Buffer ETF - January", "test_issue": "N", "ticker": "FJAN"}
 {"etf": "N", "exchange": "A", "name": "Starfighters Space, Inc. Common Stock", "test_issue": "N", "ticker": "FJET"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Buffer ETF - July", "test_issue": "N", "ticker": "FJUL"}
@@ -3008,6 +3014,7 @@
 {"etf": "Y", "exchange": "P", "name": "Harbor Human Capital Factor US Small Cap ETF", "test_issue": "N", "ticker": "HAPS"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Commodities Strategy No K-1 ETF", "test_issue": "N", "ticker": "HARD"}
 {"etf": "N", "exchange": "N", "name": "HA Sustainable Infrastructure Capital, Inc. Common Stock", "test_issue": "N", "ticker": "HASI"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "HAUG"}
 {"etf": "Y", "exchange": "Z", "name": "Residential REIT ETF", "test_issue": "N", "ticker": "HAUS"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers International Real Estate ETF", "test_issue": "N", "ticker": "HAUZ"}
 {"etf": "N", "exchange": "N", "name": "HawkEye 360, Inc. Common Stock", "test_issue": "N", "ticker": "HAWK"}
@@ -3276,6 +3283,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares Ultra Short Duration Bond Active ETF", "test_issue": "N", "ticker": "ICSH"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Convertible Bond ETF", "test_issue": "N", "ticker": "ICVT"}
 {"etf": "N", "exchange": "N", "name": "IDACORP, Inc. Common Stock", "test_issue": "N", "ticker": "IDA"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi International Developed Equities 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "IDAU"}
 {"etf": "N", "exchange": "N", "name": "Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "IDE"}
 {"etf": "Y", "exchange": "P", "name": "Innovator International Developed Power Buffer ETF  December", "test_issue": "N", "ticker": "IDEC"}
 {"etf": "Y", "exchange": "P", "name": "Lazard International Dynamic Equity ETF", "test_issue": "N", "ticker": "IDEQ"}
@@ -4435,7 +4443,7 @@
 {"etf": "N", "exchange": "N", "name": "Minerals Technologies Inc. Common Stock", "test_issue": "N", "ticker": "MTX"}
 {"etf": "N", "exchange": "N", "name": "MasTec, Inc. Common Stock", "test_issue": "N", "ticker": "MTZ"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniAssets Fund, Inc Common Stock", "test_issue": "N", "ticker": "MUA"}
-{"etf": "N", "exchange": "N", "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued", "test_issue": "N", "ticker": "MUA.V"}
+{"etf": "N", "exchange": "N", "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights", "test_issue": "N", "ticker": "MUA.R"}
 {"etf": "Y", "exchange": "P", "name": "iShares National Muni Bond ETF", "test_issue": "N", "ticker": "MUB"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock", "test_issue": "N", "ticker": "MUC"}
 {"etf": "N", "exchange": "N", "name": "Mitsubishi UFJ Financial Group, Inc. Common Stock", "test_issue": "N", "ticker": "MUFG"}
@@ -5342,6 +5350,7 @@
 {"etf": "N", "exchange": "N", "name": "Qnity Electronics, Inc. Common Stock", "test_issue": "N", "ticker": "Q"}
 {"etf": "Y", "exchange": "P", "name": "NYLI Hedge Multi-Strategy Tracker ETF", "test_issue": "N", "ticker": "QAI"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF", "test_issue": "N", "ticker": "QARP"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 10% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "QAU"}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Quarterly Bear Hedge ETF", "test_issue": "N", "ticker": "QBER"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly", "test_issue": "N", "ticker": "QBF"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM International Equity Buffer15 ETF", "test_issue": "N", "ticker": "QBIF"}
@@ -5402,6 +5411,7 @@
 {"etf": "N", "exchange": "A", "name": "Quantum eMotion Corp. Common Shares", "test_issue": "N", "ticker": "QNC"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long QNT Daily ETF", "test_issue": "N", "ticker": "QNTU"}
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares Q Dynamic Growth ETF", "test_issue": "N", "ticker": "QPX"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "QQAU"}
 {"etf": "Y", "exchange": "P", "name": "HCM Defender 100 Index ETF", "test_issue": "N", "ticker": "QQH"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series", "test_issue": "N", "ticker": "QQJL"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - June Series", "test_issue": "N", "ticker": "QQJN"}
@@ -5521,7 +5531,6 @@
 {"etf": "N", "exchange": "N", "name": "Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share", "test_issue": "N", "ticker": "REXR$C"}
 {"etf": "Y", "exchange": "P", "name": "iShares Residential and Multisector Real Estate ETF", "test_issue": "N", "ticker": "REZ"}
 {"etf": "N", "exchange": "N", "name": "Resideo Technologies, Inc. Common Stock ", "test_issue": "N", "ticker": "REZI"}
-{"etf": "N", "exchange": "N", "name": "Resideo Technologies, Inc. Common Stock When-Issued", "test_issue": "N", "ticker": "REZI.V"}
 {"etf": "N", "exchange": "N", "name": "Regions Financial Corporation Common Stock", "test_issue": "N", "ticker": "RF"}
 {"etf": "N", "exchange": "N", "name": "Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed-to-Floating Rate Non-Cumulative  Perpetual Preferred Stock, Series C", "test_issue": "N", "ticker": "RF$C"}
 {"etf": "N", "exchange": "N", "name": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E", "test_issue": "N", "ticker": "RF$E"}
@@ -5683,7 +5692,7 @@
 {"etf": "Y", "exchange": "P", "name": "Trenchless Fund ETF", "test_issue": "N", "ticker": "RVER"}
 {"etf": "N", "exchange": "N", "name": "Robinhood Ventures Fund I Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "RVI"}
 {"etf": "N", "exchange": "N", "name": "Revolve Group, Inc. Class A Common Stock", "test_issue": "N", "ticker": "RVLV"}
-{"etf": "Y", "exchange": "P", "name": "Xtrackers Municipal Infrastructure Revenue Bond ETF", "test_issue": "N", "ticker": "RVNU"}
+{"etf": "Y", "exchange": "P", "name": "Xtrackers Municipal Infrastructure Revenue Bond Active ETF", "test_issue": "N", "ticker": "RVNU"}
 {"etf": "N", "exchange": "A", "name": "Retractable Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "RVP"}
 {"etf": "N", "exchange": "N", "name": "Royce Small-Cap Trust, Inc. Common Stock", "test_issue": "N", "ticker": "RVT"}
 {"etf": "N", "exchange": "N", "name": "Revvity, Inc. Common Stock", "test_issue": "N", "ticker": "RVTY"}
@@ -5779,6 +5788,7 @@
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "SBXE.U"}
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50", "test_issue": "N", "ticker": "SBXE.W"}
 {"etf": "Y", "exchange": "P", "name": "Infrastructure Capital Small Cap Income ETF", "test_issue": "N", "ticker": "SCAP"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "SCAU"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Consumer Discretionary", "test_issue": "N", "ticker": "SCC"}
 {"etf": "N", "exchange": "A", "name": "Sachem Capital Corp. 6.00% Notes due 2026", "test_issue": "N", "ticker": "SCCD"}
 {"etf": "N", "exchange": "A", "name": "Sachem Capital Corp. 6.00% Notes due 2027", "test_issue": "N", "ticker": "SCCE"}
@@ -6028,7 +6038,9 @@
 {"etf": "N", "exchange": "N", "name": "Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)", "test_issue": "N", "ticker": "SMFG"}
 {"etf": "N", "exchange": "N", "name": "Scotts Miracle-Gro Company (The) Common Stock", "test_issue": "N", "ticker": "SMG"}
 {"etf": "N", "exchange": "P", "name": "ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B", "test_issue": "N", "ticker": "SMHB"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short Semiconductor ETNs", "test_issue": "N", "ticker": "SMHD"}
 {"etf": "N", "exchange": "N", "name": "SEACOR Marine Holdings Inc. Common Stock ", "test_issue": "N", "ticker": "SMHI"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Semiconductor ETNs", "test_issue": "N", "ticker": "SMHU"}
 {"etf": "Y", "exchange": "P", "name": "Bahl & Gaynor Small/Mid Cap Income Growth ETF", "test_issue": "N", "ticker": "SMIG"}
 {"etf": "Y", "exchange": "Z", "name": "Ishares MSCI India Small Cap ETF", "test_issue": "N", "ticker": "SMIN"}
 {"etf": "Y", "exchange": "P", "name": "Zacks Small/Mid Cap ETF", "test_issue": "N", "ticker": "SMIZ"}
@@ -6674,6 +6686,7 @@
 {"etf": "N", "exchange": "N", "name": "Twilio Inc. Class A Common Stock", "test_issue": "N", "ticker": "TWLO"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Russell2000", "test_issue": "N", "ticker": "TWM"}
 {"etf": "N", "exchange": "N", "name": "Taiwan Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "TWN"}
+{"etf": "N", "exchange": "N", "name": "Two Harbors Investment Corp", "test_issue": "N", "ticker": "TWO"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)", "test_issue": "N", "ticker": "TWO$A"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$B"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$C"}
@@ -7427,7 +7440,7 @@
 {"etf": "N", "exchange": "N", "name": "Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)", "test_issue": "N", "ticker": "YMM"}
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares Pure Cannabis ETF", "test_issue": "N", "ticker": "YOLO"}
 {"etf": "N", "exchange": "N", "name": "Clear Secure, Inc. Class A Common Stock", "test_issue": "N", "ticker": "YOU"}
-{"etf": "N", "exchange": "N", "name": "YPF Sociedad Anonima Common Stock", "test_issue": "N", "ticker": "YPF"}
+{"etf": "N", "exchange": "N", "name": "YPF Sociedad Anonima American Depositary Shares", "test_issue": "N", "ticker": "YPF"}
 {"etf": "N", "exchange": "N", "name": "Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares", "test_issue": "N", "ticker": "YRD"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest International Equity Buffer ETF - September", "test_issue": "N", "ticker": "YSEP"}
 {"etf": "N", "exchange": "N", "name": "Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares", "test_issue": "N", "ticker": "YSG"}

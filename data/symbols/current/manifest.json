@@ -2,36 +2,36 @@
   "failures": [],
   "files": [
     {
-      "bytes": 666957,
+      "bytes": 667234,
       "name": "nasdaqlisted.jsonl",
-      "sha256": "287174037a7a4f9ea11f2b1d747dd8e106ff6e8ea20da6cf8c95b5c935600b70"
+      "sha256": "ba57c632aeb7af9bba547eb59da4b4301752cd814c450ad8c43ebe4433a2d90e"
     },
     {
-      "bytes": 924976,
+      "bytes": 926731,
       "name": "otherlisted.jsonl",
-      "sha256": "bd2a41926a911e8c1a5a6124b3f5cb734007d88efe2dca06065ee6607acb668d"
+      "sha256": "4493156343b530759e0266d1c3a0e19bc906b5f4f4a1e7e440d4268fab5aae63"
     },
     {
-      "bytes": 734789,
+      "bytes": 735003,
       "name": "sec_company_tickers.jsonl",
-      "sha256": "febd84be290c66d9812ac38d1485c2a90ea73fffd852f650cd9abc859605575a"
+      "sha256": "23dc232eb4f45be2a62c4dab227d3601b75324b4a8b02a84ea2ca454a62ceb44"
     },
     {
-      "bytes": 950640,
+      "bytes": 948811,
       "name": "sec_company_tickers_exchange.jsonl",
-      "sha256": "58476bc3ba26f6b5f6de761b0e969c36163d7eda860fa997bfa080b8436667c4"
+      "sha256": "a6bab3799efe41152ae00c3509544a2b11496d8cf6583f643e42994eb49aff71"
     }
   ],
-  "generated_at_utc": "2026-08-03T10:51:27Z",
+  "generated_at_utc": "2026-08-04T09:50:17Z",
   "last_success": {
-    "nasdaqlisted": "2026-08-03",
-    "otherlisted": "2026-08-03",
-    "sec_company_tickers": "2026-08-03",
-    "sec_company_tickers_exchange": "2026-08-03"
+    "nasdaqlisted": "2026-08-04",
+    "otherlisted": "2026-08-04",
+    "sec_company_tickers": "2026-08-04",
+    "sec_company_tickers_exchange": "2026-08-04"
   },
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
-  "snapshot_date": "2026-08-03",
+  "snapshot_date": "2026-08-04",
   "source_urls": [
     "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",
     "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt",
