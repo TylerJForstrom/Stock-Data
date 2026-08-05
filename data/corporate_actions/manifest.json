@@ -2,18 +2,18 @@
   "basis": "current_fully_split_adjusted",
   "files": [
     {
-      "bytes": 1083158,
+      "bytes": 1098007,
       "name": "dividends.parquet",
-      "rows": 195227,
-      "sha256": "550b874139605c43339c2b2885408aab18715c6243facca8c99cebbf5771b107"
+      "rows": 195423,
+      "sha256": "bba78145f85d2ad14e4805bb9aba300c15bc8292d36060580cbba244a187653d"
     },
     {
-      "bytes": 291859,
+      "bytes": 292431,
       "name": "splits.jsonl",
-      "sha256": "c1cdcff46741a3a911d2b318484a82f7718b6c6797ebdf48c3b2fd467a1469b6"
+      "sha256": "e59a4e3d26b8b1137cf8849a4d43c2903bc16089c3efc39bc8118977aa6d0203"
     }
   ],
-  "generated_at_utc": "2026-08-03T15:54:33Z",
+  "generated_at_utc": "2026-08-04T01:23:44Z",
   "granularity": "fiscal_period (no ex-dates in XBRL)",
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
@@ -7923,29 +7923,17 @@
     "ZYME"
   ],
   "tickers_unresolved": [
-    "AEP",
-    "AMPGR",
-    "APM",
-    "CELUW",
     "CPRX",
     "EEX",
     "EMPG",
-    "EOSER",
     "EVLVW",
-    "FFAIW",
-    "FGMCR",
-    "FGMCU",
     "GRAF-UN",
     "GRAF-WT",
     "GTLS",
-    "MBAVU",
     "NUVL",
-    "ODV",
-    "ODVWZ",
     "QTEXW",
     "SLAI",
-    "TCGL",
-    "UBXG",
+    "UROY",
     "VLN-WT",
     "WSR",
     "XOMA",

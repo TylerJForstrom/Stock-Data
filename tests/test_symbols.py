@@ -133,6 +133,60 @@ def test_snapshot_publishes_listing_events_as_own_manifest_dataset(tmp_path, mon
     assert normalized_entry["sha256"] == hashlib.sha256(events_path.read_bytes()).hexdigest()
 
 
+def test_first_observed_records_only_a_source_first_ever_snapshot(tmp_path, monkeypatch):
+    """A source's PIT floor is the day the foundry first fetched it.
+
+    A first-ever snapshot emits no events ("a baseline, not thousands of added
+    events"), so nothing else in the archive records that a source is new — and
+    pit.build would otherwise open all of its rows at the archive-wide
+    boundary, asserting directory state for dates the source was never fetched.
+    Recorded once, on the first-ever snapshot, and carried forward verbatim:
+    for a source already being archived when this began the true date is
+    unknown, and stamping today's would be a lie in the other direction.
+    """
+    monkeypatch.setattr(symbols, "SOURCES", {"nasdaqlisted": "https://example.test/symbols"})
+    symbols.snapshot(str(tmp_path), session=_Session(NASDAQ_RAW))
+    current_dir = tmp_path / "symbols" / "current"
+    first = read_manifest(str(current_dir))["first_observed"]
+    assert set(first) == {"nasdaqlisted"}
+    today = first["nasdaqlisted"]
+
+    # Backdate the recorded floor: a later run must carry it forward, not reset
+    # it to today (which would erase provable history every single day).
+    manifest_path = current_dir / "manifest.json"
+    stored = json.loads(manifest_path.read_text())
+    stored["first_observed"] = {"nasdaqlisted": "2026-01-02"}
+    manifest_path.write_text(json.dumps(stored), encoding="utf-8")
+
+    # Now a second source joins SOURCES, exactly as a fifth directory would.
+    monkeypatch.setattr(
+        symbols,
+        "SOURCES",
+        {"nasdaqlisted": "https://example.test/symbols", "otherlisted": "https://example.test/o"},
+    )
+    monkeypatch.setitem(symbols._CANONICALIZERS, "otherlisted", symbols.canonicalize_nasdaqlisted)
+    symbols.snapshot(str(tmp_path), session=_Session(NASDAQ_RAW))
+
+    assert read_manifest(str(current_dir))["first_observed"] == {
+        "nasdaqlisted": "2026-01-02",
+        "otherlisted": today,
+    }
+
+
+def test_first_observed_stays_silent_for_a_pre_existing_snapshot(tmp_path, monkeypatch):
+    """A legacy archive must not have today stamped on it retroactively."""
+    monkeypatch.setattr(symbols, "SOURCES", {"nasdaqlisted": "https://example.test/symbols"})
+    current_dir = tmp_path / "symbols" / "current"
+    current_dir.mkdir(parents=True)
+    (current_dir / "nasdaqlisted.jsonl").write_text(
+        json.dumps({"ticker": "AAPL"}, sort_keys=True) + "\n", encoding="utf-8"
+    )
+
+    symbols.snapshot(str(tmp_path), session=_Session(NASDAQ_RAW))
+
+    assert read_manifest(str(current_dir))["first_observed"] == {}
+
+
 MSFT_ROW = "MSFT|Microsoft Corporation|Q|N|N|100|N|N"
 
 

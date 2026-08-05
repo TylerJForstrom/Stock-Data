@@ -7,7 +7,7 @@ import datetime as dt
 import os
 import sys
 
-from . import corporate_actions, events, manifest, symbols, tickerpulse
+from . import corporate_actions, events, manifest, pit, symbols, tickerpulse
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -27,6 +27,12 @@ def main(argv: list[str] | None = None) -> int:
         "snapshot-symbols",
         parents=[shared],
         help="archive symbol directories and diff events",
+    )
+
+    sub.add_parser(
+        "build-pit",
+        parents=[shared],
+        help="replay the symbol event stream into point-in-time membership interval tables",
     )
 
     actions = sub.add_parser(
@@ -86,6 +92,13 @@ def main(argv: list[str] | None = None) -> int:
             print(f"FAILURE {failure}", file=sys.stderr)
         if not counts and failures:
             return 1  # every source failed: the archive is frozen, go red
+        return 0
+    if args.command == "build-pit":
+        try:
+            pit.build(args.data_dir)
+        except pit.PitBuildError as exc:
+            print(f"FAILURE {exc}", file=sys.stderr)
+            return 1
         return 0
     if args.command == "corporate-actions":
         tickers = (
