@@ -13,7 +13,7 @@ authors = [{ name = "Tyler Forstrom" }]
 dependencies = [
     "requests>=2.31",
     "pandas>=2.0",
-    "pyarrow>=14.0",
+    "pyarrow>=25.0.0",
 ]
 
 [project.optional-dependencies]
