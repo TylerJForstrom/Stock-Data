@@ -418,7 +418,7 @@ def test_a_few_failed_fetches_are_recorded_but_many_fail_the_run(tmp_path, monke
             for cik in self.dead:
                 if f"CIK{int(cik):010d}" in url:
                     raise RuntimeError("HTTP 500 server error")
-            payload = {"facts": {"dei": {}, "us-gaap": {}}}
+            payload: dict[str, dict[str, dict]] = {"facts": {"dei": {}, "us-gaap": {}}}
             return type("R", (), {"text": json.dumps(payload)})()
 
     monkeypatch.setattr(
@@ -449,7 +449,7 @@ def test_missing_companyfacts_members_are_expected_absence_not_failure(tmp_path,
             for cik in range(1, 11):  # 10% of CIKs have no member: all 404
                 if f"CIK{cik:010d}" in url:
                     raise RuntimeError(f"HTTP error 404 for {url}")
-            payload = {"facts": {"dei": {}, "us-gaap": {}}}
+            payload: dict[str, dict[str, dict]] = {"facts": {"dei": {}, "us-gaap": {}}}
             return type("R", (), {"text": json.dumps(payload)})()
 
     monkeypatch.setattr(
@@ -460,3 +460,74 @@ def test_missing_companyfacts_members_are_expected_absence_not_failure(tmp_path,
     manifest = json.loads((tmp_path / "corporate_actions" / "manifest.json").read_text())
     assert len(manifest["tickers_no_companyfacts"]) == 10
     assert manifest["tickers_failed"] == {}
+
+
+def test_real_fetcherror_404_is_expected_absence_not_systemic_failure(tmp_path, monkeypatch):
+    """Regression: the expected-absence split must key off FetchError.not_found.
+
+    Every other test in this file fakes the 404 with a RuntimeError whose text
+    the test itself invents, so they only ever prove that run() can parse a
+    message those tests wrote. The classifier used to sniff that text, which
+    meant the real FairAccessSession could reword its 404 message -- or raise
+    a 404 whose URL simply did not contain a space-delimited "404" -- and all
+    ~200 routine missing-companyfacts members on a full sweep would be refiled
+    as hard failures. That trips the 2% systemic-failure gate and leaves the
+    weekly corporate-actions clock red forever.
+
+    So this one drives the REAL session: a stub transport returns HTTP 404,
+    FairAccessSession raises its own FetchError, and the sweep must record
+    expected absence.
+    """
+    import json
+
+    import pytest
+
+    from stock_data import corporate_actions as ca
+    from stock_data.http import FairAccessSession, FetchError
+
+    class _Resp:
+        def __init__(self, status_code, text=""):
+            self.status_code = status_code
+            self.text = text
+
+    class _Transport:
+        """Stands in for requests.Session inside a real FairAccessSession."""
+
+        def __init__(self):
+            self.headers = {}
+
+        def get(self, url, timeout=None):
+            for cik in range(1, 11):  # 10 of 100 CIKs have no companyfacts member
+                if f"CIK{cik:010d}" in url:
+                    return _Resp(404)
+            return _Resp(200, json.dumps({"facts": {"dei": {}, "us-gaap": {}}}))
+
+    session = FairAccessSession()
+    monkeypatch.setattr(session, "_session", _Transport())
+    monkeypatch.setattr(session, "_throttle", lambda host: None)  # no real sleeping
+
+    # The precondition this test exists to protect: the real session signals a
+    # missing member structurally, not by message text.
+    with pytest.raises(FetchError) as caught:
+        session.get("https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json")
+    assert caught.value.not_found is True
+
+    monkeypatch.setattr(
+        ca, "resolve_ciks", lambda session, tickers: {t: i + 1 for i, t in enumerate(tickers)}
+    )
+    tickers = [f"T{i:03d}" for i in range(100)]
+    ca.run(str(tmp_path), tickers, session)  # must NOT raise
+
+    manifest = json.loads((tmp_path / "corporate_actions" / "manifest.json").read_text())
+    assert len(manifest["tickers_no_companyfacts"]) == 10
+    assert manifest["tickers_failed"] == {}
+
+
+def test_fetcherror_defaults_to_not_found_false(tmp_path):
+    """A non-404 failure must not be mistaken for expected absence."""
+    from stock_data.corporate_actions import _is_missing_member
+    from stock_data.http import FetchError
+
+    assert FetchError("boom").not_found is False
+    assert _is_missing_member(FetchError("HTTP 500 for https://example.test/x")) is False
+    assert _is_missing_member(FetchError("404 for https://example.test/x", not_found=True)) is True

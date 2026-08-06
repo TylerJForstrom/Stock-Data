@@ -18,9 +18,17 @@ from __future__ import annotations
 import datetime as dt
 import json
 import os
+from collections.abc import Mapping, Sequence
+from typing import NotRequired, TypedDict
 
-from .http import FairAccessSession, atomic_write_text
+from .http import FairAccessSession, Fetcher, atomic_write_text
 from .manifest import PUBLIC_DOMAIN_NOTE, publish_staged_dataset, write_manifest
+
+# One canonicalized directory row. Read-only (Mapping, not dict) because
+# diff_records only ever reads its inputs -- and because dict's value type is
+# invariant, so a plain dict[str, object] parameter would reject the
+# dict[str, str] rows callers naturally build.
+Record = Mapping[str, object]
 
 SOURCES: dict[str, str] = {
     "sec_company_tickers": "https://www.sec.gov/files/company_tickers.json",
@@ -133,21 +141,36 @@ def _from_jsonl(text: str) -> list[dict[str, object]]:
     return [json.loads(line) for line in text.splitlines() if line.strip()]
 
 
+class ListingEvent(TypedDict):
+    """One line of data/symbols/events/events.jsonl.
+
+    Spelled out as a TypedDict because this stream is a published contract:
+    Stock-Grader replays it to rebuild point-in-time membership, so a typo in
+    a key name here is a silent consumer break rather than a local mistake.
+    """
+
+    date: str
+    source: str
+    event: str
+    record: Record
+    previous: NotRequired[Record]
+
+
 def diff_records(
     source: str,
-    previous: list[dict[str, object]],
-    current: list[dict[str, object]],
+    previous: Sequence[Record],
+    current: Sequence[Record],
     as_of: str,
-) -> list[dict[str, object]]:
+) -> list[ListingEvent]:
     """Set-diff on the identity key; value changes on surviving keys are 'changed'."""
     key_fields = _KEYS[source]
 
-    def key(r: dict[str, object]) -> tuple:
+    def key(r: Record) -> tuple:
         return tuple(r.get(f) for f in key_fields)
 
     prev_map = {key(r): r for r in previous}
     cur_map = {key(r): r for r in current}
-    events = []
+    events: list[ListingEvent] = []
     for k in sorted(cur_map.keys() - prev_map.keys(), key=str):
         events.append({"date": as_of, "source": source, "event": "added", "record": cur_map[k]})
     for k in sorted(prev_map.keys() - cur_map.keys(), key=str):
@@ -166,9 +189,7 @@ def diff_records(
     return events
 
 
-def snapshot(
-    data_dir: str, session: FairAccessSession | None = None
-) -> tuple[dict[str, int], list[str]]:
+def snapshot(data_dir: str, session: Fetcher | None = None) -> tuple[dict[str, int], list[str]]:
     """Fetch all sources, write canonical snapshots, append diff events.
 
     Returns ({source: event_count}, failures). Any per-source failure — fetch,
@@ -190,7 +211,7 @@ def snapshot(
 
     event_counts: dict[str, int] = {}
     failures: list[str] = []
-    all_events: list[dict[str, object]] = []
+    all_events: list[ListingEvent] = []
     staged: dict[str, str] = {}  # snapshot basename -> new content
     # Per-source success watermarks survive failed runs: the staleness gate
     # reads these, so a single permanently broken source goes red instead of

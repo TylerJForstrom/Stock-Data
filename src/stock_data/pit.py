@@ -67,6 +67,7 @@ import datetime as dt
 import hashlib
 import json
 import os
+from collections.abc import Callable
 from typing import Any
 
 from .manifest import PUBLIC_DOMAIN_NOTE, publish_staged_dataset, read_manifest
@@ -295,7 +296,7 @@ def _first_observed(current_dir: str) -> dict[str, str]:
     return observed
 
 
-def build(data_dir: str, log=print) -> dict[str, int]:
+def build(data_dir: str, log: Callable[[str], object] = print) -> dict[str, int]:
     """Replay ``data/symbols/events`` into ``data/symbols/pit/`` and publish.
 
     Returns {published file name: row count}. Refuses (raises
