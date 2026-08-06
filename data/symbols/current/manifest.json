@@ -2,14 +2,14 @@
   "failures": [],
   "files": [
     {
-      "bytes": 667834,
+      "bytes": 668338,
       "name": "nasdaqlisted.jsonl",
-      "sha256": "73ab3d9f4d58170f70640cbf537281a6abe63e8caa5625601c5382fed34609f3"
+      "sha256": "9afdbe1e8a33b9b4ee44b2a07da6d0e4b8163291b57883510092180d467a5f38"
     },
     {
-      "bytes": 926838,
+      "bytes": 927403,
       "name": "otherlisted.jsonl",
-      "sha256": "4ebeca2406ef890160b0d2069559234a8987b074a29c8345701fdca20f9def98"
+      "sha256": "3a893302b6243c3dee5acfdc1bd9693f4cd621d0b72c0c89d71d8aed10d97bec"
     },
     {
       "bytes": 733983,
@@ -23,16 +23,16 @@
     }
   ],
   "first_observed": {},
-  "generated_at_utc": "2026-08-05T09:47:49Z",
+  "generated_at_utc": "2026-08-06T09:50:38Z",
   "last_success": {
-    "nasdaqlisted": "2026-08-05",
-    "otherlisted": "2026-08-05",
-    "sec_company_tickers": "2026-08-05",
-    "sec_company_tickers_exchange": "2026-08-05"
+    "nasdaqlisted": "2026-08-06",
+    "otherlisted": "2026-08-06",
+    "sec_company_tickers": "2026-08-06",
+    "sec_company_tickers_exchange": "2026-08-06"
   },
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
-  "snapshot_date": "2026-08-05",
+  "snapshot_date": "2026-08-06",
   "source_urls": [
     "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",
     "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt",

@@ -369,7 +369,7 @@
 {"category": "G", "etf": "N", "name": "Aquestive Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "AQST"}
 {"category": "G", "etf": "Y", "name": "Global X Clean Water ETF", "test_issue": "N", "ticker": "AQWA"}
 {"category": "G", "etf": "N", "name": "Arrive AI Inc. - Common Stock", "test_issue": "N", "ticker": "ARAI"}
-{"category": "Q", "etf": "N", "name": "Accuray Incorporated - Common Stock", "test_issue": "N", "ticker": "ARAY"}
+{"category": "S", "etf": "N", "name": "Accuray Incorporated - Common Stock", "test_issue": "N", "ticker": "ARAY"}
 {"category": "S", "etf": "N", "name": "ARB IOT Group Limited - Ordinary Shares", "test_issue": "N", "ticker": "ARBB"}
 {"category": "S", "etf": "N", "name": "Arbe Robotics Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "ARBE"}
 {"category": "S", "etf": "N", "name": "Arbe Robotics Ltd. - Warrant", "test_issue": "N", "ticker": "ARBEW"}
@@ -467,6 +467,7 @@
 {"category": "Q", "etf": "N", "name": "Atara Biotherapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "ATRA"}
 {"category": "G", "etf": "N", "name": "AtriCure, Inc. - Common Stock", "test_issue": "N", "ticker": "ATRC"}
 {"category": "Q", "etf": "N", "name": "Astronics Corporation - Common Stock", "test_issue": "N", "ticker": "ATRO"}
+{"category": "G", "etf": "N", "name": "Attovia Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "ATTO"}
 {"category": "S", "etf": "N", "name": "Addentax Group Corp. - Common Stock", "test_issue": "N", "ticker": "ATXG"}
 {"category": "S", "etf": "N", "name": "aTyr Pharma, Inc. - Common Stock", "test_issue": "N", "ticker": "ATYR"}
 {"category": "G", "etf": "N", "name": "Auburn National Bancorporation, Inc. - Common Stock", "test_issue": "N", "ticker": "AUBN"}
@@ -1402,6 +1403,7 @@
 {"category": "S", "etf": "N", "name": "DarkIris Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "DKI"}
 {"category": "Q", "etf": "N", "name": "DraftKings Inc. - Class A Common Stock", "test_issue": "N", "ticker": "DKNG"}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2X Long DKNG ETF", "test_issue": "N", "ticker": "DKNX"}
+{"category": "G", "etf": "Y", "name": "U.S. Large Company Portfolio: ETF Class Shares", "test_issue": "N", "ticker": "DLCU"}
 {"category": "S", "etf": "N", "name": "DLH Holdings Corp. - Common Stock", "test_issue": "N", "ticker": "DLHC"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long DELL Daily ETF", "test_issue": "N", "ticker": "DLLL"}
 {"category": "Q", "etf": "N", "name": "DLocal Limited - Class A Common Shares", "test_issue": "N", "ticker": "DLO"}
@@ -2671,7 +2673,10 @@
 {"category": "G", "etf": "Y", "name": "iShares Core MSCI Total International Stock ETF", "test_issue": "N", "ticker": "IXUS"}
 {"category": "S", "etf": "N", "name": "IZEA Worldwide, Inc. - Common Stock", "test_issue": "N", "ticker": "IZEA"}
 {"category": "S", "etf": "N", "name": "ICZOOM Group Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "IZM"}
+{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Class A Ordinary Shares", "test_issue": "N", "ticker": "JAB"}
+{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Rights", "test_issue": "N", "ticker": "JABRR"}
 {"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Units", "test_issue": "N", "ticker": "JABRU"}
+{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Warrants", "test_issue": "N", "ticker": "JABRW"}
 {"category": "Q", "etf": "N", "name": "Jack In The Box Inc. - Common Stock", "test_issue": "N", "ticker": "JACK"}
 {"category": "S", "etf": "N", "name": "Jaguar Health, Inc. - Common Stock", "test_issue": "N", "ticker": "JAGX"}
 {"category": "Q", "etf": "N", "name": "JAKKS Pacific, Inc. - Common Stock", "test_issue": "N", "ticker": "JAKK"}
@@ -4816,6 +4821,7 @@
 {"category": "Q", "etf": "N", "name": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B", "test_issue": "N", "ticker": "TCBIO"}
 {"category": "Q", "etf": "N", "name": "TriCo Bancshares - Common Stock", "test_issue": "N", "ticker": "TCBK"}
 {"category": "S", "etf": "N", "name": "Texas Community Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "TCBS"}
+{"category": "S", "etf": "N", "name": "TCGX Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "TCGX"}
 {"category": "G", "etf": "Y", "name": "iShares MSCI China Multisector Tech ETF", "test_issue": "N", "ticker": "TCHI"}
 {"category": "G", "etf": "N", "name": "Tactile Systems Technology, Inc. - Common Stock", "test_issue": "N", "ticker": "TCMD"}
 {"category": "Q", "etf": "N", "name": "Trip.com Group Limited - American Depositary Shares", "test_issue": "N", "ticker": "TCOM"}
@@ -5271,8 +5277,6 @@
 {"category": "G", "etf": "Y", "name": "VictoryShares Dividend Accelerator ETF", "test_issue": "N", "ticker": "VSDA"}
 {"category": "Q", "etf": "N", "name": "VSE Corporation - Common Stock", "test_issue": "N", "ticker": "VSEC"}
 {"category": "Q", "etf": "N", "name": "VSE Corporation - Tangible Equity Units", "test_issue": "N", "ticker": "VSECU"}
-{"category": "S", "etf": "N", "name": "VSee Health, Inc. - Common Stock", "test_issue": "N", "ticker": "VSEE"}
-{"category": "S", "etf": "N", "name": "VSee Health, Inc. - Warrant", "test_issue": "N", "ticker": "VSEEW"}
 {"category": "S", "etf": "N", "name": "VS Media Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "VSME"}
 {"category": "G", "etf": "Y", "name": "VictoryShares US Multi-Factor Minimum Volatility ETF", "test_issue": "N", "ticker": "VSMV"}
 {"category": "Q", "etf": "N", "name": "Versant Media Group, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "VSNT"}
