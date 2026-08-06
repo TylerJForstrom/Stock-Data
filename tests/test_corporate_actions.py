@@ -392,7 +392,7 @@ def test_listed_tickers_reads_the_foundrys_own_symbol_directory(tmp_path):
     rows = [
         {"ticker": "AAPL", "exchange": "Nasdaq", "cik": 320193},
         {"ticker": "XOM", "exchange": "NYSE", "cik": 2115436},
-        {"ticker": "PINKCO", "exchange": None, "cik": 1},          # unlisted: excluded
+        {"ticker": "PINKCO", "exchange": None, "cik": 1},  # unlisted: excluded
         {"ticker": "AAPL", "exchange": "Nasdaq", "cik": 320193},  # duplicate: once
     ]
     (directory / "sec_company_tickers_exchange.jsonl").write_text(

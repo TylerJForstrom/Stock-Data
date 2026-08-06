@@ -104,8 +104,9 @@ def _universe_ciks(data_dir: str, limit: int | None = None) -> list[int]:
     return ciks[:limit] if limit else ciks
 
 
-def collect(data_dir: str, session: FairAccessSession | None = None,
-            limit: int | None = None, log=print) -> dict[str, int]:
+def collect(
+    data_dir: str, session: FairAccessSession | None = None, limit: int | None = None, log=print
+) -> dict[str, int]:
     """Fetch submissions per CIK and write the flagged-events dataset.
 
     Watermark: CIKs whose events were already extracted this ISO week are
@@ -176,9 +177,9 @@ def _checkpoint(out_dir, events_path, state_path, all_events, week, done) -> Non
         out_dir,
         {
             os.path.basename(events_path): _events_payload(all_events),
-            os.path.basename(state_path): json.dumps(
-                {"week": week, "done": sorted(done)}
-            ).encode("utf-8"),
+            os.path.basename(state_path): json.dumps({"week": week, "done": sorted(done)}).encode(
+                "utf-8"
+            ),
         },
         source_urls=[SUBMISSIONS_URL.format(cik=0)],
         license_note=PUBLIC_DOMAIN_NOTE,

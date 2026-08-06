@@ -318,7 +318,6 @@ def snapshot(
     # nothing else changed.
     atomic_write_text(
         os.path.join(data_dir, "heartbeat.txt"),
-        f"last_run_utc: {dt.datetime.now(dt.UTC).isoformat()}\n"
-        f"failures: {failures or 'none'}\n",
+        f"last_run_utc: {dt.datetime.now(dt.UTC).isoformat()}\nfailures: {failures or 'none'}\n",
     )
     return event_counts, failures

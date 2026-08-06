@@ -102,9 +102,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.command == "corporate-actions":
         tickers = (
-            corporate_actions.listed_tickers(args.data_dir)
-            if args.all_listed
-            else args.tickers
+            corporate_actions.listed_tickers(args.data_dir) if args.all_listed else args.tickers
         )
         print(f"corporate-actions: {len(tickers)} tickers")
         out = corporate_actions.run(args.data_dir, tickers)
@@ -154,9 +152,9 @@ def main(argv: list[str] | None = None) -> int:
                     dataset_stale = True
                 for source_name, success_date in sorted(watermarks.items()):
                     try:
-                        success_age = now - dt.datetime.fromisoformat(
-                            str(success_date)
-                        ).replace(tzinfo=dt.UTC)
+                        success_age = now - dt.datetime.fromisoformat(str(success_date)).replace(
+                            tzinfo=dt.UTC
+                        )
                     except ValueError:
                         print(
                             f"STALE {dataset_dir}: source {source_name} has "

@@ -67,7 +67,9 @@ def test_staleness_gate_fresh_when_all_watermarks_current(tmp_path, capsys):
     dataset.mkdir(parents=True)
     (dataset / "x.jsonl").write_text("{}\n")
     write_manifest(
-        str(dataset), source_urls=[], license_note="test",
+        str(dataset),
+        source_urls=[],
+        license_note="test",
         extra={"last_success": {source: today for source in SOURCES}},
     )
     code = main(["check-staleness", "--max-age-days", "2", str(dataset)])
@@ -91,7 +93,9 @@ def test_staleness_gate_flags_source_that_never_succeeded(tmp_path, capsys):
     dataset.mkdir(parents=True)
     (dataset / "x.jsonl").write_text("{}\n")
     write_manifest(
-        str(dataset), source_urls=[], license_note="test",
+        str(dataset),
+        source_urls=[],
+        license_note="test",
         extra={"last_success": watermarks},
     )
     code = main(["check-staleness", "--max-age-days", "2", str(dataset)])

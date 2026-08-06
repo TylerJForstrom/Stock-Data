@@ -149,7 +149,5 @@ def manifest_generated_at(dataset_dir: str) -> dt.datetime:
             f"{dataset_dir}/manifest.json has invalid generated_at_utc {value!r}"
         ) from exc
     if generated.tzinfo is None:
-        raise ValueError(
-            f"{dataset_dir}/manifest.json generated_at_utc must include a timezone"
-        )
+        raise ValueError(f"{dataset_dir}/manifest.json generated_at_utc must include a timezone")
     return generated.astimezone(dt.UTC)
