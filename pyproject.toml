@@ -21,6 +21,9 @@ dev = [
     "pytest>=9.1.1",
     "ruff>=0.16.1",
     "mypy>=2.3.0",
+    # Real stubs rather than silencing the missing-import error: pandas is used
+    # for exactly one call (dividends -> parquet), and typing it costs nothing.
+    "pandas-stubs>=2.0",
 ]
 
 [project.scripts]
@@ -41,6 +44,14 @@ src = ["src", "tests"]
 select = ["E", "F", "W", "I", "UP", "B"]
 
 [tool.mypy]
-python_version = "3.11"
+# 3.12, matching the interpreter CI actually runs. It was pinned to 3.11 (the
+# requires-python floor), which made mypy abort before checking a single file
+# of ours: numpy ships .pyi stubs using PEP 695 `type` statements, and under
+# --python-version 3.11 that is a syntax error, so the whole run died with
+# "1 error, errors prevented further checking". Type-checking the interpreter
+# under test beats type-checking nothing.
+python_version = "3.12"
 warn_unused_ignores = true
 check_untyped_defs = true
+# No blanket ignore_missing_imports: pandas is typed via the pandas-stubs dev
+# dependency instead, so a genuinely untyped new import is a visible decision.

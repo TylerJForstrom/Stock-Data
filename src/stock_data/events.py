@@ -23,8 +23,10 @@ import gzip
 import io
 import json
 import os
+from collections.abc import Callable
+from typing import Any
 
-from .http import FairAccessSession
+from .http import FairAccessSession, Fetcher
 from .manifest import PUBLIC_DOMAIN_NOTE, publish_staged_dataset
 
 SUBMISSIONS_URL = "https://data.sec.gov/submissions/CIK{cik:010d}.json"
@@ -104,8 +106,12 @@ def _universe_ciks(data_dir: str, limit: int | None = None) -> list[int]:
     return ciks[:limit] if limit else ciks
 
 
-def collect(data_dir: str, session: FairAccessSession | None = None,
-            limit: int | None = None, log=print) -> dict[str, int]:
+def collect(
+    data_dir: str,
+    session: Fetcher | None = None,
+    limit: int | None = None,
+    log: Callable[[str], object] = print,
+) -> dict[str, int]:
     """Fetch submissions per CIK and write the flagged-events dataset.
 
     Watermark: CIKs whose events were already extracted this ISO week are
@@ -117,15 +123,22 @@ def collect(data_dir: str, session: FairAccessSession | None = None,
     os.makedirs(out_dir, exist_ok=True)
     week = dt.datetime.now(dt.UTC).strftime("%G-W%V")
     state_path = os.path.join(out_dir, ".progress.json")
-    state = {"week": week, "done": []}
+    # dict[str, Any]: this is parsed JSON with mixed value types (a week string
+    # beside a CIK list). Without the annotation mypy joins the literal's values
+    # down to Sequence[str] and then reports the int set below as a type error.
+    state: dict[str, Any] = {"week": week, "done": []}
     if os.path.exists(state_path):
         try:
-            loaded = json.load(open(state_path, encoding="utf-8"))
+            with open(state_path, encoding="utf-8") as handle:
+                loaded = json.load(handle)
             if loaded.get("week") == week:
                 state = loaded
         except (json.JSONDecodeError, OSError):
             pass
-    done: set[int] = set(state.get("done", []))
+    # int(): the watermark round-trips through JSON, and a resumed sweep must
+    # compare like with like -- str CIKs here would silently match nothing and
+    # re-fetch every filer already done this week.
+    done: set[int] = {int(cik) for cik in state.get("done", [])}
 
     all_events: list[dict] = []
     events_path = os.path.join(out_dir, "flagged_events.jsonl.gz")
@@ -159,7 +172,14 @@ def collect(data_dir: str, session: FairAccessSession | None = None,
     return stats
 
 
-def _checkpoint(out_dir, events_path, state_path, all_events, week, done) -> None:
+def _checkpoint(
+    out_dir: str,
+    events_path: str,
+    state_path: str,
+    all_events: list[dict],
+    week: str,
+    done: set[int],
+) -> None:
     """Every checkpoint is self-consistent: file, progress, AND manifest.
 
     The workflow commits with ``if: always()``; a mid-sweep timeout that
@@ -176,9 +196,9 @@ def _checkpoint(out_dir, events_path, state_path, all_events, week, done) -> Non
         out_dir,
         {
             os.path.basename(events_path): _events_payload(all_events),
-            os.path.basename(state_path): json.dumps(
-                {"week": week, "done": sorted(done)}
-            ).encode("utf-8"),
+            os.path.basename(state_path): json.dumps({"week": week, "done": sorted(done)}).encode(
+                "utf-8"
+            ),
         },
         source_urls=[SUBMISSIONS_URL.format(cik=0)],
         license_note=PUBLIC_DOMAIN_NOTE,

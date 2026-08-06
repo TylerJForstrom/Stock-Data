@@ -131,10 +131,7 @@ def test_the_daily_clock_actually_mirrors_sentiment():
     from pathlib import Path
 
     workflow = (
-        Path(__file__).resolve().parent.parent
-        / ".github"
-        / "workflows"
-        / "daily-snapshot.yml"
+        Path(__file__).resolve().parent.parent / ".github" / "workflows" / "daily-snapshot.yml"
     ).read_text(encoding="utf-8")
 
     assert "repository: TylerJForstrom/TickerPulse" in workflow

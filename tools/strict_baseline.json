@@ -1,0 +1,5 @@
+{
+  "max_strict_errors": 26,
+  "target": "src",
+  "note": "Findings from `mypy --strict src`. Enforced by tools/strict_ratchet.py: may only decrease. See that file for why strict is ratcheted rather than gated."
+}

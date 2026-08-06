@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import os
 import time
+from typing import Any, Protocol
 
 import requests
 
@@ -27,7 +28,38 @@ _RETRY_STATUSES = {429, 500, 502, 503, 504}
 
 
 class FetchError(RuntimeError):
-    """A fetch failed after all retry attempts."""
+    """A fetch failed after all retry attempts.
+
+    ``not_found`` distinguishes "the server says this resource does not exist"
+    (a 404) from "the fetch broke". Callers sweeping thousands of URLs need
+    that split: expected absence is a normal census outcome, a broken fetch is
+    a coverage hole. It is a declared attribute rather than one stapled onto
+    the instance after construction so consumers can branch on it without the
+    class lying about its own shape.
+    """
+
+    def __init__(self, message: str, *, not_found: bool = False) -> None:
+        super().__init__(message)
+        self.not_found = not_found
+
+
+class Fetcher(Protocol):
+    """The slice of :class:`FairAccessSession` that dataset builders actually use.
+
+    Builders only ever call ``get(url)`` and read ``.text`` / ``.json()`` off
+    the result, so they are annotated against this Protocol rather than the
+    concrete session. That keeps the throttle/retry policy an implementation
+    detail and — the practical payoff — lets the test doubles stay the small
+    stub objects they are instead of subclassing a class whose ``__init__``
+    opens a real ``requests.Session``.
+
+    ``url`` is positional-only so a double may name the parameter whatever
+    reads best (``_url`` in tests that ignore it), and the return is ``Any``
+    because doubles return their own tiny response stand-ins, not
+    ``requests.Response``.
+    """
+
+    def get(self, url: str, /) -> Any: ...
 
 
 class FairAccessSession:
@@ -73,9 +105,7 @@ class FairAccessSession:
                 if response.status_code in ok_statuses:
                     return response
                 if response.status_code == 404:
-                    error = FetchError(f"404 for {url}")
-                    error.not_found = True  # type: ignore[attr-defined]
-                    raise error
+                    raise FetchError(f"404 for {url}", not_found=True)
                 if response.status_code not in _RETRY_STATUSES:
                     raise FetchError(f"HTTP {response.status_code} for {url}")
                 last_error = FetchError(f"HTTP {response.status_code} for {url}")

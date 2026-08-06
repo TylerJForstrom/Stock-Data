@@ -61,9 +61,7 @@ def test_every_workflow_action_is_pinned_to_a_commit_sha():
     """
     pinned = re.compile(r"uses:\s*\S+@[0-9a-f]{40}\s+#\s*\S+")
     for path in sorted(WORKFLOWS.glob("*.yml")):
-        for line_number, line in enumerate(
-            path.read_text(encoding="utf-8").splitlines(), start=1
-        ):
+        for line_number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
             if "uses:" not in line:
                 continue
             assert pinned.search(line), (

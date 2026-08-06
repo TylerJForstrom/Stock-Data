@@ -12,10 +12,19 @@ import datetime as dt
 import hashlib
 import json
 import os
+from typing import Any
 
 from .http import atomic_write_text
 
 SCHEMA_VERSION = "1.0"
+
+# A manifest is open JSON, not a fixed record: callers bolt on dataset-specific
+# keys through ``extra`` (flagged_item_codes, tickers_failed, ...) and the
+# ``files`` entries are themselves nested dicts. ``dict[str, Any]`` says that
+# honestly. ``dict[str, object]`` would claim the values are opaque, which they
+# are not -- every caller legitimately walks into ``m["files"][0]["sha256"]``,
+# and the only way to keep that claim was to litter call sites with casts.
+Manifest = dict[str, Any]
 
 PUBLIC_DOMAIN_NOTE = (
     "US-government public-domain source data (17 USC 105); derived work, freely redistributable."
@@ -38,15 +47,15 @@ def write_manifest(
     row_counts: dict[str, int] | None = None,
     extra: dict[str, object] | None = None,
     generated_at: dt.datetime | None = None,
-) -> dict[str, object]:
+) -> Manifest:
     """Hash every data file in ``dataset_dir`` and write manifest.json beside them."""
     generated = generated_at or dt.datetime.now(dt.UTC)
-    files = []
+    files: list[dict[str, Any]] = []
     for name in sorted(os.listdir(dataset_dir)):
         path = os.path.join(dataset_dir, name)
         if name == "manifest.json" or name.startswith(".") or not os.path.isfile(path):
             continue
-        entry: dict[str, object] = {
+        entry: dict[str, Any] = {
             "name": name,
             "sha256": _sha256(path),
             "bytes": os.path.getsize(path),
@@ -54,7 +63,7 @@ def write_manifest(
         if row_counts and name in row_counts:
             entry["rows"] = row_counts[name]
         files.append(entry)
-    manifest: dict[str, object] = {
+    manifest: Manifest = {
         "schema_version": SCHEMA_VERSION,
         "generated_at_utc": generated.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "source_urls": sorted(source_urls),
@@ -78,7 +87,7 @@ def publish_staged_dataset(
     license_note: str,
     row_counts: dict[str, int] | None = None,
     extra: dict[str, object] | None = None,
-) -> dict[str, object]:
+) -> Manifest:
     """Publish new file contents (basename -> bytes) plus a matching manifest.
 
     Writing data files and only then computing manifest.json leaves a window —
@@ -125,7 +134,7 @@ def publish_staged_dataset(
     return manifest
 
 
-def read_manifest(dataset_dir: str) -> dict[str, object]:
+def read_manifest(dataset_dir: str) -> Manifest:
     with open(os.path.join(dataset_dir, "manifest.json"), encoding="utf-8") as handle:
         manifest = json.load(handle)
     if manifest.get("schema_version") != SCHEMA_VERSION:
@@ -149,7 +158,5 @@ def manifest_generated_at(dataset_dir: str) -> dt.datetime:
             f"{dataset_dir}/manifest.json has invalid generated_at_utc {value!r}"
         ) from exc
     if generated.tzinfo is None:
-        raise ValueError(
-            f"{dataset_dir}/manifest.json generated_at_utc must include a timezone"
-        )
+        raise ValueError(f"{dataset_dir}/manifest.json generated_at_utc must include a timezone")
     return generated.astimezone(dt.UTC)

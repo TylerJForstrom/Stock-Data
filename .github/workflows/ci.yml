@@ -23,5 +23,29 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -e ".[dev]"
-      - run: ruff check .
-      - run: pytest
+
+      # Every quality step below is a REAL gate: no continue-on-error anywhere
+      # in this file. The repository-wide formatting/typing pass has landed, so
+      # a failure here is a genuine regression rather than pre-existing debt.
+      # If you are tempted to add continue-on-error to get a change through:
+      # a step that always fails teaches everyone to ignore it, and then it
+      # cannot report the one failure that mattered.
+      - name: Lint
+        run: ruff check .
+      - name: Format
+        # ruff format is deterministic, so --check either matches byte-for-byte
+        # or the tree was not formatted. Run `ruff format src tests` locally.
+        run: ruff format --check .
+      - name: Types
+        # Settings live in [tool.mypy]; no flags here so local runs match CI.
+        run: mypy src tests
+      - name: Strict-typing ratchet
+        # NOT a clean gate -- `mypy --strict src` still reports 26 findings and
+        # clearing them means reworking signatures in the PIT replay and the
+        # XBRL reconstruction, which wants its own review. The count is pinned
+        # in tools/strict_baseline.json and may only go down, so the debt is
+        # bounded and shrinking instead of quietly growing. This step itself is
+        # a hard failure: the ratchet is enforced even though strict is not met.
+        run: python tools/strict_ratchet.py
+      - name: Tests
+        run: pytest

@@ -30,7 +30,7 @@ from dataclasses import dataclass, field
 
 import pandas as pd
 
-from .http import FairAccessSession, atomic_write_text
+from .http import FairAccessSession, Fetcher, atomic_write_text
 from .manifest import PUBLIC_DOMAIN_NOTE, write_manifest
 from .tickers import ticker_variants
 
@@ -441,7 +441,24 @@ def extract_for_company(facts: dict) -> tuple[list[DividendRecord], list[SplitEv
     return dividends, splits
 
 
-def resolve_ciks(session: FairAccessSession, tickers: list[str]) -> dict[str, int]:
+def _is_missing_member(exc: BaseException) -> bool:
+    """Is this "the CIK has no companyfacts member" (expected) or a real break?
+
+    :class:`FetchError` answers structurally via ``not_found``, and that is the
+    authoritative path -- it cannot drift when the error text is reworded. The
+    message sniff below stays only for sessions that are not FairAccessSession
+    (test doubles, and any future transport that raises its own exception
+    type); it is a fallback, not the contract. Getting this wrong is expensive
+    in one direction: misfiling ~200 routine 404s as failures trips the
+    systemic-failure threshold and leaves the weekly clock red indefinitely.
+    """
+    if getattr(exc, "not_found", False):
+        return True
+    text = str(exc)
+    return " 404 " in f" {text} " or text.rstrip().endswith("404")
+
+
+def resolve_ciks(session: Fetcher, tickers: list[str]) -> dict[str, int]:
     """Map tickers to CIKs, trying every spelling of a class share.
 
     The SEC map stores the canonical dash form (ECOSYSTEM.md rule 7); callers
@@ -491,7 +508,7 @@ def listed_tickers(data_dir: str) -> list[str]:
     return ordered
 
 
-def run(data_dir: str, tickers: list[str], session: FairAccessSession | None = None) -> str:
+def run(data_dir: str, tickers: list[str], session: Fetcher | None = None) -> str:
     """Fetch companyfacts per ticker, extract, write parquet + jsonl + manifest."""
     session = session or FairAccessSession()
     out_dir = os.path.join(data_dir, "corporate_actions")
@@ -509,7 +526,7 @@ def run(data_dir: str, tickers: list[str], session: FairAccessSession | None = N
             dividends, splits = extract_for_company(facts)
         except Exception as exc:  # noqa: BLE001 -- recorded and threshold-gated below
             message = f"{type(exc).__name__}: {exc}"[:200]
-            if " 404 " in f" {exc} " or str(exc).rstrip().endswith("404"):
+            if _is_missing_member(exc):
                 # A CIK with no companyfacts member (registration shells, funds)
                 # is the NORMAL state of a full sweep — measured 213 of 7,655 on
                 # the first run, every one a plain 404. Expected absence is

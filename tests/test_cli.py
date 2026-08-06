@@ -20,10 +20,15 @@ def _dataset(tmp_path, name, generated_at):
 
 def test_snapshot_accepts_data_dir_after_subcommand(tmp_path, monkeypatch):
     called = []
-    monkeypatch.setattr(
-        "stock_data.cli.symbols.snapshot",
-        lambda data_dir: (called.append(data_dir) or {}, []),
-    )
+
+    def _fake_snapshot(data_dir):
+        # Was a lambda leaning on `called.append(...) or {}`; append() returns
+        # None so the `or` was load-bearing rather than decorative, which is
+        # exactly the kind of thing that breaks silently when edited.
+        called.append(data_dir)
+        return {}, []
+
+    monkeypatch.setattr("stock_data.cli.symbols.snapshot", _fake_snapshot)
 
     assert main(["snapshot-symbols", "--data-dir", str(tmp_path)]) == 0
     assert called == [str(tmp_path)]

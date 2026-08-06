@@ -67,6 +67,7 @@ import datetime as dt
 import hashlib
 import json
 import os
+from collections.abc import Callable
 from typing import Any
 
 from .manifest import PUBLIC_DOMAIN_NOTE, publish_staged_dataset, read_manifest
@@ -234,8 +235,7 @@ def build_intervals(
     breakpoints = sorted({boundary} | {_event_date(e) for e in source_events})
     if breakpoints[0] != boundary:
         raise PitBuildError(
-            f"event dated {breakpoints[0]} precedes this source's archive "
-            f"boundary {boundary}"
+            f"event dated {breakpoints[0]} precedes this source's archive boundary {boundary}"
         )
     intervals: list[dict[str, Any]] = []
     open_rows: dict[tuple, dict[str, Any]] = {}
@@ -296,7 +296,7 @@ def _first_observed(current_dir: str) -> dict[str, str]:
     return observed
 
 
-def build(data_dir: str, log=print) -> dict[str, int]:
+def build(data_dir: str, log: Callable[[str], object] = print) -> dict[str, int]:
     """Replay ``data/symbols/events`` into ``data/symbols/pit/`` and publish.
 
     Returns {published file name: row count}. Refuses (raises
@@ -339,9 +339,9 @@ def build(data_dir: str, log=print) -> dict[str, int]:
         boundaries[source] = source_boundary
         intervals = build_intervals(current, source_events, source_boundary, _KEYS[source])
         name = f"{source}.jsonl"
-        staged[name] = "".join(
-            json.dumps(row, sort_keys=True) + "\n" for row in intervals
-        ).encode("utf-8")
+        staged[name] = "".join(json.dumps(row, sort_keys=True) + "\n" for row in intervals).encode(
+            "utf-8"
+        )
         row_counts[name] = len(intervals)
         log(
             f"pit/{name}: {len(intervals)} intervals "
