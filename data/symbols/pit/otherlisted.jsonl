@@ -512,8 +512,8 @@
 {"etf": "N", "exchange": "N", "name": "American States Water Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AWR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Avalon Holdings Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AWX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Axos Financial, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AX", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)", "provable_from": false, "test_issue": "N", "ticker": "AXIA", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share", "provable_from": false, "test_issue": "N", "ticker": "AXIA$C", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)", "provable_from": false, "test_issue": "N", "ticker": "AXIA", "valid_from": "2026-07-28", "valid_to": "2026-08-07"}
+{"etf": "N", "exchange": "N", "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share", "provable_from": false, "test_issue": "N", "ticker": "AXIA$C", "valid_from": "2026-07-28", "valid_to": "2026-08-07"}
 {"etf": "N", "exchange": "A", "name": "AXIL Brands, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AXIL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "American Express Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AXP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "AMREP Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AXR", "valid_from": "2026-07-28", "valid_to": null}
@@ -3734,7 +3734,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares JPX-Nikkei 400 ETF", "provable_from": false, "test_issue": "N", "ticker": "JPXN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Credit Strategies Income Fund Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "JQC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan U.S. Quality Factor ETF", "provable_from": false, "test_issue": "N", "ticker": "JQUA", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Janus Henderson U.S. Real Estate ETF", "provable_from": false, "test_issue": "N", "ticker": "JRE", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Janus Henderson U.S. Real Estate ETF", "provable_from": false, "test_issue": "N", "ticker": "JRE", "valid_from": "2026-07-28", "valid_to": "2026-08-07"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "JRI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Real Estate Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "JRS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan Short Duration Core Plus ETF", "provable_from": false, "test_issue": "N", "ticker": "JSCP", "valid_from": "2026-07-28", "valid_to": null}
@@ -5204,6 +5204,7 @@
 {"etf": "N", "exchange": "N", "name": "PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028", "provable_from": false, "test_issue": "N", "ticker": "PMTU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030", "provable_from": false, "test_issue": "N", "ticker": "PMTV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030", "provable_from": false, "test_issue": "N", "ticker": "PMTW", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right", "provable_from": true, "test_issue": "N", "ticker": "PNAQ.U", "valid_from": "2026-08-07", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "PNC Financial Services Group, Inc. (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PNC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Pinnacle Financial Partners, Inc. Common stock", "provable_from": false, "test_issue": "N", "ticker": "PNFP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A", "provable_from": false, "test_issue": "N", "ticker": "PNFP$A", "valid_from": "2026-07-28", "valid_to": null}
@@ -6601,6 +6602,7 @@
 {"etf": "Y", "exchange": "P", "name": "JLens 500 Jewish Advocacy U.S. ETF", "provable_from": false, "test_issue": "N", "ticker": "TOV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Theriva Biologics, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TOVX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "21Shares XRP ETF", "provable_from": false, "test_issue": "N", "ticker": "TOXR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Ticketplus Ltd. Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "TP", "valid_from": "2026-08-07", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill S&P 500 Target 10 Managed Distribution ETF", "provable_from": false, "test_issue": "N", "ticker": "TPAY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Turning Point Brands, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TPB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Tutor Perini Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TPC", "valid_from": "2026-07-28", "valid_to": null}

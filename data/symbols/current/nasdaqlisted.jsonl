@@ -314,6 +314,7 @@
 {"category": "Q", "etf": "N", "name": "Angi Inc. - Class A Common Stock", "test_issue": "N", "ticker": "ANGI"}
 {"category": "G", "etf": "Y", "name": "VanEck Fallen Angel High Yield Bond ETF", "test_issue": "N", "ticker": "ANGL"}
 {"category": "Q", "etf": "N", "name": "AngioDynamics, Inc. - Common Stock", "test_issue": "N", "ticker": "ANGO"}
+{"category": "G", "etf": "Y", "name": "SEI Ang Research Enhanced U.S. Large Cap ETF", "test_issue": "N", "ticker": "ANGU"}
 {"category": "Q", "etf": "N", "name": "Anika Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "ANIK"}
 {"category": "G", "etf": "N", "name": "ANI Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "ANIP"}
 {"category": "S", "etf": "N", "name": "Anixa Biosciences, Inc. - Common Stock", "test_issue": "N", "ticker": "ANIX"}
@@ -739,8 +740,6 @@
 {"category": "S", "etf": "N", "name": "Brenmiller Energy Ltd - Ordinary Shares", "test_issue": "N", "ticker": "BNRG"}
 {"category": "S", "etf": "N", "name": "Benitec Biopharma Inc. - Common Stock", "test_issue": "N", "ticker": "BNTC"}
 {"category": "Q", "etf": "N", "name": "BioNTech SE - American Depositary Shares", "test_issue": "N", "ticker": "BNTX"}
-{"category": "S", "etf": "N", "name": "Banzai International, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BNZI"}
-{"category": "S", "etf": "N", "name": "Banzai International, Inc. - Warrant", "test_issue": "N", "ticker": "BNZIW"}
 {"category": "S", "etf": "N", "name": "The Beachbody Company, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BODI"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long BA Daily ETF", "test_issue": "N", "ticker": "BOEG"}
 {"category": "G", "etf": "Y", "name": "Direxion Daily BA Bull 2X ETF", "test_issue": "N", "ticker": "BOEU"}
@@ -796,6 +795,7 @@
 {"category": "S", "etf": "N", "name": "BioRestorative Therapies, Inc. - Common Stock", "test_issue": "N", "ticker": "BRTX"}
 {"category": "G", "etf": "N", "name": "Boost Run Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRUN"}
 {"category": "S", "etf": "N", "name": "Boost Run Inc. - Warrant", "test_issue": "N", "ticker": "BRUNW"}
+{"category": "G", "etf": "N", "name": "Braveheart Bio, Inc. - Common Stock", "test_issue": "N", "ticker": "BRVE"}
 {"category": "Q", "etf": "N", "name": "Braze, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRZE"}
 {"category": "S", "etf": "N", "name": "BEST SPAC I Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "BSAA"}
 {"category": "S", "etf": "N", "name": "BEST SPAC I Acquisition Corp. - Rights", "test_issue": "N", "ticker": "BSAAR"}
@@ -1509,7 +1509,7 @@
 {"category": "S", "etf": "N", "name": "Dogwood Therapeutics, Inc.  - Common Stock", "test_issue": "N", "ticker": "DWTX"}
 {"category": "G", "etf": "Y", "name": "AdvisorShares Dorsey Wright FSM US Core ETF", "test_issue": "N", "ticker": "DWUS"}
 {"category": "Q", "etf": "N", "name": "DexCom, Inc. - Common Stock", "test_issue": "N", "ticker": "DXCM"}
-{"category": "G", "etf": "N", "name": "Destination XL Group, Inc. - Common Stock", "test_issue": "N", "ticker": "DXLG"}
+{"category": "S", "etf": "N", "name": "Destination XL Group, Inc. - Common Stock", "test_issue": "N", "ticker": "DXLG"}
 {"category": "Q", "etf": "N", "name": "DXP Enterprises, Inc. - Common Stock", "test_issue": "N", "ticker": "DXPE"}
 {"category": "S", "etf": "N", "name": "Daxor Corporation - Closed End Fund", "test_issue": "N", "ticker": "DXR"}
 {"category": "S", "etf": "N", "name": "Decent Holding Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "DXST"}
@@ -2341,7 +2341,7 @@
 {"category": "G", "etf": "N", "name": "Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock", "test_issue": "N", "ticker": "HOVNP"}
 {"category": "S", "etf": "N", "name": "New Horizon Aircraft Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "HOVR"}
 {"category": "S", "etf": "N", "name": "New Horizon Aircraft Ltd. - Warrant", "test_issue": "N", "ticker": "HOVRW"}
-{"category": "Q", "etf": "N", "name": "Werewolf Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "HOWL"}
+{"category": "S", "etf": "N", "name": "Werewolf Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "HOWL"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST HOOD ETF", "test_issue": "N", "ticker": "HOYY"}
 {"category": "S", "etf": "N", "name": "Helport AI Limited - Ordinary Shares", "test_issue": "N", "ticker": "HPAI"}
 {"category": "S", "etf": "N", "name": "Helport AI Limited - Warrants", "test_issue": "N", "ticker": "HPAIW"}
@@ -3373,6 +3373,7 @@
 {"category": "S", "etf": "N", "name": "New Century Logistics (BVI) Limited - Ordinary Shares", "test_issue": "N", "ticker": "NCEW"}
 {"category": "S", "etf": "N", "name": "Neo-Concept International Group Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "NCI"}
 {"category": "G", "etf": "Y", "name": "Hashdex Nasdaq CME Crypto Index ETF", "test_issue": "N", "ticker": "NCIQ"}
+{"category": "G", "etf": "Y", "name": "Roundhill Neocloud ETF", "test_issue": "N", "ticker": "NCLD"}
 {"category": "Q", "etf": "N", "name": "National CineMedia, Inc. - Common Stock", "test_issue": "N", "ticker": "NCMI"}
 {"category": "S", "etf": "N", "name": "NuCana plc - American Depositary Shares", "test_issue": "N", "ticker": "NCNA"}
 {"category": "Q", "etf": "N", "name": "nCino, Inc. - Common Stock", "test_issue": "N", "ticker": "NCNO"}
@@ -3762,6 +3763,8 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long PANW Daily ETF", "test_issue": "N", "ticker": "PANG"}
 {"category": "S", "etf": "N", "name": "Pangaea Logistics Solutions Ltd. - Common Stock", "test_issue": "N", "ticker": "PANL"}
 {"category": "Q", "etf": "N", "name": "Palo Alto Networks, Inc. - Common Stock", "test_issue": "N", "ticker": "PANW"}
+{"category": "S", "etf": "N", "name": "Banzai International, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "PARA"}
+{"category": "S", "etf": "N", "name": "Banzai International, Inc. - Warrant", "test_issue": "N", "ticker": "PARAW"}
 {"category": "S", "etf": "N", "name": "Park Dental Partners, Inc. - Common Stock", "test_issue": "N", "ticker": "PARK"}
 {"category": "S", "etf": "N", "name": "Passage Bio, Inc. - Common Stock", "test_issue": "N", "ticker": "PASG"}
 {"category": "S", "etf": "N", "name": "Ping An Biomedical Co., Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "PASW"}
@@ -4175,6 +4178,7 @@
 {"category": "S", "etf": "N", "name": "Robin Energy Ltd. - Common Stock", "test_issue": "N", "ticker": "RBNE"}
 {"category": "S", "etf": "N", "name": "Red Cat Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "RCAT"}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2x Long RCAT ETF", "test_issue": "N", "ticker": "RCAX"}
+{"category": "S", "etf": "N", "name": "River City Bank - Common stock", "test_issue": "N", "ticker": "RCBC"}
 {"category": "S", "etf": "N", "name": "Avita Medical, Inc. - Common Stock", "test_issue": "N", "ticker": "RCEL"}
 {"category": "G", "etf": "Y", "name": "RockCreek Global Equality ETF", "test_issue": "N", "ticker": "RCGE"}
 {"category": "G", "etf": "N", "name": "Rocket Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "RCKT"}
@@ -4880,6 +4884,7 @@
 {"category": "G", "etf": "Y", "name": "21shares Hyperliquid ETF", "test_issue": "N", "ticker": "THYP"}
 {"category": "Q", "etf": "N", "name": "Millicom International Cellular S.A. - Common Stock", "test_issue": "N", "ticker": "TIGO"}
 {"category": "Q", "etf": "N", "name": "UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares", "test_issue": "N", "ticker": "TIGR"}
+{"category": "G", "etf": "Y", "name": "The Investment House ETF", "test_issue": "N", "ticker": "TIH"}
 {"category": "S", "etf": "N", "name": "Instil Bio, Inc. - Common Stock", "test_issue": "N", "ticker": "TIL"}
 {"category": "G", "etf": "Y", "name": "Thrivent International Large Cap ETF", "test_issue": "N", "ticker": "TILC"}
 {"category": "Q", "etf": "N", "name": "Interface, Inc. - Common Stock", "test_issue": "N", "ticker": "TILE"}
