@@ -362,6 +362,7 @@
 {"etf": "N", "exchange": "N", "name": "Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock", "test_issue": "N", "ticker": "ARES$B"}
 {"etf": "Y", "exchange": "P", "name": "Global X MSCI Argentina ETF", "test_issue": "N", "ticker": "ARGT"}
 {"etf": "N", "exchange": "N", "name": "Apollo Commercial Real Estate Finance, Inc", "test_issue": "N", "ticker": "ARI"}
+{"etf": "Y", "exchange": "P", "name": "ARIA Opportunities ETF", "test_issue": "N", "ticker": "ARIA"}
 {"etf": "N", "exchange": "N", "name": "Aris Mining Corporation Common Shares", "test_issue": "N", "ticker": "ARIS"}
 {"etf": "Y", "exchange": "Z", "name": "ARK 21Shares Bitcoin ETF ", "test_issue": "N", "ticker": "ARKB"}
 {"etf": "Y", "exchange": "Z", "name": "ARK DIET Q1 Buffer ETF", "test_issue": "N", "ticker": "ARKD"}
@@ -2313,7 +2314,6 @@
 {"etf": "N", "exchange": "N", "name": "FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant", "test_issue": "N", "ticker": "FCRS.U"}
 {"etf": "N", "exchange": "N", "name": "FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50", "test_issue": "N", "ticker": "FCRS.W"}
 {"etf": "Y", "exchange": "P", "name": "Federated Hermes Short Duration Corporate ETF", "test_issue": "N", "ticker": "FCSH"}
-{"etf": "N", "exchange": "N", "name": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "FCT"}
 {"etf": "Y", "exchange": "Z", "name": "First Trust Lunt U.S. Factor Rotation ETF", "test_issue": "N", "ticker": "FCTR"}
 {"etf": "Y", "exchange": "P", "name": "Pinnacle Focused Opportunities ETF", "test_issue": "N", "ticker": "FCUS"}
 {"etf": "N", "exchange": "N", "name": "Freeport-McMoRan, Inc. Common Stock", "test_issue": "N", "ticker": "FCX"}
@@ -2383,6 +2383,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Fidelity Fundamental Large Cap Growth ETF", "test_issue": "N", "ticker": "FFLG"}
 {"etf": "Y", "exchange": "P", "name": "The Future Fund Long/Short ETF", "test_issue": "N", "ticker": "FFLS"}
 {"etf": "Y", "exchange": "Z", "name": "Fidelity Fundamental Large Cap Value ETF", "test_issue": "N", "ticker": "FFLV"}
+{"etf": "Y", "exchange": "P", "name": "First Trust Flexible Income ETF", "test_issue": "N", "ticker": "FFLX"}
 {"etf": "Y", "exchange": "P", "name": "One Global ETF", "test_issue": "N", "ticker": "FFND"}
 {"etf": "Y", "exchange": "Z", "name": "Franklin Focused Growth ETF", "test_issue": "N", "ticker": "FFOG"}
 {"etf": "Y", "exchange": "P", "name": "FundX Future Fund Opportunities ETF", "test_issue": "N", "ticker": "FFOX"}
@@ -2706,6 +2707,7 @@
 {"etf": "N", "exchange": "N", "name": "Genesco Inc. Common Stock", "test_issue": "N", "ticker": "GCO"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Access U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "GCOR"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Global Cash Cows Dividend ETF", "test_issue": "N", "ticker": "GCOW"}
+{"etf": "Y", "exchange": "N", "name": "Goldman Sachs Core Plus Bond ETF", "test_issue": "N", "ticker": "GCPB"}
 {"etf": "Y", "exchange": "P", "name": "Guggenheim Ultra Short Income ETF", "test_issue": "N", "ticker": "GCSH"}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Common Stock", "test_issue": "N", "ticker": "GCTS"}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50", "test_issue": "N", "ticker": "GCTS.W"}
@@ -2786,6 +2788,7 @@
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Corporate Bond ETF", "test_issue": "N", "ticker": "GIGL"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Global Infrastructure ETF", "test_issue": "N", "ticker": "GII"}
 {"etf": "N", "exchange": "N", "name": "Gildan Activewear, Inc. Class A Sub. Vot. Common Stock", "test_issue": "N", "ticker": "GIL"}
+{"etf": "Y", "exchange": "P", "name": "Goldman Sachs Income ETF", "test_issue": "N", "ticker": "GINC"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Innovate Equity ETF", "test_issue": "N", "ticker": "GINN"}
 {"etf": "N", "exchange": "N", "name": "General Mills, Inc. Common Stock", "test_issue": "N", "ticker": "GIS"}
 {"etf": "Y", "exchange": "P", "name": "Guggenheim Securitized Income ETF", "test_issue": "N", "ticker": "GISC"}
@@ -3688,7 +3691,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi JOBY 2x Daily ETF", "test_issue": "N", "ticker": "JOBC"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long JOBY Daily ETF", "test_issue": "N", "ticker": "JOBX"}
 {"etf": "N", "exchange": "N", "name": "Joby Aviation, Inc. Common Stock", "test_issue": "N", "ticker": "JOBY"}
-{"etf": "N", "exchange": "N", "name": "Joby Aviation, Inc. Warrants", "test_issue": "N", "ticker": "JOBY.W"}
 {"etf": "N", "exchange": "N", "name": "St. Joe Company (The) Common Stock", "test_issue": "N", "ticker": "JOE"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Terranova U.S. Quality Momentum ETF", "test_issue": "N", "ticker": "JOET"}
 {"etf": "N", "exchange": "N", "name": "Japan Smaller Capitalization Fund Inc Common Stock", "test_issue": "N", "ticker": "JOF"}
@@ -5099,6 +5101,7 @@
 {"etf": "N", "exchange": "N", "name": "PHINIA Inc. Common Stock", "test_issue": "N", "ticker": "PHIN"}
 {"etf": "N", "exchange": "N", "name": "Pimco High Income Fund", "test_issue": "N", "ticker": "PHK"}
 {"etf": "N", "exchange": "N", "name": "PulteGroup, Inc. Common Stock", "test_issue": "N", "ticker": "PHM"}
+{"etf": "Y", "exchange": "P", "name": "Aura AI Photonics ETF", "test_issue": "N", "ticker": "PHOX"}
 {"etf": "N", "exchange": "N", "name": "Phreesia, Inc. Common Stock", "test_issue": "N", "ticker": "PHR"}
 {"etf": "N", "exchange": "A", "name": "Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares", "test_issue": "N", "ticker": "PHXE$"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Active High Yield Bond ETF", "test_issue": "N", "ticker": "PHYL"}

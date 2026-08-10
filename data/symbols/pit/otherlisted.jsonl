@@ -364,6 +364,7 @@
 {"etf": "N", "exchange": "N", "name": "Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "ARES$B", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X MSCI Argentina ETF", "provable_from": false, "test_issue": "N", "ticker": "ARGT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Apollo Commercial Real Estate Finance, Inc", "provable_from": false, "test_issue": "N", "ticker": "ARI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "ARIA Opportunities ETF", "provable_from": true, "test_issue": "N", "ticker": "ARIA", "valid_from": "2026-08-10", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Aris Mining Corporation Common Shares", "provable_from": false, "test_issue": "N", "ticker": "ARIS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "ARK 21Shares Bitcoin ETF ", "provable_from": false, "test_issue": "N", "ticker": "ARKB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "ARK DIET Q1 Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "ARKD", "valid_from": "2026-07-28", "valid_to": null}
@@ -2317,7 +2318,7 @@
 {"etf": "N", "exchange": "N", "name": "FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant", "provable_from": false, "test_issue": "N", "ticker": "FCRS.U", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50", "provable_from": false, "test_issue": "N", "ticker": "FCRS.W", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Federated Hermes Short Duration Corporate ETF", "provable_from": false, "test_issue": "N", "ticker": "FCSH", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "FCT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "FCT", "valid_from": "2026-07-28", "valid_to": "2026-08-10"}
 {"etf": "Y", "exchange": "Z", "name": "First Trust Lunt U.S. Factor Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "FCTR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Pinnacle Focused Opportunities ETF", "provable_from": false, "test_issue": "N", "ticker": "FCUS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Freeport-McMoRan, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FCX", "valid_from": "2026-07-28", "valid_to": null}
@@ -2387,6 +2388,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Fidelity Fundamental Large Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "FFLG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "The Future Fund Long/Short ETF", "provable_from": false, "test_issue": "N", "ticker": "FFLS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Fidelity Fundamental Large Cap Value ETF", "provable_from": false, "test_issue": "N", "ticker": "FFLV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "First Trust Flexible Income ETF", "provable_from": true, "test_issue": "N", "ticker": "FFLX", "valid_from": "2026-08-10", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "One Global ETF", "provable_from": false, "test_issue": "N", "ticker": "FFND", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Franklin Focused Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "FFOG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "FundX Future Fund Opportunities ETF", "provable_from": false, "test_issue": "N", "ticker": "FFOX", "valid_from": "2026-07-28", "valid_to": null}
@@ -2710,6 +2712,7 @@
 {"etf": "N", "exchange": "N", "name": "Genesco Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Access U.S. Aggregate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "GCOR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Global Cash Cows Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "GCOW", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "N", "name": "Goldman Sachs Core Plus Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "GCPB", "valid_from": "2026-08-10", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Guggenheim Ultra Short Income ETF", "provable_from": false, "test_issue": "N", "ticker": "GCSH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCTS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50", "provable_from": false, "test_issue": "N", "ticker": "GCTS.W", "valid_from": "2026-07-28", "valid_to": null}
@@ -2791,6 +2794,7 @@
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "GIGL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Global Infrastructure ETF", "provable_from": false, "test_issue": "N", "ticker": "GII", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Gildan Activewear, Inc. Class A Sub. Vot. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GIL", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Goldman Sachs Income ETF", "provable_from": true, "test_issue": "N", "ticker": "GINC", "valid_from": "2026-08-10", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Innovate Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "GINN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "General Mills, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GIS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Guggenheim Securitized Income ETF", "provable_from": false, "test_issue": "N", "ticker": "GISC", "valid_from": "2026-07-28", "valid_to": null}
@@ -3701,7 +3705,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi JOBY 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "JOBC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long JOBY Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "JOBX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Joby Aviation, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JOBY", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Joby Aviation, Inc. Warrants", "provable_from": false, "test_issue": "N", "ticker": "JOBY.W", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Joby Aviation, Inc. Warrants", "provable_from": false, "test_issue": "N", "ticker": "JOBY.W", "valid_from": "2026-07-28", "valid_to": "2026-08-10"}
 {"etf": "N", "exchange": "N", "name": "St. Joe Company (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JOE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Terranova U.S. Quality Momentum ETF", "provable_from": false, "test_issue": "N", "ticker": "JOET", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Japan Smaller Capitalization Fund Inc Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JOF", "valid_from": "2026-07-28", "valid_to": null}
@@ -5120,6 +5124,7 @@
 {"etf": "N", "exchange": "N", "name": "PHINIA Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PHIN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Pimco High Income Fund", "provable_from": false, "test_issue": "N", "ticker": "PHK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "PulteGroup, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PHM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Aura AI Photonics ETF", "provable_from": true, "test_issue": "N", "ticker": "PHOX", "valid_from": "2026-08-10", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Phreesia, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PHR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares", "provable_from": false, "test_issue": "N", "ticker": "PHXE$", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "PGIM Active High Yield Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "PHYL", "valid_from": "2026-07-28", "valid_to": null}

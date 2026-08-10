@@ -3299,7 +3299,8 @@
 {"category": "Q", "etf": "N", "name": "Microsoft Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MSFT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Direxion Daily MSFT Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "MSFU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Motorsport Games Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MSGM", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Masonglory Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MSGY", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Masonglory Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MSGY", "valid_from": "2026-07-28", "valid_to": "2026-08-10"}
+{"category": "S", "etf": "N", "name": "Masonglory Limited - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "MSGY", "valid_from": "2026-08-10", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Satellos Bioscience Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MSLE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable MSTR ETF", "provable_from": false, "test_issue": "N", "ticker": "MSR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Maison Solutions Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MSS", "valid_from": "2026-07-28", "valid_to": null}
@@ -4181,7 +4182,8 @@
 {"category": "G", "etf": "N", "name": "Quantumsphere Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "QUMSU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "uniQure N.V. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "QURE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Alpha Architect U.S. Quantitative Value ETF", "provable_from": false, "test_issue": "N", "ticker": "QVAL", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "QVC Group, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "QVC", "valid_from": "2026-08-08", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "QVC Group, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "QVC", "valid_from": "2026-08-08", "valid_to": "2026-08-10"}
+{"category": "Q", "etf": "N", "name": "QVC Group, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "QVCG", "valid_from": "2026-08-10", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Infrastructure Capital Nasdaq Option Income ETF", "provable_from": false, "test_issue": "N", "ticker": "QVOL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Quantum X Labs Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QXL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "SGI Enhanced Nasdaq-100 ETF", "provable_from": false, "test_issue": "N", "ticker": "QXQ", "valid_from": "2026-07-28", "valid_to": null}
@@ -4719,7 +4721,7 @@
 {"category": "S", "etf": "N", "name": "Strata Critical Medical, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SRTA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Sensus Healthcare, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SRTS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Surrozen, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SRZN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Surrozen, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SRZNW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Surrozen, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SRZNW", "valid_from": "2026-07-28", "valid_to": "2026-08-10"}
 {"category": "G", "etf": "N", "name": "SPACSphere Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SSAC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SPACSphere Acquisition Corp. - Rights", "provable_from": false, "test_issue": "N", "ticker": "SSACR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SPACSphere Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "SSACU", "valid_from": "2026-07-28", "valid_to": null}
@@ -4766,7 +4768,7 @@
 {"category": "G", "etf": "N", "name": "Sutro Biopharma, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STRO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Star Equity Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STRR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "STRRP", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Stratus Properties Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STRS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Stratus Properties Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STRS", "valid_from": "2026-07-28", "valid_to": "2026-08-10"}
 {"category": "G", "etf": "N", "name": "STRATTEC SECURITY CORPORATION - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STRT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Starz Entertainment Corp. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "STRZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Shattuck Labs, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STTK", "valid_from": "2026-07-28", "valid_to": null}
@@ -5461,7 +5463,8 @@
 {"category": "G", "etf": "Y", "name": "WisdomTree High Income Laddered Municipal Fund", "provable_from": false, "test_issue": "N", "ticker": "WTMY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Willis Towers Watson Public Limited Company - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WTW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "TeraWulf Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WULF", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Wave Life Sciences Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WVE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Wave Life Sciences Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WVE", "valid_from": "2026-07-28", "valid_to": "2026-08-10"}
+{"category": "G", "etf": "N", "name": "Wave Life Sciences, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "WVE", "valid_from": "2026-08-10", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Willamette Valley Vineyards, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WVVI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "WVVIP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "WW International, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WW", "valid_from": "2026-07-28", "valid_to": null}
