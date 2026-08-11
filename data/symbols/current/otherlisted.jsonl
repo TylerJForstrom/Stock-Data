@@ -801,7 +801,6 @@
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon US Mid Cap Core Equity ETF", "test_issue": "N", "ticker": "BKMC"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon US Small Cap Core Equity ETF", "test_issue": "N", "ticker": "BKSE"}
 {"etf": "N", "exchange": "N", "name": "BlackSky Technology Inc. Class A Common Stock", "test_issue": "N", "ticker": "BKSY"}
-{"etf": "N", "exchange": "N", "name": "BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock", "test_issue": "N", "ticker": "BKSY.W"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Income Trust Inc. (The)", "test_issue": "N", "ticker": "BKT"}
 {"etf": "N", "exchange": "A", "name": "BK Technologies Corporation Common Stock", "test_issue": "N", "ticker": "BKTI"}
 {"etf": "N", "exchange": "N", "name": "BankUnited, Inc. Common Stock", "test_issue": "N", "ticker": "BKU"}
@@ -1303,7 +1302,6 @@
 {"etf": "N", "exchange": "N", "name": "CNH Industrial N.V. Common Shares", "test_issue": "N", "ticker": "CNH"}
 {"etf": "N", "exchange": "N", "name": "Canadian National Railway Company Common Stock", "test_issue": "N", "ticker": "CNI"}
 {"etf": "N", "exchange": "N", "name": "Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "CNK"}
-{"etf": "N", "exchange": "A", "name": "Collective Mining Ltd. Common Shares", "test_issue": "N", "ticker": "CNL"}
 {"etf": "N", "exchange": "N", "name": "Core & Main, Inc. Class A Common Stock", "test_issue": "N", "ticker": "CNM"}
 {"etf": "N", "exchange": "N", "name": "CONMED Corporation Common Stock", "test_issue": "N", "ticker": "CNMD"}
 {"etf": "N", "exchange": "N", "name": "Cannae Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "CNNE"}
@@ -3187,8 +3185,10 @@
 {"etf": "Y", "exchange": "P", "name": "VanEck Emerging Markets High Yield Bond ETF", "test_issue": "N", "ticker": "HYEM"}
 {"etf": "Y", "exchange": "P", "name": "AB High Yield ETF", "test_issue": "N", "ticker": "HYFI"}
 {"etf": "Y", "exchange": "P", "name": "iShares iBoxx $ High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "HYG"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs", "test_issue": "N", "ticker": "HYGD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Interest Rate Hedged High Yield Bond ETF", "test_issue": "N", "ticker": "HYGH"}
 {"etf": "Y", "exchange": "Z", "name": "Amplify HYG High Yield 10% Target Income ETF", "test_issue": "N", "ticker": "HYGM"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs", "test_issue": "N", "ticker": "HYGU"}
 {"etf": "Y", "exchange": "P", "name": "FlexShares High Yield Value-Scored Bond Index Fund", "test_issue": "N", "ticker": "HYGV"}
 {"etf": "Y", "exchange": "Z", "name": "iShares High Yield Corporate Bond BuyWrite Strategy ETF", "test_issue": "N", "ticker": "HYGW"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares High Yield Interest Rate Hedged", "test_issue": "N", "ticker": "HYHG"}
@@ -3997,6 +3997,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Lithium & Battery Tech ETF", "test_issue": "N", "ticker": "LIT"}
 {"etf": "N", "exchange": "N", "name": "LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares", "test_issue": "N", "ticker": "LITB"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi LITE 2x Daily ETF", "test_issue": "N", "ticker": "LITC"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long LITE Daily ETF", "test_issue": "N", "ticker": "LITG"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Piper Sandler US Small-Cap PLUS Income ETF", "test_issue": "N", "ticker": "LITL"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long LITE Daily Target ETF", "test_issue": "N", "ticker": "LITU"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long LITE Daily ETF", "test_issue": "N", "ticker": "LITX"}
@@ -4042,9 +4043,11 @@
 {"etf": "Y", "exchange": "P", "name": "LG QRAFT AI-Powered U.S. Large Cap Core ETF", "test_issue": "N", "ticker": "LQAI"}
 {"etf": "Y", "exchange": "P", "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF", "test_issue": "N", "ticker": "LQD"}
 {"etf": "Y", "exchange": "P", "name": "iShares BBB Rated Corporate Bond ETF", "test_issue": "N", "ticker": "LQDB"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short Investment Grade Corporate Bond (LQD) ETNs", "test_issue": "N", "ticker": "LQDD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Interest Rate Hedged Corporate Bond ETF", "test_issue": "N", "ticker": "LQDH"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Inflation Hedged Corporate Bond ETF", "test_issue": "N", "ticker": "LQDI"}
 {"etf": "Y", "exchange": "Z", "name": "Amplify LQD Investment Grade 12% Target Income ETF", "test_issue": "N", "ticker": "LQDM"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs", "test_issue": "N", "ticker": "LQDU"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Investment Grade Corporate Bond BuyWrite Strategy ETF", "test_issue": "N", "ticker": "LQDW"}
 {"etf": "Y", "exchange": "Z", "name": "Kurv Enhanced Short Maturity ETF", "test_issue": "N", "ticker": "LQID"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest Investment Grade & Target Income ETF", "test_issue": "N", "ticker": "LQTI"}
@@ -4357,6 +4360,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi MPWR 2x Daily ETF", "test_issue": "N", "ticker": "MPWC"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long MPWR Daily ETF", "test_issue": "N", "ticker": "MPWX"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniYield Quality Fund, Inc. Common Stock", "test_issue": "N", "ticker": "MQY"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long MRAM Daily ETF", "test_issue": "N", "ticker": "MRAX"}
 {"etf": "Y", "exchange": "Z", "name": "PGIM S&P 500 Buffer 12 ETF - March", "test_issue": "N", "ticker": "MRCP"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares Merger ETF", "test_issue": "N", "ticker": "MRGR"}
 {"etf": "N", "exchange": "N", "name": "Merck & Company, Inc. Common Stock (new)", "test_issue": "N", "ticker": "MRK"}
@@ -4482,6 +4486,7 @@
 {"etf": "N", "exchange": "N", "name": "Mexico Equity and Income Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "MXE"}
 {"etf": "N", "exchange": "N", "name": "Mexico Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "MXF"}
 {"etf": "Y", "exchange": "P", "name": "iShares Global Materials ETF", "test_issue": "N", "ticker": "MXI"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long MXL Daily ETF", "test_issue": "N", "ticker": "MXLL"}
 {"etf": "N", "exchange": "N", "name": "Myers Industries, Inc. Common Stock", "test_issue": "N", "ticker": "MYE"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniYield Quality Fund III, Inc Common Stock", "test_issue": "N", "ticker": "MYI"}
 {"etf": "Y", "exchange": "Z", "name": "Cambria Micro and SmallCap Shareholder Yield ETF", "test_issue": "N", "ticker": "MYLD"}
@@ -5973,6 +5978,7 @@
 {"etf": "Y", "exchange": "P", "name": "VistaShares Target 15 S&P 100 Distribution ETF", "test_issue": "N", "ticker": "SIOO"}
 {"etf": "N", "exchange": "N", "name": "SITE Centers Corp. Common Stock", "test_issue": "N", "ticker": "SITC"}
 {"etf": "N", "exchange": "N", "name": "SiteOne Landscape Supply, Inc. Common Stock", "test_issue": "N", "ticker": "SITE"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SITM Daily ETF", "test_issue": "N", "ticker": "SITX"}
 {"etf": "Y", "exchange": "P", "name": "abrdn Physical Silver Shares ETF", "test_issue": "N", "ticker": "SIVR"}
 {"etf": "Y", "exchange": "P", "name": "ETC 6 Meridian Mega Cap Equity ETF", "test_issue": "N", "ticker": "SIXA"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF", "test_issue": "N", "ticker": "SIXD"}
@@ -6271,6 +6277,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares 0-5 Year TIPS Bond ETF", "test_issue": "N", "ticker": "STIP"}
 {"etf": "N", "exchange": "N", "name": "Columbia Seligman Premium Technology Growth Fund Inc", "test_issue": "N", "ticker": "STK"}
 {"etf": "N", "exchange": "N", "name": "Stellantis N.V. Common Shares", "test_issue": "N", "ticker": "STLA"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long STRL Daily ETF", "test_issue": "N", "ticker": "STLL"}
 {"etf": "Y", "exchange": "Z", "name": "Stellar ETF", "test_issue": "N", "ticker": "STLR"}
 {"etf": "Y", "exchange": "Z", "name": "2x Stellar ETF", "test_issue": "N", "ticker": "STLU"}
 {"etf": "N", "exchange": "N", "name": "STMicroelectronics N.V. Common Stock", "test_issue": "N", "ticker": "STM"}
@@ -6781,6 +6788,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Ultra Buffer ETF - March", "test_issue": "N", "ticker": "UMAR"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Ultra Buffer ETF - May", "test_issue": "N", "ticker": "UMAY"}
 {"etf": "N", "exchange": "N", "name": "United Microelectronics Corporation (NEW) Common Stock", "test_issue": "N", "ticker": "UMC"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long UMC Daily ETF", "test_issue": "N", "ticker": "UMCU"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi UMC 2x Daily ETF", "test_issue": "N", "ticker": "UMCX"}
 {"etf": "Y", "exchange": "P", "name": "UltraPro MidCap400", "test_issue": "N", "ticker": "UMDD"}
 {"etf": "N", "exchange": "N", "name": "UMH Properties, Inc. Common Stock", "test_issue": "N", "ticker": "UMH"}
