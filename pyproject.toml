@@ -19,7 +19,7 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "pytest>=9.1.1",
-    "ruff>=0.16.1",
+    "ruff>=0.16.2",
     "mypy>=2.3.0",
     # Real stubs rather than silencing the missing-import error: pandas is used
     # for exactly one call (dividends -> parquet), and typing it costs nothing.
