@@ -1456,6 +1456,7 @@
 {"etf": "Y", "exchange": "P", "name": "Cohen & Steers Preferred and Income Opportunities Active ETF", "test_issue": "N", "ticker": "CSPF"}
 {"etf": "N", "exchange": "N", "name": "Csquare, Inc. Common Stock", "test_issue": "N", "ticker": "CSQR"}
 {"etf": "N", "exchange": "N", "name": "D/B/A Centerspace Common Stock", "test_issue": "N", "ticker": "CSR"}
+{"etf": "Y", "exchange": "P", "name": "Cohen & Steers Real Assets Active ETF", "test_issue": "N", "ticker": "CSRA"}
 {"etf": "Y", "exchange": "P", "name": "Cohen & Steers Real Estate Active ETF", "test_issue": "N", "ticker": "CSRE"}
 {"etf": "Y", "exchange": "P", "name": "Cohen & Steers Short Duration Preferred and Income Active ETF", "test_issue": "N", "ticker": "CSSD"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco Comstock Contrarian Equity ETF", "test_issue": "N", "ticker": "CSTK"}
@@ -2258,6 +2259,7 @@
 {"etf": "N", "exchange": "A", "name": "Exodus Movement, Inc. Class A Common Stock", "test_issue": "N", "ticker": "EXOD"}
 {"etf": "N", "exchange": "N", "name": "Eagle Materials Inc Common Stock", "test_issue": "N", "ticker": "EXP"}
 {"etf": "N", "exchange": "N", "name": "Expeditors International of Washington, Inc. Common Stock", "test_issue": "N", "ticker": "EXPD"}
+{"etf": "Y", "exchange": "Z", "name": "Horizon Expansion Leaders ETF", "test_issue": "N", "ticker": "EXPN"}
 {"etf": "N", "exchange": "N", "name": "Extra Space Storage Inc Common Stock", "test_issue": "N", "ticker": "EXR"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Data & Surveillance ETF", "test_issue": "N", "ticker": "EYES"}
 {"etf": "Y", "exchange": "Z", "name": "Cambria Emerging Shareholder Yield ETF", "test_issue": "N", "ticker": "EYLD"}
@@ -2543,6 +2545,7 @@
 {"etf": "N", "exchange": "N", "name": "Finance of America Companies Inc. Class A Common Stock", "test_issue": "N", "ticker": "FOA"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Buffer ETF - October", "test_issue": "N", "ticker": "FOCT"}
 {"etf": "N", "exchange": "N", "name": "Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock", "test_issue": "N", "ticker": "FOF"}
+{"etf": "N", "exchange": "N", "name": "Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares", "test_issue": "N", "ticker": "FOIL"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long FORM Daily ETF", "test_issue": "N", "ticker": "FOMG"}
 {"etf": "Y", "exchange": "P", "name": "Frontier Asset Opportunistic Credit ETF", "test_issue": "N", "ticker": "FOPC"}
 {"etf": "N", "exchange": "N", "name": "Forestar Group Inc Common Stock ", "test_issue": "N", "ticker": "FOR"}
@@ -2675,6 +2678,7 @@
 {"etf": "N", "exchange": "N", "name": "Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock", "test_issue": "N", "ticker": "GAB$K"}
 {"etf": "Y", "exchange": "P", "name": "Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF", "test_issue": "N", "ticker": "GABF"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Gamma Emerging Market Bond ETF", "test_issue": "N", "ticker": "GAEM"}
+{"etf": "Y", "exchange": "P", "name": "Guinness Atkinson Global Innovators Fund: ETF Class Shares", "test_issue": "N", "ticker": "GAIQ"}
 {"etf": "Y", "exchange": "P", "name": "State Street Global Allocation ETF", "test_issue": "N", "ticker": "GAL"}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Space Supercycle ETF", "test_issue": "N", "ticker": "GALX"}
 {"etf": "N", "exchange": "N", "name": "General American Investors, Inc. Common Stock", "test_issue": "N", "ticker": "GAM"}
@@ -4182,8 +4186,6 @@
 {"etf": "Y", "exchange": "N", "name": "Westwood Salient Enhanced Midstream Income ETF", "test_issue": "N", "ticker": "MDST"}
 {"etf": "N", "exchange": "N", "name": "Medtronic plc. Ordinary Shares", "test_issue": "N", "ticker": "MDT"}
 {"etf": "N", "exchange": "N", "name": "MDU Resources Group, Inc. Common Stock (Holding Company)", "test_issue": "N", "ticker": "MDU"}
-{"etf": "N", "exchange": "N", "name": "Modiv Industrial, Inc. Class C Common Stock", "test_issue": "N", "ticker": "MDV"}
-{"etf": "N", "exchange": "N", "name": "Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock", "test_issue": "N", "ticker": "MDV$A"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P MIDCAP 400 ETF Trust", "test_issue": "N", "ticker": "MDY"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P 400 Mid Cap Growth ETF", "test_issue": "N", "ticker": "MDYG"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P 400 Mid Cap Value ETF", "test_issue": "N", "ticker": "MDYV"}
@@ -4349,6 +4351,9 @@
 {"etf": "N", "exchange": "N", "name": "MP Materials Corp. Common Stock", "test_issue": "N", "ticker": "MP"}
 {"etf": "N", "exchange": "N", "name": "Blackrock MuniYield Pennsylvania Quality Fund Common Stock", "test_issue": "N", "ticker": "MPA"}
 {"etf": "N", "exchange": "N", "name": "Marathon Petroleum Corporation Common Stock", "test_issue": "N", "ticker": "MPC"}
+{"etf": "Y", "exchange": "Z", "name": "m+ DynaBuffer ETF", "test_issue": "N", "ticker": "MPDB"}
+{"etf": "Y", "exchange": "P", "name": "m+ DualYield Autocall ETF", "test_issue": "N", "ticker": "MPDY"}
+{"etf": "Y", "exchange": "P", "name": "m+ Income Momentum Autocall ETF", "test_issue": "N", "ticker": "MPIM"}
 {"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Long MP ETF", "test_issue": "N", "ticker": "MPL"}
 {"etf": "N", "exchange": "N", "name": "MPLX LP Common Units Representing Limited Partner Interests", "test_issue": "N", "ticker": "MPLX"}
 {"etf": "Y", "exchange": "Z", "name": "Monopoly ETF", "test_issue": "N", "ticker": "MPLY"}
@@ -6098,6 +6103,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Xtrackers S&P Dividend Aristocrats Screened ETF", "test_issue": "N", "ticker": "SNPD"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers S&P 500 Scored & Screened ETF", "test_issue": "N", "ticker": "SNPE"}
 {"etf": "Y", "exchange": "Z", "name": "Xtrackers S&P 500 Growth Scored & Screened ETF", "test_issue": "N", "ticker": "SNPG"}
+{"etf": "N", "exchange": "A", "name": "SunScout Holding Limited Class A Ordinary Shares", "test_issue": "N", "ticker": "SNSC"}
 {"etf": "Y", "exchange": "P", "name": "MRP SynthEquity ETF", "test_issue": "N", "ticker": "SNTH"}
 {"etf": "Y", "exchange": "Z", "name": "MRP SynthEquity Nasdaq 100 ETF", "test_issue": "N", "ticker": "SNTQ"}
 {"etf": "N", "exchange": "N", "name": "TD SYNNEX Corporation Common Stock", "test_issue": "N", "ticker": "SNX"}
@@ -7450,6 +7456,7 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest International Equity Moderate Buffer ETF - June", "test_issue": "N", "ticker": "YJUN"}
 {"etf": "Y", "exchange": "P", "name": "Principal Active High Yield ETF", "test_issue": "N", "ticker": "YLD"}
 {"etf": "Y", "exchange": "P", "name": "Westwood Enhanced Income Opportunity ETF", "test_issue": "N", "ticker": "YLDW"}
+{"etf": "Y", "exchange": "Z", "name": "Horizon High Income ETF", "test_issue": "N", "ticker": "YLDY"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax Magnificent 7 Fund of Option Income ETFs", "test_issue": "N", "ticker": "YMAG"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest International Equity Moderate Buffer ETF - March", "test_issue": "N", "ticker": "YMAR"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax Universe Fund of Option Income ETFs", "test_issue": "N", "ticker": "YMAX"}

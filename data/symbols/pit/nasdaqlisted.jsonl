@@ -1152,6 +1152,7 @@
 {"category": "Q", "etf": "N", "name": "Conduent Incorporated - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CNDT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "ZW Data Action Technologies Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CNET", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "CN Energy Group Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CNEY", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Collective Mining Ltd. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "CNL", "valid_from": "2026-08-12", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ConnectOne Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CNOB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)", "provable_from": false, "test_issue": "N", "ticker": "CNOBP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Rayliant-ChinaAMC Transformative China Tech ETF", "provable_from": false, "test_issue": "N", "ticker": "CNQQ", "valid_from": "2026-07-28", "valid_to": null}
@@ -3246,7 +3247,7 @@
 {"category": "Q", "etf": "N", "name": "Monster Beverage Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MNST", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Montauk Renewables, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MNTK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Momentus Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MNTS", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Momentus Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "MNTSW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Momentus Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "MNTSW", "valid_from": "2026-07-28", "valid_to": "2026-08-12"}
 {"category": "G", "etf": "Y", "name": "Moonvest ETF", "provable_from": false, "test_issue": "N", "ticker": "MNVT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "MoneyHero Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MNY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "MoneyHero Limited - Warrants", "provable_from": false, "test_issue": "N", "ticker": "MNYWW", "valid_from": "2026-07-28", "valid_to": null}
@@ -3560,7 +3561,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST Gold Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "NUGY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Nuveen US Infrastructure ETF", "provable_from": false, "test_issue": "N", "ticker": "NUIF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Nuveen Ultra Short Income ETF", "provable_from": false, "test_issue": "N", "ticker": "NUSB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Nusatrip Incorporated - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NUTR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Nusatrip Incorporated - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NUTR", "valid_from": "2026-07-28", "valid_to": "2026-08-12"}
 {"category": "S", "etf": "N", "name": "Nutex Health Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NUTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nuwellis, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NUWE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Novavax, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NVAX", "valid_from": "2026-07-28", "valid_to": null}
@@ -4933,7 +4934,8 @@
 {"category": "S", "etf": "N", "name": "Tiptree Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TIPT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Thrivent International Small Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "TISC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Titan Machinery Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TITN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "TJGC Group Limited - ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "TJGC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "TJGC Group Limited - ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "TJGC", "valid_from": "2026-07-28", "valid_to": "2026-08-12"}
+{"category": "S", "etf": "N", "name": "TJGC Group Limited - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "TJGC", "valid_from": "2026-08-12", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Tokyo Lifestyle Co., Ltd. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "TKLF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Alpha Teknova, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TKNO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "21Shares Active Crypto ETF", "provable_from": false, "test_issue": "N", "ticker": "TKNS", "valid_from": "2026-07-28", "valid_to": null}
