@@ -154,7 +154,6 @@
 {"etf": "Y", "exchange": "P", "name": "Adaptive Alpha Opportunities ETF", "test_issue": "N", "ticker": "AGOX"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Silver", "test_issue": "N", "ticker": "AGQ"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Active Global Quality Income ETF", "test_issue": "N", "ticker": "AGQI"}
-{"etf": "Y", "exchange": "P", "name": "iShares Interest Rate Hedged U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "AGRH"}
 {"etf": "N", "exchange": "N", "name": "Adecoagro S.A. Common Shares", "test_issue": "N", "ticker": "AGRO"}
 {"etf": "Y", "exchange": "P", "name": "Allspring LT Large Growth ETF", "test_issue": "N", "ticker": "AGRW"}
 {"etf": "N", "exchange": "N", "name": "Argan, Inc. Common Stock", "test_issue": "N", "ticker": "AGX"}
@@ -297,6 +296,7 @@
 {"etf": "N", "exchange": "N", "name": "American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D", "test_issue": "N", "ticker": "ANG$D"}
 {"etf": "N", "exchange": "N", "name": "Angel Studios, Inc. Class A Common Stock", "test_issue": "N", "ticker": "ANGX"}
 {"etf": "N", "exchange": "N", "name": "Alto Neuroscience, Inc. Common Stock", "test_issue": "N", "ticker": "ANRO"}
+{"etf": "Y", "exchange": "P", "name": "Anthropic AI Lab Ecosystem ETF", "test_issue": "N", "ticker": "ANTW"}
 {"etf": "N", "exchange": "N", "name": "Annovis Bio, Inc. Common Stock", "test_issue": "N", "ticker": "ANVS"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 80/20 Aggressive Allocation ETF", "test_issue": "N", "ticker": "AOA"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026", "test_issue": "N", "ticker": "AOCT"}
@@ -1004,7 +1004,6 @@
 {"etf": "N", "exchange": "N", "name": "Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share", "test_issue": "N", "ticker": "BWIV.W"}
 {"etf": "N", "exchange": "N", "name": "BW LPG Limited Common Shares", "test_issue": "N", "ticker": "BWLP"}
 {"etf": "N", "exchange": "N", "name": "Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares", "test_issue": "N", "ticker": "BWMX"}
-{"etf": "N", "exchange": "N", "name": "Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026", "test_issue": "N", "ticker": "BWNB"}
 {"etf": "Y", "exchange": "P", "name": "Bitwise Dogecoin ETF", "test_issue": "N", "ticker": "BWOW"}
 {"etf": "Y", "exchange": "Z", "name": "BWM Quality Growth ETF", "test_issue": "N", "ticker": "BWQG"}
 {"etf": "Y", "exchange": "Z", "name": "Brendan Wood TopGun Index ETF", "test_issue": "N", "ticker": "BWTG"}
@@ -1539,6 +1538,7 @@
 {"etf": "N", "exchange": "N", "name": "Dominion Energy, Inc. Common Stock", "test_issue": "N", "ticker": "D"}
 {"etf": "Y", "exchange": "P", "name": "DoubleLine Asset-Backed Securities ETF", "test_issue": "N", "ticker": "DABS"}
 {"etf": "N", "exchange": "N", "name": "Danaos Corporation Common Stock", "test_issue": "N", "ticker": "DAC"}
+{"etf": "Y", "exchange": "P", "name": "REX Defensive Autocallable Income ETF", "test_issue": "N", "ticker": "DACL"}
 {"etf": "N", "exchange": "N", "name": "Delta Air Lines, Inc. Common Stock", "test_issue": "N", "ticker": "DAL"}
 {"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Short AMD ETF", "test_issue": "N", "ticker": "DAMD"}
 {"etf": "N", "exchange": "N", "name": "Dana Incorporated Common Stock ", "test_issue": "N", "ticker": "DAN"}
@@ -1642,6 +1642,7 @@
 {"etf": "N", "exchange": "N", "name": "Dell Technologies Inc. Class C Common Stock ", "test_issue": "N", "ticker": "DELL"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Emerging Markets High Dividend Fund", "test_issue": "N", "ticker": "DEM"}
 {"etf": "N", "exchange": "N", "name": "Diageo plc Common Stock", "test_issue": "N", "ticker": "DEO"}
+{"etf": "Y", "exchange": "P", "name": "Google DeepMind AI Lab Ecosystem ETF", "test_issue": "N", "ticker": "DEPW"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree U.S. SmallCap Dividend Fund", "test_issue": "N", "ticker": "DES"}
 {"etf": "Y", "exchange": "P", "name": "VanEck Office and Commercial REIT ETF", "test_issue": "N", "ticker": "DESK"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Russell US Multifactor ETF", "test_issue": "N", "ticker": "DEUS"}
@@ -1899,10 +1900,6 @@
 {"etf": "Y", "exchange": "P", "name": "Eagle Capital Select Equity ETF", "test_issue": "N", "ticker": "EAGL"}
 {"etf": "N", "exchange": "N", "name": "Entergy Arkansas, LLC First Mortgage Bonds, 4.875% Series Due September 1, 2066", "test_issue": "N", "ticker": "EAI"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly", "test_issue": "N", "ticker": "EALT"}
-{"etf": "Y", "exchange": "Z", "name": "iShares ESG Aware 80/20 Aggressive Allocation ETF", "test_issue": "N", "ticker": "EAOA"}
-{"etf": "Y", "exchange": "Z", "name": "iShares ESG Aware 30/70 Conservative Allocation ETF", "test_issue": "N", "ticker": "EAOK"}
-{"etf": "Y", "exchange": "Z", "name": "iShares ESG Aware 40/60 Moderate Allocation ETF", "test_issue": "N", "ticker": "EAOM"}
-{"etf": "Y", "exchange": "Z", "name": "iShares ESG Aware 60/40 Balanced Allocation ETF", "test_issue": "N", "ticker": "EAOR"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Emerging Markets Power Buffer ETF April", "test_issue": "N", "ticker": "EAPR"}
 {"etf": "N", "exchange": "N", "name": "Ellington Credit Company Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "EARN"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers MSCI EAFE Selection Equity ETF", "test_issue": "N", "ticker": "EASG"}
@@ -2705,7 +2702,7 @@
 {"etf": "Y", "exchange": "P", "name": "Gabelli Commercial Aerospace and Defense ETF", "test_issue": "N", "ticker": "GCAD"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Dynamic California Municipal Income ETF", "test_issue": "N", "ticker": "GCAL"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree EnhancedContinuous Commodity Index Fund", "test_issue": "N", "ticker": "GCC"}
-{"etf": "N", "exchange": "A", "name": "Green Circle Decarbonize Technology Limited Ordinary Shares", "test_issue": "N", "ticker": "GCDT"}
+{"etf": "N", "exchange": "A", "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares", "test_issue": "N", "ticker": "GCDT"}
 {"etf": "N", "exchange": "N", "name": "Genesco Inc. Common Stock", "test_issue": "N", "ticker": "GCO"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Access U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "GCOR"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Global Cash Cows Dividend ETF", "test_issue": "N", "ticker": "GCOW"}
@@ -3025,6 +3022,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares Currency Hedged MSCI ACWI ex U.S. ETF", "test_issue": "N", "ticker": "HAWX"}
 {"etf": "N", "exchange": "N", "name": "Hayward Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "HAYW"}
 {"etf": "N", "exchange": "N", "name": "Hamilton Beach Brands Holding Company Class A Common Stock ", "test_issue": "N", "ticker": "HBB"}
+{"etf": "Y", "exchange": "P", "name": "Harbor Short Term Treasury ETF", "test_issue": "N", "ticker": "HBIL"}
 {"etf": "N", "exchange": "N", "name": "Hudbay Minerals Inc. Ordinary Shares (Canada)", "test_issue": "N", "ticker": "HBM"}
 {"etf": "Y", "exchange": "Z", "name": "Tuttle Capital Concentrated Memory Stack ETF", "test_issue": "N", "ticker": "HBMX"}
 {"etf": "Y", "exchange": "P", "name": "Invesco U.S. Hybrid Bond ETF", "test_issue": "N", "ticker": "HBRD"}
@@ -3532,7 +3530,6 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P Mid-Cap 400 Value ETF", "test_issue": "N", "ticker": "IVOV"}
 {"etf": "N", "exchange": "N", "name": "INVESCO MORTGAGE CAPITAL INC Common Stock", "test_issue": "N", "ticker": "IVR"}
 {"etf": "N", "exchange": "N", "name": "INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share", "test_issue": "N", "ticker": "IVR$C"}
-{"etf": "Y", "exchange": "P", "name": "iShares Future Metaverse Tech and Communications ETF", "test_issue": "N", "ticker": "IVRS"}
 {"etf": "N", "exchange": "N", "name": "InvenTrust Properties Corp. Common Stock", "test_issue": "N", "ticker": "IVT"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core S&P 500 ETF", "test_issue": "N", "ticker": "IVV"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Large Cap Deep Quarterly Laddered ETF", "test_issue": "N", "ticker": "IVVB"}
@@ -4428,6 +4425,7 @@
 {"etf": "N", "exchange": "N", "name": "Metals Acquisition Corp. II Class A Ordinary Shares", "test_issue": "N", "ticker": "MTAL"}
 {"etf": "N", "exchange": "N", "name": "Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "MTAL.U"}
 {"etf": "N", "exchange": "N", "name": "Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "MTAL.W"}
+{"etf": "Y", "exchange": "P", "name": "Meta AI Lab Ecosystem ETF", "test_issue": "N", "ticker": "MTAW"}
 {"etf": "N", "exchange": "N", "name": "M&T Bank Corporation Common Stock", "test_issue": "N", "ticker": "MTB"}
 {"etf": "N", "exchange": "N", "name": "M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H", "test_issue": "N", "ticker": "MTB$H"}
 {"etf": "N", "exchange": "N", "name": "M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J", "test_issue": "N", "ticker": "MTB$J"}
@@ -4795,6 +4793,7 @@
 {"etf": "Y", "exchange": "P", "name": "OneAscent Core Plus Bond ETF", "test_issue": "N", "ticker": "OACP"}
 {"etf": "Y", "exchange": "P", "name": "OneAscent Emerging Markets ETF", "test_issue": "N", "ticker": "OAEM"}
 {"etf": "Y", "exchange": "P", "name": "OneAscent International Equity ETF", "test_issue": "N", "ticker": "OAIM"}
+{"etf": "Y", "exchange": "P", "name": "OpenAI Lab Ecosystem ETF", "test_issue": "N", "ticker": "OAIW"}
 {"etf": "N", "exchange": "N", "name": "Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units", "test_issue": "N", "ticker": "OAK$A"}
 {"etf": "N", "exchange": "N", "name": "Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units", "test_issue": "N", "ticker": "OAK$B"}
 {"etf": "Y", "exchange": "P", "name": "Oakmark Global Large Cap ETF", "test_issue": "N", "ticker": "OAKG"}
@@ -5708,6 +5707,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Adaptive Core ETF", "test_issue": "N", "ticker": "RULE"}
 {"etf": "Y", "exchange": "P", "name": "Trenchless Fund ETF", "test_issue": "N", "ticker": "RVER"}
 {"etf": "N", "exchange": "N", "name": "Robinhood Ventures Fund I Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "RVI"}
+{"etf": "N", "exchange": "N", "name": "Robinhood Ventures Fund II Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "RVII"}
 {"etf": "N", "exchange": "N", "name": "Revolve Group, Inc. Class A Common Stock", "test_issue": "N", "ticker": "RVLV"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Municipal Infrastructure Revenue Bond Active ETF", "test_issue": "N", "ticker": "RVNU"}
 {"etf": "N", "exchange": "A", "name": "Retractable Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "RVP"}
@@ -7255,6 +7255,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi AI Cybersecurity ETF", "test_issue": "N", "ticker": "XA"}
 {"etf": "Y", "exchange": "P", "name": "Eaton Vance Income Opportunities ETF", "test_issue": "N", "ticker": "XAGG"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi AGIX 2x Daily ETF", "test_issue": "N", "ticker": "XAGI"}
+{"etf": "Y", "exchange": "P", "name": "SpaceXAI Lab Ecosystem ETF", "test_issue": "N", "ticker": "XAIW"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April", "test_issue": "N", "ticker": "XAPR"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Aerospace & Defense ETF", "test_issue": "N", "ticker": "XAR"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August", "test_issue": "N", "ticker": "XAUG"}

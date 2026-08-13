@@ -325,9 +325,9 @@
 {"category": "S", "etf": "N", "name": "AleAnna, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ANNAW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Annexon, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "ANNX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Rich Sparkle Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ANPA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ANSC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "ANSCU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ANSCW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ANSC", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
+{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "ANSCU", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
+{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ANSCW", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
 {"category": "G", "etf": "N", "name": "Antalpha Platform Holding Company - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ANTA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "AN2 Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ANTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable NVDA ETF", "provable_from": false, "test_issue": "N", "ticker": "ANV", "valid_from": "2026-07-28", "valid_to": null}
@@ -617,7 +617,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2x Long BE Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "BEG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Bel Fuse Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BELFA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Bel Fuse Inc. - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BELFB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "iShares U.S. Select Equity Active ETF", "provable_from": false, "test_issue": "N", "ticker": "BELT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "iShares U.S. Select Equity Active ETF", "provable_from": false, "test_issue": "N", "ticker": "BELT", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
 {"category": "S", "etf": "N", "name": "Beneficient - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BENF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Beneficient - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BENFW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GSR Crypto Core3 ETF", "provable_from": false, "test_issue": "N", "ticker": "BESO", "valid_from": "2026-07-28", "valid_to": null}
@@ -3267,6 +3267,7 @@
 {"category": "Q", "etf": "N", "name": "Motorcar Parts of America, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MPAA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Mid Penn Bancorp - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MPB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long MP Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "MPG", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "m+ Nasdaq-100 Accelerator Autocall ETF", "provable_from": true, "test_issue": "N", "ticker": "MPIA", "valid_from": "2026-08-13", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "MapLight Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MPLT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Monolithic Power Systems, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MPWR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Marqeta, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MQ", "valid_from": "2026-07-28", "valid_to": null}
@@ -3921,6 +3922,8 @@
 {"category": "G", "etf": "N", "name": "Polibeli Group Ltd - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PLBL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Playboy, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLBY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Children's Place, Inc. (The) - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLCE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "PLCI", "valid_from": "2026-08-13", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Right", "provable_from": true, "test_issue": "N", "ticker": "PLCIR", "valid_from": "2026-08-13", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "PLCIU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Plum Acquisition Corp. IV - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PLMK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Plum Acquisition Corp. IV - Unit", "provable_from": false, "test_issue": "N", "ticker": "PLMKU", "valid_from": "2026-07-28", "valid_to": null}
@@ -5303,6 +5306,7 @@
 {"category": "Q", "etf": "N", "name": "Viper Energy, Inc.  - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VNOM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Global ex-U.S. Real Estate ETF", "provable_from": false, "test_issue": "N", "ticker": "VNQI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "VOD", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Vogenx Inc - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "VOGX", "valid_from": "2026-08-13", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Tema Electrification ETF", "provable_from": false, "test_issue": "N", "ticker": "VOLT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 ETF", "provable_from": false, "test_issue": "N", "ticker": "VONE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "VONG", "valid_from": "2026-07-28", "valid_to": null}

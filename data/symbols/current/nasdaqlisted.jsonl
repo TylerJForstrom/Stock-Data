@@ -323,9 +323,6 @@
 {"category": "S", "etf": "N", "name": "AleAnna, Inc. - Warrant", "test_issue": "N", "ticker": "ANNAW"}
 {"category": "Q", "etf": "N", "name": "Annexon, Inc. - common stock", "test_issue": "N", "ticker": "ANNX"}
 {"category": "S", "etf": "N", "name": "Rich Sparkle Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "ANPA"}
-{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares", "test_issue": "N", "ticker": "ANSC"}
-{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Unit", "test_issue": "N", "ticker": "ANSCU"}
-{"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Warrant", "test_issue": "N", "ticker": "ANSCW"}
 {"category": "G", "etf": "N", "name": "Antalpha Platform Holding Company - Class A Ordinary Shares", "test_issue": "N", "ticker": "ANTA"}
 {"category": "Q", "etf": "N", "name": "AN2 Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "ANTX"}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable NVDA ETF", "test_issue": "N", "ticker": "ANV"}
@@ -613,7 +610,6 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2x Long BE Daily ETF", "test_issue": "N", "ticker": "BEG"}
 {"category": "Q", "etf": "N", "name": "Bel Fuse Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BELFA"}
 {"category": "Q", "etf": "N", "name": "Bel Fuse Inc. - Class B Common Stock", "test_issue": "N", "ticker": "BELFB"}
-{"category": "G", "etf": "Y", "name": "iShares U.S. Select Equity Active ETF", "test_issue": "N", "ticker": "BELT"}
 {"category": "S", "etf": "N", "name": "Beneficient - Class A Common Stock", "test_issue": "N", "ticker": "BENF"}
 {"category": "S", "etf": "N", "name": "Beneficient - Warrant", "test_issue": "N", "ticker": "BENFW"}
 {"category": "G", "etf": "Y", "name": "GSR Crypto Core3 ETF", "test_issue": "N", "ticker": "BESO"}
@@ -3239,6 +3235,7 @@
 {"category": "Q", "etf": "N", "name": "Motorcar Parts of America, Inc. - Common Stock", "test_issue": "N", "ticker": "MPAA"}
 {"category": "G", "etf": "N", "name": "Mid Penn Bancorp - Common Stock", "test_issue": "N", "ticker": "MPB"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long MP Daily ETF", "test_issue": "N", "ticker": "MPG"}
+{"category": "G", "etf": "Y", "name": "m+ Nasdaq-100 Accelerator Autocall ETF", "test_issue": "N", "ticker": "MPIA"}
 {"category": "Q", "etf": "N", "name": "MapLight Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "MPLT"}
 {"category": "Q", "etf": "N", "name": "Monolithic Power Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "MPWR"}
 {"category": "Q", "etf": "N", "name": "Marqeta, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "MQ"}
@@ -3889,6 +3886,8 @@
 {"category": "G", "etf": "N", "name": "Polibeli Group Ltd - Class A Ordinary Shares", "test_issue": "N", "ticker": "PLBL"}
 {"category": "G", "etf": "N", "name": "Playboy, Inc. - Common Stock", "test_issue": "N", "ticker": "PLBY"}
 {"category": "Q", "etf": "N", "name": "Children's Place, Inc. (The) - Common Stock", "test_issue": "N", "ticker": "PLCE"}
+{"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Ordinary Shares", "test_issue": "N", "ticker": "PLCI"}
+{"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Right", "test_issue": "N", "ticker": "PLCIR"}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Unit", "test_issue": "N", "ticker": "PLCIU"}
 {"category": "G", "etf": "N", "name": "Plum Acquisition Corp. IV - Class A Ordinary Shares", "test_issue": "N", "ticker": "PLMK"}
 {"category": "G", "etf": "N", "name": "Plum Acquisition Corp. IV - Unit", "test_issue": "N", "ticker": "PLMKU"}
@@ -5255,6 +5254,7 @@
 {"category": "Q", "etf": "N", "name": "Viper Energy, Inc.  - Class A Common Stock", "test_issue": "N", "ticker": "VNOM"}
 {"category": "G", "etf": "Y", "name": "Vanguard Global ex-U.S. Real Estate ETF", "test_issue": "N", "ticker": "VNQI"}
 {"category": "Q", "etf": "N", "name": "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares", "test_issue": "N", "ticker": "VOD"}
+{"category": "S", "etf": "N", "name": "Vogenx Inc - Common Stock", "test_issue": "N", "ticker": "VOGX"}
 {"category": "G", "etf": "Y", "name": "Tema Electrification ETF", "test_issue": "N", "ticker": "VOLT"}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 ETF", "test_issue": "N", "ticker": "VONE"}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 Growth ETF", "test_issue": "N", "ticker": "VONG"}
