@@ -670,6 +670,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Rareview 2x Bull Cryptocurrency & Precious Metals ETF", "test_issue": "N", "ticker": "BEGS"}
 {"etf": "N", "exchange": "N", "name": "KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)", "test_issue": "N", "ticker": "BEKE"}
 {"etf": "Y", "exchange": "Z", "name": "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF", "test_issue": "N", "ticker": "BEMB"}
+{"etf": "Y", "exchange": "Z", "name": "BNY Mellon Emerging Markets Debt ETF", "test_issue": "N", "ticker": "BEMD"}
 {"etf": "N", "exchange": "N", "name": "Franklin Resources, Inc. Common Stock", "test_issue": "N", "ticker": "BEN"}
 {"etf": "Y", "exchange": "P", "name": "Horizon Landmark ETF", "test_issue": "N", "ticker": "BENJ"}
 {"etf": "N", "exchange": "N", "name": "Brookfield Renewable Partners L.P. Limited Partnership Units", "test_issue": "N", "ticker": "BEP"}
@@ -2757,6 +2758,7 @@
 {"etf": "N", "exchange": "N", "name": "Gold Fields Limited American Depositary Shares", "test_issue": "N", "ticker": "GFI"}
 {"etf": "N", "exchange": "N", "name": "GFL Environmental Inc. Subordinate voting shares, no par value", "test_issue": "N", "ticker": "GFL"}
 {"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Common Shares", "test_issue": "N", "ticker": "GFR"}
+{"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued", "test_issue": "N", "ticker": "GFR.V"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long GFS Daily ETF", "test_issue": "N", "ticker": "GFSG"}
 {"etf": "N", "exchange": "N", "name": "Gerdau S.A. Common Stock", "test_issue": "N", "ticker": "GGB"}
 {"etf": "N", "exchange": "N", "name": "Graco Inc. Common Stock", "test_issue": "N", "ticker": "GGG"}
@@ -3018,6 +3020,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "HAUG"}
 {"etf": "Y", "exchange": "Z", "name": "Residential REIT ETF", "test_issue": "N", "ticker": "HAUS"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers International Real Estate ETF", "test_issue": "N", "ticker": "HAUZ"}
+{"etf": "Y", "exchange": "P", "name": "HCM Hedged Equity ETF", "test_issue": "N", "ticker": "HAWG"}
 {"etf": "N", "exchange": "N", "name": "HawkEye 360, Inc. Common Stock", "test_issue": "N", "ticker": "HAWK"}
 {"etf": "Y", "exchange": "P", "name": "iShares Currency Hedged MSCI ACWI ex U.S. ETF", "test_issue": "N", "ticker": "HAWX"}
 {"etf": "N", "exchange": "N", "name": "Hayward Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "HAYW"}
@@ -5911,7 +5914,6 @@
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Structured Outcome (September) ETF", "test_issue": "N", "ticker": "SEPZ"}
 {"etf": "N", "exchange": "A", "name": "Serina Therapeutics, Inc. Common Stock", "test_issue": "N", "ticker": "SER"}
 {"etf": "N", "exchange": "N", "name": "SES AI Corporation Class A Common Stock", "test_issue": "N", "ticker": "SES"}
-{"etf": "N", "exchange": "N", "name": "SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "SES.W"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Short Ether ETF", "test_issue": "N", "ticker": "SETH"}
 {"etf": "N", "exchange": "N", "name": "Stifel Financial Corporation Common Stock", "test_issue": "N", "ticker": "SF"}
 {"etf": "N", "exchange": "N", "name": "Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B", "test_issue": "N", "ticker": "SF$B"}
