@@ -2,9 +2,9 @@
   "failures": [],
   "files": [
     {
-      "bytes": 669818,
+      "bytes": 670673,
       "name": "nasdaqlisted.jsonl",
-      "sha256": "9182a68a5481259cd044b8a5aa482c01650c75911d7b43ae5a036358959aca17"
+      "sha256": "de2d20f8ec7700080153537802ea80400116108337e58aaa72e85c0035bee125"
     },
     {
       "bytes": 929378,
@@ -12,9 +12,9 @@
       "sha256": "e49275f16d59d396493873ecda528b2a9ff0700c89fcda49cf7eb1db3415635c"
     },
     {
-      "bytes": 733950,
+      "bytes": 733153,
       "name": "sec_company_tickers.jsonl",
-      "sha256": "db4c5b313f4bb7d7d5b171f5382ba4daba0114e68328d0830d13049a31f9e292"
+      "sha256": "fb24688e63e3846b3f5748fbfa82cad84516fbe963d0398915d5729b72419e0a"
     },
     {
       "bytes": 947696,
@@ -23,16 +23,16 @@
     }
   ],
   "first_observed": {},
-  "generated_at_utc": "2026-08-14T08:37:09Z",
+  "generated_at_utc": "2026-08-15T07:43:21Z",
   "last_success": {
-    "nasdaqlisted": "2026-08-14",
-    "otherlisted": "2026-08-14",
-    "sec_company_tickers": "2026-08-14",
-    "sec_company_tickers_exchange": "2026-08-14"
+    "nasdaqlisted": "2026-08-15",
+    "otherlisted": "2026-08-15",
+    "sec_company_tickers": "2026-08-15",
+    "sec_company_tickers_exchange": "2026-08-15"
   },
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
-  "snapshot_date": "2026-08-14",
+  "snapshot_date": "2026-08-15",
   "source_urls": [
     "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",
     "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt",

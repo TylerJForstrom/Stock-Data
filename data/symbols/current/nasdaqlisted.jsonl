@@ -74,8 +74,11 @@
 {"category": "S", "etf": "N", "name": "Alpha Cognition Inc. - Common Stock", "test_issue": "N", "ticker": "ACOG"}
 {"category": "S", "etf": "N", "name": "Aclarion, Inc. - Common Stock", "test_issue": "N", "ticker": "ACON"}
 {"category": "S", "etf": "N", "name": "Aclarion, Inc. - Warrant", "test_issue": "N", "ticker": "ACONW"}
+{"category": "G", "etf": "Y", "name": "ProShares Nasdaq-100 Autocallable Income ETF", "test_issue": "N", "ticker": "ACQQ"}
 {"category": "Q", "etf": "N", "name": "Aclaris Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "ACRS"}
+{"category": "G", "etf": "Y", "name": "ProShares Russell 2000 Autocallable Income ETF", "test_issue": "N", "ticker": "ACRT"}
 {"category": "G", "etf": "N", "name": "Acrivon Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "ACRV"}
+{"category": "G", "etf": "Y", "name": "ProShares S&P 500 Autocallable Income ETF", "test_issue": "N", "ticker": "ACSP"}
 {"category": "Q", "etf": "N", "name": "Enact Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "ACT"}
 {"category": "Q", "etf": "N", "name": "Acacia Research Corporation - Common Stock", "test_issue": "N", "ticker": "ACTG"}
 {"category": "G", "etf": "N", "name": "Actuate Therapeutics, Inc. - Common stock", "test_issue": "N", "ticker": "ACTU"}
@@ -1687,6 +1690,8 @@
 {"category": "Q", "etf": "N", "name": "Evergy, Inc. - Common Stock", "test_issue": "N", "ticker": "EVRG"}
 {"category": "G", "etf": "Y", "name": "Eaton Vance Short Duration Income ETF", "test_issue": "N", "ticker": "EVSD"}
 {"category": "G", "etf": "Y", "name": "Eaton Vance High Income Municipal ETF", "test_issue": "N", "ticker": "EVYM"}
+{"category": "G", "etf": "N", "name": "East West Ave Acquisition Corp. - Common Stock", "test_issue": "N", "ticker": "EWAV"}
+{"category": "G", "etf": "N", "name": "East West Ave Acquisition Corp. - Rights", "test_issue": "N", "ticker": "EWAVR"}
 {"category": "G", "etf": "N", "name": "East West Ave Acquisition Corp. - Units", "test_issue": "N", "ticker": "EWAVU"}
 {"category": "Q", "etf": "N", "name": "East West Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "EWBC"}
 {"category": "G", "etf": "Y", "name": "iShares MSCI Japan Value ETF", "test_issue": "N", "ticker": "EWJV"}
@@ -4878,6 +4883,8 @@
 {"category": "S", "etf": "N", "name": "TG Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "TGTX"}
 {"category": "S", "etf": "N", "name": "Target Hospitality Corp. - Common Stock", "test_issue": "N", "ticker": "TH"}
 {"category": "S", "etf": "N", "name": "TH International Limited - Ordinary shares", "test_issue": "N", "ticker": "THCH"}
+{"category": "G", "etf": "N", "name": "BOA Acquisition Corp. II - Class A Ordinary Shares", "test_issue": "N", "ticker": "THEO"}
+{"category": "G", "etf": "N", "name": "BOA Acquisition Corp. II - Rights", "test_issue": "N", "ticker": "THEOR"}
 {"category": "G", "etf": "N", "name": "BOA Acquisition Corp. II - Units", "test_issue": "N", "ticker": "THEOU"}
 {"category": "Q", "etf": "N", "name": "First Financial Corporation  - Common Stock", "test_issue": "N", "ticker": "THFF"}
 {"category": "S", "etf": "N", "name": "TryHard Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "THH"}
