@@ -2,18 +2,18 @@
   "basis": "current_fully_split_adjusted",
   "files": [
     {
-      "bytes": 1091980,
+      "bytes": 1101564,
       "name": "dividends.parquet",
-      "rows": 196623,
-      "sha256": "b1b4ae526095785f33a34083f2084bdf8bb8074851e22666ccd750bc15e54462"
+      "rows": 196970,
+      "sha256": "c9f7ba4a9b229e83b918f328b1f19b86f2be7beea8ce4e13c67f2e1d955d2f78"
     },
     {
-      "bytes": 292976,
+      "bytes": 296400,
       "name": "splits.jsonl",
-      "sha256": "3bc4199cb6d3fc735bd0c02eb8e3c799e36fa49198d9602a11b369e02c4965ec"
+      "sha256": "135516490d300369d1729991eccc97fef9ac0b946444b12a7218d4601de9b7fb"
     }
   ],
-  "generated_at_utc": "2026-08-09T10:49:18Z",
+  "generated_at_utc": "2026-08-16T10:27:31Z",
   "granularity": "fiscal_period (no ex-dates in XBRL)",
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
@@ -36,10 +36,8 @@
     "BGR",
     "BGY",
     "BHK",
-    "BHYP",
     "BIOT",
     "BIOTW",
-    "BITA",
     "BMM",
     "BOE",
     "BRAI",
@@ -58,7 +56,6 @@
     "DIA",
     "DMB",
     "DSM",
-    "DTSS",
     "EAD",
     "ECF",
     "ECF-PA",
@@ -75,7 +72,6 @@
     "FFC",
     "FMN",
     "FOF",
-    "FRA",
     "FRTT",
     "FT",
     "FUND",
@@ -147,12 +143,10 @@
     "MMD",
     "MMT",
     "MPV",
-    "MSBT",
     "MSD",
     "MSOL",
     "MSSE",
     "MTR",
-    "MVO",
     "MYN",
     "NAD",
     "NCV",
@@ -217,9 +211,6 @@
     "TGE-WT",
     "THH",
     "THQ",
-    "TKNZ",
-    "USDE",
-    "USDEW",
     "VBNB",
     "VCRE",
     "VGI",
@@ -7920,5 +7911,15 @@
     "ZYBT",
     "ZYME"
   ],
-  "tickers_unresolved": []
+  "tickers_unresolved": [
+    "APO-PA",
+    "AVNS",
+    "CCIX",
+    "CCIXU",
+    "CCIXW",
+    "GLP-PB",
+    "MVO",
+    "RSVRW",
+    "VYNE"
+  ]
 }
