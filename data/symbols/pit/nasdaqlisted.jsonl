@@ -2627,9 +2627,9 @@
 {"category": "G", "etf": "N", "name": "Iovance Biotherapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IOVA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST IONQ ETF", "provable_from": false, "test_issue": "N", "ticker": "IOYY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Interparfums, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IPAR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "IPCX", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Rights", "provable_from": false, "test_issue": "N", "ticker": "IPCXR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Units", "provable_from": false, "test_issue": "N", "ticker": "IPCXU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "IPCX", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Rights", "provable_from": false, "test_issue": "N", "ticker": "IPCXR", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Units", "provable_from": false, "test_issue": "N", "ticker": "IPCXU", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"category": "S", "etf": "N", "name": "Professional Diversity Network, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IPDN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "IPEX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Right", "provable_from": false, "test_issue": "N", "ticker": "IPEXR", "valid_from": "2026-07-28", "valid_to": null}
@@ -3376,7 +3376,7 @@
 {"category": "S", "etf": "N", "name": "PLAYSTUDIOS, Inc.  - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYPS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "MYR Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYRG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Myseum.AI, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYSE", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Myseum.AI, Inc. - Series A Warrant", "provable_from": false, "test_issue": "N", "ticker": "MYSEW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Myseum.AI, Inc. - Series A Warrant", "provable_from": false, "test_issue": "N", "ticker": "MYSEW", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"category": "S", "etf": "N", "name": "My Size, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYSZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Maywood Acquisition Corp. 2 - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "MYX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Maywood Acquisition Corp. 2 - Rights", "provable_from": false, "test_issue": "N", "ticker": "MYXXR", "valid_from": "2026-07-28", "valid_to": null}
@@ -4578,7 +4578,8 @@
 {"category": "Q", "etf": "N", "name": "SK hynix Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "SKHY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "SkinHealth Systems Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SKIN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "SKK Holdings Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SKK", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "FlexShares Credit-Scored US Corporate Bond Index Fund", "provable_from": false, "test_issue": "N", "ticker": "SKOR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "FlexShares Credit-Scored US Corporate Bond Index Fund", "provable_from": false, "test_issue": "N", "ticker": "SKOR", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
+{"category": "G", "etf": "Y", "name": "Northern Trust Credit-Scored US Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "SKOR", "valid_from": "2026-08-17", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Tuttle Capital Daily 2X Inverse Regional Banks ETF", "provable_from": false, "test_issue": "N", "ticker": "SKRE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long SK Hynix Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SKUU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Skyward Specialty Insurance Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SKWD", "valid_from": "2026-07-28", "valid_to": null}
