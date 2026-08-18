@@ -93,6 +93,7 @@
 {"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 9.125% Senior Notes Due 2030", "test_issue": "N", "ticker": "ADAMG"}
 {"category": "G", "etf": "N", "name": "Adamas Trust, Inc. - 9.875% Senior Notes Due 2030", "test_issue": "N", "ticker": "ADAMH"}
 {"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 9.125% Senior Notes Due 2029", "test_issue": "N", "ticker": "ADAMI"}
+{"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 9.600% Senior Notes Due 2031", "test_issue": "N", "ticker": "ADAMK"}
 {"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share", "test_issue": "N", "ticker": "ADAML"}
 {"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "ADAMM"}
 {"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "ADAMN"}
@@ -550,6 +551,7 @@
 {"category": "Q", "etf": "N", "name": "Atlanta Braves Holdings, Inc. - Series A Common Stock", "test_issue": "N", "ticker": "BATRA"}
 {"category": "Q", "etf": "N", "name": "Atlanta Braves Holdings, Inc. - Series C Common Stock", "test_issue": "N", "ticker": "BATRK"}
 {"category": "G", "etf": "Y", "name": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF", "test_issue": "N", "ticker": "BBB"}
+{"category": "Q", "etf": "N", "name": "Neighborhood Intelligence, Inc.  - Warrant", "test_issue": "N", "ticker": "BBBYW"}
 {"category": "S", "etf": "N", "name": "Concrete Pumping Holdings, Inc.  - Common Stock", "test_issue": "N", "ticker": "BBCP"}
 {"category": "G", "etf": "N", "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares", "test_issue": "N", "ticker": "BBCQ"}
 {"category": "G", "etf": "N", "name": "Bleichroeder Acquisition Corp. II - Units", "test_issue": "N", "ticker": "BBCQU"}
@@ -1033,7 +1035,9 @@
 {"category": "Q", "etf": "N", "name": "The Carlyle Group Inc. - 4.625% Subordinated Notes due 2061", "test_issue": "N", "ticker": "CGABL"}
 {"category": "Q", "etf": "N", "name": "Carlyle Secured Lending, Inc. - Closed End Fund", "test_issue": "N", "ticker": "CGBD"}
 {"category": "Q", "etf": "N", "name": "Canopy Growth Corporation - Common Shares", "test_issue": "N", "ticker": "CGC"}
+{"category": "G", "etf": "N", "name": "Cartesian Growth Corporation IV - Class A Ordinary Shares", "test_issue": "N", "ticker": "CGCF"}
 {"category": "G", "etf": "N", "name": "Cartesian Growth Corporation IV - Units", "test_issue": "N", "ticker": "CGCFU"}
+{"category": "G", "etf": "N", "name": "Cartesian Growth Corporation IV - Warrants", "test_issue": "N", "ticker": "CGCFW"}
 {"category": "Q", "etf": "N", "name": "Cullinan Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "CGEM"}
 {"category": "S", "etf": "N", "name": "Compugen Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "CGEN"}
 {"category": "Q", "etf": "N", "name": "Cognyte Software Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "CGNT"}
@@ -1451,7 +1455,6 @@
 {"category": "S", "etf": "N", "name": "DarioHealth Corp. - Common Stock", "test_issue": "N", "ticker": "DRIO"}
 {"category": "G", "etf": "Y", "name": "Global X Autonomous & Electric Vehicles ETF", "test_issue": "N", "ticker": "DRIV"}
 {"category": "S", "etf": "N", "name": "Dermata Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "DRMA"}
-{"category": "S", "etf": "N", "name": "Dermata Therapeutics, Inc. - Warrant", "test_issue": "N", "ticker": "DRMAW"}
 {"category": "G", "etf": "Y", "name": "REX Drone ETF", "test_issue": "N", "ticker": "DRNZ"}
 {"category": "Q", "etf": "N", "name": "Leonardo DRS, Inc. - Common Stock", "test_issue": "N", "ticker": "DRS"}
 {"category": "S", "etf": "N", "name": "Alpha Tau Medical Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "DRTS"}
@@ -1966,7 +1969,6 @@
 {"category": "G", "etf": "Y", "name": "First Trust Nasdaq BuyWrite Income ETF", "test_issue": "N", "ticker": "FTQI"}
 {"category": "Q", "etf": "N", "name": "Fortrea Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "FTRE"}
 {"category": "G", "etf": "Y", "name": "First Trust Indxx Global Natural Resources Income ETF", "test_issue": "N", "ticker": "FTRI"}
-{"category": "S", "etf": "N", "name": "FAST TRACK GROUP - Ordinary shares", "test_issue": "N", "ticker": "FTRK"}
 {"category": "G", "etf": "Y", "name": "First Trust Senior Loan Fund", "test_issue": "N", "ticker": "FTSL"}
 {"category": "G", "etf": "Y", "name": "First Trust Enhanced Short Maturity ETF", "test_issue": "N", "ticker": "FTSM"}
 {"category": "G", "etf": "Y", "name": "First Trust Nasdaq Food & Beverage ETF", "test_issue": "N", "ticker": "FTXG"}
@@ -2423,6 +2425,7 @@
 {"category": "G", "etf": "N", "name": "Hyperfine, Inc.  - Class A Common Stock", "test_issue": "N", "ticker": "HYPR"}
 {"category": "G", "etf": "Y", "name": "iShares ESG Advanced High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "HYXF"}
 {"category": "G", "etf": "Y", "name": "WisdomTree Interest Rate Hedged High Yield Bond Fund", "test_issue": "N", "ticker": "HYZD"}
+{"category": "Q", "etf": "N", "name": "Innovative Solutions and Support, Inc. - Common Stock", "test_issue": "N", "ticker": "IA"}
 {"category": "G", "etf": "N", "name": "Idea Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "IACO"}
 {"category": "G", "etf": "N", "name": "Idea Acquisition Corp. - Units", "test_issue": "N", "ticker": "IACOU"}
 {"category": "G", "etf": "N", "name": "Idea Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "IACOW"}
@@ -2648,7 +2651,6 @@
 {"category": "S", "etf": "N", "name": "iSpecimen Inc. - Common Stock", "test_issue": "N", "ticker": "ISPC"}
 {"category": "S", "etf": "N", "name": "Ispire Technology Inc. - Common Stock", "test_issue": "N", "ticker": "ISPR"}
 {"category": "Q", "etf": "N", "name": "Intuitive Surgical, Inc. - Common Stock", "test_issue": "N", "ticker": "ISRG"}
-{"category": "Q", "etf": "N", "name": "Innovative Solutions and Support, Inc. - Common Stock", "test_issue": "N", "ticker": "ISSC"}
 {"category": "G", "etf": "Y", "name": "iShares Core 1-5 Year USD Bond ETF", "test_issue": "N", "ticker": "ISTB"}
 {"category": "G", "etf": "Y", "name": "iShares Strategic Metals ETF", "test_issue": "N", "ticker": "ISTM"}
 {"category": "G", "etf": "N", "name": "Investar Holding Corporation - Common Stock", "test_issue": "N", "ticker": "ISTR"}
@@ -3249,7 +3251,9 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long MARA Daily ETF", "test_issue": "N", "ticker": "MRAL"}
 {"category": "G", "etf": "N", "name": "Everspin Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "MRAM"}
 {"category": "Q", "etf": "N", "name": "Meridian Corporation - Common Stock", "test_issue": "N", "ticker": "MRBK"}
+{"category": "G", "etf": "N", "name": "Mercator Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "MRCO"}
 {"category": "G", "etf": "N", "name": "Mercator Acquisition Corp. - Units", "test_issue": "N", "ticker": "MRCOU"}
+{"category": "G", "etf": "N", "name": "Mercator Acquisition Corp. - Warrant", "test_issue": "N", "ticker": "MRCOW"}
 {"category": "Q", "etf": "N", "name": "Mercury Systems Inc - Common Stock", "test_issue": "N", "ticker": "MRCY"}
 {"category": "S", "etf": "N", "name": "Meridian Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "MRDN"}
 {"category": "S", "etf": "N", "name": "Mereo BioPharma Group plc - American Depositary Shares", "test_issue": "N", "ticker": "MREO"}
@@ -3532,6 +3536,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long NU Daily ETF", "test_issue": "N", "ticker": "NUG"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST Gold Miners ETF", "test_issue": "N", "ticker": "NUGY"}
 {"category": "G", "etf": "Y", "name": "Nuveen US Infrastructure ETF", "test_issue": "N", "ticker": "NUIF"}
+{"category": "S", "etf": "N", "name": "Nuran Wireless Inc. - Common Shares", "test_issue": "N", "ticker": "NUR"}
 {"category": "G", "etf": "Y", "name": "Nuveen Ultra Short Income ETF", "test_issue": "N", "ticker": "NUSB"}
 {"category": "S", "etf": "N", "name": "Nutex Health Inc. - Common Stock", "test_issue": "N", "ticker": "NUTX"}
 {"category": "S", "etf": "N", "name": "Nuwellis, Inc. - Common Stock", "test_issue": "N", "ticker": "NUWE"}
@@ -3565,6 +3570,7 @@
 {"category": "S", "etf": "N", "name": "Newton Golf Company, Inc. - Common Stock", "test_issue": "N", "ticker": "NWTG"}
 {"category": "S", "etf": "N", "name": "NexGel, Inc - Common Stock", "test_issue": "N", "ticker": "NXGL"}
 {"category": "S", "etf": "N", "name": "NexGel, Inc - Warrant", "test_issue": "N", "ticker": "NXGLW"}
+{"category": "Q", "etf": "N", "name": "Neighborhood Intelligence, Inc.  - Common Stock", "test_issue": "N", "ticker": "NXH"}
 {"category": "S", "etf": "N", "name": "Nexalin Technology, Inc. - Common Stock", "test_issue": "N", "ticker": "NXL"}
 {"category": "Q", "etf": "N", "name": "NXP Semiconductors N.V. - Common Stock", "test_issue": "N", "ticker": "NXPI"}
 {"category": "S", "etf": "N", "name": "NextPlat Corp - Common Stock", "test_issue": "N", "ticker": "NXPL"}
@@ -4799,7 +4805,6 @@
 {"category": "G", "etf": "N", "name": "Berto Acquisition Corp. - unit", "test_issue": "N", "ticker": "TACOU"}
 {"category": "G", "etf": "N", "name": "Berto Acquisition Corp. - Warrant", "test_issue": "N", "ticker": "TACOW"}
 {"category": "G", "etf": "N", "name": "TransAct Technologies Incorporated - Common Stock", "test_issue": "N", "ticker": "TACT"}
-{"category": "S", "etf": "N", "name": "Talkspace, Inc. - Common Stock", "test_issue": "N", "ticker": "TALK"}
 {"category": "S", "etf": "N", "name": "Tantech Holdings Ltd. - Class A Common Shares", "test_issue": "N", "ticker": "TANH"}
 {"category": "S", "etf": "N", "name": "Taoping Inc. - Ordinary Shares", "test_issue": "N", "ticker": "TAOP"}
 {"category": "S", "etf": "N", "name": "Tao Synergies Inc. - Common Stock", "test_issue": "N", "ticker": "TAOX"}
@@ -5326,6 +5331,7 @@
 {"category": "G", "etf": "Y", "name": "WisdomTree US Adaptive Moving Average Fund", "test_issue": "N", "ticker": "WAMA"}
 {"category": "G", "etf": "Y", "name": "VanEck Space ETF", "test_issue": "N", "ticker": "WARP"}
 {"category": "Q", "etf": "N", "name": "Washington Trust Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "WASH"}
+{"category": "G", "etf": "N", "name": "Air Water Ventures Limited - Ordinary Shares", "test_issue": "N", "ticker": "WATR"}
 {"category": "S", "etf": "N", "name": "Energous Corporation - Common Stock", "test_issue": "N", "ticker": "WATT"}
 {"category": "S", "etf": "N", "name": "Eco Wave Power Global AB (publ) - American Depositary Shares", "test_issue": "N", "ticker": "WAVE"}
 {"category": "Q", "etf": "N", "name": "Waystar Holding Corp. - Common Stock", "test_issue": "N", "ticker": "WAY"}

@@ -518,6 +518,7 @@
 {"etf": "N", "exchange": "N", "name": "Axalta Coating Systems Ltd. Common Shares", "test_issue": "N", "ticker": "AXTA"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi AXTI 2x Daily ETF", "test_issue": "N", "ticker": "AXTC"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long AXTI Daily ETF", "test_issue": "N", "ticker": "AXTL"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short AXTI Daily ETF", "test_issue": "N", "ticker": "AXTQ"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long AXTI Daily Target ETF", "test_issue": "N", "ticker": "AXTU"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long AXTI Daily ETF", "test_issue": "N", "ticker": "AXTX"}
 {"etf": "N", "exchange": "N", "name": "Acuity Inc. Common Stock", "test_issue": "N", "ticker": "AYI"}
@@ -1326,6 +1327,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi COHR 2x Daily ETF", "test_issue": "N", "ticker": "COHC"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long COHR Daily ETF", "test_issue": "N", "ticker": "COHH"}
 {"etf": "N", "exchange": "A", "name": "Cohen & Company Inc.", "test_issue": "N", "ticker": "COHN"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short COHR Daily ETF", "test_issue": "N", "ticker": "COHQ"}
 {"etf": "N", "exchange": "N", "name": "Coherent Corp. Common Stock", "test_issue": "N", "ticker": "COHR"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long COHR Daily ETF", "test_issue": "N", "ticker": "COHX"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra COIN", "test_issue": "N", "ticker": "COIA"}
@@ -1632,7 +1634,6 @@
 {"etf": "Y", "exchange": "P", "name": "First Trust Securitized Plus ETF", "test_issue": "N", "ticker": "DEED"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers FTSE Developed ex US Multifactor ETF", "test_issue": "N", "ticker": "DEEF"}
 {"etf": "Y", "exchange": "P", "name": "Acquirers Small and Micro Deep Value ETF", "test_issue": "N", "ticker": "DEEP"}
-{"etf": "Y", "exchange": "P", "name": "Hashdex Bitcoin ETF", "test_issue": "N", "ticker": "DEFI"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus Deferred Income ETF", "test_issue": "N", "ticker": "DEFR"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional Emerging Markets High Profitability ETF", "test_issue": "N", "ticker": "DEHP"}
 {"etf": "N", "exchange": "N", "name": "Douglas Emmett, Inc. Common Stock", "test_issue": "N", "ticker": "DEI"}
@@ -2117,7 +2118,6 @@
 {"etf": "Y", "exchange": "P", "name": "ALPS Equal Sector Weight ETF", "test_issue": "N", "ticker": "EQL"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI Emerging Markets Quality Factor ETF", "test_issue": "N", "ticker": "EQLT"}
 {"etf": "N", "exchange": "N", "name": "Equinor ASA", "test_issue": "N", "ticker": "EQNR"}
-{"etf": "N", "exchange": "N", "name": "Equity Residential Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "EQR"}
 {"etf": "N", "exchange": "N", "name": "Equus Total Return, Inc. Common Stock", "test_issue": "N", "ticker": "EQS"}
 {"etf": "N", "exchange": "N", "name": "EQT Corporation Common Stock", "test_issue": "N", "ticker": "EQT"}
 {"etf": "Y", "exchange": "P", "name": "Kovitz Core Equity ETF", "test_issue": "N", "ticker": "EQTY"}
@@ -3208,6 +3208,7 @@
 {"etf": "Y", "exchange": "N", "name": "Counterpoint High Yield Trend ETF", "test_issue": "N", "ticker": "HYTR"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers High Beta High Yield Bond ETF", "test_issue": "N", "ticker": "HYUP"}
 {"etf": "N", "exchange": "N", "name": "MarineMax, Inc.  (FL) Common Stock", "test_issue": "N", "ticker": "HZO"}
+{"etf": "Y", "exchange": "Z", "name": "GraniteShares US 100 Autocallable Income ETF", "test_issue": "N", "ticker": "IACL"}
 {"etf": "N", "exchange": "N", "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "IAE"}
 {"etf": "N", "exchange": "A", "name": "abrdn Australia Equity Fund, Inc. Common Stock", "test_issue": "N", "ticker": "IAF"}
 {"etf": "N", "exchange": "N", "name": "Iamgold Corporation Ordinary Shares", "test_issue": "N", "ticker": "IAG"}
@@ -4091,6 +4092,7 @@
 {"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Common Stock", "test_issue": "N", "ticker": "LVWR"}
 {"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "LVWR.W"}
 {"etf": "N", "exchange": "N", "name": "Lamb Weston Holdings, Inc. Common Stock ", "test_issue": "N", "ticker": "LW"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long LWLG Daily ETF", "test_issue": "N", "ticker": "LWLX"}
 {"etf": "N", "exchange": "N", "name": "Luxfer Holdings PLC Ordinary Shares", "test_issue": "N", "ticker": "LXFR"}
 {"etf": "N", "exchange": "N", "name": "LXP Industrial Trust Common Stock (Maryland REIT)", "test_issue": "N", "ticker": "LXP"}
 {"etf": "N", "exchange": "N", "name": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock", "test_issue": "N", "ticker": "LXP$C"}
@@ -4203,6 +4205,7 @@
 {"etf": "N", "exchange": "N", "name": "MetLife, Inc. Depositary Shares ", "test_issue": "N", "ticker": "MET$E"}
 {"etf": "N", "exchange": "N", "name": "MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non-Cumulative Preferred Stock, Series F", "test_issue": "N", "ticker": "MET$F"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long META Daily ETF", "test_issue": "N", "ticker": "METG"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short META Daily ETF", "test_issue": "N", "ticker": "METQ"}
 {"etf": "Y", "exchange": "P", "name": "Roundhill Ball Metaverse ETF", "test_issue": "N", "ticker": "METV"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill META WeeklyPay ETF", "test_issue": "N", "ticker": "METW"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily MSCI Mexico Bull 3X ETF", "test_issue": "N", "ticker": "MEXX"}
@@ -7013,6 +7016,7 @@
 {"etf": "N", "exchange": "N", "name": "Vulcan Materials Company (Holding Company) Common Stock", "test_issue": "N", "ticker": "VMC"}
 {"etf": "N", "exchange": "N", "name": "Valmont Industries, Inc. Common Stock", "test_issue": "N", "ticker": "VMI"}
 {"etf": "N", "exchange": "N", "name": "Invesco Municipal Opportunity Trust Common Stock", "test_issue": "N", "ticker": "VMO"}
+{"etf": "N", "exchange": "N", "name": "Vivmark Residential Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "VMRK"}
 {"etf": "Y", "exchange": "P", "name": "Voya Multi-Sector Income ETF", "test_issue": "N", "ticker": "VMSB"}
 {"etf": "Y", "exchange": "P", "name": "Global X MSCI Vietnam ETF", "test_issue": "N", "ticker": "VNAM"}
 {"etf": "Y", "exchange": "P", "name": "Vontobel International Equity Active ETF", "test_issue": "N", "ticker": "VNIE"}
