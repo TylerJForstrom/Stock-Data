@@ -3125,6 +3125,7 @@
 {"etf": "N", "exchange": "N", "name": "Hagerty, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HGTY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hilton Grand Vacations Inc. Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "HGV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Howard Hughes Holdings Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HHH", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Ai Funds High Conviction US Equity AI-Managed ETF", "provable_from": true, "test_issue": "N", "ticker": "HIAI", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily S&P 500 High Beta Bull 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "HIBL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily S&P 500 High Beta Bear 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "HIBS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "AB US High Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "HIDV", "valid_from": "2026-07-28", "valid_to": null}
@@ -3220,6 +3221,9 @@
 {"etf": "N", "exchange": "N", "name": "Haverty Furniture Companies, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HVT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Haverty Furniture Companies, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HVT.A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Howmet Aerospace Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HWM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Corporate Arbitrage ETF", "provable_from": true, "test_issue": "N", "ticker": "HXA", "valid_from": "2026-08-21", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Strategic Commodities ETF", "provable_from": true, "test_issue": "N", "ticker": "HXC", "valid_from": "2026-08-21", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Adaptive Equities ETF", "provable_from": true, "test_issue": "N", "ticker": "HXE", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hexcel Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HXL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hyster-Yale, Inc. Class A common stock", "provable_from": false, "test_issue": "N", "ticker": "HY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares BB Rated Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "HYBB", "valid_from": "2026-07-28", "valid_to": null}
@@ -3360,7 +3364,7 @@
 {"etf": "Y", "exchange": "P", "name": "VanEck Indonesia Index ETF", "provable_from": false, "test_issue": "N", "ticker": "IDX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares International Equity Factor Rotation Active ETF", "provable_from": false, "test_issue": "N", "ticker": "IDYN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Ivanhoe Electric Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IE", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "Z", "name": "iShares U.S. Consumer Focused ETF", "provable_from": false, "test_issue": "N", "ticker": "IEDI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "iShares U.S. Consumer Focused ETF", "provable_from": false, "test_issue": "N", "ticker": "IEDI", "valid_from": "2026-07-28", "valid_to": "2026-08-21"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Core MSCI EAFE ETF", "provable_from": false, "test_issue": "N", "ticker": "IEFA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares Core MSCI Emerging Markets ETF", "provable_from": false, "test_issue": "N", "ticker": "IEMG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "iShares U.S. Oil & Gas Exploration & Production ETF", "provable_from": false, "test_issue": "N", "ticker": "IEO", "valid_from": "2026-07-28", "valid_to": null}
@@ -4259,6 +4263,7 @@
 {"etf": "Y", "exchange": "P", "name": "Harbor Health Care ETF", "provable_from": false, "test_issue": "N", "ticker": "MEDI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares", "provable_from": false, "test_issue": "N", "ticker": "MEGI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "MEGX", "valid_from": "2026-08-19", "valid_to": "2026-08-20"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "MEGX", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Methode Electronics, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MEI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Direxion META Defined Income Boost ETF", "provable_from": true, "test_issue": "N", "ticker": "MEIB", "valid_from": "2026-07-29", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Matthews Emerging Markets Equity Active ETF", "provable_from": false, "test_issue": "N", "ticker": "MEM", "valid_from": "2026-07-28", "valid_to": null}
@@ -4302,7 +4307,7 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard Mega Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "MGK", "valid_from": "2026-07-28", "valid_to": "2026-07-29"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "MGK", "valid_from": "2026-07-29", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "MGKX", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "MGKX", "valid_from": "2026-08-20", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "MGKX", "valid_from": "2026-08-20", "valid_to": "2026-08-21"}
 {"etf": "N", "exchange": "A", "name": "The Marygold Companies, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGLD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "MGM Resorts International Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Ballast Small/Mid Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "MGMT", "valid_from": "2026-07-28", "valid_to": null}
@@ -6965,16 +6970,19 @@
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Floating Rate Treasury Fund", "provable_from": false, "test_issue": "N", "ticker": "USFR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "USCF Gold Strategy Plus Income Fund", "provable_from": false, "test_issue": "N", "ticker": "USG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USGX", "valid_from": "2026-08-19", "valid_to": "2026-08-20"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USGX", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "iShares Broad USD High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "USHY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "United States 12 Month Oil", "provable_from": false, "test_issue": "N", "ticker": "USL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "iShares Broad USD Floating Rate Loan ETF", "provable_from": false, "test_issue": "N", "ticker": "USLN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Silver Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "USLV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USLX", "valid_from": "2026-08-19", "valid_to": "2026-08-20"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USLX", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "CoreValues America First Technology ETF", "provable_from": false, "test_issue": "N", "ticker": "USMD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree U.S. Multifactor Fund", "provable_from": false, "test_issue": "N", "ticker": "USMF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN", "provable_from": false, "test_issue": "N", "ticker": "USML", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI USA Min Vol Factor ETF", "provable_from": false, "test_issue": "N", "ticker": "USMV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USMX", "valid_from": "2026-08-19", "valid_to": "2026-08-20"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USMX", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "USANA Health Sciences, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "USNA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Amplify Samsung U.S. Natural Gas Infrastructure ETF", "provable_from": false, "test_issue": "N", "ticker": "USNG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Net Zero Pathway Paris Aligned US Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "USNZ", "valid_from": "2026-07-28", "valid_to": null}
@@ -6985,6 +6993,7 @@
 {"etf": "Y", "exchange": "P", "name": "Segall Bryant & Hamill Trust Segall Bryant & Hamill Select Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "USSE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers MSCI USA Selection Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "USSG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USSX", "valid_from": "2026-08-19", "valid_to": "2026-08-20"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "USSX", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra 7-10 Year Treasury", "provable_from": false, "test_issue": "N", "ticker": "UST", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Total U.S. Market 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "USX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Reaves Utilities ETF", "provable_from": false, "test_issue": "N", "ticker": "UTES", "valid_from": "2026-07-28", "valid_to": null}
@@ -7040,7 +7049,7 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard Small-Cap Value ETF", "provable_from": false, "test_issue": "N", "ticker": "VBR", "valid_from": "2026-07-28", "valid_to": "2026-07-29"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Small-Cap Value ETF", "provable_from": true, "test_issue": "N", "ticker": "VBR", "valid_from": "2026-07-29", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "VBX", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "VBX", "valid_from": "2026-08-20", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "VBX", "valid_from": "2026-08-20", "valid_to": "2026-08-21"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard ESG U.S. Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "VCEB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard U.S. High-Yield Corporate Bond Index ETF", "provable_from": false, "test_issue": "N", "ticker": "VCHY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Duff & Phelps Clean Energy ETF", "provable_from": false, "test_issue": "N", "ticker": "VCLN", "valid_from": "2026-07-28", "valid_to": null}
@@ -7153,7 +7162,7 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "VOOG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Value ETF", "provable_from": false, "test_issue": "N", "ticker": "VOOV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "VOOX", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "VOOX", "valid_from": "2026-08-20", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "VOOX", "valid_from": "2026-08-20", "valid_to": "2026-08-21"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Mid-Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "VOT", "valid_from": "2026-07-28", "valid_to": "2026-07-29"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mid-Cap Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "VOT", "valid_from": "2026-07-29", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Communication Services  ETF", "provable_from": false, "test_issue": "N", "ticker": "VOX", "valid_from": "2026-07-28", "valid_to": null}
@@ -7543,10 +7552,10 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest AAPL & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVAP", "valid_from": "2026-08-19", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest NVDA & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVNV", "valid_from": "2026-08-19", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XVO", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "XVO", "valid_from": "2026-08-20", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "XVO", "valid_from": "2026-08-20", "valid_to": "2026-08-21"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest TSLA & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVTS", "valid_from": "2026-08-19", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XVUG", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "XVUG", "valid_from": "2026-08-20", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "XVUG", "valid_from": "2026-08-20", "valid_to": "2026-08-21"}
 {"etf": "Y", "exchange": "Z", "name": "iShares ESG Select Screened S&P 500 ETF", "provable_from": false, "test_issue": "N", "ticker": "XVV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Ex-U.S. Equities 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Amplify Top 10 Space ETF", "provable_from": true, "test_issue": "N", "ticker": "XWNG", "valid_from": "2026-08-19", "valid_to": null}

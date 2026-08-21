@@ -320,7 +320,7 @@
 {"category": "Q", "etf": "N", "name": "Anika Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "ANIK"}
 {"category": "G", "etf": "N", "name": "ANI Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "ANIP"}
 {"category": "S", "etf": "N", "name": "Anixa Biosciences, Inc. - Common Stock", "test_issue": "N", "ticker": "ANIX"}
-{"category": "G", "etf": "N", "name": "Adlai Nortye Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "ANL"}
+{"category": "G", "etf": "N", "name": "Adlai Nortye Group Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "ANL"}
 {"category": "S", "etf": "N", "name": "AleAnna, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "ANNA"}
 {"category": "S", "etf": "N", "name": "AleAnna, Inc. - Warrant", "test_issue": "N", "ticker": "ANNAW"}
 {"category": "Q", "etf": "N", "name": "Annexon, Inc. - common stock", "test_issue": "N", "ticker": "ANNX"}
@@ -1082,6 +1082,7 @@
 {"category": "Q", "etf": "N", "name": "CHS Inc - 8%  Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "CHSCP"}
 {"category": "S", "etf": "N", "name": "Chanson International Holding - Class A Ordinary Shares", "test_issue": "N", "ticker": "CHSN"}
 {"category": "Q", "etf": "N", "name": "Charter Communications, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CHTR"}
+{"category": "Q", "etf": "N", "name": "Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "CHTRP"}
 {"category": "Q", "etf": "N", "name": "Calamos Global Dynamic Income Fund - Closed End Fund", "test_issue": "N", "ticker": "CHW"}
 {"category": "Q", "etf": "N", "name": "Calamos Convertible and High Income Fund - Closed End Fund", "test_issue": "N", "ticker": "CHY"}
 {"category": "Q", "etf": "N", "name": "Chime Financial, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CHYM"}
@@ -1737,6 +1738,7 @@
 {"category": "Q", "etf": "N", "name": "Fastenal Company - Common Stock", "test_issue": "N", "ticker": "FAST"}
 {"category": "G", "etf": "N", "name": "Fate Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "FATE"}
 {"category": "S", "etf": "N", "name": "FatPipe, Inc. - common stock", "test_issue": "N", "ticker": "FATN"}
+{"category": "S", "etf": "N", "name": "First Breach Inc. - Common Stock", "test_issue": "N", "ticker": "FBDT"}
 {"category": "S", "etf": "N", "name": "FBS Global Limited - Ordinary Shares", "test_issue": "N", "ticker": "FBGL"}
 {"category": "S", "etf": "N", "name": "Fortress Biotech, Inc. - Common Stock", "test_issue": "N", "ticker": "FBIO"}
 {"category": "S", "etf": "N", "name": "Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock", "test_issue": "N", "ticker": "FBIOP"}
@@ -2873,9 +2875,6 @@
 {"category": "Q", "etf": "N", "name": "Laureate Education, Inc. - Common Stock", "test_issue": "N", "ticker": "LAUR"}
 {"category": "S", "etf": "N", "name": "Robot Consulting Co., Ltd. - ADS", "test_issue": "N", "ticker": "LAWR"}
 {"category": "S", "etf": "N", "name": "Li Bang International Corporation Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "LBGJ"}
-{"category": "Q", "etf": "N", "name": "Liberty Broadband Corporation - Class A Common Stock", "test_issue": "N", "ticker": "LBRDA"}
-{"category": "Q", "etf": "N", "name": "Liberty Broadband Corporation - Class C Common Stock", "test_issue": "N", "ticker": "LBRDK"}
-{"category": "Q", "etf": "N", "name": "Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "LBRDP"}
 {"category": "G", "etf": "N", "name": "LB Pharmaceuticals Inc - Common Stock", "test_issue": "N", "ticker": "LBRX"}
 {"category": "Q", "etf": "N", "name": "Liberty Global Ltd. - Class A Common Shares", "test_issue": "N", "ticker": "LBTYA"}
 {"category": "Q", "etf": "N", "name": "Liberty Global Ltd. - Class B Common Shares", "test_issue": "N", "ticker": "LBTYB"}
@@ -4102,6 +4101,7 @@
 {"category": "G", "etf": "Y", "name": "WisdomTree U.S. MidCap Quality Growth Fund", "test_issue": "N", "ticker": "QMID"}
 {"category": "G", "etf": "N", "name": "QumulusAI, Inc. - Common Stock", "test_issue": "N", "ticker": "QMLS"}
 {"category": "G", "etf": "Y", "name": "Alpha Architect U.S. Quantitative Momentum ETF", "test_issue": "N", "ticker": "QMOM"}
+{"category": "S", "etf": "N", "name": "QNB Corp. - Common Stock", "test_issue": "N", "ticker": "QNBC"}
 {"category": "Q", "etf": "N", "name": "Quince Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "QNCX"}
 {"category": "G", "etf": "Y", "name": "State Street SPDR Portfolio Nasdaq 100 ETF", "test_issue": "N", "ticker": "QNDX"}
 {"category": "S", "etf": "N", "name": "Quanome Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "QNME"}
@@ -4470,6 +4470,7 @@
 {"category": "Q", "etf": "N", "name": "Seneca Foods Corp. - Class B Common Stock", "test_issue": "N", "ticker": "SENEB"}
 {"category": "Q", "etf": "N", "name": "Senseonics Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "SENS"}
 {"category": "G", "etf": "N", "name": "Septerna, Inc. - Common Stock", "test_issue": "N", "ticker": "SEPN"}
+{"category": "G", "etf": "Y", "name": "STF Tactical Growth & Income ETF", "test_issue": "N", "ticker": "SEPQ"}
 {"category": "G", "etf": "N", "name": "Sera Prognostics, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "SERA"}
 {"category": "S", "etf": "N", "name": "Serve Robotics Inc. - Common Stock", "test_issue": "N", "ticker": "SERV"}
 {"category": "G", "etf": "Y", "name": "Sprott Critical Materials ETF", "test_issue": "N", "ticker": "SETM"}
@@ -4973,6 +4974,7 @@
 {"category": "G", "etf": "Y", "name": "Angel Oak Total Return ETF", "test_issue": "N", "ticker": "TRBF"}
 {"category": "G", "etf": "N", "name": "Entrada Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "TRDA"}
 {"category": "Q", "etf": "N", "name": "LendingTree, Inc. - Common Stock", "test_issue": "N", "ticker": "TREE"}
+{"category": "S", "etf": "N", "name": "Tactical Resources Corp. - Common Shares", "test_issue": "N", "ticker": "TREO"}
 {"category": "G", "etf": "N", "name": "TRG Latin America Acquisitions Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "TRGS"}
 {"category": "G", "etf": "N", "name": "TRG Latin America Acquisitions Corp. - Rights", "test_issue": "N", "ticker": "TRGSR"}
 {"category": "G", "etf": "N", "name": "TRG Latin America Acquisitions Corp. - Units", "test_issue": "N", "ticker": "TRGSU"}
@@ -5039,7 +5041,6 @@
 {"category": "G", "etf": "N", "name": "Turn Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "TTRX"}
 {"category": "Q", "etf": "N", "name": "Take-Two Interactive Software, Inc. - Common Stock", "test_issue": "N", "ticker": "TTWO"}
 {"category": "G", "etf": "Y", "name": "STF Tactical Growth ETF", "test_issue": "N", "ticker": "TUG"}
-{"category": "G", "etf": "Y", "name": "STF Tactical Growth & Income ETF", "test_issue": "N", "ticker": "TUGN"}
 {"category": "S", "etf": "N", "name": "Bloomia Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "TULP"}
 {"category": "G", "etf": "Y", "name": "iShares MSCI Turkey ETF", "test_issue": "N", "ticker": "TUR"}
 {"category": "S", "etf": "N", "name": "Turbo Energy, S.A. - American Depositary Shares", "test_issue": "N", "ticker": "TURB"}
@@ -5511,7 +5512,6 @@
 {"category": "S", "etf": "N", "name": "Youxin Technology Ltd - Class A Ordinary shares", "test_issue": "N", "ticker": "YAAS"}
 {"category": "S", "etf": "N", "name": "Yarrow Bioscience, Inc. - Common Stock", "test_issue": "N", "ticker": "YARW"}
 {"category": "G", "etf": "N", "name": "Yuanbao Inc. - American Depositary Shares", "test_issue": "N", "ticker": "YB"}
-{"category": "G", "etf": "Y", "name": "Defiance BMNR Option Income ETF", "test_issue": "N", "ticker": "YBMN"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost Single Stock Universe ETF", "test_issue": "N", "ticker": "YBST"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost TopYielders ETF", "test_issue": "N", "ticker": "YBTY"}
 {"category": "S", "etf": "N", "name": "One and One Green Technologies. INC - Class A Ordinary Shares", "test_issue": "N", "ticker": "YDDL"}

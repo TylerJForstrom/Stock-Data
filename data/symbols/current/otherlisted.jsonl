@@ -3089,6 +3089,7 @@
 {"etf": "N", "exchange": "N", "name": "Hagerty, Inc. Class A Common Stock", "test_issue": "N", "ticker": "HGTY"}
 {"etf": "N", "exchange": "N", "name": "Hilton Grand Vacations Inc. Common Stock ", "test_issue": "N", "ticker": "HGV"}
 {"etf": "N", "exchange": "N", "name": "Howard Hughes Holdings Inc. Common Stock", "test_issue": "N", "ticker": "HHH"}
+{"etf": "Y", "exchange": "Z", "name": "Ai Funds High Conviction US Equity AI-Managed ETF", "test_issue": "N", "ticker": "HIAI"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily S&P 500 High Beta Bull 3X ETF", "test_issue": "N", "ticker": "HIBL"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily S&P 500 High Beta Bear 3X ETF", "test_issue": "N", "ticker": "HIBS"}
 {"etf": "Y", "exchange": "P", "name": "AB US High Dividend ETF", "test_issue": "N", "ticker": "HIDV"}
@@ -3184,6 +3185,9 @@
 {"etf": "N", "exchange": "N", "name": "Haverty Furniture Companies, Inc. Common Stock", "test_issue": "N", "ticker": "HVT"}
 {"etf": "N", "exchange": "N", "name": "Haverty Furniture Companies, Inc. Common Stock", "test_issue": "N", "ticker": "HVT.A"}
 {"etf": "N", "exchange": "N", "name": "Howmet Aerospace Inc. Common Stock", "test_issue": "N", "ticker": "HWM"}
+{"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Corporate Arbitrage ETF", "test_issue": "N", "ticker": "HXA"}
+{"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Strategic Commodities ETF", "test_issue": "N", "ticker": "HXC"}
+{"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Adaptive Equities ETF", "test_issue": "N", "ticker": "HXE"}
 {"etf": "N", "exchange": "N", "name": "Hexcel Corporation Common Stock", "test_issue": "N", "ticker": "HXL"}
 {"etf": "N", "exchange": "N", "name": "Hyster-Yale, Inc. Class A common stock", "test_issue": "N", "ticker": "HY"}
 {"etf": "Y", "exchange": "P", "name": "iShares BB Rated Corporate Bond ETF", "test_issue": "N", "ticker": "HYBB"}
@@ -3321,7 +3325,6 @@
 {"etf": "Y", "exchange": "P", "name": "VanEck Indonesia Index ETF", "test_issue": "N", "ticker": "IDX"}
 {"etf": "Y", "exchange": "P", "name": "iShares International Equity Factor Rotation Active ETF", "test_issue": "N", "ticker": "IDYN"}
 {"etf": "N", "exchange": "A", "name": "Ivanhoe Electric Inc. Common Stock", "test_issue": "N", "ticker": "IE"}
-{"etf": "Y", "exchange": "Z", "name": "iShares U.S. Consumer Focused ETF", "test_issue": "N", "ticker": "IEDI"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Core MSCI EAFE ETF", "test_issue": "N", "ticker": "IEFA"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core MSCI Emerging Markets ETF", "test_issue": "N", "ticker": "IEMG"}
 {"etf": "Y", "exchange": "Z", "name": "iShares U.S. Oil & Gas Exploration & Production ETF", "test_issue": "N", "ticker": "IEO"}
@@ -4202,6 +4205,7 @@
 {"etf": "N", "exchange": "N", "name": "MEDIFAST INC Common Stock", "test_issue": "N", "ticker": "MED"}
 {"etf": "Y", "exchange": "P", "name": "Harbor Health Care ETF", "test_issue": "N", "ticker": "MEDI"}
 {"etf": "N", "exchange": "N", "name": "NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares", "test_issue": "N", "ticker": "MEGI"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "test_issue": "N", "ticker": "MEGX"}
 {"etf": "N", "exchange": "N", "name": "Methode Electronics, Inc. Common Stock", "test_issue": "N", "ticker": "MEI"}
 {"etf": "Y", "exchange": "Z", "name": "Direxion META Defined Income Boost ETF", "test_issue": "N", "ticker": "MEIB"}
 {"etf": "Y", "exchange": "P", "name": "Matthews Emerging Markets Equity Active ETF", "test_issue": "N", "ticker": "MEM"}
@@ -4242,7 +4246,6 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap ETF", "test_issue": "N", "ticker": "MGC"}
 {"etf": "N", "exchange": "N", "name": "Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "MGF"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap Growth ETF", "test_issue": "N", "ticker": "MGK"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF", "test_issue": "N", "ticker": "MGKX"}
 {"etf": "N", "exchange": "A", "name": "The Marygold Companies, Inc. Common Stock", "test_issue": "N", "ticker": "MGLD"}
 {"etf": "N", "exchange": "N", "name": "MGM Resorts International Common Stock", "test_issue": "N", "ticker": "MGM"}
 {"etf": "Y", "exchange": "P", "name": "Ballast Small/Mid Cap ETF", "test_issue": "N", "ticker": "MGMT"}
@@ -6873,13 +6876,16 @@
 {"etf": "Y", "exchange": "P", "name": "First Eagle US Equity ETF", "test_issue": "N", "ticker": "USFE"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Floating Rate Treasury Fund", "test_issue": "N", "ticker": "USFR"}
 {"etf": "Y", "exchange": "P", "name": "USCF Gold Strategy Plus Income Fund", "test_issue": "N", "ticker": "USG"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "test_issue": "N", "ticker": "USGX"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Broad USD High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "USHY"}
 {"etf": "Y", "exchange": "P", "name": "United States 12 Month Oil", "test_issue": "N", "ticker": "USL"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Broad USD Floating Rate Loan ETF", "test_issue": "N", "ticker": "USLN"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Silver Bull 2X ETF", "test_issue": "N", "ticker": "USLV"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "test_issue": "N", "ticker": "USLX"}
 {"etf": "Y", "exchange": "P", "name": "CoreValues America First Technology ETF", "test_issue": "N", "ticker": "USMD"}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree U.S. Multifactor Fund", "test_issue": "N", "ticker": "USMF"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI USA Min Vol Factor ETF", "test_issue": "N", "ticker": "USMV"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "test_issue": "N", "ticker": "USMX"}
 {"etf": "N", "exchange": "N", "name": "USANA Health Sciences, Inc. Common Stock", "test_issue": "N", "ticker": "USNA"}
 {"etf": "Y", "exchange": "P", "name": "Amplify Samsung U.S. Natural Gas Infrastructure ETF", "test_issue": "N", "ticker": "USNG"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Net Zero Pathway Paris Aligned US Equity ETF", "test_issue": "N", "ticker": "USNZ"}
@@ -6889,6 +6895,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares Core U.S. REIT ETF", "test_issue": "N", "ticker": "USRT"}
 {"etf": "Y", "exchange": "P", "name": "Segall Bryant & Hamill Trust Segall Bryant & Hamill Select Equity ETF", "test_issue": "N", "ticker": "USSE"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers MSCI USA Selection Equity ETF", "test_issue": "N", "ticker": "USSG"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "test_issue": "N", "ticker": "USSX"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra 7-10 Year Treasury", "test_issue": "N", "ticker": "UST"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Total U.S. Market 2x Daily ETF", "test_issue": "N", "ticker": "USX"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Reaves Utilities ETF", "test_issue": "N", "ticker": "UTES"}
@@ -6940,7 +6947,6 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Small-Cap Growth ETF", "test_issue": "N", "ticker": "VBK"}
 {"etf": "Y", "exchange": "P", "name": "Vident U.S. Bond Strategy ETF", "test_issue": "N", "ticker": "VBND"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Small-Cap Value ETF", "test_issue": "N", "ticker": "VBR"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 2x Daily ETF", "test_issue": "N", "ticker": "VBX"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard ESG U.S. Corporate Bond ETF", "test_issue": "N", "ticker": "VCEB"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard U.S. High-Yield Corporate Bond Index ETF", "test_issue": "N", "ticker": "VCHY"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Duff & Phelps Clean Energy ETF", "test_issue": "N", "ticker": "VCLN"}
@@ -7050,7 +7056,6 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 ETF", "test_issue": "N", "ticker": "VOO"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Growth ETF", "test_issue": "N", "ticker": "VOOG"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Value ETF", "test_issue": "N", "ticker": "VOOV"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "test_issue": "N", "ticker": "VOOX"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mid-Cap Growth ETF", "test_issue": "N", "ticker": "VOT"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Communication Services  ETF", "test_issue": "N", "ticker": "VOX"}
 {"etf": "Y", "exchange": "Z", "name": "Vox Populi ETF", "test_issue": "N", "ticker": "VOXP"}
@@ -7431,9 +7436,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify Target 15 Distribution ETF", "test_issue": "N", "ticker": "XV"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest AAPL & Target Income ETF", "test_issue": "N", "ticker": "XVAP"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest NVDA & Target Income ETF", "test_issue": "N", "ticker": "XVNV"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "test_issue": "N", "ticker": "XVO"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest TSLA & Target Income ETF", "test_issue": "N", "ticker": "XVTS"}
-{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "test_issue": "N", "ticker": "XVUG"}
 {"etf": "Y", "exchange": "Z", "name": "iShares ESG Select Screened S&P 500 ETF", "test_issue": "N", "ticker": "XVV"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Ex-U.S. Equities 2x Daily ETF", "test_issue": "N", "ticker": "XW"}
 {"etf": "Y", "exchange": "P", "name": "Amplify Top 10 Space ETF", "test_issue": "N", "ticker": "XWNG"}
