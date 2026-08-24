@@ -665,7 +665,6 @@
 {"etf": "N", "exchange": "N", "name": "TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant", "test_issue": "N", "ticker": "BEBE.U"}
 {"etf": "N", "exchange": "N", "name": "TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "BEBE.W"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi BE 2x Daily ETF", "test_issue": "N", "ticker": "BEC"}
-{"etf": "Y", "exchange": "P", "name": "AdvisorShares Hotel ETF", "test_issue": "N", "ticker": "BEDZ"}
 {"etf": "Y", "exchange": "Z", "name": "Rareview 2x Bull Cryptocurrency & Precious Metals ETF", "test_issue": "N", "ticker": "BEGS"}
 {"etf": "N", "exchange": "N", "name": "KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)", "test_issue": "N", "ticker": "BEKE"}
 {"etf": "Y", "exchange": "Z", "name": "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF", "test_issue": "N", "ticker": "BEMB"}
@@ -1947,6 +1946,7 @@
 {"etf": "Y", "exchange": "P", "name": "First Trust Dow 30 Equal Weight ETF", "test_issue": "N", "ticker": "EDOW"}
 {"etf": "N", "exchange": "N", "name": "New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)", "test_issue": "N", "ticker": "EDU"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Extended Duration Treasury ETF", "test_issue": "N", "ticker": "EDV"}
+{"etf": "N", "exchange": "A", "name": "Endovia Health Sciences, Inc. Common Stock", "test_issue": "N", "ticker": "EDVA"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Emerging Markets Bear 3X ETF", "test_issue": "N", "ticker": "EDZ"}
 {"etf": "N", "exchange": "N", "name": "Excelerate Energy, Inc. Class A Common Stock", "test_issue": "N", "ticker": "EE"}
 {"etf": "N", "exchange": "N", "name": "The European Equity Fund, Inc. Common Stock", "test_issue": "N", "ticker": "EEA"}
@@ -1996,8 +1996,8 @@
 {"etf": "Y", "exchange": "Z", "name": "Global X Ethereum Covered Call ETF", "test_issue": "N", "ticker": "EHCC"}
 {"etf": "N", "exchange": "N", "name": "Western Asset Global High Income Fund Inc Common Stock", "test_issue": "N", "ticker": "EHI"}
 {"etf": "Y", "exchange": "Z", "name": "Amplify Ethereum Max Income Covered Call ETF", "test_issue": "N", "ticker": "EHY"}
-{"etf": "N", "exchange": "N", "name": "Eagle Point Income Company Inc. Common Stock", "test_issue": "N", "ticker": "EIC"}
-{"etf": "N", "exchange": "N", "name": "Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026", "test_issue": "N", "ticker": "EICA"}
+{"etf": "N", "exchange": "N", "name": "Eagle Point Income Company Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "EIC"}
+{"etf": "N", "exchange": "N", "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026", "test_issue": "N", "ticker": "EICA"}
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI Indonesia ETF", "test_issue": "N", "ticker": "EIDO"}
 {"etf": "N", "exchange": "N", "name": "Employers Holdings Inc Common Stock", "test_issue": "N", "ticker": "EIG"}
 {"etf": "N", "exchange": "N", "name": "Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029", "test_issue": "N", "ticker": "EIIA"}
@@ -4554,7 +4554,6 @@
 {"etf": "N", "exchange": "N", "name": "NACCO Industries, Inc. Common Stock", "test_issue": "N", "ticker": "NC"}
 {"etf": "N", "exchange": "N", "name": "Nuveen California Municipal Value Fund", "test_issue": "N", "ticker": "NCA"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Churchill Direct Lending Corp. Common Stock", "test_issue": "N", "ticker": "NCDL"}
-{"etf": "N", "exchange": "A", "name": "Northann Corp. Common Stock", "test_issue": "N", "ticker": "NCL"}
 {"etf": "N", "exchange": "N", "name": "Norwegian Cruise Line Holdings Ltd. Ordinary Shares", "test_issue": "N", "ticker": "NCLH"}
 {"etf": "Y", "exchange": "P", "name": "Nuveen AA-BBB CLO ETF", "test_issue": "N", "ticker": "NCLO"}
 {"etf": "N", "exchange": "N", "name": "Virtus Convertible & Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "NCV"}
@@ -5797,7 +5796,6 @@
 {"etf": "N", "exchange": "N", "name": "Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)", "test_issue": "N", "ticker": "SB$D"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Barrier Income ETF", "test_issue": "N", "ticker": "SBAR"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Short SmallCap600", "test_issue": "N", "ticker": "SBB"}
-{"etf": "N", "exchange": "A", "name": "Splash Beverage Group, Inc. (NV) Common Stock", "test_issue": "N", "ticker": "SBEV"}
 {"etf": "N", "exchange": "N", "name": "Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock", "test_issue": "N", "ticker": "SBH"}
 {"etf": "N", "exchange": "N", "name": "Western Asset Intermediate Muni Fund Inc Common Stock", "test_issue": "N", "ticker": "SBI"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Government Money Market ETF", "test_issue": "N", "ticker": "SBIL"}
@@ -6241,6 +6239,7 @@
 {"etf": "Y", "exchange": "P", "name": "MAX S&P 500 4X Leveraged ETNs due October 30, 2043", "test_issue": "N", "ticker": "SPYU"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Portfolio S&P 500 Value ETF", "test_issue": "N", "ticker": "SPYV"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF", "test_issue": "N", "ticker": "SPYX"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Quarterly 15 Buffer ETF", "test_issue": "N", "ticker": "SQBA"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI USA Small-Cap Quality Factor ETF", "test_issue": "N", "ticker": "SQLT"}
 {"etf": "N", "exchange": "N", "name": "Sociedad Quimica y Minera S.A. Common Stock", "test_issue": "N", "ticker": "SQM"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Quarterly Max Buffer ETF", "test_issue": "N", "ticker": "SQMX"}
@@ -7001,7 +7000,6 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard Health Care ETF", "test_issue": "N", "ticker": "VHT"}
 {"etf": "N", "exchange": "N", "name": "Via Transportation, Inc. Class A Common Stock", "test_issue": "N", "ticker": "VIA"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long VIAV Daily ETF", "test_issue": "N", "ticker": "VIAG"}
-{"etf": "Y", "exchange": "P", "name": "AdvisorShares Vice ETF", "test_issue": "N", "ticker": "VICE"}
 {"etf": "N", "exchange": "N", "name": "VICI Properties Inc. Common Stock", "test_issue": "N", "ticker": "VICI"}
 {"etf": "N", "exchange": "A", "name": "VIDA Global Inc. Class A Common Stock", "test_issue": "N", "ticker": "VIDA"}
 {"etf": "Y", "exchange": "P", "name": "Vident International Equity Strategy ETF", "test_issue": "N", "ticker": "VIDI"}
