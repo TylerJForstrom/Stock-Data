@@ -940,6 +940,7 @@
 {"etf": "N", "exchange": "N", "name": "BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "BSTZ"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Short-Term Bond ETF", "test_issue": "N", "ticker": "BSV"}
 {"etf": "N", "exchange": "N", "name": "Boston Scientific Corporation Common Stock", "test_issue": "N", "ticker": "BSX"}
+{"etf": "Y", "exchange": "P", "name": "Beacon Tactical Alternatives Risk ETF", "test_issue": "N", "ticker": "BTA"}
 {"etf": "Y", "exchange": "P", "name": "AGF U.S. Market Neutral Anti-Beta Fund", "test_issue": "N", "ticker": "BTAL"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Mini Trust (BTC)", "test_issue": "N", "ticker": "BTC"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Covered Call ETF", "test_issue": "N", "ticker": "BTCC"}
@@ -2763,7 +2764,7 @@
 {"etf": "N", "exchange": "N", "name": "Gold Fields Limited American Depositary Shares", "test_issue": "N", "ticker": "GFI"}
 {"etf": "N", "exchange": "N", "name": "GFL Environmental Inc. Subordinate voting shares, no par value", "test_issue": "N", "ticker": "GFL"}
 {"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Common Shares", "test_issue": "N", "ticker": "GFR"}
-{"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued", "test_issue": "N", "ticker": "GFR.V"}
+{"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights", "test_issue": "N", "ticker": "GFR.R"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long GFS Daily ETF", "test_issue": "N", "ticker": "GFSG"}
 {"etf": "N", "exchange": "N", "name": "Gerdau S.A. Common Stock", "test_issue": "N", "ticker": "GGB"}
 {"etf": "N", "exchange": "N", "name": "Graco Inc. Common Stock", "test_issue": "N", "ticker": "GGG"}
@@ -3753,6 +3754,7 @@
 {"etf": "Y", "exchange": "Z", "name": "PGIM S&P 500 Buffer 12 ETF - July", "test_issue": "N", "ticker": "JULP"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap Buffer10 Jul ETF", "test_issue": "N", "ticker": "JULT"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF", "test_issue": "N", "ticker": "JULU"}
+{"etf": "Y", "exchange": "P", "name": "VanEck U.S. Equity Buffer ETF - July", "test_issue": "N", "ticker": "JULV"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap Buffer20 Jul ETF", "test_issue": "N", "ticker": "JULW"}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Structured Outcome (July) ETF", "test_issue": "N", "ticker": "JULZ"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 10% Structured Buffer ETF - June Series", "test_issue": "N", "ticker": "JUNC"}
@@ -3944,6 +3946,7 @@
 {"etf": "N", "exchange": "N", "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests", "test_issue": "N", "ticker": "LB"}
 {"etf": "Y", "exchange": "P", "name": "Leatherback Long/Short Alternative Yield ETF", "test_issue": "N", "ticker": "LBAY"}
 {"etf": "Y", "exchange": "Z", "name": "WHITEWOLF Publicly Listed Private Equity ETF", "test_issue": "N", "ticker": "LBO"}
+{"etf": "Y", "exchange": "Z", "name": "GraniteShares Short Term Box ETF", "test_issue": "N", "ticker": "LBOX"}
 {"etf": "N", "exchange": "N", "name": "Liberty Energy Inc. Class A common stock", "test_issue": "N", "ticker": "LBRT"}
 {"etf": "Y", "exchange": "Z", "name": "Principal Capital Appreciation Select ETF", "test_issue": "N", "ticker": "LCAP"}
 {"etf": "Y", "exchange": "Z", "name": "Touchstone US Large Cap Focused ETF", "test_issue": "N", "ticker": "LCF"}
@@ -5625,7 +5628,6 @@
 {"etf": "N", "exchange": "N", "name": "RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share", "test_issue": "N", "ticker": "RLX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Multi-Asset Real Return ETF", "test_issue": "N", "ticker": "RLY"}
 {"etf": "N", "exchange": "N", "name": "Regional Management Corp. Common Stock", "test_issue": "N", "ticker": "RM"}
-{"etf": "N", "exchange": "N", "name": "RE/MAX Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "RMAX"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi RMBS 2x Daily ETF", "test_issue": "N", "ticker": "RMBC"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long RMBS Daily ETF", "test_issue": "N", "ticker": "RMBX"}
 {"etf": "Y", "exchange": "P", "name": "Rockefeller California Municipal Bond ETF", "test_issue": "N", "ticker": "RMCA"}
@@ -6722,7 +6724,6 @@
 {"etf": "N", "exchange": "N", "name": "Twilio Inc. Class A Common Stock", "test_issue": "N", "ticker": "TWLO"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Russell2000", "test_issue": "N", "ticker": "TWM"}
 {"etf": "N", "exchange": "N", "name": "Taiwan Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "TWN"}
-{"etf": "N", "exchange": "N", "name": "Two Harbors Investment Corp", "test_issue": "N", "ticker": "TWO"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)", "test_issue": "N", "ticker": "TWO$A"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$B"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$C"}
@@ -7502,6 +7503,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2033 ETF", "test_issue": "N", "ticker": "ZCBE"}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2034 ETF", "test_issue": "N", "ticker": "ZCBF"}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2035 ETF", "test_issue": "N", "ticker": "ZCBG"}
+{"etf": "Y", "exchange": "P", "name": "The Zcash ETF Shares", "test_issue": "N", "ticker": "ZCSH"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr December", "test_issue": "N", "ticker": "ZDEK"}
 {"etf": "N", "exchange": "A", "name": "Zedge, Inc. Class B Common Stock ", "test_issue": "N", "ticker": "ZDGE"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Zevenbergen Discovery Growth ETF", "test_issue": "N", "ticker": "ZDIS"}

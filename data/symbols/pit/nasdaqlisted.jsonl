@@ -2836,6 +2836,7 @@
 {"category": "G", "etf": "N", "name": "Kalaris Therapeutics, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KLRS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Kaltura, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KLTR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "KLX Energy Services Holdings, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KLXE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "KLX Energy Services Holdings, Inc.  - Rights", "provable_from": true, "test_issue": "N", "ticker": "KLXER", "valid_from": "2026-08-25", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Kimberly-Clark Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KMB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Kamada Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KMDA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "KraneShares 2x Long MELI Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "KMLI", "valid_from": "2026-07-28", "valid_to": null}
@@ -3219,7 +3220,9 @@
 {"category": "Q", "etf": "N", "name": "MeiraGTx Holdings plc - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MGTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Metagenomi Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Magyar Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGYR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "MIAC", "valid_from": "2026-08-25", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Meridian3 Industrials Acquisition Corp - Units", "provable_from": false, "test_issue": "N", "ticker": "MIACU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Meridian3 Industrials Acquisition Corp - Warrant", "provable_from": true, "test_issue": "N", "ticker": "MIACW", "valid_from": "2026-08-25", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "The Middleby Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MIDD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Global X Millennial Consumer ETF", "provable_from": false, "test_issue": "N", "ticker": "MILN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Mint Incorporation Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MIMI", "valid_from": "2026-07-28", "valid_to": null}
@@ -3627,7 +3630,8 @@
 {"category": "Q", "etf": "N", "name": "NXP Semiconductors N.V. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXPI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NextPlat Corp - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXPL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Nexstar Media Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXST", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Nextpower Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Nextpower Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXT", "valid_from": "2026-07-28", "valid_to": "2026-08-25"}
+{"category": "Q", "etf": "N", "name": "Nextpower Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "NXT", "valid_from": "2026-08-25", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "NextCure, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXTC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust Indxx NextG ETF", "provable_from": false, "test_issue": "N", "ticker": "NXTG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nexentis Technologies Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXTS", "valid_from": "2026-07-28", "valid_to": null}
@@ -4283,7 +4287,8 @@
 {"category": "G", "etf": "Y", "name": "Intelligent Real Estate ETF", "provable_from": false, "test_issue": "N", "ticker": "REAI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "The RealReal, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "REAL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "The Real Brokerage, Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "REAX", "valid_from": "2026-07-28", "valid_to": "2026-08-24"}
-{"category": "S", "etf": "N", "name": "The Real Brokerage, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "REAX", "valid_from": "2026-08-24", "valid_to": null}
+{"category": "S", "etf": "N", "name": "The Real Brokerage, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "REAX", "valid_from": "2026-08-24", "valid_to": "2026-08-25"}
+{"category": "S", "etf": "N", "name": "Real REMAX Group Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "REAX", "valid_from": "2026-08-25", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Reborn Coffee, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "REBN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Rectitude Holdings Ltd - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RECT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Chicago Atlantic Real Estate Finance, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "REFI", "valid_from": "2026-07-28", "valid_to": null}

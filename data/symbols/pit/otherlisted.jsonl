@@ -954,6 +954,7 @@
 {"etf": "N", "exchange": "N", "name": "BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "BSTZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Short-Term Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BSV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Boston Scientific Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BSX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Beacon Tactical Alternatives Risk ETF", "provable_from": true, "test_issue": "N", "ticker": "BTA", "valid_from": "2026-08-25", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "AGF U.S. Market Neutral Anti-Beta Fund", "provable_from": false, "test_issue": "N", "ticker": "BTAL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Mini Trust (BTC)", "provable_from": false, "test_issue": "N", "ticker": "BTC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "BTCC", "valid_from": "2026-07-28", "valid_to": null}
@@ -2798,7 +2799,8 @@
 {"etf": "N", "exchange": "N", "name": "Gold Fields Limited American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "GFI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "GFL Environmental Inc. Subordinate voting shares, no par value", "provable_from": false, "test_issue": "N", "ticker": "GFL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "GFR", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "GFR.V", "valid_from": "2026-08-14", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights", "provable_from": true, "test_issue": "N", "ticker": "GFR.R", "valid_from": "2026-08-25", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "GFR.V", "valid_from": "2026-08-14", "valid_to": "2026-08-25"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long GFS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "GFSG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Gerdau S.A. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GGB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Graco Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GGG", "valid_from": "2026-07-28", "valid_to": null}
@@ -3808,6 +3810,7 @@
 {"etf": "Y", "exchange": "Z", "name": "PGIM S&P 500 Buffer 12 ETF - July", "provable_from": false, "test_issue": "N", "ticker": "JULP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap Buffer10 Jul ETF", "provable_from": false, "test_issue": "N", "ticker": "JULT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF", "provable_from": false, "test_issue": "N", "ticker": "JULU", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "VanEck U.S. Equity Buffer ETF - July", "provable_from": true, "test_issue": "N", "ticker": "JULV", "valid_from": "2026-08-25", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap Buffer20 Jul ETF", "provable_from": false, "test_issue": "N", "ticker": "JULW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Structured Outcome (July) ETF", "provable_from": false, "test_issue": "N", "ticker": "JULZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 10% Structured Buffer ETF - June Series", "provable_from": false, "test_issue": "N", "ticker": "JUNC", "valid_from": "2026-07-28", "valid_to": null}
@@ -4000,6 +4003,7 @@
 {"etf": "N", "exchange": "N", "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests", "provable_from": false, "test_issue": "N", "ticker": "LB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Leatherback Long/Short Alternative Yield ETF", "provable_from": false, "test_issue": "N", "ticker": "LBAY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "WHITEWOLF Publicly Listed Private Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "LBO", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "GraniteShares Short Term Box ETF", "provable_from": true, "test_issue": "N", "ticker": "LBOX", "valid_from": "2026-08-25", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Liberty Energy Inc. Class A common stock", "provable_from": false, "test_issue": "N", "ticker": "LBRT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Principal Capital Appreciation Select ETF", "provable_from": false, "test_issue": "N", "ticker": "LCAP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Touchstone US Large Cap Focused ETF", "provable_from": false, "test_issue": "N", "ticker": "LCF", "valid_from": "2026-07-28", "valid_to": null}
@@ -5712,7 +5716,7 @@
 {"etf": "N", "exchange": "N", "name": "RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share", "provable_from": false, "test_issue": "N", "ticker": "RLX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Multi-Asset Real Return ETF", "provable_from": false, "test_issue": "N", "ticker": "RLY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Regional Management Corp. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RM", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "RE/MAX Holdings, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RMAX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "RE/MAX Holdings, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RMAX", "valid_from": "2026-07-28", "valid_to": "2026-08-25"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi RMBS 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "RMBC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long RMBS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "RMBX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Rockefeller California Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "RMCA", "valid_from": "2026-07-28", "valid_to": null}
@@ -6820,7 +6824,7 @@
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Russell2000", "provable_from": false, "test_issue": "N", "ticker": "TWM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Taiwan Fund, Inc. (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TWN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investment Corp", "provable_from": false, "test_issue": "N", "ticker": "TWO", "valid_from": "2026-07-28", "valid_to": "2026-08-03"}
-{"etf": "N", "exchange": "N", "name": "Two Harbors Investment Corp", "provable_from": true, "test_issue": "N", "ticker": "TWO", "valid_from": "2026-08-04", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Two Harbors Investment Corp", "provable_from": true, "test_issue": "N", "ticker": "TWO", "valid_from": "2026-08-04", "valid_to": "2026-08-25"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)", "provable_from": false, "test_issue": "N", "ticker": "TWO$A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "TWO$B", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "TWO$C", "valid_from": "2026-07-28", "valid_to": null}
@@ -7628,6 +7632,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2033 ETF", "provable_from": false, "test_issue": "N", "ticker": "ZCBE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2034 ETF", "provable_from": false, "test_issue": "N", "ticker": "ZCBF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2035 ETF", "provable_from": false, "test_issue": "N", "ticker": "ZCBG", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "The Zcash ETF Shares", "provable_from": true, "test_issue": "N", "ticker": "ZCSH", "valid_from": "2026-08-25", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr December", "provable_from": false, "test_issue": "N", "ticker": "ZDEK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Zedge, Inc. Class B Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "ZDGE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Zevenbergen Discovery Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "ZDIS", "valid_from": "2026-08-17", "valid_to": null}
