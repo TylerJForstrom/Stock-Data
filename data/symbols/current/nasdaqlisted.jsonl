@@ -98,6 +98,7 @@
 {"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share", "test_issue": "N", "ticker": "ADAMZ"}
 {"category": "Q", "etf": "N", "name": "Adobe Inc. - Common Stock", "test_issue": "N", "ticker": "ADBE"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long ADBE Daily ETF", "test_issue": "N", "ticker": "ADBG"}
+{"category": "G", "etf": "N", "name": "Advasa Holdings, Inc. - Common stock", "test_issue": "N", "ticker": "ADBT"}
 {"category": "Q", "etf": "N", "name": "Adeia Inc.  - Common Stock", "test_issue": "N", "ticker": "ADEA"}
 {"category": "S", "etf": "N", "name": "Adagio Medical Holdings, Inc - Common Stock", "test_issue": "N", "ticker": "ADGM"}
 {"category": "Q", "etf": "N", "name": "Analog Devices, Inc. - Common Stock", "test_issue": "N", "ticker": "ADI"}
@@ -794,7 +795,6 @@
 {"category": "G", "etf": "Y", "name": "iShares Total Return Active ETF", "test_issue": "N", "ticker": "BRTR"}
 {"category": "S", "etf": "N", "name": "BioRestorative Therapies, Inc. - Common Stock", "test_issue": "N", "ticker": "BRTX"}
 {"category": "G", "etf": "N", "name": "Boost Run Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRUN"}
-{"category": "S", "etf": "N", "name": "Boost Run Inc. - Warrant", "test_issue": "N", "ticker": "BRUNW"}
 {"category": "G", "etf": "N", "name": "Braveheart Bio, Inc. - Common Stock", "test_issue": "N", "ticker": "BRVE"}
 {"category": "Q", "etf": "N", "name": "Braze, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRZE"}
 {"category": "S", "etf": "N", "name": "BEST SPAC I Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "BSAA"}
@@ -1870,7 +1870,6 @@
 {"category": "G", "etf": "N", "name": "Firefly Aerospace Inc. - Common Stock", "test_issue": "N", "ticker": "FLY"}
 {"category": "S", "etf": "N", "name": "Fly-E Group, Inc. - Common Stock", "test_issue": "N", "ticker": "FLYE"}
 {"category": "Q", "etf": "N", "name": "Flywire Corporation - Voting Common Stock", "test_issue": "N", "ticker": "FLYW"}
-{"category": "S", "etf": "N", "name": "Flash Sports & Media Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "FLZH"}
 {"category": "G", "etf": "N", "name": "Future Money Acquisition Corporation - Ordinary Shares", "test_issue": "N", "ticker": "FMAC"}
 {"category": "G", "etf": "N", "name": "Future Money Acquisition Corporation - Rights", "test_issue": "N", "ticker": "FMACR"}
 {"category": "G", "etf": "N", "name": "Future Money Acquisition Corporation - Units", "test_issue": "N", "ticker": "FMACU"}
@@ -2044,7 +2043,6 @@
 {"category": "S", "etf": "N", "name": "GlucoTrack, Inc. - Common Stock", "test_issue": "N", "ticker": "GCTK"}
 {"category": "S", "etf": "N", "name": "GD Culture Group Limited - Common Stock", "test_issue": "N", "ticker": "GDC"}
 {"category": "G", "etf": "N", "name": "GDEV Inc. - Ordinary Shares", "test_issue": "N", "ticker": "GDEV"}
-{"category": "G", "etf": "N", "name": "GDEV Inc. - Warrant", "test_issue": "N", "ticker": "GDEVW"}
 {"category": "S", "etf": "N", "name": "Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares", "test_issue": "N", "ticker": "GDHG"}
 {"category": "Q", "etf": "N", "name": "GoodRx Holdings, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "GDRX"}
 {"category": "G", "etf": "N", "name": "GDS Holdings Limited - American Depositary Shares", "test_issue": "N", "ticker": "GDS"}
@@ -2393,7 +2391,6 @@
 {"category": "S", "etf": "N", "name": "HUHUTECH International Group Inc. - Ordinary Shares", "test_issue": "N", "ticker": "HUHU"}
 {"category": "G", "etf": "N", "name": "Huize Holding Limited - American Depositary Shares", "test_issue": "N", "ticker": "HUIZ"}
 {"category": "Q", "etf": "N", "name": "Humacyte, Inc. - Common Stock", "test_issue": "N", "ticker": "HUMA"}
-{"category": "Q", "etf": "N", "name": "Humacyte, Inc. - Warrant", "test_issue": "N", "ticker": "HUMAW"}
 {"category": "S", "etf": "N", "name": "TuHURA Biosciences, Inc. - Common Stock", "test_issue": "N", "ticker": "HURA"}
 {"category": "Q", "etf": "N", "name": "Hurco Companies, Inc. - Common Stock", "test_issue": "N", "ticker": "HURC"}
 {"category": "Q", "etf": "N", "name": "Huron Consulting Group Inc. - Common Stock", "test_issue": "N", "ticker": "HURN"}
@@ -3718,8 +3715,6 @@
 {"category": "G", "etf": "N", "name": "Osprey Acquisition Corp. III - Class A Ordinary Shares", "test_issue": "N", "ticker": "OSPR"}
 {"category": "G", "etf": "N", "name": "Osprey Acquisition Corp. III - Units", "test_issue": "N", "ticker": "OSPRU"}
 {"category": "G", "etf": "N", "name": "Osprey Acquisition Corp. III - Warrants", "test_issue": "N", "ticker": "OSPRW"}
-{"category": "S", "etf": "N", "name": "OSR Health, Inc. - Common Stock", "test_issue": "N", "ticker": "OSRH"}
-{"category": "S", "etf": "N", "name": "OSR Health, Inc. - Warrant", "test_issue": "N", "ticker": "OSRHW"}
 {"category": "S", "etf": "N", "name": "One Stop Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "OSS"}
 {"category": "S", "etf": "N", "name": "Ostin Technology Group Co., Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "OST"}
 {"category": "Q", "etf": "N", "name": "OraSure Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "OSUR"}
@@ -5542,6 +5537,7 @@
 {"category": "S", "etf": "N", "name": "Youlife Group Inc. - American Depositary Shares", "test_issue": "N", "ticker": "YOUL"}
 {"category": "Q", "etf": "N", "name": "17 Education & Technology Group Inc. - American Depositary Shares", "test_issue": "N", "ticker": "YQ"}
 {"category": "G", "etf": "Y", "name": "YieldMax Short N100 Option Income Strategy ETF", "test_issue": "N", "ticker": "YQQQ"}
+{"category": "G", "etf": "Y", "name": "YieldMax Memory and Storage Portfolio Option Income ETF", "test_issue": "N", "ticker": "YRAM"}
 {"category": "G", "etf": "Y", "name": "Y'all Street Physical Silver ETF", "test_issue": "N", "ticker": "YSAG"}
 {"category": "G", "etf": "Y", "name": "Y'all Street Physical Gold ETF", "test_issue": "N", "ticker": "YSAU"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST SPY ETF", "test_issue": "N", "ticker": "YSPY"}

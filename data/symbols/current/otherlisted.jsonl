@@ -1051,6 +1051,7 @@
 {"etf": "N", "exchange": "A", "name": "Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares", "test_issue": "N", "ticker": "CANF"}
 {"etf": "N", "exchange": "N", "name": "Cango Inc. Class A Ordinary Shares", "test_issue": "N", "ticker": "CANG"}
 {"etf": "Y", "exchange": "Z", "name": "Alpha Architect Tail Risk ETF", "test_issue": "N", "ticker": "CAOS"}
+{"etf": "Y", "exchange": "Z", "name": "Defiance AI Capacitors Leaders ETF", "test_issue": "N", "ticker": "CAPA"}
 {"etf": "Y", "exchange": "P", "name": "DoubleLine Shiller CAPE U.S. Equities ETF", "test_issue": "N", "ticker": "CAPE"}
 {"etf": "N", "exchange": "N", "name": "CrossAmerica Partners LP Common Units representing limited partner interests", "test_issue": "N", "ticker": "CAPL"}
 {"etf": "Y", "exchange": "P", "name": "MAX Auto Industry -3x Inverse Leveraged ETN", "test_issue": "N", "ticker": "CARD"}
@@ -4480,7 +4481,11 @@
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2035 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNB"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2045 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNC"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2055 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUND"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2036 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNF"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2046 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNG"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2056 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNH"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund", "test_issue": "N", "ticker": "MUNI"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2031 Tax-Exempt Distributing Ladder ETF", "test_issue": "N", "ticker": "MUNJ"}
 {"etf": "Y", "exchange": "P", "name": "AMG GW&K Muni Income ETF", "test_issue": "N", "ticker": "MUNX"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard New York Tax-Exempt Bond ETF", "test_issue": "N", "ticker": "MUNY"}
 {"etf": "N", "exchange": "N", "name": "Murphy Oil Corporation Common Stock", "test_issue": "N", "ticker": "MUR"}
@@ -4935,6 +4940,7 @@
 {"etf": "N", "exchange": "N", "name": "Starlink AI Acquisition Corporation Ordinary Shares", "test_issue": "N", "ticker": "OTAI"}
 {"etf": "N", "exchange": "N", "name": "Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share", "test_issue": "N", "ticker": "OTAI.R"}
 {"etf": "N", "exchange": "N", "name": "Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share", "test_issue": "N", "ticker": "OTAI.U"}
+{"etf": "Y", "exchange": "N", "name": "Optimal Tax Managed Equity ETF", "test_issue": "N", "ticker": "OTAX"}
 {"etf": "N", "exchange": "N", "name": "Blue Owl Technology Finance Corp. Common Stock", "test_issue": "N", "ticker": "OTF"}
 {"etf": "N", "exchange": "N", "name": "Otis Worldwide Corporation Common Stock ", "test_issue": "N", "ticker": "OTIS"}
 {"etf": "Y", "exchange": "P", "name": "VanEck Merk Gold ETF", "test_issue": "N", "ticker": "OUNZ"}
@@ -5322,6 +5328,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Pacer Swan SOS Moderate (April) ETF", "test_issue": "N", "ticker": "PSMR"}
 {"etf": "N", "exchange": "N", "name": "Parsons Corporation Common Stock", "test_issue": "N", "ticker": "PSN"}
 {"etf": "N", "exchange": "N", "name": "Pearson, Plc Common Stock", "test_issue": "N", "ticker": "PSO"}
+{"etf": "Y", "exchange": "Z", "name": "Tema MLCC & PowerSemi ETF", "test_issue": "N", "ticker": "PSOX"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Global Listed Private Equity ETF", "test_issue": "N", "ticker": "PSP"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Short QQQ", "test_issue": "N", "ticker": "PSQ"}
 {"etf": "Y", "exchange": "P", "name": "Palmer Square CLO Senior Debt ETF", "test_issue": "N", "ticker": "PSQA"}
@@ -5976,7 +5983,6 @@
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Short Duration High Yield Bond ETF", "test_issue": "N", "ticker": "SHYL"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Short Duration High Yield Muni Active ETF", "test_issue": "N", "ticker": "SHYM"}
 {"etf": "N", "exchange": "N", "name": "Shoulder Innovations, Inc. Common Stock", "test_issue": "N", "ticker": "SI"}
-{"etf": "Y", "exchange": "Z", "name": "Tema Power Semiconductor ETF", "test_issue": "N", "ticker": "SIC"}
 {"etf": "N", "exchange": "N", "name": "Companhia Siderurgica Nacional S.A. Common Stock", "test_issue": "N", "ticker": "SID"}
 {"etf": "N", "exchange": "A", "name": "SIFCO Industries, Inc. Common Stock", "test_issue": "N", "ticker": "SIF"}
 {"etf": "Y", "exchange": "P", "name": "Harbor Ares Systematic Multi-Sector Income ETF", "test_issue": "N", "ticker": "SIFI"}
@@ -6529,6 +6535,10 @@
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2035 Inflation-Linked Distributing Ladder ETF", "test_issue": "N", "ticker": "TIPB"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2045 Inflation-Linked Distributing Ladder ETF", "test_issue": "N", "ticker": "TIPC"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust 2055 Inflation-Linked Distributing Ladder ETF", "test_issue": "N", "ticker": "TIPD"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2031 Inflation-Linked Distributing Ladder ETF", "test_issue": "N", "ticker": "TIPE"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2036 Inflation-Linked Distributing Ladder ETF", "test_issue": "N", "ticker": "TIPF"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2046 Inflation-Linked Distributing Ladder ETF", "test_issue": "N", "ticker": "TIPG"}
+{"etf": "Y", "exchange": "P", "name": "Northern Trust 2056 Inflation-Linked Distributing Ladder ETF", "test_issue": "N", "ticker": "TIPH"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Bloomberg 1a??10 Year TIPS ETF", "test_issue": "N", "ticker": "TIPX"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO Broad U.S. TIPS Index Exchange-Traded Fund", "test_issue": "N", "ticker": "TIPZ"}
 {"etf": "N", "exchange": "N", "name": "Team, Inc. Common Stock", "test_issue": "N", "ticker": "TISI"}
@@ -7435,6 +7445,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify Target 15 Distribution ETF", "test_issue": "N", "ticker": "XV"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest AAPL & Target Income ETF", "test_issue": "N", "ticker": "XVAP"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest NVDA & Target Income ETF", "test_issue": "N", "ticker": "XVNV"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest SPCX & Target Income ETF", "test_issue": "N", "ticker": "XVSP"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest TSLA & Target Income ETF", "test_issue": "N", "ticker": "XVTS"}
 {"etf": "Y", "exchange": "Z", "name": "iShares ESG Select Screened S&P 500 ETF", "test_issue": "N", "ticker": "XVV"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Ex-U.S. Equities 2x Daily ETF", "test_issue": "N", "ticker": "XW"}

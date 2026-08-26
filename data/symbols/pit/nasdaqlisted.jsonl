@@ -102,6 +102,7 @@
 {"category": "Q", "etf": "N", "name": "Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share", "provable_from": false, "test_issue": "N", "ticker": "ADAMZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Adobe Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADBE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long ADBE Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ADBG", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Advasa Holdings, Inc. - Common stock", "provable_from": true, "test_issue": "N", "ticker": "ADBT", "valid_from": "2026-08-26", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Adeia Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADEA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Adagio Medical Holdings, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADGM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Analog Devices, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADI", "valid_from": "2026-07-28", "valid_to": null}
@@ -809,7 +810,7 @@
 {"category": "G", "etf": "Y", "name": "iShares Total Return Active ETF", "provable_from": false, "test_issue": "N", "ticker": "BRTR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BioRestorative Therapies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Boost Run Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRUN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Boost Run Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BRUNW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Boost Run Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BRUNW", "valid_from": "2026-07-28", "valid_to": "2026-08-26"}
 {"category": "G", "etf": "N", "name": "Braveheart Bio, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "BRVE", "valid_from": "2026-08-07", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Braze, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRZE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BEST SPAC I Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BSAA", "valid_from": "2026-07-28", "valid_to": null}
@@ -1897,7 +1898,7 @@
 {"category": "G", "etf": "N", "name": "Firefly Aerospace Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FLY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Fly-E Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FLYE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Flywire Corporation - Voting Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FLYW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Flash Sports & Media Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FLZH", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Flash Sports & Media Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FLZH", "valid_from": "2026-07-28", "valid_to": "2026-08-26"}
 {"category": "G", "etf": "N", "name": "Future Money Acquisition Corporation - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FMAC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Future Money Acquisition Corporation - Rights", "provable_from": false, "test_issue": "N", "ticker": "FMACR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Future Money Acquisition Corporation - Units", "provable_from": false, "test_issue": "N", "ticker": "FMACU", "valid_from": "2026-07-28", "valid_to": null}
@@ -2072,7 +2073,7 @@
 {"category": "S", "etf": "N", "name": "GlucoTrack, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCTK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "GD Culture Group Limited - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GDC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GDEV Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GDEV", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "GDEV Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "GDEVW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "GDEV Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "GDEVW", "valid_from": "2026-07-28", "valid_to": "2026-08-26"}
 {"category": "S", "etf": "N", "name": "Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GDHG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "GoodRx Holdings, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GDRX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GDS Holdings Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "GDS", "valid_from": "2026-07-28", "valid_to": null}
@@ -2424,7 +2425,7 @@
 {"category": "S", "etf": "N", "name": "HUHUTECH International Group Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "HUHU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Huize Holding Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "HUIZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Humacyte, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HUMA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Humacyte, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "HUMAW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Humacyte, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "HUMAW", "valid_from": "2026-07-28", "valid_to": "2026-08-26"}
 {"category": "S", "etf": "N", "name": "TuHURA Biosciences, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HURA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Hurco Companies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HURC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Huron Consulting Group Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HURN", "valid_from": "2026-07-28", "valid_to": null}
@@ -3772,8 +3773,8 @@
 {"category": "G", "etf": "N", "name": "Osprey Acquisition Corp. III - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "OSPR", "valid_from": "2026-08-22", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Osprey Acquisition Corp. III - Units", "provable_from": false, "test_issue": "N", "ticker": "OSPRU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Osprey Acquisition Corp. III - Warrants", "provable_from": true, "test_issue": "N", "ticker": "OSPRW", "valid_from": "2026-08-22", "valid_to": null}
-{"category": "S", "etf": "N", "name": "OSR Health, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OSRH", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "OSR Health, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "OSRHW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "OSR Health, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OSRH", "valid_from": "2026-07-28", "valid_to": "2026-08-26"}
+{"category": "S", "etf": "N", "name": "OSR Health, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "OSRHW", "valid_from": "2026-07-28", "valid_to": "2026-08-26"}
 {"category": "S", "etf": "N", "name": "One Stop Systems, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OSS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Ostin Technology Group Co., Ltd. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "OST", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "OraSure Technologies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OSUR", "valid_from": "2026-07-28", "valid_to": null}
@@ -5625,6 +5626,7 @@
 {"category": "S", "etf": "N", "name": "Youlife Group Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "YOUL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "17 Education & Technology Group Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "YQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "YieldMax Short N100 Option Income Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "YQQQ", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "YieldMax Memory and Storage Portfolio Option Income ETF", "provable_from": true, "test_issue": "N", "ticker": "YRAM", "valid_from": "2026-08-26", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Y'all Street Physical Silver ETF", "provable_from": false, "test_issue": "N", "ticker": "YSAG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Y'all Street Physical Gold ETF", "provable_from": false, "test_issue": "N", "ticker": "YSAU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST SPY ETF", "provable_from": false, "test_issue": "N", "ticker": "YSPY", "valid_from": "2026-07-28", "valid_to": null}
