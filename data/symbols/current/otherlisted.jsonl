@@ -5,7 +5,9 @@
 {"etf": "Y", "exchange": "P", "name": "Columbia AAA CLO ETF", "test_issue": "N", "ticker": "AAAC"}
 {"etf": "Y", "exchange": "P", "name": "PGIM AAA CLO Aggregate Duration ETF", "test_issue": "N", "ticker": "AAAD"}
 {"etf": "Y", "exchange": "Z", "name": "Goldman Sachs Physical Gold ETF Shares", "test_issue": "N", "ticker": "AAAU"}
+{"etf": "N", "exchange": "N", "name": "Ares Acquisition Corporation III Class A Ordinary Shares", "test_issue": "N", "ticker": "AAC"}
 {"etf": "N", "exchange": "N", "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant", "test_issue": "N", "ticker": "AAC.U"}
+{"etf": "N", "exchange": "N", "name": "Ares Acquisition Corporation III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50", "test_issue": "N", "ticker": "AAC.W"}
 {"etf": "N", "exchange": "N", "name": "Applied Aerospace & Defense, Inc. Common Stock", "test_issue": "N", "ticker": "AADX"}
 {"etf": "N", "exchange": "N", "name": "Acadian Asset Management Inc. Common Stock", "test_issue": "N", "ticker": "AAMI"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long AAOI Daily ETF", "test_issue": "N", "ticker": "AAOG"}
@@ -106,12 +108,18 @@
 {"etf": "N", "exchange": "N", "name": "Aegon Ltd. New York Registry Shares", "test_issue": "N", "ticker": "AEG"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long AEHR Daily ETF", "test_issue": "N", "ticker": "AEHG"}
 {"etf": "N", "exchange": "N", "name": "Agnico Eagle Mines Limited Common Stock", "test_issue": "N", "ticker": "AEM"}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Mid Cap Core ETF", "test_issue": "N", "ticker": "AEMC"}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Mid Cap Growth ETF", "test_issue": "N", "ticker": "AEMG"}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Mid Cap Value ETF", "test_issue": "N", "ticker": "AEMV"}
 {"etf": "N", "exchange": "N", "name": "American Eagle Outfitters, Inc. Common Stock", "test_issue": "N", "ticker": "AEO"}
 {"etf": "N", "exchange": "A", "name": "AEON Biopharma, Inc. Class A Common Stock", "test_issue": "N", "ticker": "AEON"}
 {"etf": "N", "exchange": "N", "name": "AerCap Holdings N.V. Ordinary Shares", "test_issue": "N", "ticker": "AER"}
 {"etf": "N", "exchange": "N", "name": "Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)", "test_issue": "N", "ticker": "AERO"}
 {"etf": "N", "exchange": "N", "name": "The AES Corporation Common Stock", "test_issue": "N", "ticker": "AES"}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Small Cap Core ETF", "test_issue": "N", "ticker": "AESB"}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Small Cap Growth ETF", "test_issue": "N", "ticker": "AESG"}
 {"etf": "N", "exchange": "N", "name": "Atlas Energy Solutions Inc. Common Stock", "test_issue": "N", "ticker": "AESI"}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Small Cap Value ETF", "test_issue": "N", "ticker": "AESL"}
 {"etf": "Y", "exchange": "Z", "name": "Anfield U.S. Equity Sector Rotation ETF", "test_issue": "N", "ticker": "AESR"}
 {"etf": "Y", "exchange": "P", "name": "Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF", "test_issue": "N", "ticker": "AETH"}
 {"etf": "N", "exchange": "N", "name": "American Exceptionalism Acquisition Corp. A Class A Ordinary Shares", "test_issue": "N", "ticker": "AEXA"}
@@ -1831,6 +1839,7 @@
 {"etf": "N", "exchange": "N", "name": "DoubleLine Income Solutions Fund Common Shares of Beneficial Interests", "test_issue": "N", "ticker": "DSL"}
 {"etf": "N", "exchange": "N", "name": "BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock", "test_issue": "N", "ticker": "DSM"}
 {"etf": "Y", "exchange": "N", "name": "Distillate Small/Mid Cash Flow ETF", "test_issue": "N", "ticker": "DSMC"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 1X Short SPCX Daily ETF", "test_issue": "N", "ticker": "DSPC"}
 {"etf": "Y", "exchange": "P", "name": "Tema S&P 500 Historical Weight ETF Strategy", "test_issue": "N", "ticker": "DSPY"}
 {"etf": "N", "exchange": "A", "name": "DSS, Inc. Common Stock", "test_issue": "N", "ticker": "DSS"}
 {"etf": "Y", "exchange": "P", "name": "Distillate U.S. Fundamental Stability & Value ETF", "test_issue": "N", "ticker": "DSTL"}
@@ -3033,6 +3042,7 @@
 {"etf": "N", "exchange": "N", "name": "Hayward Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "HAYW"}
 {"etf": "N", "exchange": "N", "name": "Hamilton Beach Brands Holding Company Class A Common Stock ", "test_issue": "N", "ticker": "HBB"}
 {"etf": "Y", "exchange": "P", "name": "Harbor Short Term Treasury ETF", "test_issue": "N", "ticker": "HBIL"}
+{"etf": "Y", "exchange": "P", "name": "Hedgeye Hedged Bitcoin ETF", "test_issue": "N", "ticker": "HBIT"}
 {"etf": "N", "exchange": "N", "name": "Hudbay Minerals Inc. Ordinary Shares (Canada)", "test_issue": "N", "ticker": "HBM"}
 {"etf": "Y", "exchange": "Z", "name": "Tuttle Capital Concentrated Memory Stack ETF", "test_issue": "N", "ticker": "HBMX"}
 {"etf": "Y", "exchange": "P", "name": "Invesco U.S. Hybrid Bond ETF", "test_issue": "N", "ticker": "HBRD"}
@@ -3971,7 +3981,6 @@
 {"etf": "Y", "exchange": "P", "name": "iShares iBonds 1-5 Year Treasury Ladder ETF", "test_issue": "N", "ticker": "LDRT"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO Enhanced Low Duration Active Exchange-Traded Fund", "test_issue": "N", "ticker": "LDUR"}
 {"etf": "N", "exchange": "N", "name": "Lear Corporation Common Stock", "test_issue": "N", "ticker": "LEA"}
-{"etf": "N", "exchange": "N", "name": "Leggett & Platt, Incorporated Common Stock", "test_issue": "N", "ticker": "LEG"}
 {"etf": "N", "exchange": "A", "name": "Legato Merger Corp. IV Ordinary Shares", "test_issue": "N", "ticker": "LEGO"}
 {"etf": "N", "exchange": "A", "name": "Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "LEGO.U"}
 {"etf": "N", "exchange": "A", "name": "Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "LEGO.W"}
@@ -4344,6 +4353,7 @@
 {"etf": "N", "exchange": "N", "name": "Western Asset Managed Municipals Fund, Inc. Common Stock", "test_issue": "N", "ticker": "MMU"}
 {"etf": "Y", "exchange": "P", "name": "NYLI Merger Arbitrage ETF", "test_issue": "N", "ticker": "MNA"}
 {"etf": "Y", "exchange": "P", "name": "ALPS BBH Intermediate Municipal Bond ETF", "test_issue": "N", "ticker": "MNBD"}
+{"etf": "Y", "exchange": "P", "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs", "test_issue": "N", "ticker": "MNGU"}
 {"etf": "N", "exchange": "N", "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests", "test_issue": "N", "ticker": "MNR"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Miners ETF", "test_issue": "N", "ticker": "MNRS"}
 {"etf": "N", "exchange": "N", "name": "MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares", "test_issue": "N", "ticker": "MNSO"}
@@ -4728,7 +4738,6 @@
 {"etf": "Y", "exchange": "P", "name": "WisdomTree International Efficient Core Fund", "test_issue": "N", "ticker": "NTSI"}
 {"etf": "N", "exchange": "N", "name": "NetSTREIT Corp. Common Stock", "test_issue": "N", "ticker": "NTST"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree U.S. Efficient Core Fund", "test_issue": "N", "ticker": "NTSX"}
-{"etf": "N", "exchange": "N", "name": "Natuzzi, S.p.A.", "test_issue": "N", "ticker": "NTZ"}
 {"etf": "N", "exchange": "N", "name": "Nu Holdings Ltd. Class A Ordinary Shares", "test_issue": "N", "ticker": "NU"}
 {"etf": "Y", "exchange": "P", "name": "Nuveen Enhanced Yield U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "NUAG"}
 {"etf": "Y", "exchange": "P", "name": "Nuveen ESG U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "NUBD"}
@@ -5251,6 +5260,7 @@
 {"etf": "N", "exchange": "N", "name": "Permian Resources Corporation Class A Common Stock", "test_issue": "N", "ticker": "PR"}
 {"etf": "Y", "exchange": "P", "name": "State Street IG Public & Private ABS ETF", "test_issue": "N", "ticker": "PRAB"}
 {"etf": "Y", "exchange": "P", "name": "PlanRock Alternative Growth ETF", "test_issue": "N", "ticker": "PRAE"}
+{"etf": "Y", "exchange": "Z", "name": "Defiance Memory & Photonics ETF", "test_issue": "N", "ticker": "PRAM"}
 {"etf": "Y", "exchange": "P", "name": "FIS Christian Stock Fund", "test_issue": "N", "ticker": "PRAY"}
 {"etf": "Y", "exchange": "N", "name": "Parnassus Core Select ETF", "test_issue": "N", "ticker": "PRCS"}
 {"etf": "Y", "exchange": "P", "name": "Principal Spectrum Preferred Securities Active ETF", "test_issue": "N", "ticker": "PREF"}
@@ -5798,6 +5808,7 @@
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 7.50% Notes due 2031", "test_issue": "N", "ticker": "SAV"}
 {"etf": "Y", "exchange": "P", "name": "AAM Sawgrass US Large Cap Quality Growth ETF", "test_issue": "N", "ticker": "SAWG"}
 {"etf": "Y", "exchange": "P", "name": "AAM Sawgrass US Small Cap Quality Growth ETF", "test_issue": "N", "ticker": "SAWS"}
+{"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 8.00% Notes due 2031", "test_issue": "N", "ticker": "SAX"}
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 8.125% Notes due 2027", "test_issue": "N", "ticker": "SAY"}
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 8.50% Notes due 2028", "test_issue": "N", "ticker": "SAZ"}
 {"etf": "N", "exchange": "N", "name": "Safe Bulkers, Inc Common Stock ($0.001 par value)", "test_issue": "N", "ticker": "SB"}

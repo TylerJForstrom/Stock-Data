@@ -181,7 +181,6 @@
 {"category": "G", "etf": "Y", "name": "TCW Artificial Intelligence ETF", "test_issue": "N", "ticker": "AIFD"}
 {"category": "S", "etf": "N", "name": "Firefly Neuroscience, Inc.  - Common Stock", "test_issue": "N", "ticker": "AIFF"}
 {"category": "Q", "etf": "N", "name": "AIFU Inc. - Class A Ordinary Share", "test_issue": "N", "ticker": "AIFU"}
-{"category": "S", "etf": "N", "name": "Senmiao Technology Limited - Common Stock", "test_issue": "N", "ticker": "AIHS"}
 {"category": "S", "etf": "N", "name": "Robo.ai Inc. - Class B Ordinary Shares", "test_issue": "N", "ticker": "AIIO"}
 {"category": "S", "etf": "N", "name": "Robo.ai Inc. - Warrant", "test_issue": "N", "ticker": "AIIOW"}
 {"category": "S", "etf": "N", "name": "Air Global PLC - Ordinary shares", "test_issue": "N", "ticker": "AIIR"}
@@ -1132,9 +1131,6 @@
 {"category": "Q", "etf": "N", "name": "Comcast Corporation - Class A Common Stock", "test_issue": "N", "ticker": "CMCSA"}
 {"category": "S", "etf": "N", "name": "Creative Media  - Common Stock", "test_issue": "N", "ticker": "CMCT"}
 {"category": "Q", "etf": "N", "name": "CME Group Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CME"}
-{"category": "G", "etf": "N", "name": "Columbus Circle Capital Corp II - Class A Ordinary Shares", "test_issue": "N", "ticker": "CMII"}
-{"category": "G", "etf": "N", "name": "Columbus Circle Capital Corp II - Unit", "test_issue": "N", "ticker": "CMIIU"}
-{"category": "G", "etf": "N", "name": "Columbus Circle Capital Corp II - Warrant", "test_issue": "N", "ticker": "CMIIW"}
 {"category": "S", "etf": "N", "name": "Chemomab Therapeutics Ltd.  - American Depositary Shares", "test_issue": "N", "ticker": "CMMB"}
 {"category": "S", "etf": "N", "name": "Clearmind Medicine Inc. - Common Shares", "test_issue": "N", "ticker": "CMND"}
 {"category": "Q", "etf": "N", "name": "Cimpress plc - Ordinary Shares", "test_issue": "N", "ticker": "CMPR"}
@@ -1493,22 +1489,11 @@
 {"category": "G", "etf": "Y", "name": "U.S. Small Cap Growth Portfolio: ETF Class Shares", "test_issue": "N", "ticker": "DUSG"}
 {"category": "G", "etf": "Y", "name": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF", "test_issue": "N", "ticker": "DVAL"}
 {"category": "G", "etf": "Y", "name": "DAC 3D Dividend Growth ETF", "test_issue": "N", "ticker": "DVGR"}
-{"category": "G", "etf": "Y", "name": "WEBs Industrials XLI Defined Volatility ETF", "test_issue": "N", "ticker": "DVIN"}
 {"category": "S", "etf": "N", "name": "Datavault AI Inc. - Common Stock", "test_issue": "N", "ticker": "DVLT"}
 {"category": "G", "etf": "Y", "name": "First Trust Dorsey Wright Momentum & Value ETF", "test_issue": "N", "ticker": "DVLU"}
 {"category": "G", "etf": "Y", "name": "First Trust Dorsey Wright Momentum & Low Volatility ETF", "test_issue": "N", "ticker": "DVOL"}
 {"category": "G", "etf": "Y", "name": "WEBs QQQ Defined Volatility ETF", "test_issue": "N", "ticker": "DVQQ"}
-{"category": "G", "etf": "Y", "name": "WEBs Real Estate XLRE Defined Volatility ETF", "test_issue": "N", "ticker": "DVRE"}
 {"category": "G", "etf": "Y", "name": "WEBs SPY Defined Volatility ETF", "test_issue": "N", "ticker": "DVSP"}
-{"category": "G", "etf": "Y", "name": "WEBs Utilities XLU Defined Volatility ETF", "test_issue": "N", "ticker": "DVUT"}
-{"category": "G", "etf": "Y", "name": "WEBs Materials XLB Defined Volatility ETF", "test_issue": "N", "ticker": "DVXB"}
-{"category": "G", "etf": "Y", "name": "WEBs Communication Services XLC Defined Volatility ETF", "test_issue": "N", "ticker": "DVXC"}
-{"category": "G", "etf": "Y", "name": "WEBs Energy XLE Defined Volatility ETF", "test_issue": "N", "ticker": "DVXE"}
-{"category": "G", "etf": "Y", "name": "WEBs Financial XLF Defined Volatility ETF", "test_issue": "N", "ticker": "DVXF"}
-{"category": "G", "etf": "Y", "name": "WEBs Technology XLK Defined Volatility ETF", "test_issue": "N", "ticker": "DVXK"}
-{"category": "G", "etf": "Y", "name": "WEBs Consumer Staples XLP Defined Volatility ETF", "test_issue": "N", "ticker": "DVXP"}
-{"category": "G", "etf": "Y", "name": "WEBs Health Care XLV Defined Volatility ETF", "test_issue": "N", "ticker": "DVXV"}
-{"category": "G", "etf": "Y", "name": "WEBs Consumer Discretionary XLY Defined Volatility ETF", "test_issue": "N", "ticker": "DVXY"}
 {"category": "G", "etf": "Y", "name": "iShares Select Dividend ETF", "test_issue": "N", "ticker": "DVY"}
 {"category": "G", "etf": "Y", "name": "Invesco Dorsey Wright SmallCap Momentum ETF", "test_issue": "N", "ticker": "DWAS"}
 {"category": "G", "etf": "Y", "name": "AdvisorShares Dorsey Wright FSM All Cap World ETF", "test_issue": "N", "ticker": "DWAW"}
@@ -2405,6 +2390,7 @@
 {"category": "Q", "etf": "N", "name": "Hawthorn Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "HWBK"}
 {"category": "Q", "etf": "N", "name": "Hancock Whitney Corporation - Common Stock", "test_issue": "N", "ticker": "HWC"}
 {"category": "Q", "etf": "N", "name": "Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060", "test_issue": "N", "ticker": "HWCPZ"}
+{"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Global Value Fund", "test_issue": "N", "ticker": "HWGV"}
 {"category": "S", "etf": "N", "name": "HWH International Inc. - Common Stock", "test_issue": "N", "ticker": "HWH"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley International Value Fund", "test_issue": "N", "ticker": "HWIV"}
 {"category": "Q", "etf": "N", "name": "Hawkins, Inc. - Common Stock", "test_issue": "N", "ticker": "HWKN"}
@@ -2623,6 +2609,9 @@
 {"category": "S", "etf": "N", "name": "iPower Inc. - Common Stock", "test_issue": "N", "ticker": "IPW"}
 {"category": "S", "etf": "N", "name": "Ideal Power Inc. - Common Stock", "test_issue": "N", "ticker": "IPWR"}
 {"category": "S", "etf": "N", "name": "IperionX Limited - American Depositary Share", "test_issue": "N", "ticker": "IPX"}
+{"category": "G", "etf": "N", "name": "Inection Point Acquisition Corp. VII  - Class A Ordinary Shares", "test_issue": "N", "ticker": "IPXG"}
+{"category": "G", "etf": "N", "name": "Inection Point Acquisition Corp. VII  - Unit", "test_issue": "N", "ticker": "IPXGU"}
+{"category": "G", "etf": "N", "name": "Inection Point Acquisition Corp. VII  - Warrant", "test_issue": "N", "ticker": "IPXGW"}
 {"category": "Q", "etf": "N", "name": "iQIYI, Inc. - American Depositary Shares", "test_issue": "N", "ticker": "IQ"}
 {"category": "Q", "etf": "N", "name": "IQM Quantum Computers Oyj - American Depositary Shares", "test_issue": "N", "ticker": "IQMX"}
 {"category": "Q", "etf": "N", "name": "IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares", "test_issue": "N", "ticker": "IQMXW"}
@@ -2735,6 +2724,7 @@
 {"category": "S", "etf": "N", "name": "Jasper Therapeutics, Inc. - Warrant", "test_issue": "N", "ticker": "JSPRW"}
 {"category": "S", "etf": "N", "name": "Jet.AI Inc. - Common Stock", "test_issue": "N", "ticker": "JTAI"}
 {"category": "G", "etf": "Y", "name": "JPMorgan U.S. Tech Leaders ETF", "test_issue": "N", "ticker": "JTEK"}
+{"category": "S", "etf": "N", "name": "JATT III Acquisition Corp - Ordinary Shares", "test_issue": "N", "ticker": "JTTT"}
 {"category": "S", "etf": "N", "name": "Jupiter Neurosciences, Inc. - Common Stock", "test_issue": "N", "ticker": "JUNS"}
 {"category": "S", "etf": "N", "name": "Coffee Holding Co., Inc. - Common Stock", "test_issue": "N", "ticker": "JVA"}
 {"category": "S", "etf": "N", "name": "Jowell Global Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "JWEL"}
@@ -4310,6 +4300,7 @@
 {"category": "S", "etf": "N", "name": "Rockwell Medical, Inc. - Common Stock", "test_issue": "N", "ticker": "RMTI"}
 {"category": "Q", "etf": "N", "name": "Atrium Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "RNA"}
 {"category": "G", "etf": "N", "name": "Cartesian Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "RNAC"}
+{"category": "S", "etf": "N", "name": "Rainier Acquisition Corporation - Units", "test_issue": "N", "ticker": "RNAQU"}
 {"category": "S", "etf": "N", "name": "TransCode Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "RNAZ"}
 {"category": "G", "etf": "Y", "name": "Emerging Markets Equity Select ETF", "test_issue": "N", "ticker": "RNEM"}
 {"category": "G", "etf": "N", "name": "Range Capital Acquisition Corp II - Class A Ordinary Shares", "test_issue": "N", "ticker": "RNGT"}
@@ -4420,6 +4411,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable SMCI ETF", "test_issue": "N", "ticker": "SCA"}
 {"category": "G", "etf": "N", "name": "Scage Future - American Depositary Shares", "test_issue": "N", "ticker": "SCAG"}
 {"category": "S", "etf": "N", "name": "Scage Future - Warrants", "test_issue": "N", "ticker": "SCAGW"}
+{"category": "S", "etf": "N", "name": "Southern Cross Acquisition II Corp. - Units", "test_issue": "N", "ticker": "SCATU"}
 {"category": "G", "etf": "Y", "name": "JPMorgan Fundamental Data Science Small Core ETF", "test_issue": "N", "ticker": "SCDS"}
 {"category": "Q", "etf": "N", "name": "Scholastic Corporation - Common Stock", "test_issue": "N", "ticker": "SCHL"}
 {"category": "G", "etf": "N", "name": "SC II Acquisition Corp. - Class A ordinary share", "test_issue": "N", "ticker": "SCII"}
@@ -4854,7 +4846,7 @@
 {"category": "S", "etf": "N", "name": "Dreamland Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "TDIC"}
 {"category": "G", "etf": "Y", "name": "First Trust NASDAQ Technology Dividend Index Fund", "test_issue": "N", "ticker": "TDIV"}
 {"category": "G", "etf": "Y", "name": "21shares Dogecoin ETF", "test_issue": "N", "ticker": "TDOG"}
-{"category": "G", "etf": "Y", "name": "21shares Polkadot ETF", "test_issue": "N", "ticker": "TDOT"}
+{"category": "G", "etf": "Y", "name": "21shares Polkadot Staking ETF", "test_issue": "N", "ticker": "TDOT"}
 {"category": "G", "etf": "Y", "name": "ETC Cabana Target Beta ETF", "test_issue": "N", "ticker": "TDSB"}
 {"category": "G", "etf": "Y", "name": "ETC Cabana Target Drawdown 10 ETF", "test_issue": "N", "ticker": "TDSC"}
 {"category": "S", "etf": "N", "name": "Trident Digital Tech Holdings Ltd - Class B Ordinary Shares", "test_issue": "N", "ticker": "TDTH"}
@@ -4883,6 +4875,7 @@
 {"category": "Q", "etf": "N", "name": "TFS Financial Corporation - Common Stock", "test_issue": "N", "ticker": "TFSL"}
 {"category": "S", "etf": "N", "name": "The GrowHub Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "TGHL"}
 {"category": "S", "etf": "N", "name": "Treasure Global Inc. - Common Stock", "test_issue": "N", "ticker": "TGL"}
+{"category": "G", "etf": "Y", "name": "China AI Tigers LLM ETF", "test_issue": "N", "ticker": "TGRZ"}
 {"category": "S", "etf": "N", "name": "TG Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "TGTX"}
 {"category": "S", "etf": "N", "name": "Target Hospitality Corp. - Common Stock", "test_issue": "N", "ticker": "TH"}
 {"category": "S", "etf": "N", "name": "TH International Limited - Ordinary shares", "test_issue": "N", "ticker": "THCH"}
@@ -4896,7 +4889,7 @@
 {"category": "G", "etf": "Y", "name": "Prospera Income ETF", "test_issue": "N", "ticker": "THRV"}
 {"category": "S", "etf": "N", "name": "Thryv Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "THRY"}
 {"category": "G", "etf": "Y", "name": "T. Rowe Price High Income Municipal ETF", "test_issue": "N", "ticker": "THYM"}
-{"category": "G", "etf": "Y", "name": "21shares Hyperliquid ETF", "test_issue": "N", "ticker": "THYP"}
+{"category": "G", "etf": "Y", "name": "21shares Hyperliquid Staking ETF", "test_issue": "N", "ticker": "THYP"}
 {"category": "Q", "etf": "N", "name": "Millicom International Cellular S.A. - Common Stock", "test_issue": "N", "ticker": "TIGO"}
 {"category": "Q", "etf": "N", "name": "UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares", "test_issue": "N", "ticker": "TIGR"}
 {"category": "G", "etf": "Y", "name": "The Investment House ETF", "test_issue": "N", "ticker": "TIH"}
@@ -5027,7 +5020,7 @@
 {"category": "G", "etf": "Y", "name": "Direxion Daily TSM Bear 1X ETF", "test_issue": "N", "ticker": "TSMZ"}
 {"category": "G", "etf": "Y", "name": "TappAlpha S&P 500 Growth & Daily Income ETF", "test_issue": "N", "ticker": "TSPY"}
 {"category": "S", "etf": "N", "name": "TSS, Inc. - Common Stock", "test_issue": "N", "ticker": "TSSI"}
-{"category": "G", "etf": "Y", "name": "21Shares Sui ETF", "test_issue": "N", "ticker": "TSUI"}
+{"category": "G", "etf": "Y", "name": "21Shares Sui Staking ETF", "test_issue": "N", "ticker": "TSUI"}
 {"category": "G", "etf": "Y", "name": "TSPY Lift ETF", "test_issue": "N", "ticker": "TSYX"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST TSLA ETF", "test_issue": "N", "ticker": "TSYY"}
 {"category": "Q", "etf": "N", "name": "ServiceTitan, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "TTAN"}
@@ -5176,6 +5169,7 @@
 {"category": "S", "etf": "N", "name": "UY Scuti Acquisition Corp. - Units", "test_issue": "N", "ticker": "UYSCU"}
 {"category": "S", "etf": "N", "name": "Linkage Global Inc - Class A Ordinary Shares", "test_issue": "N", "ticker": "UZX"}
 {"category": "S", "etf": "N", "name": "Virginia National Bankshares Corporation - Common Stock", "test_issue": "N", "ticker": "VABK"}
+{"category": "S", "etf": "N", "name": "Valor Energy Incorporated - Common Stock", "test_issue": "N", "ticker": "VAI"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long VALE Daily ETF", "test_issue": "N", "ticker": "VALG"}
 {"category": "Q", "etf": "N", "name": "Valneva SE - American Depositary Shares", "test_issue": "N", "ticker": "VALN"}
 {"category": "S", "etf": "N", "name": "Value Line, Inc. - Common Stock", "test_issue": "N", "ticker": "VALU"}
@@ -5371,7 +5365,6 @@
 {"category": "S", "etf": "N", "name": "Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Convertible Notes Due 2031", "test_issue": "N", "ticker": "WHLRL"}
 {"category": "S", "etf": "N", "name": "Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock", "test_issue": "N", "ticker": "WHLRP"}
 {"category": "S", "etf": "N", "name": "Whitehawk Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "WHWK"}
-{"category": "S", "etf": "N", "name": "G. Willi-Food International,  Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "WILC"}
 {"category": "G", "etf": "Y", "name": "WisdomTree International Adaptive Moving Average Fund", "test_issue": "N", "ticker": "WIMA"}
 {"category": "G", "etf": "N", "name": "WiMi Hologram Cloud Inc. - Class B Ordinary Shares", "test_issue": "N", "ticker": "WIMI"}
 {"category": "G", "etf": "N", "name": "Winmark Corporation - Common Stock", "test_issue": "N", "ticker": "WINA"}
@@ -5501,7 +5494,9 @@
 {"category": "G", "etf": "Y", "name": "VegaShares SpaceX & Beyond Earth ETF", "test_issue": "N", "ticker": "XSPC"}
 {"category": "G", "etf": "Y", "name": "NEOS Boosted S&P 500 High Income ETF", "test_issue": "N", "ticker": "XSPI"}
 {"category": "G", "etf": "Y", "name": "iShares Future Exponential Technologies ETF", "test_issue": "N", "ticker": "XT"}
+{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "XTER"}
 {"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Units", "test_issue": "N", "ticker": "XTERU"}
+{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "XTERW"}
 {"category": "S", "etf": "N", "name": "XTI Aerospace, Inc. Common Stock  - Common Stock", "test_issue": "N", "ticker": "XTIA"}
 {"category": "S", "etf": "N", "name": "XTL Biopharmaceuticals Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "XTLB"}
 {"category": "S", "etf": "N", "name": "XWELL, Inc. - Common Stock", "test_issue": "N", "ticker": "XWEL"}
