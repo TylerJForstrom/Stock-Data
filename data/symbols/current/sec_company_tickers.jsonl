@@ -214,13 +214,13 @@
 {"cik": 35527, "ticker": "FITB-PK", "title": "FIFTH THIRD BANCORP"}
 {"cik": 35527, "ticker": "FITB-PM", "title": "FIFTH THIRD BANCORP"}
 {"cik": 36029, "ticker": "FFIN", "title": "FIRST FINANCIAL BANKSHARES INC"}
-{"cik": 36104, "ticker": "USB", "title": "US BANCORP \\DE\\"}
-{"cik": 36104, "ticker": "USB-PA", "title": "US BANCORP \\DE\\"}
-{"cik": 36104, "ticker": "USB-PH", "title": "US BANCORP \\DE\\"}
-{"cik": 36104, "ticker": "USB-PP", "title": "US BANCORP \\DE\\"}
-{"cik": 36104, "ticker": "USB-PQ", "title": "US BANCORP \\DE\\"}
-{"cik": 36104, "ticker": "USB-PR", "title": "US BANCORP \\DE\\"}
-{"cik": 36104, "ticker": "USB-PS", "title": "US BANCORP \\DE\\"}
+{"cik": 36104, "ticker": "USB", "title": "US BANCORP DE"}
+{"cik": 36104, "ticker": "USB-PA", "title": "US BANCORP DE"}
+{"cik": 36104, "ticker": "USB-PH", "title": "US BANCORP DE"}
+{"cik": 36104, "ticker": "USB-PP", "title": "US BANCORP DE"}
+{"cik": 36104, "ticker": "USB-PQ", "title": "US BANCORP DE"}
+{"cik": 36104, "ticker": "USB-PR", "title": "US BANCORP DE"}
+{"cik": 36104, "ticker": "USB-PS", "title": "US BANCORP DE"}
 {"cik": 36146, "ticker": "TRMK", "title": "TRUSTMARK CORP"}
 {"cik": 36270, "ticker": "MTB", "title": "M&T BANK CORP"}
 {"cik": 36270, "ticker": "MTB-PH", "title": "M&T BANK CORP"}
@@ -2722,7 +2722,6 @@
 {"cik": 1109116, "ticker": "EVC", "title": "ENTRAVISION COMMUNICATIONS CORP"}
 {"cik": 1109138, "ticker": "CAMT", "title": "CAMTEK LTD"}
 {"cik": 1109242, "ticker": "HAFC", "title": "HANMI FINANCIAL CORP"}
-{"cik": 1109262, "ticker": "AGGI", "title": "BILI Social International, Inc."}
 {"cik": 1109262, "ticker": "BSCL", "title": "BILI Social International, Inc."}
 {"cik": 1109345, "ticker": "NVMI", "title": "NOVA LTD."}
 {"cik": 1109354, "ticker": "BRKR", "title": "BRUKER CORP"}
@@ -3588,6 +3587,7 @@
 {"cik": 1343009, "ticker": "CNBX", "title": "CNBX Pharmaceuticals Inc."}
 {"cik": 1343465, "ticker": "SNPW", "title": "Sun Pacific Holding Corp."}
 {"cik": 1343491, "ticker": "GJP", "title": "STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6"}
+{"cik": 1343793, "ticker": "BTA", "title": "BlackRock Long-Term Municipal Advantage Trust"}
 {"cik": 1345016, "ticker": "YELP", "title": "YELP INC"}
 {"cik": 1345099, "ticker": "MEOBF", "title": "MESOBLAST LTD"}
 {"cik": 1345099, "ticker": "MESO", "title": "MESOBLAST LTD"}
@@ -6185,7 +6185,7 @@
 {"cik": 1720116, "ticker": "RDVT", "title": "Red Violet, Inc."}
 {"cik": 1720161, "ticker": "CTRM", "title": "Castor Maritime Inc."}
 {"cik": 1720250, "ticker": "KNDI", "title": "Kandi Technologies Group, Inc."}
-{"cik": 1720265, "ticker": "ZCSH", "title": "Grayscale Zcash Trust (ZEC)"}
+{"cik": 1720265, "ticker": "ZCSH", "title": "Zcash ETF"}
 {"cik": 1720420, "ticker": "IBEX", "title": "IBEX Ltd"}
 {"cik": 1720424, "ticker": "HIVE", "title": "HIVE Digital Technologies Ltd."}
 {"cik": 1720446, "ticker": "ZEPP", "title": "Zepp Health Corp"}
@@ -6323,6 +6323,7 @@
 {"cik": 1738699, "ticker": "WSKEF", "title": "Wisekey International Holding S.A."}
 {"cik": 1738758, "ticker": "CHR", "title": "Cheer Holding, Inc."}
 {"cik": 1738827, "ticker": "KLXE", "title": "KLX Energy Services Holdings, Inc."}
+{"cik": 1738827, "ticker": "KLXER", "title": "KLX Energy Services Holdings, Inc."}
 {"cik": 1738906, "ticker": "YI", "title": "111, Inc."}
 {"cik": 1739016, "ticker": "ELVR", "title": "Elevra Lithium Ltd"}
 {"cik": 1739016, "ticker": "SYAXF", "title": "Elevra Lithium Ltd"}
@@ -6403,7 +6404,7 @@
 {"cik": 1750593, "ticker": "DUO", "title": "Fangdd Network Group Ltd."}
 {"cik": 1750704, "ticker": "HAWK", "title": "HawkEye 360, Inc."}
 {"cik": 1750735, "ticker": "MRBK", "title": "Meridian Corp"}
-{"cik": 1750777, "ticker": "HWKE", "title": "Hawkeye Systems, Inc."}
+{"cik": 1750777, "ticker": "HWKE", "title": "Hawkeye Digital, Inc."}
 {"cik": 1751008, "ticker": "APP", "title": "AppLovin Corp"}
 {"cik": 1751162, "ticker": "CHWRF", "title": "China Tower Corp Limited/ADR"}
 {"cik": 1751707, "ticker": "OZVN", "title": "OZ VISION INC."}
@@ -6682,6 +6683,7 @@
 {"cik": 1788028, "ticker": "JSPRW", "title": "Jasper Therapeutics, Inc."}
 {"cik": 1788060, "ticker": "VOYG", "title": "Voyager Technologies, Inc./TX"}
 {"cik": 1788230, "ticker": "IPST", "title": "IP STRATEGY HOLDINGS, INC."}
+{"cik": 1788235, "ticker": "OTGLF", "title": "CD Projekt S.A./ADR"}
 {"cik": 1788257, "ticker": "BWMX", "title": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V"}
 {"cik": 1788348, "ticker": "BIPC", "title": "Brookfield Infrastructure Corp"}
 {"cik": 1788399, "ticker": "DLY", "title": "DoubleLine Yield Opportunities Fund"}
@@ -8310,6 +8312,7 @@
 {"cik": 1966126, "ticker": "NUOX", "title": "NuvOx Therapeutics, Inc."}
 {"cik": 1966233, "ticker": "NIPG", "title": "NIP Group Inc."}
 {"cik": 1966287, "ticker": "GFR", "title": "Greenfire Resources Ltd."}
+{"cik": 1966287, "ticker": "GFR-RI", "title": "Greenfire Resources Ltd."}
 {"cik": 1966287, "ticker": "GFR-RW", "title": "Greenfire Resources Ltd."}
 {"cik": 1966287, "ticker": "GFRWF", "title": "Greenfire Resources Ltd."}
 {"cik": 1966678, "ticker": "ZDAI", "title": "DirectBooking Technology Co., Ltd."}
