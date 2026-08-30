@@ -311,8 +311,6 @@
 {"cik": 1630805, "confidence": "high", "effective_date": "2019-07-24", "filed": "2022-03-08", "flags": ["direction_inverted_by_share_check"], "ratio": 0.1, "ticker": "BW-PA"}
 {"cik": 908255, "confidence": "high", "effective_date": "2013-12-16", "filed": "2014-05-01", "flags": [], "ratio": 2.0, "ticker": "BWA"}
 {"cik": 908255, "confidence": "low", "effective_date": "2023-12-31", "filed": "2024-02-08", "flags": [], "ratio": 1.13, "ticker": "BWA"}
-{"cik": 1630805, "confidence": "high", "effective_date": "2019-07-24", "filed": "2019-11-07", "flags": [], "ratio": 0.1, "ticker": "BWNB"}
-{"cik": 1630805, "confidence": "high", "effective_date": "2019-07-24", "filed": "2022-03-08", "flags": ["direction_inverted_by_share_check"], "ratio": 0.1, "ticker": "BWNB"}
 {"cik": 1061630, "confidence": "high", "effective_date": "2013-05-06", "filed": "2013-07-30", "flags": [], "ratio": 0.1, "ticker": "BXMT"}
 {"cik": 1001171, "confidence": "low", "effective_date": "2021-12-31", "filed": "2024-05-20", "flags": [], "ratio": 0.125, "ticker": "BYFC"}
 {"cik": 1001171, "confidence": "high", "effective_date": "2023-10-31", "filed": "2024-05-20", "flags": [], "ratio": 0.125, "ticker": "BYFC"}
@@ -490,6 +488,7 @@
 {"cik": 874866, "confidence": "low", "effective_date": "2013-06-30", "filed": "2013-08-05", "flags": [], "ratio": 2.0, "ticker": "CRVL"}
 {"cik": 1053691, "confidence": "high", "effective_date": "2014-03-07", "filed": "2014-08-14", "flags": ["direction_inverted_by_share_check"], "ratio": 0.01, "ticker": "CRVO"}
 {"cik": 1053691, "confidence": "high", "effective_date": "2014-03-07", "filed": "2014-11-12", "flags": [], "ratio": 0.01, "ticker": "CRVO"}
+{"cik": 1535527, "confidence": "high", "effective_date": "2026-06-03", "filed": "2026-08-27", "flags": [], "ratio": 4.0, "ticker": "CRWD"}
 {"cik": 1769628, "confidence": "high", "effective_date": "2025-03-14", "filed": "2025-05-15", "flags": [], "ratio": 20.0, "ticker": "CRWV"}
 {"cik": 1057352, "confidence": "high", "effective_date": "2021-06-07", "filed": "2021-07-28", "flags": [], "ratio": 10.0, "ticker": "CSGP"}
 {"cik": 1057352, "confidence": "low", "effective_date": "2025-06-30", "filed": "2025-07-23", "flags": [], "ratio": 10.0, "ticker": "CSGP"}
@@ -1025,6 +1024,7 @@
 {"cik": 319201, "confidence": "low", "effective_date": "2026-06-11", "filed": "2026-08-06", "flags": [], "ratio": 10000.0, "ticker": "KLAC"}
 {"cik": 1432133, "confidence": "high", "effective_date": "2021-03-19", "filed": "2021-08-19", "flags": [], "ratio": 4.5, "ticker": "KLTR"}
 {"cik": 1738827, "confidence": "high", "effective_date": "2020-07-28", "filed": "2020-09-08", "flags": [], "ratio": 0.2, "ticker": "KLXE"}
+{"cik": 1738827, "confidence": "high", "effective_date": "2020-07-28", "filed": "2020-09-08", "flags": [], "ratio": 0.2, "ticker": "KLXER"}
 {"cik": 1730430, "confidence": "high", "effective_date": "2018-05-11", "filed": "2018-08-06", "flags": [], "ratio": 2.73235, "ticker": "KNSA"}
 {"cik": 1692787, "confidence": "high", "effective_date": "2022-06-08", "filed": "2025-03-03", "flags": [], "ratio": 0.5, "ticker": "KNTK"}
 {"cik": 1785424, "confidence": "high", "effective_date": "2023-07-27", "filed": "2023-11-08", "flags": [], "ratio": 0.04, "ticker": "KPLT"}
@@ -1063,7 +1063,6 @@
 {"cik": 1607962, "confidence": "low", "effective_date": "2015-12-31", "filed": "2016-02-29", "flags": [], "ratio": 18.0, "ticker": "LFWD"}
 {"cik": 886163, "confidence": "high", "effective_date": "2010-11-19", "filed": "2014-02-24", "flags": [], "ratio": 0.1667, "ticker": "LGND"}
 {"cik": 1818644, "confidence": "high", "effective_date": "2023-12-27", "filed": "2024-03-27", "flags": [], "ratio": 0.0333, "ticker": "LIDR"}
-{"cik": 1818644, "confidence": "high", "effective_date": "2023-12-27", "filed": "2024-03-27", "flags": [], "ratio": 0.0333, "ticker": "LIDRW"}
 {"cik": 1699963, "confidence": "low", "effective_date": "2026-05-12", "filed": "2026-08-11", "flags": [], "ratio": 0.002976, "ticker": "LIME"}
 {"cik": 1699963, "confidence": "high", "effective_date": "2026-06-18", "filed": "2026-08-11", "flags": [], "ratio": 0.5, "ticker": "LIME"}
 {"cik": 828146, "confidence": "high", "effective_date": "2015-02-24", "filed": "2016-05-16", "flags": [], "ratio": 2.0, "ticker": "LINK"}
@@ -1131,8 +1130,6 @@
 {"cik": 1833498, "confidence": "high", "effective_date": "2023-09-11", "filed": "2023-09-15", "flags": [], "ratio": 10.31, "ticker": "MDAI"}
 {"cik": 1833498, "confidence": "high", "effective_date": "2023-09-11", "filed": "2023-09-15", "flags": [], "ratio": 10.31, "ticker": "MDAIW"}
 {"cik": 1654595, "confidence": "high", "effective_date": "2023-05-03", "filed": "2023-08-09", "flags": [], "ratio": 0.125, "ticker": "MDRR"}
-{"cik": 1645873, "confidence": "high", "effective_date": "2021-02-01", "filed": "2021-05-17", "flags": [], "ratio": 0.3333, "ticker": "MDV"}
-{"cik": 1645873, "confidence": "high", "effective_date": "2021-02-01", "filed": "2021-05-17", "flags": [], "ratio": 0.3333, "ticker": "MDV-PA"}
 {"cik": 1668397, "confidence": "high", "effective_date": "2016-07-25", "filed": "2016-11-03", "flags": [], "ratio": 0.74, "ticker": "MEDP"}
 {"cik": 1055160, "confidence": "high", "effective_date": "2021-03-31", "filed": "2022-05-04", "flags": [], "ratio": 0.25, "ticker": "MFA"}
 {"cik": 1055160, "confidence": "high", "effective_date": "2021-03-31", "filed": "2022-05-04", "flags": [], "ratio": 0.25, "ticker": "MFA-PB"}
@@ -1210,9 +1207,6 @@
 {"cik": 1639723, "confidence": "high", "effective_date": "2025-09-18", "filed": "2025-12-15", "flags": [], "ratio": 0.333, "ticker": "NAVN"}
 {"cik": 1163739, "confidence": "high", "effective_date": "2020-04-20", "filed": "2020-05-08", "flags": ["direction_inverted_by_share_check"], "ratio": 0.02, "ticker": "NBR"}
 {"cik": 1163739, "confidence": "high", "effective_date": "2020-04-20", "filed": "2021-02-24", "flags": [], "ratio": 0.02, "ticker": "NBR"}
-{"cik": 1923780, "confidence": "high", "effective_date": "2023-07-06", "filed": "2023-11-20", "flags": [], "ratio": 0.5, "ticker": "NCL"}
-{"cik": 1923780, "confidence": "high", "effective_date": "2023-07-06", "filed": "2025-11-14", "flags": [], "ratio": 2.0, "ticker": "NCL"}
-{"cik": 1923780, "confidence": "high", "effective_date": "2025-10-07", "filed": "2026-05-19", "flags": [], "ratio": 0.5, "ticker": "NCL"}
 {"cik": 1692427, "confidence": "high", "effective_date": "2017-04-30", "filed": "2018-05-11", "flags": [], "ratio": 3.0, "ticker": "NCSM"}
 {"cik": 1692427, "confidence": "low", "effective_date": "2020-12-31", "filed": "2021-08-03", "flags": [], "ratio": 0.05, "ticker": "NCSM"}
 {"cik": 1120193, "confidence": "high", "effective_date": "2022-08-26", "filed": "2022-11-02", "flags": [], "ratio": 3.0, "ticker": "NDAQ"}
@@ -1483,6 +1477,7 @@
 {"cik": 1107843, "confidence": "low", "effective_date": "2012-09-30", "filed": "2014-02-28", "flags": [], "ratio": 0.1, "ticker": "QLYS"}
 {"cik": 709283, "confidence": "high", "effective_date": "2017-03-31", "filed": "2017-06-01", "flags": [], "ratio": 0.125, "ticker": "QMCO"}
 {"cik": 709283, "confidence": "low", "effective_date": "2025-03-31", "filed": "2026-07-29", "flags": ["direction_inverted_by_share_check"], "ratio": 20.0, "ticker": "QMCO"}
+{"cik": 2084026, "confidence": "high", "effective_date": "2025-09-30", "filed": "2026-08-28", "flags": [], "ratio": 0.333333, "ticker": "QMLS"}
 {"cik": 1662774, "confidence": "high", "effective_date": "2019-04-25", "filed": "2019-08-09", "flags": [], "ratio": 0.367647, "ticker": "QNCX"}
 {"cik": 1671502, "confidence": "high", "effective_date": "2022-08-01", "filed": "2023-05-09", "flags": [], "ratio": 12.5, "ticker": "QNRX"}
 {"cik": 1671502, "confidence": "high", "effective_date": "2023-11-08", "filed": "2024-03-14", "flags": [], "ratio": 1.67, "ticker": "QNRX"}
