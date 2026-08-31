@@ -458,6 +458,10 @@
 {"category": "Q", "etf": "N", "name": "Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share", "test_issue": "N", "ticker": "ATLCP"}
 {"category": "G", "etf": "N", "name": "Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029", "test_issue": "N", "ticker": "ATLCZ"}
 {"category": "S", "etf": "N", "name": "Ames National Corporation - Common Stock", "test_issue": "N", "ticker": "ATLO"}
+{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Class A Ordinary Shares", "test_issue": "N", "ticker": "ATLQ"}
+{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Rights", "test_issue": "N", "ticker": "ATLQR"}
+{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Units", "test_issue": "N", "ticker": "ATLQU"}
+{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Warrants", "test_issue": "N", "ticker": "ATLQW"}
 {"category": "S", "etf": "N", "name": "Atlas Lithium Corporation - Common Stock", "test_issue": "N", "ticker": "ATLX"}
 {"category": "Q", "etf": "N", "name": "ATN International, Inc. - Common Stock", "test_issue": "N", "ticker": "ATNI"}
 {"category": "S", "etf": "N", "name": "Atomera Incorporated - Common Stock", "test_issue": "N", "ticker": "ATOM"}
@@ -560,7 +564,6 @@
 {"category": "Q", "etf": "N", "name": "Barrett Business Services, Inc. - Common Stock", "test_issue": "N", "ticker": "BBSI"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long BB Daily ETF", "test_issue": "N", "ticker": "BBUL"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST BABA ETF", "test_issue": "N", "ticker": "BBYY"}
-{"category": "S", "etf": "N", "name": "BioAtla, Inc. - Common Stock", "test_issue": "N", "ticker": "BCAB"}
 {"category": "S", "etf": "N", "name": "California BanCorp - Common Stock", "test_issue": "N", "ticker": "BCAL"}
 {"category": "G", "etf": "N", "name": "Bicara Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "BCAX"}
 {"category": "G", "etf": "N", "name": "BCB Bancorp, Inc. (NJ) - Common Stock", "test_issue": "N", "ticker": "BCBP"}
@@ -1912,9 +1915,9 @@
 {"category": "G", "etf": "Y", "name": "First Trust SMID Capital Strength ETF", "test_issue": "N", "ticker": "FSCS"}
 {"category": "S", "etf": "N", "name": "First Seacoast Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "FSEA"}
 {"category": "G", "etf": "Y", "name": "First Trust SMID Growth Strength ETF", "test_issue": "N", "ticker": "FSGS"}
-{"category": "G", "etf": "N", "name": "Flag Ship Acquisition Corp. - Ordinary Shares", "test_issue": "N", "ticker": "FSHP"}
-{"category": "G", "etf": "N", "name": "Flag Ship Acquisition Corp. - Right", "test_issue": "N", "ticker": "FSHPR"}
-{"category": "G", "etf": "N", "name": "Flag Ship Acquisition Corp. - Unit", "test_issue": "N", "ticker": "FSHPU"}
+{"category": "S", "etf": "N", "name": "Flag Ship Acquisition Corp. - Ordinary Shares", "test_issue": "N", "ticker": "FSHP"}
+{"category": "S", "etf": "N", "name": "Flag Ship Acquisition Corp. - Right", "test_issue": "N", "ticker": "FSHPR"}
+{"category": "S", "etf": "N", "name": "Flag Ship Acquisition Corp. - Unit", "test_issue": "N", "ticker": "FSHPU"}
 {"category": "Q", "etf": "N", "name": "First Solar, Inc. - Common Stock", "test_issue": "N", "ticker": "FSLR"}
 {"category": "Q", "etf": "N", "name": "Fastly, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "FSLY"}
 {"category": "G", "etf": "Y", "name": "Fidelity Short-Term Bond ETF", "test_issue": "N", "ticker": "FSTB"}
@@ -2660,10 +2663,6 @@
 {"category": "G", "etf": "Y", "name": "iShares Core MSCI Total International Stock ETF", "test_issue": "N", "ticker": "IXUS"}
 {"category": "S", "etf": "N", "name": "IZEA Worldwide, Inc. - Common Stock", "test_issue": "N", "ticker": "IZEA"}
 {"category": "S", "etf": "N", "name": "ICZOOM Group Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "IZM"}
-{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Class A Ordinary Shares", "test_issue": "N", "ticker": "JAB"}
-{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Rights", "test_issue": "N", "ticker": "JABRR"}
-{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Units", "test_issue": "N", "ticker": "JABRU"}
-{"category": "G", "etf": "N", "name": "JAB Acquisition Corp I - Warrants", "test_issue": "N", "ticker": "JABRW"}
 {"category": "Q", "etf": "N", "name": "Jack In The Box Inc. - Common Stock", "test_issue": "N", "ticker": "JACK"}
 {"category": "S", "etf": "N", "name": "Jaguar Health, Inc. - Common Stock", "test_issue": "N", "ticker": "JAGX"}
 {"category": "Q", "etf": "N", "name": "JAKKS Pacific, Inc. - Common Stock", "test_issue": "N", "ticker": "JAKK"}
@@ -3052,7 +3051,7 @@
 {"category": "S", "etf": "N", "name": "J. W. Mays, Inc. - Common Stock", "test_issue": "N", "ticker": "MAYS"}
 {"category": "G", "etf": "N", "name": "Maze Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "MAZE"}
 {"category": "S", "etf": "N", "name": "MasterBeef Group - Ordinary Shares", "test_issue": "N", "ticker": "MB"}
-{"category": "S", "etf": "N", "name": "Check-Cap Ltd. - Ordinary Share", "test_issue": "N", "ticker": "MBAI"}
+{"category": "S", "etf": "N", "name": "MBody AI Ltd. - Ordinary Share", "test_issue": "N", "ticker": "MBAI"}
 {"category": "G", "etf": "Y", "name": "iShares MBS ETF", "test_issue": "N", "ticker": "MBB"}
 {"category": "S", "etf": "N", "name": "Marathon Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "MBBC"}
 {"category": "S", "etf": "N", "name": "Merchants Bancorp - Common Stock", "test_issue": "N", "ticker": "MBIN"}
@@ -3653,6 +3652,7 @@
 {"category": "S", "etf": "N", "name": "Onfolio Holdings Inc. - Warrant", "test_issue": "N", "ticker": "ONFOW"}
 {"category": "S", "etf": "N", "name": "OneMedNet Corp - Class A Common Stock", "test_issue": "N", "ticker": "ONMD"}
 {"category": "S", "etf": "N", "name": "OneMedNet Corp - Warrant", "test_issue": "N", "ticker": "ONMDW"}
+{"category": "S", "etf": "N", "name": "Offerpad Solutions Inc.  - Class A Common Stock", "test_issue": "N", "ticker": "OPAD"}
 {"category": "S", "etf": "N", "name": "OPAL Fuels Inc. - Class A Common Stock", "test_issue": "N", "ticker": "OPAL"}
 {"category": "G", "etf": "N", "name": "OP Bancorp - Common Stock", "test_issue": "N", "ticker": "OPBK"}
 {"category": "Q", "etf": "N", "name": "Option Care Health, Inc. - Common Stock", "test_issue": "N", "ticker": "OPCH"}
@@ -4761,7 +4761,7 @@
 {"category": "Q", "etf": "N", "name": "Savara, Inc. - Common Stock", "test_issue": "N", "ticker": "SVRA"}
 {"category": "S", "etf": "N", "name": "SaverOne 2014 Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "SVRE"}
 {"category": "S", "etf": "N", "name": "SaverOne 2014 Ltd. - Warrant", "test_issue": "N", "ticker": "SVREW"}
-{"category": "S", "etf": "N", "name": "OceanPal Inc. - Common Stock", "test_issue": "N", "ticker": "SVRN"}
+{"category": "S", "etf": "N", "name": "SVRN, Inc. - Common Stock", "test_issue": "N", "ticker": "SVRN"}
 {"category": "S", "etf": "N", "name": "Stran & Company, Inc. - Common Stock", "test_issue": "N", "ticker": "SWAG"}
 {"category": "S", "etf": "N", "name": "Stran & Company, Inc. - Warrant", "test_issue": "N", "ticker": "SWAGW"}
 {"category": "Q", "etf": "N", "name": "Smith & Wesson Brands, Inc. - Common Stock", "test_issue": "N", "ticker": "SWBI"}
@@ -4957,6 +4957,7 @@
 {"category": "S", "etf": "N", "name": "Traws Pharma, Inc. - Common Stock", "test_issue": "N", "ticker": "TRAW"}
 {"category": "Q", "etf": "N", "name": "First Tracks Biotherapeutics, Inc. - Ordinary Shares", "test_issue": "N", "ticker": "TRAX"}
 {"category": "G", "etf": "Y", "name": "Angel Oak Total Return ETF", "test_issue": "N", "ticker": "TRBF"}
+{"category": "S", "etf": "N", "name": "TurboGen Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "TRBG"}
 {"category": "G", "etf": "N", "name": "Entrada Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "TRDA"}
 {"category": "Q", "etf": "N", "name": "LendingTree, Inc. - Common Stock", "test_issue": "N", "ticker": "TREE"}
 {"category": "S", "etf": "N", "name": "Tactical Resources Corp. - Common Shares", "test_issue": "N", "ticker": "TREO"}

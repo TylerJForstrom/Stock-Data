@@ -107,6 +107,7 @@
 {"etf": "N", "exchange": "N", "name": "Aegon Funding Company LLC 5.10% Subordinated Notes due 2049", "test_issue": "N", "ticker": "AEFC"}
 {"etf": "N", "exchange": "N", "name": "Aegon Ltd. New York Registry Shares", "test_issue": "N", "ticker": "AEG"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long AEHR Daily ETF", "test_issue": "N", "ticker": "AEHG"}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Large Cap Value ETF", "test_issue": "N", "ticker": "AELV"}
 {"etf": "N", "exchange": "N", "name": "Agnico Eagle Mines Limited Common Stock", "test_issue": "N", "ticker": "AEM"}
 {"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Mid Cap Core ETF", "test_issue": "N", "ticker": "AEMC"}
 {"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Mid Cap Growth ETF", "test_issue": "N", "ticker": "AEMG"}
@@ -365,7 +366,6 @@
 {"etf": "N", "exchange": "N", "name": "Ares Dynamic Credit Allocation Fund, Inc. Common Shares", "test_issue": "N", "ticker": "ARDC"}
 {"etf": "N", "exchange": "N", "name": "Ardent Health, Inc. Common Stock", "test_issue": "N", "ticker": "ARDT"}
 {"etf": "N", "exchange": "N", "name": "Alexandria Real Estate Equities, Inc. Common Stock", "test_issue": "N", "ticker": "ARE"}
-{"etf": "N", "exchange": "A", "name": "The Arena Group Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "AREN"}
 {"etf": "N", "exchange": "N", "name": "Ares Management Corporation Class A Common Stock", "test_issue": "N", "ticker": "ARES"}
 {"etf": "N", "exchange": "N", "name": "Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock", "test_issue": "N", "ticker": "ARES$B"}
 {"etf": "Y", "exchange": "P", "name": "Global X MSCI Argentina ETF", "test_issue": "N", "ticker": "ARGT"}
@@ -2592,6 +2592,7 @@
 {"etf": "N", "exchange": "N", "name": "Federal Realty Investment Trust Common Stock", "test_issue": "N", "ticker": "FRT"}
 {"etf": "N", "exchange": "N", "name": "Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share", "test_issue": "N", "ticker": "FRT$C"}
 {"etf": "Y", "exchange": "P", "name": "Alger Mid Cap 40 ETF", "test_issue": "N", "ticker": "FRTY"}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America MANGOS Plus Index ETF", "test_issue": "N", "ticker": "FRUT"}
 {"etf": "Y", "exchange": "P", "name": "Federated Hermes MDT Small Cap Core ETF", "test_issue": "N", "ticker": "FSCC"}
 {"etf": "N", "exchange": "N", "name": "FS Credit Opportunities Corp. Common Stock", "test_issue": "N", "ticker": "FSCO"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity Investment Grade Securitized ETF", "test_issue": "N", "ticker": "FSEC"}
@@ -4149,7 +4150,6 @@
 {"etf": "N", "exchange": "N", "name": "Veradermics, Incorporated Common Stock", "test_issue": "N", "ticker": "MANE"}
 {"etf": "Y", "exchange": "P", "name": "Man Active Income ETF", "test_issue": "N", "ticker": "MANI"}
 {"etf": "N", "exchange": "N", "name": "Manchester United Ltd. Class A Ordinary Shares", "test_issue": "N", "ticker": "MANU"}
-{"etf": "Y", "exchange": "P", "name": "Harbor Multi-Asset Explorer ETF", "test_issue": "N", "ticker": "MAPP"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Max Buffer ETF - March", "test_issue": "N", "ticker": "MARM"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax MARA Option Income Strategy ETF", "test_issue": "N", "ticker": "MARO"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Space & Technology ETF", "test_issue": "N", "ticker": "MARS"}
@@ -4158,6 +4158,7 @@
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap Buffer20 Mar ETF", "test_issue": "N", "ticker": "MARW"}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Structured Outcome (March) ETF", "test_issue": "N", "ticker": "MARZ"}
 {"etf": "N", "exchange": "N", "name": "Masco Corporation Common Stock", "test_issue": "N", "ticker": "MAS"}
+{"etf": "Y", "exchange": "P", "name": "Harbor Multi-Asset Explorer ETF", "test_issue": "N", "ticker": "MATR"}
 {"etf": "N", "exchange": "N", "name": "Mativ Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "MATV"}
 {"etf": "N", "exchange": "N", "name": "Matson, Inc. Common Stock", "test_issue": "N", "ticker": "MATX"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Swan SOS Moderate (August) ETF", "test_issue": "N", "ticker": "MAUG"}
@@ -4909,7 +4910,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long ON Daily ETF", "test_issue": "N", "ticker": "ONX"}
 {"etf": "N", "exchange": "N", "name": "Ooma, Inc. Common Stock", "test_issue": "N", "ticker": "OOMA"}
 {"etf": "Y", "exchange": "P", "name": "Obra Opportunistic Structured Products ETF", "test_issue": "N", "ticker": "OOSP"}
-{"etf": "N", "exchange": "N", "name": "Offerpad Solutions Inc. Class A Common Stock", "test_issue": "N", "ticker": "OPAD"}
 {"etf": "Y", "exchange": "P", "name": "ETF ClearShares Ultra-Short Maturity ETF", "test_issue": "N", "ticker": "OPER"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long OPEN Daily ETF", "test_issue": "N", "ticker": "OPEX"}
 {"etf": "N", "exchange": "N", "name": "OppFi Inc. Class A Common Stock", "test_issue": "N", "ticker": "OPFI"}
@@ -4971,6 +4971,7 @@
 {"etf": "N", "exchange": "A", "name": "Belpointe PREP, LLC Class A Units", "test_issue": "N", "ticker": "OZ"}
 {"etf": "N", "exchange": "N", "name": "Everpure, Inc. Class A common stock", "test_issue": "N", "ticker": "P"}
 {"etf": "Y", "exchange": "P", "name": "PGIM AAA CLO ETF", "test_issue": "N", "ticker": "PAAA"}
+{"etf": "N", "exchange": "A", "name": "Paradium.AI, Inc. Common Stock", "test_issue": "N", "ticker": "PAAI"}
 {"etf": "N", "exchange": "N", "name": "Pan American Silver Corp. Common Stock", "test_issue": "N", "ticker": "PAAS"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Active Aggregate Bond ETF", "test_issue": "N", "ticker": "PAB"}
 {"etf": "N", "exchange": "N", "name": "Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)", "test_issue": "N", "ticker": "PAC"}
@@ -5414,7 +5415,7 @@
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Quality Dividend ETF", "test_issue": "N", "ticker": "QDF"}
 {"etf": "Y", "exchange": "P", "name": "Global X S&P 500 Quality Dividend ETF", "test_issue": "N", "ticker": "QDIV"}
 {"etf": "Y", "exchange": "P", "name": "Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF", "test_issue": "N", "ticker": "QDPL"}
-{"etf": "Y", "exchange": "Z", "name": "Roundhill Innovation-100 0DTE Covered Call Strategy ETF", "test_issue": "N", "ticker": "QDTE"}
+{"etf": "Y", "exchange": "Z", "name": "Roundhill Nasdaq-100 0DTE Covered Call ETF Strategy ETF", "test_issue": "N", "ticker": "QDTE"}
 {"etf": "Y", "exchange": "P", "name": "Amplify CWP Growth & Income ETF", "test_issue": "N", "ticker": "QDVO"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR MSCI EAFE StrategicFactors ETF", "test_issue": "N", "ticker": "QEFA"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR MSCI Emerging Markets StrategicFactors ETF", "test_issue": "N", "ticker": "QEMM"}
@@ -5790,7 +5791,9 @@
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 8.00% Notes due 2027", "test_issue": "N", "ticker": "SAJ"}
 {"etf": "N", "exchange": "N", "name": "Boston Beer Company, Inc. (The) Common Stock", "test_issue": "N", "ticker": "SAM"}
 {"etf": "Y", "exchange": "P", "name": "Strategas Macro Momentum ETF", "test_issue": "N", "ticker": "SAMM"}
+{"etf": "N", "exchange": "N", "name": "Samos Energy Acquisition Corporation Class A Ordinary Shares", "test_issue": "N", "ticker": "SAMO"}
 {"etf": "N", "exchange": "N", "name": "Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant", "test_issue": "N", "ticker": "SAMO.U"}
+{"etf": "N", "exchange": "N", "name": "Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "SAMO.W"}
 {"etf": "Y", "exchange": "P", "name": "Strategas Macro Thematic Opportunities ETF", "test_issue": "N", "ticker": "SAMT"}
 {"etf": "N", "exchange": "N", "name": "Banco Santander, S.A. Sponsored ADR (Spain)", "test_issue": "N", "ticker": "SAN"}
 {"etf": "N", "exchange": "N", "name": "SAP  SE ADS", "test_issue": "N", "ticker": "SAP"}
@@ -7038,7 +7041,6 @@
 {"etf": "Y", "exchange": "Z", "name": "VIX Short-Term Futures ETF", "test_issue": "N", "ticker": "VIXY"}
 {"etf": "N", "exchange": "A", "name": "Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)", "test_issue": "N", "ticker": "VKI"}
 {"etf": "N", "exchange": "N", "name": "Invesco Municipal Trust Common Stock", "test_issue": "N", "ticker": "VKQ"}
-{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Large Cap Value ETF", "test_issue": "N", "ticker": "VLLU"}
 {"etf": "N", "exchange": "N", "name": "Valens Semiconductor Ltd. Ordinary Shares", "test_issue": "N", "ticker": "VLN"}
 {"etf": "N", "exchange": "N", "name": "Valero Energy Corporation Common Stock", "test_issue": "N", "ticker": "VLO"}
 {"etf": "N", "exchange": "N", "name": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates", "test_issue": "N", "ticker": "VLRS"}
