@@ -145,6 +145,7 @@
 {"etf": "N", "exchange": "N", "name": "abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "AGD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "AGG"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Aggregate Bond ETF", "test_issue": "N", "ticker": "AGGH"}
+{"etf": "Y", "exchange": "P", "name": "iShares 1-10 Year U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "AGGM"}
 {"etf": "Y", "exchange": "P", "name": "Harbor Disciplined Bond ETF", "test_issue": "N", "ticker": "AGGS"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Yield Enhanced U.S. Aggregate Bond Fund", "test_issue": "N", "ticker": "AGGY"}
 {"etf": "N", "exchange": "N", "name": "Alamos Gold Inc. Class A Common Shares", "test_issue": "N", "ticker": "AGI"}
@@ -2705,7 +2706,6 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - August", "test_issue": "N", "ticker": "GAUG"}
 {"etf": "N", "exchange": "N", "name": "Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "GBAB"}
 {"etf": "N", "exchange": "N", "name": "Glacier Bancorp, Inc. Common Stock", "test_issue": "N", "ticker": "GBCI"}
-{"etf": "Y", "exchange": "P", "name": "iShares Government/Credit Bond ETF", "test_issue": "N", "ticker": "GBF"}
 {"etf": "Y", "exchange": "P", "name": "Gabelli High Income ETF", "test_issue": "N", "ticker": "GBHI"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Access Treasury 0-1 Year ETF", "test_issue": "N", "ticker": "GBIL"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Core Bond ETF", "test_issue": "N", "ticker": "GBND"}
@@ -3198,6 +3198,7 @@
 {"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Corporate Arbitrage ETF", "test_issue": "N", "ticker": "HXA"}
 {"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Strategic Commodities ETF", "test_issue": "N", "ticker": "HXC"}
 {"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Adaptive Equities ETF", "test_issue": "N", "ticker": "HXE"}
+{"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Managed Futures Strategy ETF", "test_issue": "N", "ticker": "HXF"}
 {"etf": "N", "exchange": "N", "name": "Hexcel Corporation Common Stock", "test_issue": "N", "ticker": "HXL"}
 {"etf": "N", "exchange": "N", "name": "Hyster-Yale, Inc. Class A common stock", "test_issue": "N", "ticker": "HY"}
 {"etf": "Y", "exchange": "P", "name": "iShares BB Rated Corporate Bond ETF", "test_issue": "N", "ticker": "HYBB"}
@@ -4506,7 +4507,7 @@
 {"etf": "Y", "exchange": "Z", "name": "VanEck Morningstar Wide Moat Value ETF", "test_issue": "N", "ticker": "MVAL"}
 {"etf": "Y", "exchange": "Z", "name": "Monarch Volume Factor Dividend Tree Index ETF", "test_issue": "N", "ticker": "MVFD"}
 {"etf": "Y", "exchange": "Z", "name": "Monarch Volume Factor Global Unconstrained Index ETF", "test_issue": "N", "ticker": "MVFG"}
-{"etf": "Y", "exchange": "P", "name": "Miller Value Partners Appreciation ETF", "test_issue": "N", "ticker": "MVPA"}
+{"etf": "Y", "exchange": "N", "name": "Miller Value Partners Appreciation ETF", "test_issue": "N", "ticker": "MVPA"}
 {"etf": "Y", "exchange": "P", "name": "Miller Value Partners Leverage ETF", "test_issue": "N", "ticker": "MVPL"}
 {"etf": "Y", "exchange": "P", "name": "ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN", "test_issue": "N", "ticker": "MVRL"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra MidCap400", "test_issue": "N", "ticker": "MVV"}
@@ -7547,7 +7548,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr May", "test_issue": "N", "ticker": "ZMAY"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr November", "test_issue": "N", "ticker": "ZNOV"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr October", "test_issue": "N", "ticker": "ZOCT"}
-{"etf": "N", "exchange": "A", "name": "CleanCore Solutions Inc. Class B Common Stock", "test_issue": "N", "ticker": "ZONE"}
+{"etf": "N", "exchange": "A", "name": "Zone Frontier Inc. Class B Common Stock", "test_issue": "N", "ticker": "ZONE"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund", "test_issue": "N", "ticker": "ZROZ"}
 {"etf": "Y", "exchange": "P", "name": "USCF Sustainable Battery Metals Strategy Fund", "test_issue": "N", "ticker": "ZSB"}
 {"etf": "Y", "exchange": "P", "name": "USCF Sustainable Commodity Strategy Fund", "test_issue": "N", "ticker": "ZSC"}
