@@ -1745,6 +1745,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares Core Dividend ETF", "test_issue": "N", "ticker": "DIVB"}
 {"etf": "Y", "exchange": "P", "name": "Dana Concentrated Dividend ETF", "test_issue": "N", "ticker": "DIVE"}
 {"etf": "Y", "exchange": "P", "name": "Invesco S&P 500 High Dividend Growers ETF", "test_issue": "N", "ticker": "DIVG"}
+{"etf": "Y", "exchange": "P", "name": "Integrity Dividend Harvest ETF", "test_issue": "N", "ticker": "DIVH"}
 {"etf": "Y", "exchange": "P", "name": "Franklin International Core Dividend Tilt Index ETF", "test_issue": "N", "ticker": "DIVI"}
 {"etf": "Y", "exchange": "P", "name": "Madison Dividend Value ETF", "test_issue": "N", "ticker": "DIVL"}
 {"etf": "Y", "exchange": "Z", "name": "Horizon Dividend Income ETF", "test_issue": "N", "ticker": "DIVN"}
@@ -3128,7 +3129,6 @@
 {"etf": "N", "exchange": "N", "name": "Holley Inc. Common Stock", "test_issue": "N", "ticker": "HLLY"}
 {"etf": "N", "exchange": "N", "name": "Haleon plc American Depositary Shares (Each representing two Ordinary Shares)", "test_issue": "N", "ticker": "HLN"}
 {"etf": "N", "exchange": "N", "name": "Hilton Worldwide Holdings Inc. Common Stock ", "test_issue": "N", "ticker": "HLT"}
-{"etf": "N", "exchange": "N", "name": "Helix Energy Solutions Group, Inc. Common Stock", "test_issue": "N", "ticker": "HLX"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series", "test_issue": "N", "ticker": "HMAY"}
 {"etf": "N", "exchange": "N", "name": "Honda Motor Company, Ltd. Common Stock", "test_issue": "N", "ticker": "HMC"}
 {"etf": "N", "exchange": "N", "name": "Horace Mann Educators Corporation Common Stock", "test_issue": "N", "ticker": "HMN"}
@@ -3146,6 +3146,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi HOOD 2x Daily ETF", "test_issue": "N", "ticker": "HOOC"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill HOOD WeeklyPay ETF", "test_issue": "N", "ticker": "HOOW"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax HOOD Option Income Strategy ETF", "test_issue": "N", "ticker": "HOOY"}
+{"etf": "N", "exchange": "N", "name": "Hornbeck Offshore Services, Inc. Common Stock", "test_issue": "N", "ticker": "HOS"}
 {"etf": "N", "exchange": "N", "name": "Hovnanian Enterprises, Inc. Class A Common Stock", "test_issue": "N", "ticker": "HOV"}
 {"etf": "N", "exchange": "N", "name": "Helmerich & Payne, Inc. Common Stock", "test_issue": "N", "ticker": "HP"}
 {"etf": "N", "exchange": "N", "name": "Hewlett Packard Enterprise Company Common Stock", "test_issue": "N", "ticker": "HPE"}
@@ -6034,6 +6035,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SK hynix Daily ETF", "test_issue": "N", "ticker": "SKHA"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily SK Hynix Bull 2X ETF", "test_issue": "N", "ticker": "SKHL"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short SK hynix Daily ETF", "test_issue": "N", "ticker": "SKHN"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Short Sk Hynix Daily ETF", "test_issue": "N", "ticker": "SKHQ"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra SK hynix", "test_issue": "N", "ticker": "SKHU"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long SK Hynix Daily ETF", "test_issue": "N", "ticker": "SKHX"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 1X Short SK Hynix Daily ETF", "test_issue": "N", "ticker": "SKHZ"}
@@ -6788,6 +6790,7 @@
 {"etf": "N", "exchange": "N", "name": "UBS Group AG Registered Ordinary Shares", "test_issue": "N", "ticker": "UBS"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra 20+ Year Treasury", "test_issue": "N", "ticker": "UBT"}
 {"etf": "N", "exchange": "N", "name": "United Community Banks, Inc. Common Stock", "test_issue": "N", "ticker": "UCB"}
+{"etf": "Y", "exchange": "P", "name": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF", "test_issue": "N", "ticker": "UCBG"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Consumer Discretionary", "test_issue": "N", "ticker": "UCC"}
 {"etf": "N", "exchange": "P", "name": "ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038", "test_issue": "N", "ticker": "UCIB"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Bloomberg Crude Oil", "test_issue": "N", "ticker": "UCO"}
@@ -7075,6 +7078,7 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 ETF", "test_issue": "N", "ticker": "VOO"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Growth ETF", "test_issue": "N", "ticker": "VOOG"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Value ETF", "test_issue": "N", "ticker": "VOOV"}
+{"etf": "Y", "exchange": "P", "name": "XFUNDS Large Cap Income ETF", "test_issue": "N", "ticker": "VOOY"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mid-Cap Growth ETF", "test_issue": "N", "ticker": "VOT"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Communication Services  ETF", "test_issue": "N", "ticker": "VOX"}
 {"etf": "Y", "exchange": "Z", "name": "Vox Populi ETF", "test_issue": "N", "ticker": "VOXP"}

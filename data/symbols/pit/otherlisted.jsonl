@@ -1769,6 +1769,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares Core Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "DIVB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Dana Concentrated Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "DIVE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Invesco S&P 500 High Dividend Growers ETF", "provable_from": false, "test_issue": "N", "ticker": "DIVG", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Integrity Dividend Harvest ETF", "provable_from": true, "test_issue": "N", "ticker": "DIVH", "valid_from": "2026-09-02", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Franklin International Core Dividend Tilt Index ETF", "provable_from": false, "test_issue": "N", "ticker": "DIVI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Madison Dividend Value ETF", "provable_from": false, "test_issue": "N", "ticker": "DIVL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Horizon Dividend Income ETF", "provable_from": false, "test_issue": "N", "ticker": "DIVN", "valid_from": "2026-07-28", "valid_to": null}
@@ -3175,7 +3176,7 @@
 {"etf": "N", "exchange": "N", "name": "Holley Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HLLY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Haleon plc American Depositary Shares (Each representing two Ordinary Shares)", "provable_from": false, "test_issue": "N", "ticker": "HLN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hilton Worldwide Holdings Inc. Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "HLT", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Helix Energy Solutions Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HLX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Helix Energy Solutions Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HLX", "valid_from": "2026-07-28", "valid_to": "2026-09-02"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series", "provable_from": false, "test_issue": "N", "ticker": "HMAY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Honda Motor Company, Ltd. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HMC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Horace Mann Educators Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HMN", "valid_from": "2026-07-28", "valid_to": null}
@@ -3194,6 +3195,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Roundhill HOOD WeeklyPay ETF", "provable_from": false, "test_issue": "N", "ticker": "HOOW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "YieldMax HOOD Option Income Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "HOOY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Short HOOD ETF", "provable_from": false, "test_issue": "N", "ticker": "HOOZ", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
+{"etf": "N", "exchange": "N", "name": "Hornbeck Offshore Services, Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "HOS", "valid_from": "2026-09-02", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hovnanian Enterprises, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HOV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Helmerich & Payne, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hewlett Packard Enterprise Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HPE", "valid_from": "2026-07-28", "valid_to": null}
@@ -6164,6 +6166,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SK hynix Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SKHA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily SK Hynix Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "SKHL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short SK hynix Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SKHN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Short Sk Hynix Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "SKHQ", "valid_from": "2026-09-02", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra SK hynix", "provable_from": false, "test_issue": "N", "ticker": "SKHU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long SK Hynix Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SKHX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 1X Short SK Hynix Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SKHZ", "valid_from": "2026-07-28", "valid_to": null}
@@ -6926,6 +6929,7 @@
 {"etf": "N", "exchange": "N", "name": "UBS Group AG Registered Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "UBS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra 20+ Year Treasury", "provable_from": false, "test_issue": "N", "ticker": "UBT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "United Community Banks, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "UCB", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF", "provable_from": true, "test_issue": "N", "ticker": "UCBG", "valid_from": "2026-09-02", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Consumer Discretionary", "provable_from": false, "test_issue": "N", "ticker": "UCC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "P", "name": "ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038", "provable_from": false, "test_issue": "N", "ticker": "UCIB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Bloomberg Crude Oil", "provable_from": false, "test_issue": "N", "ticker": "UCO", "valid_from": "2026-07-28", "valid_to": null}
@@ -7229,6 +7233,7 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard S&P 500 Value ETF", "provable_from": false, "test_issue": "N", "ticker": "VOOV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "VOOX", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Large-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "VOOX", "valid_from": "2026-08-20", "valid_to": "2026-08-21"}
+{"etf": "Y", "exchange": "P", "name": "XFUNDS Large Cap Income ETF", "provable_from": true, "test_issue": "N", "ticker": "VOOY", "valid_from": "2026-09-02", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Mid-Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "VOT", "valid_from": "2026-07-28", "valid_to": "2026-07-29"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mid-Cap Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "VOT", "valid_from": "2026-07-29", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Communication Services  ETF", "provable_from": false, "test_issue": "N", "ticker": "VOX", "valid_from": "2026-07-28", "valid_to": null}

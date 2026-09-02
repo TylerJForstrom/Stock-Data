@@ -1270,7 +1270,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2x Long CRML Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "CRMU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Cerence Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CRNC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Ceragon Networks Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CRNT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Crinetics Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CRNX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Crinetics Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CRNX", "valid_from": "2026-07-28", "valid_to": "2026-09-02"}
 {"category": "G", "etf": "Y", "name": "Defiance China Robotics ETF", "provable_from": true, "test_issue": "N", "ticker": "CROB", "valid_from": "2026-08-19", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Cronos Group Inc. - Common Share", "provable_from": false, "test_issue": "N", "ticker": "CRON", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Crocs, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CROX", "valid_from": "2026-07-28", "valid_to": null}
@@ -2143,6 +2143,7 @@
 {"category": "G", "etf": "N", "name": "GigCapital8 Corp. - Rights", "provable_from": false, "test_issue": "N", "ticker": "GIWWR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GigCapital8 Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "GIWWU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GigCapital9 Corp. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "GIX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Gix Internet Ltd. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "GIXI", "valid_from": "2026-09-02", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GigCapital9 Corp. - Rights", "provable_from": false, "test_issue": "N", "ticker": "GIXXR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GigCapital9 Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "GIXXU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Scharf Global Opportunity ETF", "provable_from": false, "test_issue": "N", "ticker": "GKAT", "valid_from": "2026-07-28", "valid_to": null}
@@ -3464,7 +3465,7 @@
 {"category": "S", "etf": "N", "name": "Netcapital Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NCPL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Netcapital Inc. - warrants", "provable_from": false, "test_issue": "N", "ticker": "NCPLW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nocera, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "NCRA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "NCS Multistage Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NCSM", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "NCS Multistage Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NCSM", "valid_from": "2026-07-28", "valid_to": "2026-09-02"}
 {"category": "S", "etf": "N", "name": "Intercont (Cayman) Limited - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "NCT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "The9 Limited - American Depository Shares", "provable_from": false, "test_issue": "N", "ticker": "NCTY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Ned Davis Research 360 Dynamic Allocation ETF", "provable_from": false, "test_issue": "N", "ticker": "NDAA", "valid_from": "2026-07-28", "valid_to": null}
@@ -4578,6 +4579,7 @@
 {"category": "G", "etf": "N", "name": "Saga Communications, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Superior Group of Companies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Sight Sciences, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGHT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Scorpio Gold Corporation - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "SGLD", "valid_from": "2026-09-02", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Singularity Future Technology Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGLY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Sigma Lithium Corporation - common shares", "provable_from": false, "test_issue": "N", "ticker": "SGML", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Sagimet Biosciences Inc. - Series A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGMT", "valid_from": "2026-07-28", "valid_to": null}
@@ -5012,6 +5014,7 @@
 {"category": "G", "etf": "N", "name": "Alpha Teknova, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TKNO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "21Shares Active Crypto ETF", "provable_from": false, "test_issue": "N", "ticker": "TKNS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable TSLA ETF", "provable_from": false, "test_issue": "N", "ticker": "TLA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Three Lions Acquisition Corp. - Units", "provable_from": true, "test_issue": "N", "ticker": "TLACU", "valid_from": "2026-09-02", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Tandy Leather Factory, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "TLF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Touchstone Large Company Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "TLG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Ten-League International Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "TLIH", "valid_from": "2026-07-28", "valid_to": null}
@@ -5641,6 +5644,7 @@
 {"category": "G", "etf": "N", "name": "YD Bio Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YDES", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "YD Bio Limited - Warrants", "provable_from": false, "test_issue": "N", "ticker": "YDESW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Yueda Digital Holding - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "YDKG", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "YYForce Inc. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "YFOR", "valid_from": "2026-09-02", "valid_to": null}
 {"category": "S", "etf": "N", "name": "LQR House Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "YHC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Yunhong Green CTI Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "YHGJ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YHNA", "valid_from": "2026-07-28", "valid_to": null}
@@ -5670,7 +5674,7 @@
 {"category": "S", "etf": "N", "name": "Yatra Online, Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YTRA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "YXT.COM GROUP HOLDING LIMITED - American Depository Shares", "provable_from": false, "test_issue": "N", "ticker": "YXT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "AiRWA Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "YYAI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "YY Group Holding Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YYGH", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "YY Group Holding Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YYGH", "valid_from": "2026-07-28", "valid_to": "2026-09-02"}
 {"category": "Q", "etf": "N", "name": "Zillow Group, Inc. - Class C Capital Stock", "provable_from": false, "test_issue": "N", "ticker": "Z", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Global X U.S. Electrification ETF", "provable_from": false, "test_issue": "N", "ticker": "ZAP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Zhibao Technology Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ZBAO", "valid_from": "2026-07-28", "valid_to": null}
@@ -5702,7 +5706,7 @@
 {"category": "Q", "etf": "N", "name": "Zscaler, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ZS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Z Squared Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ZSQR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "ZeroStack Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ZSTK", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Zentek Ltd. - common stock", "provable_from": false, "test_issue": "N", "ticker": "ZTEK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Zentek Ltd. - common stock", "provable_from": false, "test_issue": "N", "ticker": "ZTEK", "valid_from": "2026-07-28", "valid_to": "2026-09-02"}
 {"category": "G", "etf": "Y", "name": "F/m 10-Year Investment Grade Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "ZTEN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Zenta Group Company Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ZTG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "F/m High Yield 100 ETF", "provable_from": false, "test_issue": "N", "ticker": "ZTOP", "valid_from": "2026-07-28", "valid_to": null}
