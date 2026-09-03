@@ -396,7 +396,6 @@
 {"category": "Q", "etf": "N", "name": "Arrow Financial Corporation - Common Stock", "test_issue": "N", "ticker": "AROW"}
 {"category": "G", "etf": "N", "name": "Arq, Inc. - Common Stock", "test_issue": "N", "ticker": "ARQ"}
 {"category": "S", "etf": "N", "name": "Arqit Quantum Inc. - Ordinary Shares", "test_issue": "N", "ticker": "ARQQ"}
-{"category": "S", "etf": "N", "name": "Arqit Quantum Inc. - Warrants", "test_issue": "N", "ticker": "ARQQW"}
 {"category": "Q", "etf": "N", "name": "Arcutis Biotherapeutics, Inc. - Common stock", "test_issue": "N", "ticker": "ARQT"}
 {"category": "G", "etf": "N", "name": "Array Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "ARRY"}
 {"category": "G", "etf": "N", "name": "Art Technology Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "ARTC"}
@@ -1616,7 +1615,7 @@
 {"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Common Stock", "test_issue": "N", "ticker": "EOSE"}
 {"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Warrant", "test_issue": "N", "ticker": "EOSEW"}
 {"category": "S", "etf": "N", "name": "E-Power Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "EPOW"}
-{"category": "S", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "test_issue": "N", "ticker": "EPRX"}
+{"category": "Q", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "test_issue": "N", "ticker": "EPRX"}
 {"category": "S", "etf": "N", "name": "Epsium Enterprise Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "EPSM"}
 {"category": "G", "etf": "N", "name": "Epsilon Energy Ltd. - Common Shares", "test_issue": "N", "ticker": "EPSN"}
 {"category": "S", "etf": "N", "name": "Equillium, Inc. - Common Stock", "test_issue": "N", "ticker": "EQ"}
@@ -3480,7 +3479,10 @@
 {"category": "S", "etf": "N", "name": "NeuroSense Therapeutics Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "NRSN"}
 {"category": "S", "etf": "N", "name": "NeuroSense Therapeutics Ltd. - Warrant", "test_issue": "N", "ticker": "NRSNW"}
 {"category": "S", "etf": "N", "name": "NRX Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "NRXP"}
+{"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Class A Ordinary Shares", "test_issue": "N", "ticker": "NSAI"}
+{"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Rights", "test_issue": "N", "ticker": "NSAIR"}
 {"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Units", "test_issue": "N", "ticker": "NSAIU"}
+{"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Warrants", "test_issue": "N", "ticker": "NSAIW"}
 {"category": "G", "etf": "Y", "name": "National Security Emerging Markets Index ETF", "test_issue": "N", "ticker": "NSI"}
 {"category": "Q", "etf": "N", "name": "Insight Enterprises, Inc. - Common Stock", "test_issue": "N", "ticker": "NSIT"}
 {"category": "Q", "etf": "N", "name": "Neostellar Capital Corp. - Closed End Fund", "test_issue": "N", "ticker": "NSLR"}
@@ -4180,7 +4182,6 @@
 {"category": "S", "etf": "N", "name": "Avita Medical, Inc. - Common Stock", "test_issue": "N", "ticker": "RCEL"}
 {"category": "G", "etf": "Y", "name": "RockCreek Global Equality ETF", "test_issue": "N", "ticker": "RCGE"}
 {"category": "G", "etf": "N", "name": "Rocket Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "RCKT"}
-{"category": "S", "etf": "N", "name": "Rocket Pharmaceuticals, Inc. - Warrant", "test_issue": "N", "ticker": "RCKTW"}
 {"category": "Q", "etf": "N", "name": "Rocky Brands, Inc. - Common Stock", "test_issue": "N", "ticker": "RCKY"}
 {"category": "G", "etf": "N", "name": "RCM Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "RCMT"}
 {"category": "S", "etf": "N", "name": "Recon Technology, Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "RCON"}

@@ -5164,6 +5164,7 @@
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused Value ETF", "test_issue": "N", "ticker": "PJFV"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused International Equity ETF", "test_issue": "N", "ticker": "PJIO"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Pharmaceuticals ETF", "test_issue": "N", "ticker": "PJP"}
+{"etf": "Y", "exchange": "P", "name": "PGIM Jennison Small-Mid Cap Core Equity ETF", "test_issue": "N", "ticker": "PJSM"}
 {"etf": "N", "exchange": "N", "name": "PJT Partners Inc. Class A Common Stock", "test_issue": "N", "ticker": "PJT"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Power Buffer ETF - July", "test_issue": "N", "ticker": "PJUL"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Power Buffer ETF - June", "test_issue": "N", "ticker": "PJUN"}
@@ -5287,7 +5288,6 @@
 {"etf": "Y", "exchange": "P", "name": "RCN Pareto Strategic Allocation ETF", "test_issue": "N", "ticker": "PRTO"}
 {"etf": "N", "exchange": "N", "name": "Prudential Financial, Inc. Common Stock", "test_issue": "N", "ticker": "PRU"}
 {"etf": "Y", "exchange": "N", "name": "Parnassus Value Select ETF", "test_issue": "N", "ticker": "PRVS"}
-{"etf": "Y", "exchange": "Z", "name": "Tema Alternative Asset Managers ETF", "test_issue": "N", "ticker": "PRVT"}
 {"etf": "Y", "exchange": "P", "name": "Praxis Impact Large Cap Growth ETF", "test_issue": "N", "ticker": "PRXG"}
 {"etf": "Y", "exchange": "P", "name": "Praxis Impact International ETF", "test_issue": "N", "ticker": "PRXI"}
 {"etf": "Y", "exchange": "P", "name": "Praxis Impact Large Cap Value ETF", "test_issue": "N", "ticker": "PRXV"}
@@ -6693,6 +6693,7 @@
 {"etf": "N", "exchange": "A", "name": "TRX Gold Corporation Common Stock", "test_issue": "N", "ticker": "TRX"}
 {"etf": "N", "exchange": "N", "name": "Tenaris S.A. American Depositary Shares", "test_issue": "N", "ticker": "TS"}
 {"etf": "Y", "exchange": "P", "name": "Thrivent Small Cap Value ETF", "test_issue": "N", "ticker": "TSCV"}
+{"etf": "Y", "exchange": "P", "name": "T. Rowe Price Securitized Income ETF", "test_issue": "N", "ticker": "TSCZ"}
 {"etf": "Y", "exchange": "P", "name": "Touchstone Securitized Income ETF", "test_issue": "N", "ticker": "TSEC"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long TSEM Daily ETF", "test_issue": "N", "ticker": "TSEG"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Emerging Market Buffer ETF - September", "test_issue": "N", "ticker": "TSEP"}

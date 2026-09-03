@@ -408,7 +408,7 @@
 {"category": "Q", "etf": "N", "name": "Arrow Financial Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AROW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Arq, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ARQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Arqit Quantum Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ARQQ", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Arqit Quantum Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "ARQQW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Arqit Quantum Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "ARQQW", "valid_from": "2026-07-28", "valid_to": "2026-09-03"}
 {"category": "Q", "etf": "N", "name": "Arcutis Biotherapeutics, Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "ARQT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Array Technologies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ARRY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Art Technology Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ARTC", "valid_from": "2026-07-28", "valid_to": null}
@@ -1669,7 +1669,8 @@
 {"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EOSE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Eos Energy Enterprises, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "EOSEW", "valid_from": "2026-08-04", "valid_to": null}
 {"category": "S", "etf": "N", "name": "E-Power Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "EPOW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EPRX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EPRX", "valid_from": "2026-07-28", "valid_to": "2026-09-03"}
+{"category": "Q", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "EPRX", "valid_from": "2026-09-03", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Epsium Enterprise Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "EPSM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Epsilon Energy Ltd. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "EPSN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Equillium, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EQ", "valid_from": "2026-07-28", "valid_to": null}
@@ -3572,7 +3573,10 @@
 {"category": "S", "etf": "N", "name": "NeuroSense Therapeutics Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NRSN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NeuroSense Therapeutics Ltd. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NRSNW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NRX Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NRXP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "NSAI", "valid_from": "2026-09-03", "valid_to": null}
+{"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Rights", "provable_from": true, "test_issue": "N", "ticker": "NSAIR", "valid_from": "2026-09-03", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Units", "provable_from": true, "test_issue": "N", "ticker": "NSAIU", "valid_from": "2026-08-19", "valid_to": null}
+{"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "NSAIW", "valid_from": "2026-09-03", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "National Security Emerging Markets Index ETF", "provable_from": false, "test_issue": "N", "ticker": "NSI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Insight Enterprises, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NSIT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Neostellar Capital Corp. - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "NSLR", "valid_from": "2026-07-28", "valid_to": null}
@@ -4281,7 +4285,7 @@
 {"category": "S", "etf": "N", "name": "Avita Medical, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RCEL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "RockCreek Global Equality ETF", "provable_from": false, "test_issue": "N", "ticker": "RCGE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Rocket Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RCKT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Rocket Pharmaceuticals, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "RCKTW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Rocket Pharmaceuticals, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "RCKTW", "valid_from": "2026-07-28", "valid_to": "2026-09-03"}
 {"category": "Q", "etf": "N", "name": "Rocky Brands, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RCKY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "RCM Technologies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RCMT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Recon Technology, Ltd. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RCON", "valid_from": "2026-07-28", "valid_to": null}

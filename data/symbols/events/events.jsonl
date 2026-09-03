@@ -4104,3 +4104,12 @@
 {"date": "2026-09-02", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF", "test_issue": "N", "ticker": "UCBG"}, "source": "otherlisted"}
 {"date": "2026-09-02", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "XFUNDS Large Cap Income ETF", "test_issue": "N", "ticker": "VOOY"}, "source": "otherlisted"}
 {"date": "2026-09-02", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "Helix Energy Solutions Group, Inc. Common Stock", "test_issue": "N", "ticker": "HLX"}, "source": "otherlisted"}
+{"date": "2026-09-03", "event": "added", "record": {"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Class A Ordinary Shares", "test_issue": "N", "ticker": "NSAI"}, "source": "nasdaqlisted"}
+{"date": "2026-09-03", "event": "added", "record": {"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Rights", "test_issue": "N", "ticker": "NSAIR"}, "source": "nasdaqlisted"}
+{"date": "2026-09-03", "event": "added", "record": {"category": "S", "etf": "N", "name": "NorthStrive Acquisition Corp I. - Warrants", "test_issue": "N", "ticker": "NSAIW"}, "source": "nasdaqlisted"}
+{"date": "2026-09-03", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Arqit Quantum Inc. - Warrants", "test_issue": "N", "ticker": "ARQQW"}, "source": "nasdaqlisted"}
+{"date": "2026-09-03", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Rocket Pharmaceuticals, Inc. - Warrant", "test_issue": "N", "ticker": "RCKTW"}, "source": "nasdaqlisted"}
+{"date": "2026-09-03", "event": "changed", "previous": {"category": "S", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "test_issue": "N", "ticker": "EPRX"}, "record": {"category": "Q", "etf": "N", "name": "Eupraxia Pharmaceuticals Inc. - Common Stock", "test_issue": "N", "ticker": "EPRX"}, "source": "nasdaqlisted"}
+{"date": "2026-09-03", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Small-Mid Cap Core Equity ETF", "test_issue": "N", "ticker": "PJSM"}, "source": "otherlisted"}
+{"date": "2026-09-03", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Securitized Income ETF", "test_issue": "N", "ticker": "TSCZ"}, "source": "otherlisted"}
+{"date": "2026-09-03", "event": "removed", "record": {"etf": "Y", "exchange": "Z", "name": "Tema Alternative Asset Managers ETF", "test_issue": "N", "ticker": "PRVT"}, "source": "otherlisted"}
