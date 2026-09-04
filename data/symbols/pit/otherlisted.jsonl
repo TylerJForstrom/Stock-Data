@@ -1246,7 +1246,8 @@
 {"etf": "N", "exchange": "N", "name": "Comp En De Mn Cemig ADS American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "CIG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Comp En De Mn Cemig ADS American Depositary Receipts", "provable_from": false, "test_issue": "N", "ticker": "CIG.C", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CII", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "A", "name": "Credit Suisse Asset Management Income Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CIK", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Credit Suisse Asset Management Income Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CIK", "valid_from": "2026-07-28", "valid_to": "2026-09-04"}
+{"etf": "N", "exchange": "A", "name": "UBS Asset Management Income Fund, Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "CIK", "valid_from": "2026-09-04", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Chimera Investment Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CIM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Chimera Investment Corporation 8.00% Series A Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "CIM$A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Chimera Investment Corporation 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "CIM$B", "valid_from": "2026-07-28", "valid_to": null}
@@ -1749,7 +1750,8 @@
 {"etf": "Y", "exchange": "P", "name": "Day Hagan Smart Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "DHSB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "DHT Holdings, Inc.", "provable_from": false, "test_issue": "N", "ticker": "DHT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "DHI Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DHX", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "A", "name": "Credit Suisse High Yield Credit Fund Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DHY", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Credit Suisse High Yield Credit Fund Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DHY", "valid_from": "2026-07-28", "valid_to": "2026-09-04"}
+{"etf": "N", "exchange": "A", "name": "UBS Asset Management High Yield Credit Fund Common Stock", "provable_from": true, "test_issue": "N", "ticker": "DHY", "valid_from": "2026-09-04", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Dow Jones Industrial Average ETF Trust", "provable_from": false, "test_issue": "N", "ticker": "DIA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Columbia Diversified Fixed Income Allocation ETF", "provable_from": false, "test_issue": "N", "ticker": "DIAL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Franklin Emerging Market Core Dividend Tilt Index ETF", "provable_from": false, "test_issue": "N", "ticker": "DIEM", "valid_from": "2026-07-28", "valid_to": null}
@@ -4768,6 +4770,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify National Muni Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "NMB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "NovaTide Flexible Allocation ETF", "provable_from": false, "test_issue": "N", "ticker": "NMBL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Common Shares", "provable_from": false, "test_issue": "N", "ticker": "NMCO", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "NMCO.V", "valid_from": "2026-09-04", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nouveau Monde Graphite Inc. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "NMG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Income Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NMI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Neuberger Energy Infrastructure and Income Fund Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NML", "valid_from": "2026-07-28", "valid_to": null}
@@ -5272,6 +5275,7 @@
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "PJFG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "PGIM Jennison Focused Mid-Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "PJFM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused Value ETF", "provable_from": false, "test_issue": "N", "ticker": "PJFV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "PGIM Jennison International Core Equity ETF", "provable_from": true, "test_issue": "N", "ticker": "PJIN", "valid_from": "2026-09-04", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison International Opportunities ETF", "provable_from": false, "test_issue": "N", "ticker": "PJIO", "valid_from": "2026-07-28", "valid_to": "2026-08-03"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused International Equity ETF", "provable_from": true, "test_issue": "N", "ticker": "PJIO", "valid_from": "2026-08-03", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Invesco Pharmaceuticals ETF", "provable_from": false, "test_issue": "N", "ticker": "PJP", "valid_from": "2026-07-28", "valid_to": null}
@@ -5748,7 +5752,8 @@
 {"etf": "N", "exchange": "N", "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "RITM$F", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RIV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "RIV$A", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "RIV.V", "valid_from": "2026-08-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights", "provable_from": true, "test_issue": "N", "ticker": "RIV.R", "valid_from": "2026-09-04", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "RIV.V", "valid_from": "2026-08-28", "valid_to": "2026-09-04"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi RIVN 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "RIVC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Principal Inflation Protection ETF", "provable_from": false, "test_issue": "N", "ticker": "RIZE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "RJ ClariVest Capital Appreciation ETF", "provable_from": true, "test_issue": "N", "ticker": "RJCA", "valid_from": "2026-08-03", "valid_to": null}
@@ -7613,6 +7618,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Accelerated Plus ETF - July", "provable_from": false, "test_issue": "N", "ticker": "XTJL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Telecom ETF", "provable_from": false, "test_issue": "N", "ticker": "XTL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Transportation ETF", "provable_from": false, "test_issue": "N", "ticker": "XTN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Xtend AI Robotics, Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "XTND", "valid_from": "2026-09-04", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Xtant Medical Holdings, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "XTNT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Accelerated Plus ETF - October", "provable_from": false, "test_issue": "N", "ticker": "XTOC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X S&P 500 Tail Risk ETF", "provable_from": false, "test_issue": "N", "ticker": "XTR", "valid_from": "2026-07-28", "valid_to": null}

@@ -1226,7 +1226,7 @@
 {"etf": "N", "exchange": "N", "name": "Comp En De Mn Cemig ADS American Depositary Shares", "test_issue": "N", "ticker": "CIG"}
 {"etf": "N", "exchange": "N", "name": "Comp En De Mn Cemig ADS American Depositary Receipts", "test_issue": "N", "ticker": "CIG.C"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock", "test_issue": "N", "ticker": "CII"}
-{"etf": "N", "exchange": "A", "name": "Credit Suisse Asset Management Income Fund, Inc. Common Stock", "test_issue": "N", "ticker": "CIK"}
+{"etf": "N", "exchange": "A", "name": "UBS Asset Management Income Fund, Inc. Common Stock", "test_issue": "N", "ticker": "CIK"}
 {"etf": "N", "exchange": "N", "name": "Chimera Investment Corporation Common Stock", "test_issue": "N", "ticker": "CIM"}
 {"etf": "N", "exchange": "N", "name": "Chimera Investment Corporation 8.00% Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "CIM$A"}
 {"etf": "N", "exchange": "N", "name": "Chimera Investment Corporation 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "CIM$B"}
@@ -1725,7 +1725,7 @@
 {"etf": "Y", "exchange": "P", "name": "Day Hagan Smart Buffer ETF", "test_issue": "N", "ticker": "DHSB"}
 {"etf": "N", "exchange": "N", "name": "DHT Holdings, Inc.", "test_issue": "N", "ticker": "DHT"}
 {"etf": "N", "exchange": "N", "name": "DHI Group, Inc. Common Stock", "test_issue": "N", "ticker": "DHX"}
-{"etf": "N", "exchange": "A", "name": "Credit Suisse High Yield Credit Fund Common Stock", "test_issue": "N", "ticker": "DHY"}
+{"etf": "N", "exchange": "A", "name": "UBS Asset Management High Yield Credit Fund Common Stock", "test_issue": "N", "ticker": "DHY"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Dow Jones Industrial Average ETF Trust", "test_issue": "N", "ticker": "DIA"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Diversified Fixed Income Allocation ETF", "test_issue": "N", "ticker": "DIAL"}
 {"etf": "Y", "exchange": "P", "name": "Franklin Emerging Market Core Dividend Tilt Index ETF", "test_issue": "N", "ticker": "DIEM"}
@@ -4665,6 +4665,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify National Muni Bond ETF", "test_issue": "N", "ticker": "NMB"}
 {"etf": "Y", "exchange": "P", "name": "NovaTide Flexible Allocation ETF", "test_issue": "N", "ticker": "NMBL"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Common Shares", "test_issue": "N", "ticker": "NMCO"}
+{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued", "test_issue": "N", "ticker": "NMCO.V"}
 {"etf": "N", "exchange": "N", "name": "Nouveau Monde Graphite Inc. Common Shares", "test_issue": "N", "ticker": "NMG"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Income Fund, Inc. Common Stock", "test_issue": "N", "ticker": "NMI"}
 {"etf": "N", "exchange": "A", "name": "Neuberger Energy Infrastructure and Income Fund Inc. Common Stock", "test_issue": "N", "ticker": "NML"}
@@ -5162,6 +5163,7 @@
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused Growth ETF", "test_issue": "N", "ticker": "PJFG"}
 {"etf": "Y", "exchange": "Z", "name": "PGIM Jennison Focused Mid-Cap ETF", "test_issue": "N", "ticker": "PJFM"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused Value ETF", "test_issue": "N", "ticker": "PJFV"}
+{"etf": "Y", "exchange": "P", "name": "PGIM Jennison International Core Equity ETF", "test_issue": "N", "ticker": "PJIN"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Focused International Equity ETF", "test_issue": "N", "ticker": "PJIO"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Pharmaceuticals ETF", "test_issue": "N", "ticker": "PJP"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Jennison Small-Mid Cap Core Equity ETF", "test_issue": "N", "ticker": "PJSM"}
@@ -5624,7 +5626,7 @@
 {"etf": "N", "exchange": "N", "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "RITM$F"}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Common Stock", "test_issue": "N", "ticker": "RIV"}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock", "test_issue": "N", "ticker": "RIV$A"}
-{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued", "test_issue": "N", "ticker": "RIV.V"}
+{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights", "test_issue": "N", "ticker": "RIV.R"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi RIVN 2x Daily ETF", "test_issue": "N", "ticker": "RIVC"}
 {"etf": "Y", "exchange": "Z", "name": "Principal Inflation Protection ETF", "test_issue": "N", "ticker": "RIZE"}
 {"etf": "Y", "exchange": "P", "name": "RJ ClariVest Capital Appreciation ETF", "test_issue": "N", "ticker": "RJCA"}
@@ -7449,6 +7451,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Accelerated Plus ETF - July", "test_issue": "N", "ticker": "XTJL"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Telecom ETF", "test_issue": "N", "ticker": "XTL"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Transportation ETF", "test_issue": "N", "ticker": "XTN"}
+{"etf": "N", "exchange": "N", "name": "Xtend AI Robotics, Inc. Common Stock", "test_issue": "N", "ticker": "XTND"}
 {"etf": "N", "exchange": "A", "name": "Xtant Medical Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "XTNT"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Accelerated Plus ETF - October", "test_issue": "N", "ticker": "XTOC"}
 {"etf": "Y", "exchange": "P", "name": "Global X S&P 500 Tail Risk ETF", "test_issue": "N", "ticker": "XTR"}

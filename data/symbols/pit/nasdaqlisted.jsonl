@@ -349,7 +349,7 @@
 {"category": "S", "etf": "N", "name": "StoneBridge Acquisition II Corporation - Units", "provable_from": false, "test_issue": "N", "ticker": "APACU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "ARKO Petroleum Corp. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "APC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "American Public Education, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "APEI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Apogee Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "APGE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Apogee Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "APGE", "valid_from": "2026-07-28", "valid_to": "2026-09-04"}
 {"category": "Q", "etf": "N", "name": "Agora, Inc. - ADS", "provable_from": false, "test_issue": "N", "ticker": "API", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Applied Digital Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "APLD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Apollomics Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "APLM", "valid_from": "2026-07-28", "valid_to": null}
@@ -877,7 +877,7 @@
 {"category": "S", "etf": "N", "name": "Brightline Interactive, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "BTLN", "valid_from": "2026-08-20", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Biote Corp. - Class A common stock", "provable_from": false, "test_issue": "N", "ticker": "BTMD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Armlogi Holding Corp. - common stock", "provable_from": false, "test_issue": "N", "ticker": "BTOC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Bit Origin Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BTOG", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Bit Origin Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BTOG", "valid_from": "2026-07-28", "valid_to": "2026-09-04"}
 {"category": "G", "etf": "N", "name": "BTQ Technologies Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BTQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "BrightSpring Health Services, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BTSG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "BrightSpring Health Services, Inc. - Tangible Equity Unit", "provable_from": false, "test_issue": "N", "ticker": "BTSGU", "valid_from": "2026-07-28", "valid_to": null}
@@ -2761,7 +2761,7 @@
 {"category": "G", "etf": "Y", "name": "JPMorgan ActiveBuilders Emerging Markets Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "JEMA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "JPMorgan Nasdaq Equity Premium Income ETF", "provable_from": false, "test_issue": "N", "ticker": "JEPQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "J and Friends Holdings Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "JF", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "JFB Construction Holdings - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JFB", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "JFB Construction Holdings - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JFB", "valid_from": "2026-07-28", "valid_to": "2026-09-04"}
 {"category": "G", "etf": "N", "name": "Jiayin Group Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "JFIN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "9F Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "JFU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Aurora Mobile Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "JG", "valid_from": "2026-07-28", "valid_to": null}
@@ -2775,6 +2775,8 @@
 {"category": "G", "etf": "Y", "name": "JPMorgan U.S. Large Cap Value Plus ETF", "provable_from": true, "test_issue": "N", "ticker": "JLVP", "valid_from": "2026-08-01", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Mid Cap Growth Alpha ETF", "provable_from": false, "test_issue": "N", "ticker": "JMID", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "John Marshall Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JMSB", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Jones Ventures INTL Acquisition1 Corp - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "JONE", "valid_from": "2026-09-04", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Jones Ventures INTL Acquisition1 Corp - Rights", "provable_from": true, "test_issue": "N", "ticker": "JONER", "valid_from": "2026-09-04", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Jones Ventures INTL Acquisition1 Corp - Units", "provable_from": false, "test_issue": "N", "ticker": "JONEU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Johnson Outdoors Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JOUT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "JPMorgan Equity and Options Total Return ETF", "provable_from": false, "test_issue": "N", "ticker": "JOYT", "valid_from": "2026-07-28", "valid_to": null}
@@ -3515,7 +3517,7 @@
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Units", "provable_from": false, "test_issue": "N", "ticker": "NHIVU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NHIVW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NHP", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NHPAP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NHPAP", "valid_from": "2026-07-28", "valid_to": "2026-09-04"}
 {"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NHPBP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Natural Health Trends Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NHTC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "NICE Ltd - American Depositary Shares each representing one Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "NICE", "valid_from": "2026-07-28", "valid_to": null}
@@ -4588,6 +4590,7 @@
 {"category": "S", "etf": "N", "name": "Sigma Lithium Corporation - common shares", "provable_from": false, "test_issue": "N", "ticker": "SGML", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Sagimet Biosciences Inc. - Series A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGMT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "SpyGlass Pharma, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "SANGRIX INC. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "SGRX", "valid_from": "2026-09-04", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Surgery Partners, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGRY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "F/m Accumulator Ultrashort Treasury Fund", "provable_from": false, "test_issue": "N", "ticker": "SGVA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "SharonAI Holdings, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SHAZ", "valid_from": "2026-07-28", "valid_to": null}
