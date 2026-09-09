@@ -275,7 +275,9 @@
 {"category": "Q", "etf": "N", "name": "ALX Oncology Holdings Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ALXO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Alzamend Neuro, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ALZN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2X Long AMAT ETF", "provable_from": false, "test_issue": "N", "ticker": "AMA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "AMR Resources Acquisition Corp - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "AMAC", "valid_from": "2026-09-09", "valid_to": null}
 {"category": "G", "etf": "N", "name": "AMR Resources Acquisition Corp - Units", "provable_from": false, "test_issue": "N", "ticker": "AMACU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "AMR Resources Acquisition Corp - Warrants", "provable_from": true, "test_issue": "N", "ticker": "AMACW", "valid_from": "2026-09-09", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Amalgamated Financial Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AMAL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Amanat Acquisition Corp - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "AMAN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Applied Materials, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AMAT", "valid_from": "2026-07-28", "valid_to": null}
@@ -423,8 +425,10 @@
 {"category": "G", "etf": "Y", "name": "First Trust Indxx Metaverse ETF", "provable_from": false, "test_issue": "N", "ticker": "ARVR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Arrowhead Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ARWR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Arxis, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ARXS", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Aspire Biopharma Holdings, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASBP", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Aspire Biopharma Holdings, Inc.  - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ASBPW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Aspire Biopharma Holdings, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASBP", "valid_from": "2026-07-28", "valid_to": "2026-09-09"}
+{"category": "S", "etf": "N", "name": "Aspire-Lakewood Holdings, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "ASBP", "valid_from": "2026-09-09", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Aspire Biopharma Holdings, Inc.  - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ASBPW", "valid_from": "2026-07-28", "valid_to": "2026-09-09"}
+{"category": "S", "etf": "N", "name": "Aspire-Lakewood Holdings, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "ASBPW", "valid_from": "2026-09-09", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "abrdn International Small Cap Active ETF", "provable_from": false, "test_issue": "N", "ticker": "ASCI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Defiance Autism Impact ETF", "provable_from": false, "test_issue": "N", "ticker": "ASD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "American Century Securitized Credit ETF", "provable_from": false, "test_issue": "N", "ticker": "ASEC", "valid_from": "2026-07-28", "valid_to": null}
@@ -805,7 +809,7 @@
 {"category": "S", "etf": "N", "name": "Borealis Foods Inc. - Class A Common Shares", "provable_from": false, "test_issue": "N", "ticker": "BRLS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Borealis Foods Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BRLSW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Brilliant Earth Group, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRLT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Barinthus Biotherapeutics plc - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "BRNS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Barinthus Biotherapeutics plc - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "BRNS", "valid_from": "2026-07-28", "valid_to": "2026-09-09"}
 {"category": "S", "etf": "N", "name": "BrenX Ltd. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BRNX", "valid_from": "2026-08-14", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Burney U.S. Factor Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "BRNY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "ProCap Financial, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRR", "valid_from": "2026-07-28", "valid_to": null}
@@ -1068,6 +1072,7 @@
 {"category": "S", "etf": "N", "name": "Creative Global Technology Holdings Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CGTL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Cognition Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CGTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share", "provable_from": false, "test_issue": "N", "ticker": "CHA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock", "provable_from": true, "test_issue": "N", "ticker": "CHAD", "valid_from": "2026-09-09", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Core AI Holdings, Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "CHAI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Charlton Aria Acquisition Corporation - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CHAR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Charlton Aria Acquisition Corporation - Rights", "provable_from": false, "test_issue": "N", "ticker": "CHARR", "valid_from": "2026-07-28", "valid_to": null}
@@ -1354,7 +1359,7 @@
 {"category": "G", "etf": "N", "name": "Churchill Capital Corp XII - Warrants", "provable_from": false, "test_issue": "N", "ticker": "CXIIW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "WisdomTree China ex-State-Owned Enterprises Fund", "provable_from": false, "test_issue": "N", "ticker": "CXSE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Cyabra, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CYAB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Cyclerion Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CYCN", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Cyclerion Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CYCN", "valid_from": "2026-07-28", "valid_to": "2026-09-09"}
 {"category": "G", "etf": "N", "name": "Cycurion, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CYCU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Cycurion, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "CYCUW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Cyngn Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "CYN", "valid_from": "2026-07-28", "valid_to": null}
@@ -2889,6 +2894,7 @@
 {"category": "G", "etf": "Y", "name": "Global X AgTech & Food Innovation ETF", "provable_from": false, "test_issue": "N", "ticker": "KROP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Keros Therapeutics, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "KROS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Korro Bio, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KRRO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Korsana Biosciences, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "KRSA", "valid_from": "2026-09-09", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Karat Packaging Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KRT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Kura Sushi USA, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KRUS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Krystal Biotech, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KRYS", "valid_from": "2026-07-28", "valid_to": null}
@@ -2908,8 +2914,8 @@
 {"category": "G", "etf": "N", "name": "Keen Vision Acquisition Corporation - Units", "provable_from": false, "test_issue": "N", "ticker": "KVACU", "valid_from": "2026-07-28", "valid_to": "2026-08-03"}
 {"category": "G", "etf": "N", "name": "Keen Vision Acquisition Corporation - Warrant", "provable_from": false, "test_issue": "N", "ticker": "KVACW", "valid_from": "2026-07-28", "valid_to": "2026-08-03"}
 {"category": "Q", "etf": "N", "name": "KVH Industries, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KVHI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "K Wave Media, Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KWM", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "K Wave Media, Ltd. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "KWMWW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "K Wave Media, Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KWM", "valid_from": "2026-07-28", "valid_to": "2026-09-09"}
+{"category": "S", "etf": "N", "name": "K Wave Media, Ltd. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "KWMWW", "valid_from": "2026-07-28", "valid_to": "2026-09-09"}
 {"category": "S", "etf": "N", "name": "Kaixin Holdings - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KXIN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Kyivstar Group Ltd. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "KYIV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Kyivstar Group Ltd. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "KYIVW", "valid_from": "2026-07-28", "valid_to": null}
@@ -3650,6 +3656,8 @@
 {"category": "Q", "etf": "N", "name": "News Corporation - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "News Corporation - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWSA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Newton Golf Company, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWTG", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Nexus Advanced Technologies Inc. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "NXAT", "valid_from": "2026-09-09", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Nexus Advanced Technologies Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "NXATW", "valid_from": "2026-09-09", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NexGel, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NXGL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NexGel, Inc - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NXGLW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Neighborhood Intelligence, Inc.  - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "NXH", "valid_from": "2026-08-18", "valid_to": null}
