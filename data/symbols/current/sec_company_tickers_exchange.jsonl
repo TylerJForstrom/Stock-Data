@@ -44,7 +44,6 @@
 {"cik": 7789, "exchange": "NYSE", "ticker": "ASBA", "title": "ASSOCIATED BANC-CORP"}
 {"cik": 8063, "exchange": "Nasdaq", "ticker": "ATRO", "title": "ASTRONICS CORP"}
 {"cik": 8063, "exchange": "OTC", "ticker": "ATROB", "title": "ASTRONICS CORP"}
-{"cik": 8146, "exchange": "Nasdaq", "ticker": "ALOT", "title": "AstroNova, Inc."}
 {"cik": 8177, "exchange": "Nasdaq", "ticker": "AAME", "title": "ATLANTIC AMERICAN CORP"}
 {"cik": 8504, "exchange": "NYSE", "ticker": "UAVS", "title": "AgEagle Aerial Systems Inc."}
 {"cik": 8670, "exchange": "Nasdaq", "ticker": "ADP", "title": "AUTOMATIC DATA PROCESSING INC"}
@@ -214,13 +213,13 @@
 {"cik": 35527, "exchange": "NYSE", "ticker": "FITB-PK", "title": "FIFTH THIRD BANCORP"}
 {"cik": 35527, "exchange": "NYSE", "ticker": "FITB-PM", "title": "FIFTH THIRD BANCORP"}
 {"cik": 36029, "exchange": "Nasdaq", "ticker": "FFIN", "title": "FIRST FINANCIAL BANKSHARES INC"}
-{"cik": 36104, "exchange": "NYSE", "ticker": "USB", "title": "US BANCORP DE"}
-{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PA", "title": "US BANCORP DE"}
-{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PH", "title": "US BANCORP DE"}
-{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PP", "title": "US BANCORP DE"}
-{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PQ", "title": "US BANCORP DE"}
-{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PR", "title": "US BANCORP DE"}
-{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PS", "title": "US BANCORP DE"}
+{"cik": 36104, "exchange": "NYSE", "ticker": "USB", "title": "US BANCORP \\DE\\"}
+{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PA", "title": "US BANCORP \\DE\\"}
+{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PH", "title": "US BANCORP \\DE\\"}
+{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PP", "title": "US BANCORP \\DE\\"}
+{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PQ", "title": "US BANCORP \\DE\\"}
+{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PR", "title": "US BANCORP \\DE\\"}
+{"cik": 36104, "exchange": "NYSE", "ticker": "USB-PS", "title": "US BANCORP \\DE\\"}
 {"cik": 36146, "exchange": "Nasdaq", "ticker": "TRMK", "title": "TRUSTMARK CORP"}
 {"cik": 36270, "exchange": "NYSE", "ticker": "MTB", "title": "M&T BANK CORP"}
 {"cik": 36270, "exchange": "NYSE", "ticker": "MTB-PH", "title": "M&T BANK CORP"}
@@ -325,7 +324,6 @@
 {"cik": 57131, "exchange": "NYSE", "ticker": "LZB", "title": "LA-Z-BOY INC"}
 {"cik": 57515, "exchange": "Nasdaq", "ticker": "MZTI", "title": "MARZETTI CO"}
 {"cik": 58361, "exchange": "Nasdaq", "ticker": "LEE", "title": "LEE ENTERPRISES, Inc"}
-{"cik": 58492, "exchange": "NYSE", "ticker": "LEG", "title": "LEGGETT & PLATT INC"}
 {"cik": 59255, "exchange": "NYSE", "ticker": "VHI", "title": "VALHI INC /DE/"}
 {"cik": 59478, "exchange": "NYSE", "ticker": "LLY", "title": "ELI LILLY & Co"}
 {"cik": 59527, "exchange": "Nasdaq", "ticker": "LECO", "title": "LINCOLN ELECTRIC HOLDINGS INC"}
@@ -1687,7 +1685,7 @@
 {"cik": 899751, "exchange": "NYSE", "ticker": "TWI", "title": "TITAN INTERNATIONAL INC"}
 {"cik": 899923, "exchange": "Nasdaq", "ticker": "MYGN", "title": "MYRIAD GENETICS INC"}
 {"cik": 900075, "exchange": "Nasdaq", "ticker": "CPRT", "title": "COPART INC"}
-{"cik": 900391, "exchange": "NYSE", "ticker": "NTZ", "title": "NATUZZI S P A"}
+{"cik": 900391, "exchange": null, "ticker": "NTZ", "title": "NATUZZI S P A"}
 {"cik": 900422, "exchange": "NYSE", "ticker": "PMO", "title": "FRANKLIN MUNICIPAL OPPORTUNITIES TRUST"}
 {"cik": 901243, "exchange": "NYSE", "ticker": "MUA", "title": "BLACKROCK MUNIASSETS FUND, INC."}
 {"cik": 901491, "exchange": "Nasdaq", "ticker": "PZZA", "title": "PAPA JOHNS INTERNATIONAL INC"}
@@ -2243,7 +2241,6 @@
 {"cik": 1030469, "exchange": "NYSE", "ticker": "OFG", "title": "OFG BANCORP"}
 {"cik": 1030471, "exchange": "Nasdaq", "ticker": "UTSI", "title": "UTSTARCOM HOLDINGS CORP."}
 {"cik": 1030894, "exchange": "NYSE", "ticker": "CLS", "title": "CELESTICA INC"}
-{"cik": 1030997, "exchange": "Nasdaq", "ticker": "WILC", "title": "G WILLI FOOD INTERNATIONAL LTD"}
 {"cik": 1030997, "exchange": "OTC", "ticker": "WILCF", "title": "G WILLI FOOD INTERNATIONAL LTD"}
 {"cik": 1031093, "exchange": "OTC", "ticker": "SVBL", "title": "SILVER BULL RESOURCES, INC."}
 {"cik": 1031203, "exchange": "NYSE", "ticker": "GPI", "title": "GROUP 1 AUTOMOTIVE INC"}
@@ -2834,7 +2831,6 @@
 {"cik": 1130310, "exchange": "NYSE", "ticker": "CNP", "title": "CENTERPOINT ENERGY INC"}
 {"cik": 1130464, "exchange": "NYSE", "ticker": "BKH", "title": "BLACK HILLS CORP /SD/"}
 {"cik": 1130598, "exchange": "Nasdaq", "ticker": "TRAW", "title": "Traws Pharma, Inc."}
-{"cik": 1130713, "exchange": null, "ticker": "BBBY", "title": "NEIGHBORHOOD INTELLIGENCE, INC."}
 {"cik": 1130713, "exchange": "Nasdaq", "ticker": "BBBYW", "title": "NEIGHBORHOOD INTELLIGENCE, INC."}
 {"cik": 1130713, "exchange": "Nasdaq", "ticker": "NXH", "title": "NEIGHBORHOOD INTELLIGENCE, INC."}
 {"cik": 1130781, "exchange": "OTC", "ticker": "BMPA", "title": "BMP AI Technologies, Inc."}
@@ -3058,7 +3054,7 @@
 {"cik": 1178819, "exchange": "NYSE", "ticker": "AGI", "title": "ALAMOS GOLD INC"}
 {"cik": 1178839, "exchange": "NYSE", "ticker": "NBH", "title": "NEUBERGER MUNICIPAL FUND INC."}
 {"cik": 1178970, "exchange": "NYSE", "ticker": "PFS", "title": "PROVIDENT FINANCIAL SERVICES INC"}
-{"cik": 1179821, "exchange": "NYSE", "ticker": "BGI", "title": "BIRKS GROUP INC."}
+{"cik": 1179821, "exchange": null, "ticker": "BGI", "title": "BIRKS GROUP INC."}
 {"cik": 1179821, "exchange": "OTC", "ticker": "BGICF", "title": "BIRKS GROUP INC."}
 {"cik": 1179929, "exchange": "NYSE", "ticker": "MOH", "title": "MOLINA HEALTHCARE, INC."}
 {"cik": 1180262, "exchange": "NYSE", "ticker": "HLF", "title": "HERBALIFE LTD."}
@@ -3460,10 +3456,10 @@
 {"cik": 1320854, "exchange": "Nasdaq", "ticker": "RAIL", "title": "FreightCar America, Inc."}
 {"cik": 1321655, "exchange": "Nasdaq", "ticker": "PLTR", "title": "Palantir Technologies Inc."}
 {"cik": 1321732, "exchange": "NYSE", "ticker": "PEN", "title": "Penumbra Inc"}
-{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAIN", "title": "GLADSTONE INVESTMENT CORPORATION\\DE"}
-{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAING", "title": "GLADSTONE INVESTMENT CORPORATION\\DE"}
-{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAINI", "title": "GLADSTONE INVESTMENT CORPORATION\\DE"}
-{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAINZ", "title": "GLADSTONE INVESTMENT CORPORATION\\DE"}
+{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAIN", "title": "GLADSTONE INVESTMENT CORPORATIONDE"}
+{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAING", "title": "GLADSTONE INVESTMENT CORPORATIONDE"}
+{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAINI", "title": "GLADSTONE INVESTMENT CORPORATIONDE"}
+{"cik": 1321741, "exchange": "Nasdaq", "ticker": "GAINZ", "title": "GLADSTONE INVESTMENT CORPORATIONDE"}
 {"cik": 1321834, "exchange": "Nasdaq", "ticker": "QCLS", "title": "Q/C TECHNOLOGIES, INC."}
 {"cik": 1321851, "exchange": "Nasdaq", "ticker": "SEED", "title": "Origin Agritech LTD"}
 {"cik": 1322422, "exchange": "NYSE", "ticker": "HBM", "title": "Hudbay Minerals Inc."}
@@ -3629,7 +3625,7 @@
 {"cik": 1354866, "exchange": "Nasdaq", "ticker": "BYRN", "title": "Byrna Technologies Inc."}
 {"cik": 1355096, "exchange": null, "ticker": "QVCAQ", "title": "Old QVC Group, Inc."}
 {"cik": 1355444, "exchange": "NYSE", "ticker": "EMBJ", "title": "EMBRAER S.A."}
-{"cik": 1355736, "exchange": null, "ticker": "AVCRF", "title": "Avricore Health Inc."}
+{"cik": 1355736, "exchange": "OTC", "ticker": "AVCRF", "title": "Avricore Health Inc."}
 {"cik": 1355790, "exchange": "OTC", "ticker": "ISCO", "title": "International Stem Cell CORP"}
 {"cik": 1355839, "exchange": "Nasdaq", "ticker": "IPM", "title": "INTELLIGENT PROTECTION MANAGEMENT CORP."}
 {"cik": 1355848, "exchange": "NYSE", "ticker": "TOON", "title": "Kartoon Studios, Inc."}
@@ -3989,7 +3985,7 @@
 {"cik": 1413447, "exchange": "Nasdaq", "ticker": "NXPI", "title": "NXP Semiconductors N.V."}
 {"cik": 1413745, "exchange": "Nasdaq", "ticker": "YDKG", "title": "Yueda Digital Holding"}
 {"cik": 1413855, "exchange": "Nasdaq", "ticker": "AIFU", "title": "AIFU Inc."}
-{"cik": 1413891, "exchange": "OTC", "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC."}
+{"cik": 1413891, "exchange": null, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC."}
 {"cik": 1414382, "exchange": "OTC", "ticker": "CLEV", "title": "Concrete Leveling Systems Inc"}
 {"cik": 1414767, "exchange": "Nasdaq", "ticker": "NCPL", "title": "Netcapital Inc."}
 {"cik": 1414767, "exchange": "Nasdaq", "ticker": "NCPLW", "title": "Netcapital Inc."}
@@ -4028,7 +4024,6 @@
 {"cik": 1418135, "exchange": "Nasdaq", "ticker": "KDP", "title": "Keurig Dr Pepper Inc."}
 {"cik": 1418149, "exchange": "OTC", "ticker": "HLRTF", "title": "Hillcrest Energy Technologies Ltd."}
 {"cik": 1418819, "exchange": "Nasdaq", "ticker": "IRDM", "title": "Iridium Communications Inc."}
-{"cik": 1419041, "exchange": "Nasdaq", "ticker": "FBRX", "title": "Forte Biosciences, Inc."}
 {"cik": 1419275, "exchange": "Nasdaq", "ticker": "RTB", "title": "RTB Digital, Inc."}
 {"cik": 1419336, "exchange": "OTC", "ticker": "APAAF", "title": "Appia Rare Earths & Uranium Corp."}
 {"cik": 1419536, "exchange": "Nasdaq", "ticker": "CBNK", "title": "Capital Bancorp Inc"}
@@ -4076,6 +4071,7 @@
 {"cik": 1423902, "exchange": "NYSE", "ticker": "WES", "title": "Western Midstream Partners, LP"}
 {"cik": 1424182, "exchange": "NYSE", "ticker": "BNL", "title": "Broadstone Net Lease, Inc."}
 {"cik": 1424657, "exchange": "OTC", "ticker": "CUEN", "title": "Cuentas Inc."}
+{"cik": 1424657, "exchange": "OTC", "ticker": "CUENW", "title": "Cuentas Inc."}
 {"cik": 1424768, "exchange": "OTC", "ticker": "VYCO", "title": "VYCOR MEDICAL INC"}
 {"cik": 1424864, "exchange": "OTC", "ticker": "RYES", "title": "Rise Gold Corp."}
 {"cik": 1424929, "exchange": "Nasdaq", "ticker": "FOXF", "title": "FOX FACTORY HOLDING CORP"}
@@ -4357,6 +4353,7 @@
 {"cik": 1468929, "exchange": "Nasdaq", "ticker": "NXGLW", "title": "NEXGEL, INC."}
 {"cik": 1468978, "exchange": "OTC", "ticker": "SITS", "title": "SOUTHERN ITS INTERNATIONAL, INC."}
 {"cik": 1469059, "exchange": "OTC", "ticker": "CKHGF", "title": "Capitec Limited/ADR"}
+{"cik": 1469059, "exchange": "OTC", "ticker": "CKHGY", "title": "Capitec Limited/ADR"}
 {"cik": 1469367, "exchange": "Nasdaq", "ticker": "RUN", "title": "Sunrun Inc."}
 {"cik": 1469395, "exchange": "NYSE", "ticker": "PAM", "title": "Pampa Energy Inc."}
 {"cik": 1469395, "exchange": "OTC", "ticker": "PPENF", "title": "Pampa Energy Inc."}
@@ -4568,7 +4565,6 @@
 {"cik": 1497645, "exchange": "NYSE", "ticker": "INN-PF", "title": "Summit Hotel Properties, Inc."}
 {"cik": 1497649, "exchange": "OTC", "ticker": "GSTX", "title": "Graphene & Solar Technologies Ltd"}
 {"cik": 1497770, "exchange": "NYSE", "ticker": "WD", "title": "Walker & Dunlop, Inc."}
-{"cik": 1498067, "exchange": "OTC", "ticker": "CTGL", "title": "SKYTECH ORION GLOBAL CORP."}
 {"cik": 1498067, "exchange": "OTC", "ticker": "SKTG", "title": "SKYTECH ORION GLOBAL CORP."}
 {"cik": 1498148, "exchange": "OTC", "ticker": "AITX", "title": "Artificial Intelligence Technology Solutions Inc."}
 {"cik": 1498372, "exchange": "OTC", "ticker": "IWAL", "title": "iWallet Corp"}
@@ -4595,7 +4591,6 @@
 {"cik": 1501072, "exchange": "NYSE", "ticker": "RIV", "title": "RIVERNORTH OPPORTUNITIES FUND, INC."}
 {"cik": 1501072, "exchange": "NYSE", "ticker": "RIV-PA", "title": "RIVERNORTH OPPORTUNITIES FUND, INC."}
 {"cik": 1501072, "exchange": "NYSE", "ticker": "RIV-RI", "title": "RIVERNORTH OPPORTUNITIES FUND, INC."}
-{"cik": 1501072, "exchange": "NYSE", "ticker": "RIV-RW", "title": "RIVERNORTH OPPORTUNITIES FUND, INC."}
 {"cik": 1501103, "exchange": "NYSE", "ticker": "EDF", "title": "Virtus Stone Harbor Emerging Markets Income Fund"}
 {"cik": 1501585, "exchange": "NYSE", "ticker": "HII", "title": "HUNTINGTON INGALLS INDUSTRIES, INC."}
 {"cik": 1501697, "exchange": "Nasdaq", "ticker": "XFOR", "title": "X4 Pharmaceuticals, Inc"}
@@ -5220,7 +5215,6 @@
 {"cik": 1580864, "exchange": "OTC", "ticker": "VRMWW", "title": "Vroom, Inc."}
 {"cik": 1580905, "exchange": "NYSE", "ticker": "IBP", "title": "Installed Building Products, Inc."}
 {"cik": 1581068, "exchange": "NYSE", "ticker": "BRX", "title": "Brixmor Property Group Inc."}
-{"cik": 1581091, "exchange": "NYSE", "ticker": "RMAX", "title": "RE/MAX Holdings, Inc."}
 {"cik": 1581178, "exchange": "Nasdaq", "ticker": "EPRX", "title": "EUPRAXIA PHARMACEUTICALS INC."}
 {"cik": 1581280, "exchange": "Nasdaq", "ticker": "TWST", "title": "Twist Bioscience Corp"}
 {"cik": 1581285, "exchange": "OTC", "ticker": "BCUCF", "title": "Brunello Cucinelli S.p.A./ADR"}
@@ -5397,7 +5391,6 @@
 {"cik": 1605484, "exchange": "NYSE", "ticker": "STLA", "title": "Stellantis N.V."}
 {"cik": 1605755, "exchange": "OTC", "ticker": "MONRF", "title": "Moncler S.p.A./ADR"}
 {"cik": 1605888, "exchange": "Nasdaq", "ticker": "CIRC", "title": "CIRCLE8 GROUP INC"}
-{"cik": 1605888, "exchange": "OTC", "ticker": "CIRCW", "title": "CIRCLE8 GROUP INC"}
 {"cik": 1606163, "exchange": "Nasdaq", "ticker": "LMB", "title": "Limbach Holdings, Inc."}
 {"cik": 1606242, "exchange": "Nasdaq", "ticker": "VTIX", "title": "Virtuix Holdings Inc."}
 {"cik": 1606366, "exchange": "Nasdaq", "ticker": "LOCO", "title": "El Pollo Loco Holdings, Inc."}
@@ -5689,7 +5682,7 @@
 {"cik": 1651717, "exchange": "NYSE", "ticker": "NOMD", "title": "Nomad Foods Ltd"}
 {"cik": 1651721, "exchange": "Nasdaq", "ticker": "GIPR", "title": "GENERATION INCOME PROPERTIES, INC."}
 {"cik": 1651721, "exchange": "Nasdaq", "ticker": "GIPRW", "title": "GENERATION INCOME PROPERTIES, INC."}
-{"cik": 1651932, "exchange": "OTC", "ticker": "XITO", "title": "Xenous Holdings, Inc."}
+{"cik": 1651932, "exchange": null, "ticker": "XITO", "title": "Xenous Holdings, Inc."}
 {"cik": 1651992, "exchange": "OTC", "ticker": "ASFT", "title": "Appsoft Technologies, Inc."}
 {"cik": 1652044, "exchange": "Nasdaq", "ticker": "GOOG", "title": "Alphabet Inc."}
 {"cik": 1652044, "exchange": "Nasdaq", "ticker": "GOOGL", "title": "Alphabet Inc."}
@@ -5835,7 +5828,7 @@
 {"cik": 1673985, "exchange": "NYSE", "ticker": "ASIX", "title": "AdvanSix Inc."}
 {"cik": 1674101, "exchange": "NYSE", "ticker": "VRT", "title": "Vertiv Holdings Co"}
 {"cik": 1674168, "exchange": "NYSE", "ticker": "HGV", "title": "Hilton Grand Vacations Inc."}
-{"cik": 1674227, "exchange": null, "ticker": "WORX", "title": "SCWorx Corp."}
+{"cik": 1674227, "exchange": "OTC", "ticker": "WORX", "title": "SCWorx Corp."}
 {"cik": 1674227, "exchange": "OTC", "ticker": "WORXD", "title": "SCWorx Corp."}
 {"cik": 1674335, "exchange": "NYSE", "ticker": "JELD", "title": "JELD-WEN Holding, Inc."}
 {"cik": 1674356, "exchange": "NYSE", "ticker": "TPTS", "title": "Terra Property Trust, Inc."}
@@ -5892,7 +5885,6 @@
 {"cik": 1680378, "exchange": "Nasdaq", "ticker": "SNES", "title": "SenesTech, Inc."}
 {"cik": 1680513, "exchange": "OTC", "ticker": "IPTNF", "title": "IMPACT ANALYTICS INC."}
 {"cik": 1680581, "exchange": "Nasdaq", "ticker": "FULC", "title": "Fulcrum Therapeutics, Inc."}
-{"cik": 1680637, "exchange": "OTC", "ticker": "NRRWF", "title": "Nuran Wireless Inc."}
 {"cik": 1680637, "exchange": "Nasdaq", "ticker": "NUR", "title": "Nuran Wireless Inc."}
 {"cik": 1680689, "exchange": "OTC", "ticker": "NRHI", "title": "Natural Resource Holdings, Inc."}
 {"cik": 1680873, "exchange": "Nasdaq", "ticker": "HFFG", "title": "HF Foods Group Inc."}
@@ -6041,7 +6033,6 @@
 {"cik": 1703118, "exchange": "OTC", "ticker": "FUUFF", "title": "F3 Uranium Corp."}
 {"cik": 1703157, "exchange": "OTC", "ticker": "SCTH", "title": "Securetech Innovations, Inc."}
 {"cik": 1703292, "exchange": "OTC", "ticker": "ALGRF", "title": "KENADYR METALS CORP"}
-{"cik": 1703625, "exchange": "OTC", "ticker": "BLIS", "title": "NAPC Defense, Inc."}
 {"cik": 1703625, "exchange": "OTC", "ticker": "NAPD", "title": "NAPC Defense, Inc."}
 {"cik": 1703644, "exchange": "NYSE", "ticker": "GPMT", "title": "Granite Point Mortgage Trust Inc."}
 {"cik": 1703644, "exchange": "NYSE", "ticker": "GPMT-PA", "title": "Granite Point Mortgage Trust Inc."}
@@ -6095,12 +6086,11 @@
 {"cik": 1710350, "exchange": "Nasdaq", "ticker": "BTBT", "title": "Bit Digital, Inc"}
 {"cik": 1710366, "exchange": "NYSE", "ticker": "CNR", "title": "Core Natural Resources, Inc."}
 {"cik": 1710482, "exchange": "Nasdaq", "ticker": "JMSB", "title": "John Marshall Bancorp, Inc."}
-{"cik": 1710495, "exchange": null, "ticker": "PNXP", "title": "PINEAPPLE EXPRESS CANNABIS Co"}
+{"cik": 1710495, "exchange": "OTC", "ticker": "PNXP", "title": "PINEAPPLE EXPRESS CANNABIS Co"}
 {"cik": 1710680, "exchange": "NYSE", "ticker": "HFRO", "title": "HIGHLAND OPPORTUNITIES & INCOME FUND"}
 {"cik": 1710680, "exchange": "NYSE", "ticker": "HFRO-PA", "title": "HIGHLAND OPPORTUNITIES & INCOME FUND"}
 {"cik": 1710680, "exchange": "NYSE", "ticker": "HFRO-PB", "title": "HIGHLAND OPPORTUNITIES & INCOME FUND"}
 {"cik": 1710864, "exchange": "OTC", "ticker": "MSUXF", "title": "Misumi Group Inc./ADR"}
-{"cik": 1711012, "exchange": "Nasdaq", "ticker": "AIHS", "title": "Senmiao Technology Ltd"}
 {"cik": 1711012, "exchange": "Nasdaq", "ticker": "VAI", "title": "Senmiao Technology Ltd"}
 {"cik": 1711141, "exchange": "OTC", "ticker": "LEEEF", "title": "Leef Brands Inc."}
 {"cik": 1711269, "exchange": "Nasdaq", "ticker": "EVRG", "title": "Evergy, Inc."}
@@ -6282,6 +6272,7 @@
 {"cik": 1735438, "exchange": "Nasdaq", "ticker": "MGTX", "title": "MeiraGTx Holdings plc"}
 {"cik": 1735514, "exchange": "OTC", "ticker": "OHCFF", "title": "Light AI Inc."}
 {"cik": 1735556, "exchange": "Nasdaq", "ticker": "BTOG", "title": "SANGRIX INC."}
+{"cik": 1735556, "exchange": "Nasdaq", "ticker": "SGRX", "title": "SANGRIX INC."}
 {"cik": 1735707, "exchange": "Nasdaq", "ticker": "GTX", "title": "Garrett Motion Inc."}
 {"cik": 1736035, "exchange": "NYSE", "ticker": "BXSL", "title": "Blackstone Secured Lending Fund"}
 {"cik": 1736243, "exchange": "Nasdaq", "ticker": "ACXP", "title": "Acurx Pharmaceuticals, Inc."}
@@ -6457,7 +6448,7 @@
 {"cik": 1758730, "exchange": "Nasdaq", "ticker": "TW", "title": "Tradeweb Markets Inc."}
 {"cik": 1758766, "exchange": "NYSE", "ticker": "STEM", "title": "STEM, INC."}
 {"cik": 1759124, "exchange": "NYSE", "ticker": "IAUM", "title": "iShares Gold Trust Micro"}
-{"cik": 1759136, "exchange": "OTC", "ticker": "BHATF", "title": "Blue Hat Interactive Entertainment Technology"}
+{"cik": 1759136, "exchange": null, "ticker": "BHATF", "title": "Blue Hat Interactive Entertainment Technology"}
 {"cik": 1759138, "exchange": "Nasdaq", "ticker": "CABA", "title": "Cabaletta Bio, Inc."}
 {"cik": 1759186, "exchange": "Nasdaq", "ticker": "ZSQR", "title": "Z Squared Inc."}
 {"cik": 1759425, "exchange": "Nasdaq", "ticker": "MIRM", "title": "Mirum Pharmaceuticals, Inc."}
@@ -6558,6 +6549,7 @@
 {"cik": 1774163, "exchange": "OTC", "ticker": "IVBXF", "title": "Innovent Biologics Inc/ADR"}
 {"cik": 1774170, "exchange": "Nasdaq", "ticker": "AIOT", "title": "Powerfleet, Inc."}
 {"cik": 1774342, "exchange": "NYSE", "ticker": "NMCO", "title": "Nuveen Municipal Credit Opportunities Fund"}
+{"cik": 1774342, "exchange": "NYSE", "ticker": "NMCO-RW", "title": "Nuveen Municipal Credit Opportunities Fund"}
 {"cik": 1774675, "exchange": "NYSE", "ticker": "SKIL", "title": "Skillsoft Corp."}
 {"cik": 1774857, "exchange": "Nasdaq", "ticker": "AARD", "title": "Aardvark Therapeutics, Inc."}
 {"cik": 1775194, "exchange": "Nasdaq", "ticker": "UPXI", "title": "UPEXI, INC."}
@@ -6814,6 +6806,7 @@
 {"cik": 1805284, "exchange": "NYSE", "ticker": "RKT", "title": "Rocket Companies, Inc."}
 {"cik": 1805385, "exchange": "Nasdaq", "ticker": "EVLV", "title": "Evolv Technologies Holdings, Inc."}
 {"cik": 1805521, "exchange": "Nasdaq", "ticker": "FFAI", "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC."}
+{"cik": 1805526, "exchange": "Nasdaq", "ticker": "CHAD", "title": "DeFi Development Corp."}
 {"cik": 1805526, "exchange": "Nasdaq", "ticker": "DFDV", "title": "DeFi Development Corp."}
 {"cik": 1805526, "exchange": "Nasdaq", "ticker": "DFDVW", "title": "DeFi Development Corp."}
 {"cik": 1805526, "exchange": "OTC", "ticker": "DFUKF", "title": "DeFi Development Corp."}
@@ -6832,7 +6825,7 @@
 {"cik": 1807166, "exchange": "Nasdaq", "ticker": "AMST", "title": "Amesite Inc."}
 {"cik": 1807389, "exchange": "Nasdaq", "ticker": "CPOP", "title": "Pop Culture Group Co., Ltd"}
 {"cik": 1807616, "exchange": "OTC", "ticker": "HIGR", "title": "Hi-Great Group Holding Co"}
-{"cik": 1807689, "exchange": null, "ticker": "EAIQ", "title": "FAST CASUAL CONCEPTS, INC."}
+{"cik": 1807689, "exchange": "OTC", "ticker": "EAIQ", "title": "FAST CASUAL CONCEPTS, INC."}
 {"cik": 1807689, "exchange": "OTC", "ticker": "FCCI", "title": "FAST CASUAL CONCEPTS, INC."}
 {"cik": 1807765, "exchange": "OTC", "ticker": "PMVC", "title": "PMV Consumer Acquisition Corp."}
 {"cik": 1807765, "exchange": "OTC", "ticker": "PMVCW", "title": "PMV Consumer Acquisition Corp."}
@@ -6899,6 +6892,7 @@
 {"cik": 1814067, "exchange": "Nasdaq", "ticker": "LXEH", "title": "Lixiang Education Holding Co. Ltd."}
 {"cik": 1814114, "exchange": "Nasdaq", "ticker": "OBIO", "title": "Orchestra BioMed Holdings, Inc."}
 {"cik": 1814215, "exchange": "OTC", "ticker": "BURU", "title": "Nuburu, Inc."}
+{"cik": 1814215, "exchange": "OTC", "ticker": "BURUD", "title": "Nuburu, Inc."}
 {"cik": 1814215, "exchange": "OTC", "ticker": "BURUW", "title": "Nuburu, Inc."}
 {"cik": 1814287, "exchange": "NYSE", "ticker": "ABX", "title": "Abacus Global Management, Inc."}
 {"cik": 1814287, "exchange": "NYSE", "ticker": "ABXL", "title": "Abacus Global Management, Inc."}
@@ -6949,7 +6943,6 @@
 {"cik": 1818274, "exchange": "Nasdaq", "ticker": "ARAI", "title": "Arrive AI Inc."}
 {"cik": 1818331, "exchange": "Nasdaq", "ticker": "WGS", "title": "GeneDx Holdings Corp."}
 {"cik": 1818382, "exchange": "Nasdaq", "ticker": "HUMA", "title": "Humacyte, Inc."}
-{"cik": 1818382, "exchange": "Nasdaq", "ticker": "HUMAW", "title": "Humacyte, Inc."}
 {"cik": 1818383, "exchange": "NYSE", "ticker": "MAX", "title": "MediaAlpha, Inc."}
 {"cik": 1818502, "exchange": "NYSE", "ticker": "OPFI", "title": "OppFi Inc."}
 {"cik": 1818643, "exchange": "NYSE", "ticker": "PHXE-P", "title": "Phoenix Energy One, LLC"}
@@ -7047,7 +7040,6 @@
 {"cik": 1824920, "exchange": "NYSE", "ticker": "IONQ", "title": "IonQ, Inc."}
 {"cik": 1824920, "exchange": "NYSE", "ticker": "IONQ-WT", "title": "IonQ, Inc."}
 {"cik": 1825024, "exchange": "Nasdaq", "ticker": "OPAD", "title": "Offerpad Solutions Inc."}
-{"cik": 1825024, "exchange": "OTC", "ticker": "OPADW", "title": "Offerpad Solutions Inc."}
 {"cik": 1825079, "exchange": "Nasdaq", "ticker": "VELO", "title": "Velo3D, Inc."}
 {"cik": 1825079, "exchange": "OTC", "ticker": "VLDXW", "title": "Velo3D, Inc."}
 {"cik": 1825088, "exchange": "NYSE", "ticker": "DFH", "title": "Dream Finders Homes, Inc."}
@@ -7077,7 +7069,7 @@
 {"cik": 1826836, "exchange": "Nasdaq", "ticker": "AYA", "title": "Aya Gold & Silver Inc."}
 {"cik": 1826889, "exchange": "Nasdaq", "ticker": "BODI", "title": "Beachbody Company, Inc."}
 {"cik": 1826889, "exchange": "OTC", "ticker": "BODYW", "title": "Beachbody Company, Inc."}
-{"cik": 1826892, "exchange": "Nasdaq", "ticker": "BCAB", "title": "BioAtla, Inc."}
+{"cik": 1826892, "exchange": "OTC", "ticker": "BCAB", "title": "BioAtla, Inc."}
 {"cik": 1827090, "exchange": "Nasdaq", "ticker": "CERT", "title": "Certara, Inc."}
 {"cik": 1827401, "exchange": "Nasdaq", "ticker": "DRUG", "title": "BRIGHT MINDS BIOSCIENCES INC."}
 {"cik": 1827635, "exchange": "NYSE", "ticker": "MANE", "title": "Veradermics, Inc"}
@@ -7119,6 +7111,7 @@
 {"cik": 1829802, "exchange": "Nasdaq", "ticker": "FTH", "title": "Faeth Therapeutics, Inc."}
 {"cik": 1829809, "exchange": "OTC", "ticker": "BBBMF", "title": "Lux Metals Corp."}
 {"cik": 1829864, "exchange": "Nasdaq", "ticker": "TASK", "title": "TaskUs, Inc."}
+{"cik": 1829953, "exchange": null, "ticker": "COOLU", "title": "Corner Growth Acquisition Corp."}
 {"cik": 1829959, "exchange": "Nasdaq", "ticker": "DCBO", "title": "Docebo Inc."}
 {"cik": 1830033, "exchange": "Nasdaq", "ticker": "PCT", "title": "PureCycle Technologies, Inc."}
 {"cik": 1830033, "exchange": "OTC", "ticker": "PCTBP", "title": "PureCycle Technologies, Inc."}
@@ -7388,7 +7381,6 @@
 {"cik": 1848672, "exchange": "OTC", "ticker": "GDLG", "title": "Glidelogic Corp."}
 {"cik": 1848731, "exchange": "NYSE", "ticker": "GLAS", "title": "Glass House Brands Inc."}
 {"cik": 1848739, "exchange": "Nasdaq", "ticker": "GDEV", "title": "GDEV Inc."}
-{"cik": 1848739, "exchange": "Nasdaq", "ticker": "GDEVW", "title": "GDEV Inc."}
 {"cik": 1848763, "exchange": "Nasdaq", "ticker": "RNW", "title": "ReNew Energy Global plc"}
 {"cik": 1848782, "exchange": "OTC", "ticker": "PLCKF", "title": "Plurilock Security Inc."}
 {"cik": 1848826, "exchange": "OTC", "ticker": "INPOF", "title": "InPost S.A./ADR"}
@@ -7610,6 +7602,7 @@
 {"cik": 1865111, "exchange": "OTC", "ticker": "ALSUF", "title": "Alpha Star Acquisition Corp"}
 {"cik": 1865111, "exchange": "OTC", "ticker": "ALSWF", "title": "Alpha Star Acquisition Corp"}
 {"cik": 1865200, "exchange": "NYSE", "ticker": "ANGX", "title": "Angel Studios, Inc."}
+{"cik": 1865200, "exchange": "NYSE", "ticker": "PORT-UN", "title": "Angel Studios, Inc."}
 {"cik": 1865248, "exchange": "OTC", "ticker": "CMCAF", "title": "Piermont Valley Acquisition Corp"}
 {"cik": 1865248, "exchange": "OTC", "ticker": "CMCUF", "title": "Piermont Valley Acquisition Corp"}
 {"cik": 1865248, "exchange": "OTC", "ticker": "CMCWF", "title": "Piermont Valley Acquisition Corp"}
@@ -7794,9 +7787,9 @@
 {"cik": 1883814, "exchange": "NYSE", "ticker": "SLND", "title": "Southland Holdings, Inc."}
 {"cik": 1883814, "exchange": "NYSE", "ticker": "SLND-WT", "title": "Southland Holdings, Inc."}
 {"cik": 1883835, "exchange": "OTC", "ticker": "ESGH", "title": "ESG Inc."}
-{"cik": 1883984, "exchange": "OTC", "ticker": "ACLEW", "title": "Alternus Clean Energy, Inc."}
-{"cik": 1883984, "exchange": "OTC", "ticker": "ALCE", "title": "Alternus Clean Energy, Inc."}
-{"cik": 1883984, "exchange": "OTC", "ticker": "ALCED", "title": "Alternus Clean Energy, Inc."}
+{"cik": 1883984, "exchange": "OTC", "ticker": "ACLEW", "title": "Aedis Energy Inc."}
+{"cik": 1883984, "exchange": "OTC", "ticker": "ALCE", "title": "Aedis Energy Inc."}
+{"cik": 1883984, "exchange": "OTC", "ticker": "ALCED", "title": "Aedis Energy Inc."}
 {"cik": 1884046, "exchange": "Nasdaq", "ticker": "SPKL", "title": "Spark I Acquisition Corp"}
 {"cik": 1884046, "exchange": "Nasdaq", "ticker": "SPKLU", "title": "Spark I Acquisition Corp"}
 {"cik": 1884046, "exchange": "Nasdaq", "ticker": "SPKLW", "title": "Spark I Acquisition Corp"}
@@ -7814,7 +7807,7 @@
 {"cik": 1885827, "exchange": "Nasdaq", "ticker": "VRAX", "title": "Virax Biolabs Group Ltd"}
 {"cik": 1886190, "exchange": "Nasdaq", "ticker": "GGR", "title": "Gogoro Inc."}
 {"cik": 1886190, "exchange": "Nasdaq", "ticker": "GGROW", "title": "Gogoro Inc."}
-{"cik": 1886362, "exchange": "OTC", "ticker": "MGAM", "title": "Mobile Global Esports, Inc."}
+{"cik": 1886362, "exchange": null, "ticker": "MGAM", "title": "Mobile Global Esports, Inc."}
 {"cik": 1886428, "exchange": "Nasdaq", "ticker": "SLDE", "title": "Slide Insurance Holdings, Inc."}
 {"cik": 1886878, "exchange": "NYSE", "ticker": "PAXS", "title": "PIMCO Access Income Fund"}
 {"cik": 1886894, "exchange": "Nasdaq", "ticker": "SNAL", "title": "Snail, Inc."}
@@ -7949,7 +7942,7 @@
 {"cik": 1903995, "exchange": "Nasdaq", "ticker": "MGIH", "title": "Millennium Group International Holdings Ltd"}
 {"cik": 1904286, "exchange": "Nasdaq", "ticker": "MIRA", "title": "MIRA PHARMACEUTICALS, INC."}
 {"cik": 1904501, "exchange": "Nasdaq", "ticker": "ZTEK", "title": "Zentek Ltd."}
-{"cik": 1904501, "exchange": null, "ticker": "ZTEKF", "title": "Zentek Ltd."}
+{"cik": 1904501, "exchange": "OTC", "ticker": "ZTEKF", "title": "Zentek Ltd."}
 {"cik": 1904616, "exchange": "OTC", "ticker": "BAKR", "title": "Baker Global Asset Management Inc."}
 {"cik": 1904856, "exchange": "NYSE", "ticker": "EFXT", "title": "Enerflex Ltd."}
 {"cik": 1905511, "exchange": "Nasdaq", "ticker": "JCSE", "title": "JE Cleantech Holdings Ltd"}
@@ -7973,6 +7966,7 @@
 {"cik": 1908984, "exchange": "OTC", "ticker": "ENDI", "title": "ENDI Corp."}
 {"cik": 1909747, "exchange": "OTC", "ticker": "JUSH", "title": "Jushi Holdings Inc."}
 {"cik": 1910139, "exchange": "Nasdaq", "ticker": "MBLY", "title": "Mobileye Global Inc."}
+{"cik": 1910903, "exchange": "OTC", "ticker": "CSRVF", "title": "Scotia Metals Corp."}
 {"cik": 1910975, "exchange": "OTC", "ticker": "RPDL", "title": "Rapid Line Inc."}
 {"cik": 1911467, "exchange": "OTC", "ticker": "CRCE", "title": "Circle Energy, Inc./NV"}
 {"cik": 1911545, "exchange": "Nasdaq", "ticker": "GITS", "title": "Global Interactive Technologies, Inc."}
@@ -8122,7 +8116,6 @@
 {"cik": 1938046, "exchange": "Nasdaq", "ticker": "MGRX", "title": "MANGOCEUTICALS, INC."}
 {"cik": 1938109, "exchange": "NYSE", "ticker": "PAPL", "title": "Pineapple Financial Inc."}
 {"cik": 1938186, "exchange": "Nasdaq", "ticker": "JYD", "title": "Jayud Global Logistics Ltd"}
-{"cik": 1938338, "exchange": null, "ticker": "GLTK", "title": "GlobalTech Corp"}
 {"cik": 1938338, "exchange": "OTC", "ticker": "GLTKD", "title": "GlobalTech Corp"}
 {"cik": 1938534, "exchange": "Nasdaq", "ticker": "FBGL", "title": "FBS Global Ltd"}
 {"cik": 1938569, "exchange": "OTC", "ticker": "PALX", "title": "Palomino Laboratories Inc."}
@@ -8338,10 +8331,10 @@
 {"cik": 1969863, "exchange": "Nasdaq", "ticker": "SUGP", "title": "SU Group Holdings Ltd"}
 {"cik": 1969928, "exchange": "Nasdaq", "ticker": "TJGC", "title": "TJGC GROUP Ltd"}
 {"cik": 1970125, "exchange": "OTC", "ticker": "FDXTF", "title": "FENDX TECHNOLOGIES INC."}
+{"cik": 1970129, "exchange": "OTC", "ticker": "LGSP", "title": "LEGEND SPICES, INC."}
 {"cik": 1970544, "exchange": "Nasdaq", "ticker": "ITOC", "title": "iTonic Holdings Ltd"}
 {"cik": 1970622, "exchange": "Nasdaq", "ticker": "USAR", "title": "USA Rare Earth, Inc."}
 {"cik": 1970743, "exchange": "OTC", "ticker": "RMXI", "title": "RMX INDUSTRIES, INC."}
-{"cik": 1970743, "exchange": null, "ticker": "RMXID", "title": "RMX INDUSTRIES, INC."}
 {"cik": 1971115, "exchange": "NYSE", "ticker": "RYDE", "title": "Ryde Group Ltd"}
 {"cik": 1971172, "exchange": "OTC", "ticker": "THNBY", "title": "Technoprobe SpA/ADR"}
 {"cik": 1971213, "exchange": "Nasdaq", "ticker": "SBGI", "title": "Sinclair, Inc."}
@@ -9107,6 +9100,7 @@
 {"cik": 2052243, "exchange": "Nasdaq", "ticker": "TWLVR", "title": "Twelve Seas Investment Co III/Cayman"}
 {"cik": 2052243, "exchange": "Nasdaq", "ticker": "TWLVU", "title": "Twelve Seas Investment Co III/Cayman"}
 {"cik": 2052373, "exchange": null, "ticker": "MKAR", "title": "Mkango Rare Earths Ltd"}
+{"cik": 2052443, "exchange": null, "ticker": "VCCG", "title": "V Capital Consulting Group Ltd"}
 {"cik": 2052547, "exchange": "Nasdaq", "ticker": "EGHA", "title": "EGH Acquisition Corp."}
 {"cik": 2052547, "exchange": "Nasdaq", "ticker": "EGHAR", "title": "EGH Acquisition Corp."}
 {"cik": 2052547, "exchange": "Nasdaq", "ticker": "EGHAU", "title": "EGH Acquisition Corp."}
@@ -9272,8 +9266,6 @@
 {"cik": 2065661, "exchange": "NYSE", "ticker": "PLUN-UN", "title": "Plutonian Acquisition Corp. II"}
 {"cik": 2065708, "exchange": "NYSE", "ticker": "ANDG", "title": "Andersen Group Inc."}
 {"cik": 2065741, "exchange": null, "ticker": "NEUT", "title": "Neutrans Inc."}
-{"cik": 2065779, "exchange": "Nasdaq", "ticker": "BCARU", "title": "D. Boral ARC Acquisition I Corp."}
-{"cik": 2065779, "exchange": "Nasdaq", "ticker": "BCARW", "title": "D. Boral ARC Acquisition I Corp."}
 {"cik": 2065812, "exchange": "NYSE", "ticker": "FSSL", "title": "FS Specialty Lending Fund"}
 {"cik": 2065932, "exchange": "OTC", "ticker": "FLNCF", "title": "Freelancer Ltd"}
 {"cik": 2065932, "exchange": "OTC", "ticker": "FRLCY", "title": "Freelancer Ltd"}
@@ -9493,7 +9485,7 @@
 {"cik": 2077954, "exchange": "Nasdaq", "ticker": "EVOXW", "title": "Evolution Global Acquisition Corp"}
 {"cik": 2078008, "exchange": "NYSE", "ticker": "VGNT", "title": "Versigent PLC"}
 {"cik": 2078037, "exchange": null, "ticker": "GRVT", "title": "GreenVector Holdings Ltd"}
-{"cik": 2078149, "exchange": "OTC", "ticker": "VRHI", "title": "Veri MedTech Holdings, Inc."}
+{"cik": 2078149, "exchange": "OTC", "ticker": "VRHID", "title": "Veri MedTech Holdings, Inc."}
 {"cik": 2078416, "exchange": "Nasdaq", "ticker": "LLYVA", "title": "Liberty Live Holdings, Inc."}
 {"cik": 2078416, "exchange": "OTC", "ticker": "LLYVB", "title": "Liberty Live Holdings, Inc."}
 {"cik": 2078416, "exchange": "Nasdaq", "ticker": "LLYVK", "title": "Liberty Live Holdings, Inc."}
@@ -9759,9 +9751,6 @@
 {"cik": 2088256, "exchange": "Nasdaq", "ticker": "HQ", "title": "Horizon Quantum Holdings Ltd."}
 {"cik": 2088256, "exchange": "Nasdaq", "ticker": "HQWWW", "title": "Horizon Quantum Holdings Ltd."}
 {"cik": 2088281, "exchange": "Nasdaq", "ticker": "MFP", "title": "Midera Food Processing, Inc."}
-{"cik": 2088295, "exchange": "Nasdaq", "ticker": "BBCQ", "title": "Bleichroeder Acquisition Corp. II"}
-{"cik": 2088295, "exchange": "Nasdaq", "ticker": "BBCQU", "title": "Bleichroeder Acquisition Corp. II"}
-{"cik": 2088295, "exchange": "Nasdaq", "ticker": "BBCQW", "title": "Bleichroeder Acquisition Corp. II"}
 {"cik": 2088325, "exchange": "Nasdaq", "ticker": "OIM", "title": "OneIM Acquisition Corp."}
 {"cik": 2088325, "exchange": "Nasdaq", "ticker": "OIMAU", "title": "OneIM Acquisition Corp."}
 {"cik": 2088325, "exchange": "Nasdaq", "ticker": "OIMAW", "title": "OneIM Acquisition Corp."}
@@ -9778,9 +9767,6 @@
 {"cik": 2088749, "exchange": "Nasdaq", "ticker": "KBONW", "title": "Karbon Capital Partners Corp."}
 {"cik": 2088776, "exchange": "OTC", "ticker": "ZSHLY", "title": "Zensho Holdings Co., Ltd./ADR"}
 {"cik": 2088776, "exchange": "OTC", "ticker": "ZSHOF", "title": "Zensho Holdings Co., Ltd./ADR"}
-{"cik": 2088805, "exchange": "Nasdaq", "ticker": "CMII", "title": "Inflection Point Acquisition Corp. VII"}
-{"cik": 2088805, "exchange": "Nasdaq", "ticker": "CMIIU", "title": "Inflection Point Acquisition Corp. VII"}
-{"cik": 2088805, "exchange": "Nasdaq", "ticker": "CMIIW", "title": "Inflection Point Acquisition Corp. VII"}
 {"cik": 2088805, "exchange": "Nasdaq", "ticker": "IPXG", "title": "Inflection Point Acquisition Corp. VII"}
 {"cik": 2088805, "exchange": "Nasdaq", "ticker": "IPXGU", "title": "Inflection Point Acquisition Corp. VII"}
 {"cik": 2088805, "exchange": "Nasdaq", "ticker": "IPXGW", "title": "Inflection Point Acquisition Corp. VII"}
@@ -9820,7 +9806,6 @@
 {"cik": 2090452, "exchange": "Nasdaq", "ticker": "FGIIU", "title": "FG Imperii Acquisition Corp."}
 {"cik": 2090452, "exchange": "Nasdaq", "ticker": "FGIIW", "title": "FG Imperii Acquisition Corp."}
 {"cik": 2090646, "exchange": "Nasdaq", "ticker": "BRUN", "title": "Boost Run Inc."}
-{"cik": 2090646, "exchange": "Nasdaq", "ticker": "BRUNW", "title": "Boost Run Inc."}
 {"cik": 2090651, "exchange": "OTC", "ticker": "CNYGF", "title": "Canary Gold Corp."}
 {"cik": 2090787, "exchange": "Nasdaq", "ticker": "OHAC", "title": "Oceanhawk Acquisition Corp."}
 {"cik": 2090787, "exchange": "Nasdaq", "ticker": "OHACR", "title": "Oceanhawk Acquisition Corp."}
@@ -10058,7 +10043,7 @@
 {"cik": 2102771, "exchange": "Nasdaq", "ticker": "KEYY", "title": "Keystone Acquisition Corp."}
 {"cik": 2102771, "exchange": "Nasdaq", "ticker": "KEYYU", "title": "Keystone Acquisition Corp."}
 {"cik": 2102771, "exchange": "Nasdaq", "ticker": "KEYYW", "title": "Keystone Acquisition Corp."}
-{"cik": 2102907, "exchange": null, "ticker": "RML", "title": "Resolution Minerals Ltd"}
+{"cik": 2102907, "exchange": "Nasdaq", "ticker": "RML", "title": "Resolution Minerals Ltd"}
 {"cik": 2102972, "exchange": null, "ticker": "FFGG", "title": "FF Global Holdings Ltd"}
 {"cik": 2103029, "exchange": null, "ticker": "SKAI", "title": "Sky Acquisition Group"}
 {"cik": 2103547, "exchange": "NYSE", "ticker": "MSOL", "title": "Morgan Stanley Solana Trust"}
@@ -10103,6 +10088,7 @@
 {"cik": 2106613, "exchange": "NYSE", "ticker": "QNC", "title": "Quantum eMotion Corp"}
 {"cik": 2106762, "exchange": null, "ticker": "GBNB", "title": "Grayscale BNB ETF"}
 {"cik": 2107018, "exchange": "NYSE", "ticker": "DPC", "title": "DPC Holdings PLC"}
+{"cik": 2107375, "exchange": "OTC", "ticker": "SBIBF", "title": "SBI Shinsei Bank, Limited/ADR"}
 {"cik": 2107375, "exchange": "OTC", "ticker": "SSHBY", "title": "SBI Shinsei Bank, Limited/ADR"}
 {"cik": 2107724, "exchange": "NYSE", "ticker": "MTAL", "title": "Metals Acquisition Corp. II"}
 {"cik": 2107724, "exchange": "NYSE", "ticker": "MTAL-UN", "title": "Metals Acquisition Corp. II"}
@@ -10148,8 +10134,9 @@
 {"cik": 2110029, "exchange": "NYSE", "ticker": "EROC", "title": "ERock, Inc."}
 {"cik": 2110105, "exchange": "Nasdaq", "ticker": "QNT", "title": "Quantinuum Inc."}
 {"cik": 2110117, "exchange": "Nasdaq", "ticker": "ITG", "title": "ITG, Inc./DE/"}
-{"cik": 2110119, "exchange": null, "ticker": "AMAC", "title": "AMR Resources Acquisition Corp."}
+{"cik": 2110119, "exchange": "Nasdaq", "ticker": "AMAC", "title": "AMR Resources Acquisition Corp."}
 {"cik": 2110119, "exchange": "Nasdaq", "ticker": "AMACU", "title": "AMR Resources Acquisition Corp."}
+{"cik": 2110119, "exchange": "Nasdaq", "ticker": "AMACW", "title": "AMR Resources Acquisition Corp."}
 {"cik": 2110423, "exchange": "Nasdaq", "ticker": "DTSS", "title": "Datasea Intelligent Technology Ltd."}
 {"cik": 2110583, "exchange": "OTC", "ticker": "AELKY", "title": "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi/ADR"}
 {"cik": 2111009, "exchange": null, "ticker": "AVAC", "title": "American Ventures Acquisition Corp. I"}
@@ -10251,6 +10238,7 @@
 {"cik": 2123969, "exchange": "Nasdaq", "ticker": "RREVW", "title": "RRE Ventures Acquisition Corp."}
 {"cik": 2124215, "exchange": "OTC", "ticker": "TKMSF", "title": "TKMS AG & CO. KGAA/ADR"}
 {"cik": 2124403, "exchange": "Nasdaq", "ticker": "VCRE", "title": "Vicore Pharma Holding AB"}
+{"cik": 2124478, "exchange": null, "ticker": "SKG", "title": "SMART KREATE GROUP Ltd"}
 {"cik": 2125056, "exchange": null, "ticker": "WELA", "title": "Wella Co"}
 {"cik": 2125355, "exchange": null, "ticker": "BMB", "title": "Bamboo Insurance Services, Inc."}
 {"cik": 2125551, "exchange": "Nasdaq", "ticker": "ALPX", "title": "Alpex Acquisition Corp"}
@@ -10334,7 +10322,9 @@
 {"cik": 2131961, "exchange": "OTC", "ticker": "MNYCY", "title": "Manycore Tech Inc./ADR"}
 {"cik": 2132082, "exchange": "OTC", "ticker": "SIGEY", "title": "Sigenergy Technology Co., Ltd./ADR"}
 {"cik": 2132582, "exchange": "NYSE", "ticker": "LYNX", "title": "Lyntris Inc."}
+{"cik": 2132873, "exchange": null, "ticker": "MSGR", "title": "MSGS Spinco, Inc."}
 {"cik": 2133020, "exchange": "OTC", "ticker": "RHDTY", "title": "Ruihe Data Technology Holdings Limited/ADR"}
+{"cik": 2133022, "exchange": null, "ticker": "OURA", "title": "Oura Inc."}
 {"cik": 2133037, "exchange": null, "ticker": "SBE", "title": "SB Energy, Inc."}
 {"cik": 2133136, "exchange": null, "ticker": "MTAK", "title": "Market Technology Acquisition Corp"}
 {"cik": 2133136, "exchange": "Nasdaq", "ticker": "MTAKU", "title": "Market Technology Acquisition Corp"}
@@ -10400,6 +10390,7 @@
 {"cik": 2144751, "exchange": "OTC", "ticker": "CTNKY", "title": "Capital Tankers Corp./ADR"}
 {"cik": 2144761, "exchange": "OTC", "ticker": "MTBOY", "title": "Metis TechBio Co Ltd/ADR"}
 {"cik": 2145378, "exchange": "OTC", "ticker": "GDTTY", "title": "Guangdong Dtech Technology Co., Ltd./ADR"}
+{"cik": 2145424, "exchange": "OTC", "ticker": "PHCAF", "title": "Phoenix Metals Corp."}
 {"cik": 2145659, "exchange": "Nasdaq", "ticker": "JTTT", "title": "JATT III Acquisition Corp"}
 {"cik": 2146310, "exchange": null, "ticker": "IPHX", "title": "Inflection Point Acquisition Corp. VIII"}
 {"cik": 2146310, "exchange": "Nasdaq", "ticker": "IPHXU", "title": "Inflection Point Acquisition Corp. VIII"}
@@ -10413,3 +10404,4 @@
 {"cik": 2149111, "exchange": "OTC", "ticker": "PSTEY", "title": "Poste Italiane S.p.A./ADR"}
 {"cik": 2150886, "exchange": "OTC", "ticker": "FNLPF", "title": "Fresnillo Plc/ADR"}
 {"cik": 2151905, "exchange": null, "ticker": "LABI", "title": "La Beaute Inc."}
+{"cik": 2152784, "exchange": "OTC", "ticker": "CHXIY", "title": "Chuangxin Industries Holdings Limited/ADR"}

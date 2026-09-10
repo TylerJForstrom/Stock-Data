@@ -4334,10 +4334,12 @@
 {"etf": "N", "exchange": "N", "name": "Mizuho Financial Group, Inc. Sponosred ADR (Japan)", "provable_from": false, "test_issue": "N", "ticker": "MFG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Aberdeen Municipal Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "MFM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Core Plus Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MFSB", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "MFS Active Short Duration Income ETF", "provable_from": true, "test_issue": "N", "ticker": "MFSD", "valid_from": "2026-09-10", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "MFSG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "MFS Active International ETF", "provable_from": false, "test_issue": "N", "ticker": "MFSI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Intermediate Muni Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MFSM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Value ETF", "provable_from": false, "test_issue": "N", "ticker": "MFSV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "MFS Active Short Muni Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "MFSX", "valid_from": "2026-09-10", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Mindful Conservative ETF", "provable_from": false, "test_issue": "N", "ticker": "MFUL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "MFUS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Cambria Chesapeake Pure Trend ETF", "provable_from": false, "test_issue": "N", "ticker": "MFUT", "valid_from": "2026-07-28", "valid_to": null}
@@ -4773,7 +4775,8 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify National Muni Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "NMB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "NovaTide Flexible Allocation ETF", "provable_from": false, "test_issue": "N", "ticker": "NMBL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Common Shares", "provable_from": false, "test_issue": "N", "ticker": "NMCO", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "NMCO.V", "valid_from": "2026-09-04", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights", "provable_from": true, "test_issue": "N", "ticker": "NMCO.R", "valid_from": "2026-09-10", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "NMCO.V", "valid_from": "2026-09-04", "valid_to": "2026-09-10"}
 {"etf": "N", "exchange": "N", "name": "Nouveau Monde Graphite Inc. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "NMG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Income Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NMI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Neuberger Energy Infrastructure and Income Fund Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NML", "valid_from": "2026-07-28", "valid_to": null}
@@ -4816,6 +4819,7 @@
 {"etf": "N", "exchange": "N", "name": "NET Power Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NPWR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50", "provable_from": false, "test_issue": "N", "ticker": "NPWR.W", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Neuberger Quality Select ETF", "provable_from": false, "test_issue": "N", "ticker": "NQLT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America Next Generation Memory Index ETF", "provable_from": true, "test_issue": "N", "ticker": "NRAM", "valid_from": "2026-09-10", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nerdy Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NRDY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NexPoint Real Estate Finance, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NREF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NREF$A", "valid_from": "2026-07-28", "valid_to": null}
@@ -7154,6 +7158,7 @@
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares STAR Global Buy-Write ETF", "provable_from": false, "test_issue": "N", "ticker": "VEGA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI Agriculture Producers ETF", "provable_from": false, "test_issue": "N", "ticker": "VEGI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "US Vegan Climate ETF", "provable_from": false, "test_issue": "N", "ticker": "VEGN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "International Vegan Climate ETF", "provable_from": true, "test_issue": "N", "ticker": "VEGX", "valid_from": "2026-09-10", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Velocity Financial, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VEL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long VELO ETF", "provable_from": false, "test_issue": "N", "ticker": "VELL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Emerging Markets Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "VEM", "valid_from": "2026-07-28", "valid_to": null}
@@ -7532,7 +7537,9 @@
 {"etf": "Y", "exchange": "P", "name": "State Street Materials Select Sector SPDR Premium Income ETF", "provable_from": false, "test_issue": "N", "ticker": "XLBI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Materials 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XLBX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Communication Services Select Sector SPDR ETF", "provable_from": false, "test_issue": "N", "ticker": "XLC", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short Communication Services (XLC) ETNs", "provable_from": true, "test_issue": "N", "ticker": "XLCD", "valid_from": "2026-09-10", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Communication Services Select Sector SPDR Premium Income ETF", "provable_from": false, "test_issue": "N", "ticker": "XLCI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Communication Services (XLC) ETNs", "provable_from": true, "test_issue": "N", "ticker": "XLCU", "valid_from": "2026-09-10", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Energy Select Sector SPDR ETF", "provable_from": false, "test_issue": "N", "ticker": "XLE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Energy Select Sector SPDR Premium Income ETF", "provable_from": false, "test_issue": "N", "ticker": "XLEI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Energy 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XLEX", "valid_from": "2026-07-28", "valid_to": null}
@@ -7547,6 +7554,8 @@
 {"etf": "Y", "exchange": "P", "name": "State Street Technology Select Sector SPDR Premium Income ETF", "provable_from": false, "test_issue": "N", "ticker": "XLKI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Technology 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XLKX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Consumer Staples Select Sector SPDR ETF", "provable_from": false, "test_issue": "N", "ticker": "XLP", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short Consumer Staples (XLP) ETNs", "provable_from": true, "test_issue": "N", "ticker": "XLPD", "valid_from": "2026-09-10", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Consumer Staples (XLP) ETNs", "provable_from": true, "test_issue": "N", "ticker": "XLPU", "valid_from": "2026-09-10", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Consumer Staples 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XLPX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Real Estate Select Sector SPDR ETF", "provable_from": false, "test_issue": "N", "ticker": "XLRE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street Real Estate Select Sector SPDR Premium Income ETF", "provable_from": false, "test_issue": "N", "ticker": "XLRI", "valid_from": "2026-07-28", "valid_to": null}

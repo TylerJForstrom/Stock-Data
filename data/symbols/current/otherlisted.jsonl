@@ -4250,10 +4250,12 @@
 {"etf": "N", "exchange": "N", "name": "Mizuho Financial Group, Inc. Sponosred ADR (Japan)", "test_issue": "N", "ticker": "MFG"}
 {"etf": "N", "exchange": "N", "name": "Aberdeen Municipal Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "MFM"}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Core Plus Bond ETF", "test_issue": "N", "ticker": "MFSB"}
+{"etf": "Y", "exchange": "P", "name": "MFS Active Short Duration Income ETF", "test_issue": "N", "ticker": "MFSD"}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Growth ETF", "test_issue": "N", "ticker": "MFSG"}
 {"etf": "Y", "exchange": "N", "name": "MFS Active International ETF", "test_issue": "N", "ticker": "MFSI"}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Intermediate Muni Bond ETF", "test_issue": "N", "ticker": "MFSM"}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Value ETF", "test_issue": "N", "ticker": "MFSV"}
+{"etf": "Y", "exchange": "P", "name": "MFS Active Short Muni Bond ETF", "test_issue": "N", "ticker": "MFSX"}
 {"etf": "Y", "exchange": "Z", "name": "Mindful Conservative ETF", "test_issue": "N", "ticker": "MFUL"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF", "test_issue": "N", "ticker": "MFUS"}
 {"etf": "Y", "exchange": "Z", "name": "Cambria Chesapeake Pure Trend ETF", "test_issue": "N", "ticker": "MFUT"}
@@ -4668,7 +4670,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify National Muni Bond ETF", "test_issue": "N", "ticker": "NMB"}
 {"etf": "Y", "exchange": "P", "name": "NovaTide Flexible Allocation ETF", "test_issue": "N", "ticker": "NMBL"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Common Shares", "test_issue": "N", "ticker": "NMCO"}
-{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued", "test_issue": "N", "ticker": "NMCO.V"}
+{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights", "test_issue": "N", "ticker": "NMCO.R"}
 {"etf": "N", "exchange": "N", "name": "Nouveau Monde Graphite Inc. Common Shares", "test_issue": "N", "ticker": "NMG"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Income Fund, Inc. Common Stock", "test_issue": "N", "ticker": "NMI"}
 {"etf": "N", "exchange": "A", "name": "Neuberger Energy Infrastructure and Income Fund Inc. Common Stock", "test_issue": "N", "ticker": "NML"}
@@ -4711,6 +4713,7 @@
 {"etf": "N", "exchange": "N", "name": "NET Power Inc. Class A Common Stock", "test_issue": "N", "ticker": "NPWR"}
 {"etf": "N", "exchange": "N", "name": "NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50", "test_issue": "N", "ticker": "NPWR.W"}
 {"etf": "Y", "exchange": "P", "name": "Neuberger Quality Select ETF", "test_issue": "N", "ticker": "NQLT"}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America Next Generation Memory Index ETF", "test_issue": "N", "ticker": "NRAM"}
 {"etf": "N", "exchange": "N", "name": "Nerdy Inc. Class A Common Stock", "test_issue": "N", "ticker": "NRDY"}
 {"etf": "N", "exchange": "N", "name": "NexPoint Real Estate Finance, Inc. Common Stock", "test_issue": "N", "ticker": "NREF"}
 {"etf": "N", "exchange": "N", "name": "NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "NREF$A"}
@@ -7000,6 +7003,7 @@
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares STAR Global Buy-Write ETF", "test_issue": "N", "ticker": "VEGA"}
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI Agriculture Producers ETF", "test_issue": "N", "ticker": "VEGI"}
 {"etf": "Y", "exchange": "Z", "name": "US Vegan Climate ETF", "test_issue": "N", "ticker": "VEGN"}
+{"etf": "Y", "exchange": "Z", "name": "International Vegan Climate ETF", "test_issue": "N", "ticker": "VEGX"}
 {"etf": "N", "exchange": "N", "name": "Velocity Financial, Inc. Common Stock", "test_issue": "N", "ticker": "VEL"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long VELO ETF", "test_issue": "N", "ticker": "VELL"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Emerging Markets Dividend ETF", "test_issue": "N", "ticker": "VEM"}
@@ -7364,7 +7368,9 @@
 {"etf": "Y", "exchange": "P", "name": "State Street Materials Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLBI"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Materials 2x Daily ETF", "test_issue": "N", "ticker": "XLBX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Communication Services Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLC"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short Communication Services (XLC) ETNs", "test_issue": "N", "ticker": "XLCD"}
 {"etf": "Y", "exchange": "P", "name": "State Street Communication Services Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLCI"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Communication Services (XLC) ETNs", "test_issue": "N", "ticker": "XLCU"}
 {"etf": "Y", "exchange": "P", "name": "State Street Energy Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLE"}
 {"etf": "Y", "exchange": "P", "name": "State Street Energy Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLEI"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Energy 2x Daily ETF", "test_issue": "N", "ticker": "XLEX"}
@@ -7379,6 +7385,8 @@
 {"etf": "Y", "exchange": "P", "name": "State Street Technology Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLKI"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Technology 2x Daily ETF", "test_issue": "N", "ticker": "XLKX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Consumer Staples Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLP"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short Consumer Staples (XLP) ETNs", "test_issue": "N", "ticker": "XLPD"}
+{"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Consumer Staples (XLP) ETNs", "test_issue": "N", "ticker": "XLPU"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Consumer Staples 2x Daily ETF", "test_issue": "N", "ticker": "XLPX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Real Estate Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLRE"}
 {"etf": "Y", "exchange": "P", "name": "State Street Real Estate Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLRI"}
