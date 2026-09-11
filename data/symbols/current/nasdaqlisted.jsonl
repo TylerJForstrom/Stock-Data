@@ -48,6 +48,8 @@
 {"category": "G", "etf": "N", "name": "Averin Capital Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "ACAAW"}
 {"category": "Q", "etf": "N", "name": "ACADIA Pharmaceuticals Inc. - Common Stock", "test_issue": "N", "ticker": "ACAD"}
 {"category": "S", "etf": "N", "name": "Aurora Cannabis Inc. - Common Shares", "test_issue": "N", "ticker": "ACB"}
+{"category": "G", "etf": "Y", "name": "Pacer Metaurus Enhanced Core Income Autocallable ETF", "test_issue": "N", "ticker": "ACBE"}
+{"category": "G", "etf": "Y", "name": "Pacer Metaurus High Income Autocallable ETF", "test_issue": "N", "ticker": "ACBH"}
 {"category": "S", "etf": "N", "name": "Acco Group Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "ACCL"}
 {"category": "Q", "etf": "N", "name": "ProFrac Holding Corp. - Class A Common Stock", "test_issue": "N", "ticker": "ACDC"}
 {"category": "G", "etf": "Y", "name": "ARS Core Equity Portfolio ETF", "test_issue": "N", "ticker": "ACEP"}
@@ -180,12 +182,14 @@
 {"category": "S", "etf": "N", "name": "AI Financial Corporation - Common Stock", "test_issue": "N", "ticker": "AIFC"}
 {"category": "G", "etf": "Y", "name": "TCW Artificial Intelligence ETF", "test_issue": "N", "ticker": "AIFD"}
 {"category": "S", "etf": "N", "name": "Firefly Neuroscience, Inc.  - Common Stock", "test_issue": "N", "ticker": "AIFF"}
+{"category": "G", "etf": "Y", "name": "Defiance Global Foundries ETF", "test_issue": "N", "ticker": "AIFR"}
 {"category": "Q", "etf": "N", "name": "AIFU Inc. - Class A Ordinary Share", "test_issue": "N", "ticker": "AIFU"}
 {"category": "S", "etf": "N", "name": "Robo.ai Inc. - Class B Ordinary Shares", "test_issue": "N", "ticker": "AIIO"}
 {"category": "S", "etf": "N", "name": "Robo.ai Inc. - Warrant", "test_issue": "N", "ticker": "AIIOW"}
 {"category": "S", "etf": "N", "name": "Air Global PLC - Ordinary shares", "test_issue": "N", "ticker": "AIIR"}
 {"category": "S", "etf": "N", "name": "Ainos, Inc. - Common Stock", "test_issue": "N", "ticker": "AIMD"}
 {"category": "S", "etf": "N", "name": "Ainos, Inc. - warrants", "test_issue": "N", "ticker": "AIMDW"}
+{"category": "G", "etf": "Y", "name": "Defiance AI Magnificent 10 ETF", "test_issue": "N", "ticker": "AIMG"}
 {"category": "G", "etf": "Y", "name": "Acuitas Small Cap Active ETF", "test_issue": "N", "ticker": "AIMS"}
 {"category": "G", "etf": "Y", "name": "Defiance Inference AI Chip ETF", "test_issue": "N", "ticker": "AINF"}
 {"category": "S", "etf": "N", "name": "AIOS Tech Inc. - Class A Common Shares", "test_issue": "N", "ticker": "AIOS"}
@@ -786,7 +790,9 @@
 {"category": "G", "etf": "N", "name": "ProCap Financial, Inc. - Common Stock", "test_issue": "N", "ticker": "BRR"}
 {"category": "G", "etf": "Y", "name": "Coinshares Bitcoin ETF", "test_issue": "N", "ticker": "BRRR"}
 {"category": "S", "etf": "N", "name": "ProCap Financial, Inc. - Warrant.", "test_issue": "N", "ticker": "BRRWW"}
+{"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "BRTM"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Units", "test_issue": "N", "ticker": "BRTMU"}
+{"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Warrants", "test_issue": "N", "ticker": "BRTMW"}
 {"category": "G", "etf": "Y", "name": "iShares Total Return Active ETF", "test_issue": "N", "ticker": "BRTR"}
 {"category": "S", "etf": "N", "name": "BioRestorative Therapies, Inc. - Common Stock", "test_issue": "N", "ticker": "BRTX"}
 {"category": "G", "etf": "N", "name": "Boost Run Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRUN"}
@@ -1213,6 +1219,7 @@
 {"category": "G", "etf": "N", "name": "Crown Reserve Acquisition Corp. I - Unit", "test_issue": "N", "ticker": "CRACU"}
 {"category": "G", "etf": "N", "name": "Crown Reserve Acquisition Corp. I - Warrant", "test_issue": "N", "ticker": "CRACW"}
 {"category": "Q", "etf": "N", "name": "CRA International,Inc. - Common Stock", "test_issue": "N", "ticker": "CRAI"}
+{"category": "G", "etf": "Y", "name": "Defiance China Memory ETF", "test_issue": "N", "ticker": "CRAM"}
 {"category": "G", "etf": "N", "name": "Crane Harbor Acquisition Corp. II - Class A Ordinary Shares", "test_issue": "N", "ticker": "CRAN"}
 {"category": "G", "etf": "N", "name": "Crane Harbor Acquisition Corp. II - Rights", "test_issue": "N", "ticker": "CRANR"}
 {"category": "G", "etf": "N", "name": "Crane Harbor Acquisition Corp. II - Units", "test_issue": "N", "ticker": "CRANU"}
@@ -4773,6 +4780,7 @@
 {"category": "Q", "etf": "N", "name": "Skyworks Solutions, Inc. - Common Stock", "test_issue": "N", "ticker": "SWKS"}
 {"category": "S", "etf": "N", "name": "Swarmer, Inc - common stock", "test_issue": "N", "ticker": "SWMR"}
 {"category": "G", "etf": "Y", "name": "SWP Growth & Income ETF", "test_issue": "N", "ticker": "SWP"}
+{"category": "S", "etf": "N", "name": "Stewards Inc - Common Stock", "test_issue": "N", "ticker": "SWRD"}
 {"category": "S", "etf": "N", "name": "Swvl Holdings Corp - Ordinary Shares", "test_issue": "N", "ticker": "SWVL"}
 {"category": "S", "etf": "N", "name": "Swvl Holdings Corp - Warrant", "test_issue": "N", "ticker": "SWVLW"}
 {"category": "S", "etf": "N", "name": "China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "SXTC"}
@@ -5200,6 +5208,7 @@
 {"category": "S", "etf": "N", "name": "Veea Inc. - Common Stock", "test_issue": "N", "ticker": "VEEA"}
 {"category": "S", "etf": "N", "name": "Veea Inc. - Warrant", "test_issue": "N", "ticker": "VEEAW"}
 {"category": "S", "etf": "N", "name": "Twin Vee PowerCats Co. - Common Stock", "test_issue": "N", "ticker": "VEEE"}
+{"category": "G", "etf": "Y", "name": "VanEck MSCI EM Analyst Sentiment ETF", "test_issue": "N", "ticker": "VEEM"}
 {"category": "G", "etf": "Y", "name": "VanEck MSCI EAFE Analyst Sentiment ETF", "test_issue": "N", "ticker": "VEFA"}
 {"category": "S", "etf": "N", "name": "Velo3D, Inc. - Common stock", "test_issue": "N", "ticker": "VELO"}
 {"category": "Q", "etf": "N", "name": "VEON Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "VEON"}
