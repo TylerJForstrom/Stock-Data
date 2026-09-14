@@ -144,6 +144,8 @@
 {"category": "S", "etf": "N", "name": "AudioEye, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AEYE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Affinity Bancshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AFBI", "valid_from": "2026-07-28", "valid_to": "2026-08-03"}
 {"category": "G", "etf": "N", "name": "Advanced Flower Capital Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AFCG", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "First Trust Active Factor International ETF", "provable_from": true, "test_issue": "N", "ticker": "AFDM", "valid_from": "2026-09-14", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "First Trust Active Factor Emerging Markets ETF", "provable_from": true, "test_issue": "N", "ticker": "AFEM", "valid_from": "2026-09-14", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Aimei Health Technology Co., Ltd - Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "AFJK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Aimei Health Technology Co., Ltd - Right", "provable_from": false, "test_issue": "N", "ticker": "AFJKR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Aimei Health Technology Co., Ltd - Unit", "provable_from": false, "test_issue": "N", "ticker": "AFJKU", "valid_from": "2026-07-28", "valid_to": null}
@@ -461,7 +463,7 @@
 {"category": "Q", "etf": "N", "name": "AST SpaceMobile, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASTS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Asure Software Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASUR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Amtech Systems, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASYS", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "AtaiBeckley Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ATAI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "AtaiBeckley Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ATAI", "valid_from": "2026-07-28", "valid_to": "2026-09-14"}
 {"category": "Q", "etf": "N", "name": "Atour Lifestyle Holdings Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "ATAT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable COIN ETF", "provable_from": false, "test_issue": "N", "ticker": "ATC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Atlas Critical Minerals Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ATCX", "valid_from": "2026-07-28", "valid_to": null}
@@ -2858,7 +2860,7 @@
 {"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Unit", "provable_from": false, "test_issue": "N", "ticker": "KFIIU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Kestrel Group, Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Kolibri Global Energy Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "KGEI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "The Kraft Heinz Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KHC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "The Kraft Heinz Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KHC", "valid_from": "2026-07-28", "valid_to": "2026-09-14"}
 {"category": "G", "etf": "N", "name": "OrthoPediatrics Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KIDS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "KIDZ AI Inc. - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KIDZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "KIDZ AI Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "KIDZW", "valid_from": "2026-07-28", "valid_to": null}
@@ -3521,6 +3523,7 @@
 {"category": "S", "etf": "N", "name": "Nexera Technologies Ltd - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NEXRW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NextDecade Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NEXT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "New Fortress Energy Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NFE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock", "provable_from": true, "test_issue": "N", "ticker": "NFEGP", "valid_from": "2026-09-14", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Netflix, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NFLX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Harrison Street Infrastructure Active ETF", "provable_from": false, "test_issue": "N", "ticker": "NFRX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust India Nifty 50 Equal Weight ETF", "provable_from": false, "test_issue": "N", "ticker": "NFTY", "valid_from": "2026-07-28", "valid_to": null}
@@ -4369,8 +4372,8 @@
 {"category": "G", "etf": "N", "name": "RF Acquisition Corp III - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RFAM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "RF Acquisition Corp III - Rights", "provable_from": false, "test_issue": "N", "ticker": "RFAMR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "RF Acquisition Corp III - Units", "provable_from": false, "test_issue": "N", "ticker": "RFAMU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "First Trust RiverFront Dynamic Developed International ETF", "provable_from": false, "test_issue": "N", "ticker": "RFDI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "First Trust RiverFront Dynamic Emerging Markets ETF", "provable_from": false, "test_issue": "N", "ticker": "RFEM", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "First Trust RiverFront Dynamic Developed International ETF", "provable_from": false, "test_issue": "N", "ticker": "RFDI", "valid_from": "2026-07-28", "valid_to": "2026-09-14"}
+{"category": "G", "etf": "Y", "name": "First Trust RiverFront Dynamic Emerging Markets ETF", "provable_from": false, "test_issue": "N", "ticker": "RFEM", "valid_from": "2026-07-28", "valid_to": "2026-09-14"}
 {"category": "G", "etf": "N", "name": "RF Industries, Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RFIL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Regencell Bioscience Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RGC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "RGC Resources Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RGCO", "valid_from": "2026-07-28", "valid_to": null}

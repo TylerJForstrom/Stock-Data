@@ -139,6 +139,8 @@
 {"category": "Q", "etf": "N", "name": "Aeva Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "AEVA"}
 {"category": "S", "etf": "N", "name": "AudioEye, Inc. - Common Stock", "test_issue": "N", "ticker": "AEYE"}
 {"category": "G", "etf": "N", "name": "Advanced Flower Capital Inc. - Common Stock", "test_issue": "N", "ticker": "AFCG"}
+{"category": "G", "etf": "Y", "name": "First Trust Active Factor International ETF", "test_issue": "N", "ticker": "AFDM"}
+{"category": "G", "etf": "Y", "name": "First Trust Active Factor Emerging Markets ETF", "test_issue": "N", "ticker": "AFEM"}
 {"category": "G", "etf": "N", "name": "Aimei Health Technology Co., Ltd - Ordinary Share", "test_issue": "N", "ticker": "AFJK"}
 {"category": "G", "etf": "N", "name": "Aimei Health Technology Co., Ltd - Right", "test_issue": "N", "ticker": "AFJKR"}
 {"category": "G", "etf": "N", "name": "Aimei Health Technology Co., Ltd - Unit", "test_issue": "N", "ticker": "AFJKU"}
@@ -444,7 +446,6 @@
 {"category": "Q", "etf": "N", "name": "AST SpaceMobile, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "ASTS"}
 {"category": "S", "etf": "N", "name": "Asure Software Inc - Common Stock", "test_issue": "N", "ticker": "ASUR"}
 {"category": "Q", "etf": "N", "name": "Amtech Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "ASYS"}
-{"category": "G", "etf": "N", "name": "AtaiBeckley Inc. - Common Stock", "test_issue": "N", "ticker": "ATAI"}
 {"category": "Q", "etf": "N", "name": "Atour Lifestyle Holdings Limited - American Depositary Shares", "test_issue": "N", "ticker": "ATAT"}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable COIN ETF", "test_issue": "N", "ticker": "ATC"}
 {"category": "S", "etf": "N", "name": "Atlas Critical Minerals Corporation - Common Stock", "test_issue": "N", "ticker": "ATCX"}
@@ -2771,7 +2772,6 @@
 {"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Unit", "test_issue": "N", "ticker": "KFIIU"}
 {"category": "S", "etf": "N", "name": "Kestrel Group, Ltd. - Common Stock", "test_issue": "N", "ticker": "KG"}
 {"category": "S", "etf": "N", "name": "Kolibri Global Energy Inc. - Common stock", "test_issue": "N", "ticker": "KGEI"}
-{"category": "Q", "etf": "N", "name": "The Kraft Heinz Company - Common Stock", "test_issue": "N", "ticker": "KHC"}
 {"category": "G", "etf": "N", "name": "OrthoPediatrics Corp. - Common Stock", "test_issue": "N", "ticker": "KIDS"}
 {"category": "S", "etf": "N", "name": "KIDZ AI Inc. - Class B Common Stock", "test_issue": "N", "ticker": "KIDZ"}
 {"category": "S", "etf": "N", "name": "KIDZ AI Inc. - Warrants", "test_issue": "N", "ticker": "KIDZW"}
@@ -3413,6 +3413,7 @@
 {"category": "S", "etf": "N", "name": "Nexera Technologies Ltd - Warrant", "test_issue": "N", "ticker": "NEXRW"}
 {"category": "S", "etf": "N", "name": "NextDecade Corporation - Common Stock", "test_issue": "N", "ticker": "NEXT"}
 {"category": "Q", "etf": "N", "name": "New Fortress Energy Inc. - Class A Common Stock", "test_issue": "N", "ticker": "NFE"}
+{"category": "Q", "etf": "N", "name": "New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock", "test_issue": "N", "ticker": "NFEGP"}
 {"category": "Q", "etf": "N", "name": "Netflix, Inc. - Common Stock", "test_issue": "N", "ticker": "NFLX"}
 {"category": "G", "etf": "Y", "name": "Harrison Street Infrastructure Active ETF", "test_issue": "N", "ticker": "NFRX"}
 {"category": "G", "etf": "Y", "name": "First Trust India Nifty 50 Equal Weight ETF", "test_issue": "N", "ticker": "NFTY"}
@@ -4246,8 +4247,6 @@
 {"category": "G", "etf": "N", "name": "RF Acquisition Corp III - Ordinary Shares", "test_issue": "N", "ticker": "RFAM"}
 {"category": "G", "etf": "N", "name": "RF Acquisition Corp III - Rights", "test_issue": "N", "ticker": "RFAMR"}
 {"category": "G", "etf": "N", "name": "RF Acquisition Corp III - Units", "test_issue": "N", "ticker": "RFAMU"}
-{"category": "G", "etf": "Y", "name": "First Trust RiverFront Dynamic Developed International ETF", "test_issue": "N", "ticker": "RFDI"}
-{"category": "G", "etf": "Y", "name": "First Trust RiverFront Dynamic Emerging Markets ETF", "test_issue": "N", "ticker": "RFEM"}
 {"category": "G", "etf": "N", "name": "RF Industries, Ltd. - Common Stock", "test_issue": "N", "ticker": "RFIL"}
 {"category": "S", "etf": "N", "name": "Regencell Bioscience Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "RGC"}
 {"category": "G", "etf": "N", "name": "RGC Resources Inc. - Common Stock", "test_issue": "N", "ticker": "RGCO"}

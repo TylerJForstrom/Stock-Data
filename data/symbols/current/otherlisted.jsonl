@@ -33,6 +33,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Abacus FCF International Leaders ETF", "test_issue": "N", "ticker": "ABLG"}
 {"etf": "Y", "exchange": "Z", "name": "Abacus FCF Small Cap Leaders ETF", "test_issue": "N", "ticker": "ABLS"}
 {"etf": "N", "exchange": "N", "name": "ABM Industries Incorporated Common Stock", "test_issue": "N", "ticker": "ABM"}
+{"etf": "Y", "exchange": "P", "name": "American Century Core Plus Income ETF", "test_issue": "N", "ticker": "ABND"}
 {"etf": "Y", "exchange": "Z", "name": "Abacus FCF Innovation Leaders ETF", "test_issue": "N", "ticker": "ABOT"}
 {"etf": "N", "exchange": "N", "name": "Arbor Realty Trust Common Stock", "test_issue": "N", "ticker": "ABR"}
 {"etf": "N", "exchange": "N", "name": "Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share", "test_issue": "N", "ticker": "ABR$D"}
@@ -994,6 +995,7 @@
 {"etf": "Y", "exchange": "P", "name": "MicroSectors FANG & Innovation 3x Leveraged ETN", "test_issue": "N", "ticker": "BULZ"}
 {"etf": "N", "exchange": "N", "name": "Burford Capital Limited Ordinary Shares", "test_issue": "N", "ticker": "BUR"}
 {"etf": "N", "exchange": "N", "name": "Burlington Stores, Inc. Common Stock", "test_issue": "N", "ticker": "BURL"}
+{"etf": "N", "exchange": "A", "name": "Nuburu, Inc. Common Stock", "test_issue": "N", "ticker": "BURU"}
 {"etf": "Y", "exchange": "Z", "name": "Brandes U.S. Value ETF", "test_issue": "N", "ticker": "BUSA"}
 {"etf": "Y", "exchange": "Z", "name": "EA Bridgeway Ultra-Small Company Market ETF", "test_issue": "N", "ticker": "BUSM"}
 {"etf": "Y", "exchange": "N", "name": "Strive Enhanced Income Short Maturity ETF", "test_issue": "N", "ticker": "BUXX"}
@@ -1060,7 +1062,7 @@
 {"etf": "N", "exchange": "A", "name": "Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares", "test_issue": "N", "ticker": "CANF"}
 {"etf": "N", "exchange": "N", "name": "Cango Inc. Class A Ordinary Shares", "test_issue": "N", "ticker": "CANG"}
 {"etf": "Y", "exchange": "Z", "name": "Alpha Architect Tail Risk ETF", "test_issue": "N", "ticker": "CAOS"}
-{"etf": "Y", "exchange": "Z", "name": "Defiance AI Capacitors Leaders ETF", "test_issue": "N", "ticker": "CAPA"}
+{"etf": "Y", "exchange": "Z", "name": "Defiance AI Capacitors & MLCC ETF", "test_issue": "N", "ticker": "CAPA"}
 {"etf": "Y", "exchange": "P", "name": "DoubleLine Shiller CAPE U.S. Equities ETF", "test_issue": "N", "ticker": "CAPE"}
 {"etf": "N", "exchange": "N", "name": "CrossAmerica Partners LP Common Units representing limited partner interests", "test_issue": "N", "ticker": "CAPL"}
 {"etf": "Y", "exchange": "P", "name": "MAX Auto Industry -3x Inverse Leveraged ETN", "test_issue": "N", "ticker": "CARD"}
@@ -1791,6 +1793,7 @@
 {"etf": "N", "exchange": "N", "name": "Del Monte Corporation Ordinary Shares", "test_issue": "N", "ticker": "DMC"}
 {"etf": "N", "exchange": "N", "name": "Western Asset Mortgage Opportunity Fund Inc. Common Stock", "test_issue": "N", "ticker": "DMO"}
 {"etf": "Y", "exchange": "P", "name": "DoubleLine Multi-Sector Income ETF", "test_issue": "N", "ticker": "DMX"}
+{"etf": "Y", "exchange": "P", "name": "Xtrackers Bloomberg Developed Markets ex US Equity ETF", "test_issue": "N", "ticker": "DMXU"}
 {"etf": "N", "exchange": "N", "name": "Ginkgo Bioworks Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "DNA"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Global ex-U.S. Quality Growth Fund", "test_issue": "N", "ticker": "DNL"}
 {"etf": "N", "exchange": "A", "name": "Denison Mines Corp Ordinary Shares (Canada)", "test_issue": "N", "ticker": "DNN"}
@@ -1917,7 +1920,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly", "test_issue": "N", "ticker": "EALT"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Emerging Markets Power Buffer ETF April", "test_issue": "N", "ticker": "EAPR"}
 {"etf": "N", "exchange": "N", "name": "Ellington Credit Company Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "EARN"}
-{"etf": "Y", "exchange": "P", "name": "Xtrackers MSCI EAFE Selection Equity ETF", "test_issue": "N", "ticker": "EASG"}
 {"etf": "N", "exchange": "N", "name": "Brinker International, Inc. Common Stock", "test_issue": "N", "ticker": "EAT"}
 {"etf": "N", "exchange": "N", "name": "Ennis, Inc. Common Stock", "test_issue": "N", "ticker": "EBF"}
 {"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Small Cap Earners ETF", "test_issue": "N", "ticker": "EBIT"}
@@ -2658,7 +2660,7 @@
 {"etf": "N", "exchange": "N", "name": "Six Flags Entertainment Corporation Common Stock New", "test_issue": "N", "ticker": "FUN"}
 {"etf": "N", "exchange": "A", "name": "Fury Gold Mines Limited Common Shares", "test_issue": "N", "ticker": "FURY"}
 {"etf": "Y", "exchange": "Z", "name": "Federated Hermes Ultrashort Bond ETF", "test_issue": "N", "ticker": "FUSD"}
-{"etf": "Y", "exchange": "P", "name": "American Century Multisector Floating Income ETF", "test_issue": "N", "ticker": "FUSI"}
+{"etf": "Y", "exchange": "P", "name": "American Century Ultrashort Income ETF", "test_issue": "N", "ticker": "FUSI"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity MSCI Utilities Index ETF", "test_issue": "N", "ticker": "FUTY"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity Value Factor ETF", "test_issue": "N", "ticker": "FVAL"}
 {"etf": "Y", "exchange": "P", "name": "First Trust VL Dividend", "test_issue": "N", "ticker": "FVD"}
@@ -2776,7 +2778,6 @@
 {"etf": "N", "exchange": "N", "name": "Gold Fields Limited American Depositary Shares", "test_issue": "N", "ticker": "GFI"}
 {"etf": "N", "exchange": "N", "name": "GFL Environmental Inc. Subordinate voting shares, no par value", "test_issue": "N", "ticker": "GFL"}
 {"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Common Shares", "test_issue": "N", "ticker": "GFR"}
-{"etf": "N", "exchange": "N", "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights", "test_issue": "N", "ticker": "GFR.R"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long GFS Daily ETF", "test_issue": "N", "ticker": "GFSG"}
 {"etf": "N", "exchange": "N", "name": "Gerdau S.A. Common Stock", "test_issue": "N", "ticker": "GGB"}
 {"etf": "N", "exchange": "N", "name": "Graco Inc. Common Stock", "test_issue": "N", "ticker": "GGG"}
@@ -3228,7 +3229,7 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Nuveen ICE High Yield Municipal Bond ETF", "test_issue": "N", "ticker": "HYMB"}
 {"etf": "Y", "exchange": "P", "name": "T-REX 2X Long SKHY Daily Target ETF", "test_issue": "N", "ticker": "HYNX"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund", "test_issue": "N", "ticker": "HYS"}
-{"etf": "Y", "exchange": "P", "name": "BondBloxx USD High Yield Bond Sector Rotation ETF", "test_issue": "N", "ticker": "HYSA"}
+{"etf": "Y", "exchange": "P", "name": "BondBloxx High Yield Income ETF", "test_issue": "N", "ticker": "HYSA"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Short Duration High Yield ETF", "test_issue": "N", "ticker": "HYSD"}
 {"etf": "N", "exchange": "N", "name": "Blackrock Corporate High Yield Fund, Inc. Common Stock", "test_issue": "N", "ticker": "HYT"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest High Yield & Target Income ETF", "test_issue": "N", "ticker": "HYTI"}
@@ -3835,6 +3836,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Kurv Gold Enhanced Income ETF", "test_issue": "N", "ticker": "KGLD"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares MSCI China Clean Technology Index ETF", "test_issue": "N", "ticker": "KGRN"}
 {"etf": "N", "exchange": "N", "name": "Kodiak Gas Services, Inc. Common Stock", "test_issue": "N", "ticker": "KGS"}
+{"etf": "N", "exchange": "N", "name": "The Kraft Heinz Company Common Stock", "test_issue": "N", "ticker": "KHC"}
 {"etf": "Y", "exchange": "Z", "name": "Kensington Hedged Premium Income ETF", "test_issue": "N", "ticker": "KHPI"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Asia Pacific High Income USD Bond ETF", "test_issue": "N", "ticker": "KHYB"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Insurance ETF", "test_issue": "N", "ticker": "KIE"}
@@ -4507,7 +4509,6 @@
 {"etf": "N", "exchange": "N", "name": "Murphy Oil Corporation Common Stock", "test_issue": "N", "ticker": "MUR"}
 {"etf": "N", "exchange": "N", "name": "Murphy USA Inc. Common Stock", "test_issue": "N", "ticker": "MUSA"}
 {"etf": "Y", "exchange": "N", "name": "TCW Multisector Credit Income ETF", "test_issue": "N", "ticker": "MUSE"}
-{"etf": "Y", "exchange": "P", "name": "American Century Multisector Income ETF", "test_issue": "N", "ticker": "MUSI"}
 {"etf": "Y", "exchange": "P", "name": "MUSQ Global Music Industry Index ETF", "test_issue": "N", "ticker": "MUSQ"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Multi-Sector Municipal Income ETF", "test_issue": "N", "ticker": "MUST"}
 {"etf": "N", "exchange": "N", "name": "McEwen Inc. Common Stock", "test_issue": "N", "ticker": "MUX"}
@@ -5267,7 +5268,7 @@
 {"etf": "Y", "exchange": "Z", "name": "PGIM S&P 500 Quarterly Buffer 20 ETF", "test_issue": "N", "ticker": "PQXX"}
 {"etf": "N", "exchange": "N", "name": "Permian Resources Corporation Class A Common Stock", "test_issue": "N", "ticker": "PR"}
 {"etf": "Y", "exchange": "P", "name": "State Street IG Public & Private ABS ETF", "test_issue": "N", "ticker": "PRAB"}
-{"etf": "Y", "exchange": "P", "name": "PlanRock Alternative Growth ETF", "test_issue": "N", "ticker": "PRAE"}
+{"etf": "Y", "exchange": "P", "name": "PlanRock Equity Plus Alternatives ETF", "test_issue": "N", "ticker": "PRAE"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Memory & Photonics ETF", "test_issue": "N", "ticker": "PRAM"}
 {"etf": "Y", "exchange": "P", "name": "FIS Christian Stock Fund", "test_issue": "N", "ticker": "PRAY"}
 {"etf": "Y", "exchange": "N", "name": "Parnassus Core Select ETF", "test_issue": "N", "ticker": "PRCS"}
@@ -6493,7 +6494,7 @@
 {"etf": "Y", "exchange": "Z", "name": "YieldMax TSLA Performance & Distribution Target 25 ETF", "test_issue": "N", "ticker": "TEST"}
 {"etf": "Y", "exchange": "Z", "name": "21Shares Ethereum ETF", "test_issue": "N", "ticker": "TETH"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long TE Daily Target ETF", "test_issue": "N", "ticker": "TEUP"}
-{"etf": "N", "exchange": "N", "name": "Teva Pharmaceutical Industries Limited American Depositary Shares", "test_issue": "N", "ticker": "TEVA"}
+{"etf": "N", "exchange": "N", "name": "Teva Pharmaceutical Industries Limited Ordinary Shares", "test_issue": "N", "ticker": "TEVA"}
 {"etf": "N", "exchange": "N", "name": "Terex Corporation Common Stock", "test_issue": "N", "ticker": "TEX"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Energy Top 5 Bull 2X ETF", "test_issue": "N", "ticker": "TEXU"}
 {"etf": "N", "exchange": "N", "name": "Truist Financial Corporation Common Stock", "test_issue": "N", "ticker": "TFC"}
@@ -6564,6 +6565,7 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Bloomberg 1a??10 Year TIPS ETF", "test_issue": "N", "ticker": "TIPX"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO Broad U.S. TIPS Index Exchange-Traded Fund", "test_issue": "N", "ticker": "TIPZ"}
 {"etf": "N", "exchange": "N", "name": "Team, Inc. Common Stock", "test_issue": "N", "ticker": "TISI"}
+{"etf": "Y", "exchange": "P", "name": "TCW Securitized Income ETF", "test_issue": "N", "ticker": "TIZE"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to January 2027", "test_issue": "N", "ticker": "TJAN"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to July 2027", "test_issue": "N", "ticker": "TJUL"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Emerging Markets Buffer ETF - June", "test_issue": "N", "ticker": "TJUN"}
