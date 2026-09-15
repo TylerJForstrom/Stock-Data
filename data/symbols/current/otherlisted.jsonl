@@ -54,7 +54,6 @@
 {"etf": "Y", "exchange": "P", "name": "American Century Large Cap Growth ETF", "test_issue": "N", "ticker": "ACGR"}
 {"etf": "N", "exchange": "N", "name": "Accendra Health, Inc. Common Stock", "test_issue": "N", "ticker": "ACH"}
 {"etf": "N", "exchange": "N", "name": "Archer Aviation Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACHR"}
-{"etf": "N", "exchange": "N", "name": "Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50", "test_issue": "N", "ticker": "ACHR.W"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ACHR 2x Daily ETF", "test_issue": "N", "ticker": "ACHX"}
 {"etf": "N", "exchange": "N", "name": "Albertsons Companies, Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACI"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Index Autocallable Income Strategy ETF", "test_issue": "N", "ticker": "ACII"}
@@ -437,6 +436,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long ASTS ETF", "test_issue": "N", "ticker": "ASTY"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long ASTS Daily Target ETF", "test_issue": "N", "ticker": "ASUP"}
 {"etf": "N", "exchange": "N", "name": "ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ", "test_issue": "N", "ticker": "ASX"}
+{"etf": "Y", "exchange": "Z", "name": "Defiance Robotics Actuators ETF", "test_issue": "N", "ticker": "AT"}
 {"etf": "N", "exchange": "A", "name": "AtlasClear Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "ATCH"}
 {"etf": "Y", "exchange": "P", "name": "REX Autocallable Income ETF", "test_issue": "N", "ticker": "ATCL"}
 {"etf": "N", "exchange": "N", "name": "A10 Networks, Inc. Common Stock", "test_issue": "N", "ticker": "ATEN"}
@@ -1459,6 +1459,7 @@
 {"etf": "Y", "exchange": "P", "name": "Columbia Core Plus Bond ETF", "test_issue": "N", "ticker": "CRXP"}
 {"etf": "N", "exchange": "N", "name": "Cosan S.A. ADS", "test_issue": "N", "ticker": "CSAN"}
 {"etf": "Y", "exchange": "P", "name": "Invesco S&P Spin-Off ETF", "test_issue": "N", "ticker": "CSD"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 15% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "CSEP"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long CLS Daily ETF", "test_issue": "N", "ticker": "CSEX"}
 {"etf": "Y", "exchange": "P", "name": "NEOS Enhanced Income 1-3 Month T-Bill ETF", "test_issue": "N", "ticker": "CSHI"}
 {"etf": "Y", "exchange": "P", "name": "iShares Dynamic Short-Term Active ETF", "test_issue": "N", "ticker": "CSHP"}
@@ -1499,6 +1500,7 @@
 {"etf": "N", "exchange": "N", "name": "CareTrust REIT, Inc. Common Stock", "test_issue": "N", "ticker": "CTRE"}
 {"etf": "N", "exchange": "N", "name": "Centuri Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "CTRI"}
 {"etf": "N", "exchange": "N", "name": "CTS Corporation Common Stock", "test_issue": "N", "ticker": "CTS"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 30% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "CTSE"}
 {"etf": "N", "exchange": "N", "name": "Corteva, Inc. Common Stock ", "test_issue": "N", "ticker": "CTVA"}
 {"etf": "Y", "exchange": "P", "name": "Common units", "test_issue": "N", "ticker": "CTWO"}
 {"etf": "N", "exchange": "N", "name": "Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034", "test_issue": "N", "ticker": "CUBB"}
@@ -2076,6 +2078,7 @@
 {"etf": "Y", "exchange": "P", "name": "Efficient Market Portfolio Plus ETF", "test_issue": "N", "ticker": "EMPB"}
 {"etf": "Y", "exchange": "P", "name": "EMQQ The Emerging Markets Internet ETF", "test_issue": "N", "ticker": "EMQQ"}
 {"etf": "N", "exchange": "N", "name": "Emerson Electric Company Common Stock", "test_issue": "N", "ticker": "EMR"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "EMSE"}
 {"etf": "Y", "exchange": "P", "name": "Matthews Emerging Markets Sustainable Future Active ETF", "test_issue": "N", "ticker": "EMSF"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Decline of the Retail Store ETF", "test_issue": "N", "ticker": "EMTY"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Emerging Markets 2x Daily ETF", "test_issue": "N", "ticker": "EMXX"}
@@ -3173,6 +3176,7 @@
 {"etf": "N", "exchange": "N", "name": "HSBC Holdings, plc. Common Stock", "test_issue": "N", "ticker": "HSBC"}
 {"etf": "Y", "exchange": "P", "name": "HSBC Holdings plc ADRhedged", "test_issue": "N", "ticker": "HSBH"}
 {"etf": "Y", "exchange": "P", "name": "iShares Currency Hedged MSCI EAFE Small-Cap ETF", "test_issue": "N", "ticker": "HSCZ"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "HSEP"}
 {"etf": "N", "exchange": "N", "name": "Himalaya Shipping Ltd. Common Shares", "test_issue": "N", "ticker": "HSHP"}
 {"etf": "N", "exchange": "A", "name": "Highlander Silver Corp. Common Shares", "test_issue": "N", "ticker": "HSLV"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Horizon Managed Volatility Small/Mid ETF", "test_issue": "N", "ticker": "HSMV"}
@@ -3332,6 +3336,7 @@
 {"etf": "Y", "exchange": "P", "name": "ALPS International Sector Dividend Dogs ETF", "test_issue": "N", "ticker": "IDOG"}
 {"etf": "N", "exchange": "A", "name": "Idaho Strategic Resources, Inc. Common Stock", "test_issue": "N", "ticker": "IDR"}
 {"etf": "Y", "exchange": "P", "name": "iShares Self-Driving EV and Tech ETF", "test_issue": "N", "ticker": "IDRV"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi International Developed Equities 15% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "IDSE"}
 {"etf": "N", "exchange": "N", "name": "IDT Corporation Class B Common Stock", "test_issue": "N", "ticker": "IDT"}
 {"etf": "Y", "exchange": "P", "name": "iShares U.S. Utilities ETF", "test_issue": "N", "ticker": "IDU"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus International Enhanced Yield ETF", "test_issue": "N", "ticker": "IDUB"}
@@ -3806,6 +3811,7 @@
 {"etf": "Y", "exchange": "P", "name": "KraneShares China Alpha Index ETF", "test_issue": "N", "ticker": "KCAI"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares California Carbon Allowance Strategy ETF", "test_issue": "N", "ticker": "KCCA"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Capital Markets ETF", "test_issue": "N", "ticker": "KCE"}
+{"etf": "Y", "exchange": "P", "name": "KICK Korea Semiconductor Index ETF", "test_issue": "N", "ticker": "KCHP"}
 {"etf": "Y", "exchange": "Z", "name": "Kurv Copper & Mining Enhanced Income ETF", "test_issue": "N", "ticker": "KCOP"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Sustainable Ultra Short Duration Index ETF", "test_issue": "N", "ticker": "KCSH"}
 {"etf": "N", "exchange": "N", "name": "Kyndryl Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "KD"}
@@ -4071,6 +4077,7 @@
 {"etf": "N", "exchange": "N", "name": "Dorian LPG Ltd. Common Stock", "test_issue": "N", "ticker": "LPG"}
 {"etf": "N", "exchange": "N", "name": "LG Display Co, Ltd AMERICAN DEPOSITORY SHARES", "test_issue": "N", "ticker": "LPL"}
 {"etf": "Y", "exchange": "P", "name": "Long Pond Real Estate Select ETF", "test_issue": "N", "ticker": "LPRE"}
+{"etf": "Y", "exchange": "P", "name": "Lone Peak SMID Value ETF", "test_issue": "N", "ticker": "LPSV"}
 {"etf": "N", "exchange": "N", "name": "Louisiana-Pacific Corporation Common Stock", "test_issue": "N", "ticker": "LPX"}
 {"etf": "Y", "exchange": "P", "name": "LG QRAFT AI-Powered U.S. Large Cap Core ETF", "test_issue": "N", "ticker": "LQAI"}
 {"etf": "Y", "exchange": "P", "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF", "test_issue": "N", "ticker": "LQD"}
@@ -5072,6 +5079,7 @@
 {"etf": "N", "exchange": "N", "name": "Pimco Corporate & Income Strategy Fund Common Stock", "test_issue": "N", "ticker": "PCN"}
 {"etf": "N", "exchange": "N", "name": "Procore Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "PCOR"}
 {"etf": "Y", "exchange": "Z", "name": "Principal Equity Premium Income ETF", "test_issue": "N", "ticker": "PCOV"}
+{"etf": "Y", "exchange": "Z", "name": "Porter & Company Property & Casualty Index ETF", "test_issue": "N", "ticker": "PCPC"}
 {"etf": "Y", "exchange": "Z", "name": "Porter & Company Porter Portfolio Index ETF", "test_issue": "N", "ticker": "PCPP"}
 {"etf": "N", "exchange": "N", "name": "PIMCO California Municipal Income Fund Common Stock", "test_issue": "N", "ticker": "PCQ"}
 {"etf": "Y", "exchange": "P", "name": "Simplify VettaFi Private Credit Strategy ETF", "test_issue": "N", "ticker": "PCR"}
@@ -5473,9 +5481,11 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - May Series", "test_issue": "N", "ticker": "QQMY"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Magnificent 7 Bear 1X ETF", "test_issue": "N", "ticker": "QQQD"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Magnificent 7 Bull 2X ETF", "test_issue": "N", "ticker": "QQQU"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "QQSE"}
 {"etf": "N", "exchange": "N", "name": "QuasarEdge Acquisition Corporation Ordinary Shares", "test_issue": "N", "ticker": "QRED"}
 {"etf": "N", "exchange": "N", "name": "QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share", "test_issue": "N", "ticker": "QRED.R"}
 {"etf": "N", "exchange": "N", "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share", "test_issue": "N", "ticker": "QRED.U"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 10% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "QSE"}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree U.S. Short Term Corporate Bond Fund", "test_issue": "N", "ticker": "QSIG"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco Galaxy Solana ETF", "test_issue": "N", "ticker": "QSOL"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Buffer ETF - September", "test_issue": "N", "ticker": "QSPT"}
@@ -5801,6 +5811,7 @@
 {"etf": "N", "exchange": "N", "name": "Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share", "test_issue": "N", "ticker": "SAGU.W"}
 {"etf": "N", "exchange": "N", "name": "Sonic Automotive, Inc. Common Stock", "test_issue": "N", "ticker": "SAH"}
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 8.00% Notes due 2027", "test_issue": "N", "ticker": "SAJ"}
+{"etf": "Y", "exchange": "P", "name": "Schroders US Autocallable Ladder Income ETF", "test_issue": "N", "ticker": "SALI"}
 {"etf": "N", "exchange": "N", "name": "Boston Beer Company, Inc. (The) Common Stock", "test_issue": "N", "ticker": "SAM"}
 {"etf": "Y", "exchange": "P", "name": "Strategas Macro Momentum ETF", "test_issue": "N", "ticker": "SAMM"}
 {"etf": "N", "exchange": "N", "name": "Samos Energy Acquisition Corporation Class A Ordinary Shares", "test_issue": "N", "ticker": "SAMO"}
@@ -5901,6 +5912,7 @@
 {"etf": "Y", "exchange": "P", "name": "Sprott Physical Copper Trust Units", "test_issue": "N", "ticker": "SCOP"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF", "test_issue": "N", "ticker": "SCOW"}
 {"etf": "Y", "exchange": "Z", "name": "Sterling Capital Short Duration Bond ETF", "test_issue": "N", "ticker": "SCSB"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "SCSE"}
 {"etf": "Y", "exchange": "Z", "name": "Sterling Capital Ultra Short Bond ETF", "test_issue": "N", "ticker": "SCUB"}
 {"etf": "Y", "exchange": "P", "name": "Schwab Ultra-Short Income ETF", "test_issue": "N", "ticker": "SCUS"}
 {"etf": "Y", "exchange": "P", "name": "Schwab High Yield Bond ETF", "test_issue": "N", "ticker": "SCYB"}
@@ -5942,6 +5954,7 @@
 {"etf": "Y", "exchange": "Z", "name": "SEI Enhanced Low Volatility U.S. Large Cap ETF", "test_issue": "N", "ticker": "SELV"}
 {"etf": "Y", "exchange": "P", "name": "Suncoast Select Growth ETF", "test_issue": "N", "ticker": "SEMG"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Select Technology ETF", "test_issue": "N", "ticker": "SEMI"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 10% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "SEPC"}
 {"etf": "Y", "exchange": "P", "name": "Shelton Equity Premium Income ETF", "test_issue": "N", "ticker": "SEPI"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Max Buffer ETF - September", "test_issue": "N", "ticker": "SEPM"}
 {"etf": "Y", "exchange": "Z", "name": "PGIM S&P 500 Buffer 12 ETF - September", "test_issue": "N", "ticker": "SEPP"}
