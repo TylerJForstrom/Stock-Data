@@ -179,6 +179,7 @@
 {"category": "G", "etf": "Y", "name": "iShares Asia 50 ETF", "test_issue": "N", "ticker": "AIA"}
 {"category": "G", "etf": "N", "name": "AIAI Holdings Corporation - Class A common stock", "test_issue": "N", "ticker": "AIAI"}
 {"category": "S", "etf": "N", "name": "Bitzero Holdings Inc. - Common Shares", "test_issue": "N", "ticker": "AIBZ"}
+{"category": "G", "etf": "Y", "name": "China AI ETF", "test_issue": "N", "ticker": "AICH"}
 {"category": "S", "etf": "N", "name": "20/20 Biolabs, Inc. - Common Stock", "test_issue": "N", "ticker": "AIDX"}
 {"category": "S", "etf": "N", "name": "All In FutureTech Alliance, Inc. - Common Stock", "test_issue": "N", "ticker": "AIFA"}
 {"category": "S", "etf": "N", "name": "AI Financial Corporation - Common Stock", "test_issue": "N", "ticker": "AIFC"}
@@ -828,6 +829,7 @@
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2032 High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "BSJW"}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2033 High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "BSJX"}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "BSJY"}
+{"category": "G", "etf": "Y", "name": "Invesco BulletShares 2036 Municipal Bond ETF", "test_issue": "N", "ticker": "BSMA"}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2026 Municipal Bond ETF", "test_issue": "N", "ticker": "BSMQ"}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2027 Municipal Bond ETF", "test_issue": "N", "ticker": "BSMR"}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2028 Municipal Bond ETF", "test_issue": "N", "ticker": "BSMS"}
@@ -1778,7 +1780,6 @@
 {"category": "Q", "etf": "N", "name": "Fidus Investment Corporation - Closed End Fund", "test_issue": "N", "ticker": "FDUS"}
 {"category": "Q", "etf": "N", "name": "5E Advanced Materials, Inc. - Common Stock", "test_issue": "N", "ticker": "FEAM"}
 {"category": "S", "etf": "N", "name": "Fenbo Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "FEBO"}
-{"category": "S", "etf": "N", "name": "ENvue Medical, Inc. - Common Stock", "test_issue": "N", "ticker": "FEED"}
 {"category": "G", "etf": "N", "name": "Frequency Electronics, Inc. - Common Stock", "test_issue": "N", "ticker": "FEIM"}
 {"category": "Q", "etf": "N", "name": "Franklin Electric Co., Inc. - Common Stock", "test_issue": "N", "ticker": "FELE"}
 {"category": "G", "etf": "Y", "name": "First Trust Emerging Markets AlphaDEX Fund", "test_issue": "N", "ticker": "FEM"}
@@ -2699,6 +2700,7 @@
 {"category": "S", "etf": "N", "name": "Aurora Mobile Limited - American Depositary Shares", "test_issue": "N", "ticker": "JG"}
 {"category": "G", "etf": "Y", "name": "JPMorgan Global Select Equity ETF", "test_issue": "N", "ticker": "JGLO"}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Global Artificial Intelligence ETF", "test_issue": "N", "ticker": "JHAI"}
+{"category": "G", "etf": "Y", "name": "Janus Henderson International Core Alpha ETF", "test_issue": "N", "ticker": "JINT"}
 {"category": "G", "etf": "Y", "name": "JPMorgan International Value ETF", "test_issue": "N", "ticker": "JIVE"}
 {"category": "Q", "etf": "N", "name": "J & J Snack Foods Corp. - Common Stock", "test_issue": "N", "ticker": "JJSF"}
 {"category": "Q", "etf": "N", "name": "Jack Henry & Associates, Inc. - Common Stock", "test_issue": "N", "ticker": "JKHY"}
@@ -2767,9 +2769,9 @@
 {"category": "G", "etf": "N", "name": "Keystone Acquisition Corp. - Unit", "test_issue": "N", "ticker": "KEYYU"}
 {"category": "G", "etf": "N", "name": "Keystone Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "KEYYW"}
 {"category": "G", "etf": "N", "name": "Kentucky First Federal Bancorp - Common Stock", "test_issue": "N", "ticker": "KFFB"}
-{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Class A Ordinary shares", "test_issue": "N", "ticker": "KFII"}
-{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Rights", "test_issue": "N", "ticker": "KFIIR"}
-{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Unit", "test_issue": "N", "ticker": "KFIIU"}
+{"category": "S", "etf": "N", "name": "K - Class A Ordinary shares", "test_issue": "N", "ticker": "KFII"}
+{"category": "S", "etf": "N", "name": "K - Rights", "test_issue": "N", "ticker": "KFIIR"}
+{"category": "S", "etf": "N", "name": "K - Unit", "test_issue": "N", "ticker": "KFIIU"}
 {"category": "S", "etf": "N", "name": "Kestrel Group, Ltd. - Common Stock", "test_issue": "N", "ticker": "KG"}
 {"category": "S", "etf": "N", "name": "Kolibri Global Energy Inc. - Common stock", "test_issue": "N", "ticker": "KGEI"}
 {"category": "G", "etf": "N", "name": "OrthoPediatrics Corp. - Common Stock", "test_issue": "N", "ticker": "KIDS"}
@@ -3464,10 +3466,10 @@
 {"category": "G", "etf": "N", "name": "Anbio Biotechnology - Class A Ordinary Shares", "test_issue": "N", "ticker": "NNNN"}
 {"category": "G", "etf": "N", "name": "NANO-X IMAGING LTD - Ordinary Shares", "test_issue": "N", "ticker": "NNOX"}
 {"category": "S", "etf": "N", "name": "NI Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "NODK"}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Common Stock", "test_issue": "N", "ticker": "NOEM"}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Right", "test_issue": "N", "ticker": "NOEMR"}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Unit", "test_issue": "N", "ticker": "NOEMU"}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "test_issue": "N", "ticker": "NOEMW"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Common Stock", "test_issue": "N", "ticker": "NOEM"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Right", "test_issue": "N", "ticker": "NOEMR"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Unit", "test_issue": "N", "ticker": "NOEMU"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "test_issue": "N", "ticker": "NOEMW"}
 {"category": "S", "etf": "N", "name": "NOMADAR Corp. - Class A Common Stock", "test_issue": "N", "ticker": "NOMA"}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Common Shares", "test_issue": "N", "ticker": "NOVT"}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Tangible Equity Units", "test_issue": "N", "ticker": "NOVTU"}
@@ -4622,7 +4624,6 @@
 {"category": "G", "etf": "N", "name": "SANUWAVE Health, Inc. - Common Stock", "test_issue": "N", "ticker": "SNWV"}
 {"category": "Q", "etf": "N", "name": "Sanofi - American Depositary Shares", "test_issue": "N", "ticker": "SNY"}
 {"category": "S", "etf": "N", "name": "Synergy CHC Corp. - Common Stock", "test_issue": "N", "ticker": "SNYR"}
-{"category": "S", "etf": "N", "name": "SOBR Safe, Inc. - Common Stock", "test_issue": "N", "ticker": "SOBR"}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Class A Ordinary Share", "test_issue": "N", "ticker": "SOCA"}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Units", "test_issue": "N", "ticker": "SOCAU"}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Warrant", "test_issue": "N", "ticker": "SOCAW"}
@@ -4995,6 +4996,7 @@
 {"category": "Q", "etf": "N", "name": "TriMas Corporation - Common Stock", "test_issue": "N", "ticker": "TRS"}
 {"category": "S", "etf": "N", "name": "Tungray Technologies Inc - Class A Ordinary Shares", "test_issue": "N", "ticker": "TRSG"}
 {"category": "Q", "etf": "N", "name": "TrustCo Bank Corp NY - Common Stock", "test_issue": "N", "ticker": "TRST"}
+{"category": "G", "etf": "N", "name": "Trio-Tech International - Common Stock", "test_issue": "N", "ticker": "TRT"}
 {"category": "G", "etf": "Y", "name": "VanEck Communication Services TruSector ETF", "test_issue": "N", "ticker": "TRUC"}
 {"category": "G", "etf": "Y", "name": "VanEck Consumer Discretionary TruSector ETF", "test_issue": "N", "ticker": "TRUD"}
 {"category": "G", "etf": "Y", "name": "VanEck Financials TruSector ETF", "test_issue": "N", "ticker": "TRUF"}
@@ -5348,6 +5350,7 @@
 {"category": "Q", "etf": "N", "name": "WEBTOON Entertainment Inc. - Common stock", "test_issue": "N", "ticker": "WBTN"}
 {"category": "S", "etf": "N", "name": "WEBUY GLOBAL LTD. - Class A Ordinary Shares", "test_issue": "N", "ticker": "WBUY"}
 {"category": "G", "etf": "Y", "name": "WisdomTree Cybersecurity Fund", "test_issue": "N", "ticker": "WCBR"}
+{"category": "S", "etf": "N", "name": "West Coast Community Bancorp - Common Stock", "test_issue": "N", "ticker": "WCCB"}
 {"category": "G", "etf": "Y", "name": "WisdomTree Cloud Computing Fund", "test_issue": "N", "ticker": "WCLD"}
 {"category": "S", "etf": "N", "name": "Wellchange Holdings Company Limited - Class A Ordinary shares", "test_issue": "N", "ticker": "WCT"}
 {"category": "G", "etf": "Y", "name": "WisdomTree Asia Defense Fund", "test_issue": "N", "ticker": "WDAF"}

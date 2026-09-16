@@ -416,6 +416,7 @@
 {"etf": "N", "exchange": "N", "name": "Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series E", "provable_from": false, "test_issue": "N", "ticker": "ASB$E", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.625% Non-Cumulative Perpetual Preferred Stock, Series F", "provable_from": false, "test_issue": "N", "ticker": "ASB$F", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033", "provable_from": false, "test_issue": "N", "ticker": "ASBA", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "American Savings Bank, N.A. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "ASBH", "valid_from": "2026-09-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Ardmore Shipping Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Allspring SMID Core ETF", "provable_from": false, "test_issue": "N", "ticker": "ASCE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X FTSE Southeast Asia ETF", "provable_from": false, "test_issue": "N", "ticker": "ASEA", "valid_from": "2026-07-28", "valid_to": null}
@@ -1008,6 +1009,7 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Laddered International Moderate Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "BUFY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Laddered Moderate Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "BUFZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "BlackRock Utility, Infrastructure & Power Opportunities Trust", "provable_from": false, "test_issue": "N", "ticker": "BUI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Rebuild America ETF", "provable_from": true, "test_issue": "N", "ticker": "BUIL", "valid_from": "2026-09-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Pacer US Cash Cows Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "BUL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors FANG & Innovation 3x Leveraged ETN", "provable_from": false, "test_issue": "N", "ticker": "BULZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Burford Capital Limited Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BUR", "valid_from": "2026-07-28", "valid_to": null}
@@ -5009,7 +5011,8 @@
 {"etf": "N", "exchange": "N", "name": "Oceaneering International, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OII", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN", "provable_from": false, "test_issue": "N", "ticker": "OILD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "ProShares K-1 Free Crude Oil ETF", "provable_from": false, "test_issue": "N", "ticker": "OILK", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Texas Capital Texas Oil Index ETF", "provable_from": false, "test_issue": "N", "ticker": "OILT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Texas Capital Texas Oil Index ETF", "provable_from": false, "test_issue": "N", "ticker": "OILT", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Oil Index ETF", "provable_from": true, "test_issue": "N", "ticker": "OILT", "valid_from": "2026-09-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN", "provable_from": false, "test_issue": "N", "ticker": "OILU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Oil States International, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OIS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "ONEOK, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OKE", "valid_from": "2026-07-28", "valid_to": null}
@@ -6854,7 +6857,7 @@
 {"etf": "N", "exchange": "N", "name": "TC Energy Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Hartford AAA CLO ETF", "provable_from": false, "test_issue": "N", "ticker": "TRPA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Xtrackers US 0-1 Year Treasury ETF", "provable_from": false, "test_issue": "N", "ticker": "TRSY", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "A", "name": "Trio-Tech International Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Trio-Tech International Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRT", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
 {"etf": "N", "exchange": "N", "name": "Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares", "provable_from": false, "test_issue": "N", "ticker": "TRTN$A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares", "provable_from": false, "test_issue": "N", "ticker": "TRTN$B", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares", "provable_from": false, "test_issue": "N", "ticker": "TRTN$C", "valid_from": "2026-07-28", "valid_to": null}
@@ -6939,7 +6942,8 @@
 {"etf": "N", "exchange": "N", "name": "TXNM Energy, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TXNM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily TXN Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "TXNU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests", "provable_from": false, "test_issue": "N", "ticker": "TXO", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Texas Capital Texas Equity Index ETF", "provable_from": false, "test_issue": "N", "ticker": "TXS", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Texas Capital Texas Equity Index ETF", "provable_from": false, "test_issue": "N", "ticker": "TXS", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Equity Index ETF", "provable_from": true, "test_issue": "N", "ticker": "TXS", "valid_from": "2026-09-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Textron Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TXT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx IR+M Tax-Aware Intermediate Duration ETF", "provable_from": false, "test_issue": "N", "ticker": "TXXI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Tri Continental Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TY", "valid_from": "2026-07-28", "valid_to": null}

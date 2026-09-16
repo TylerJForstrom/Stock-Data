@@ -410,6 +410,7 @@
 {"etf": "N", "exchange": "N", "name": "Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series E", "test_issue": "N", "ticker": "ASB$E"}
 {"etf": "N", "exchange": "N", "name": "Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.625% Non-Cumulative Perpetual Preferred Stock, Series F", "test_issue": "N", "ticker": "ASB$F"}
 {"etf": "N", "exchange": "N", "name": "Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033", "test_issue": "N", "ticker": "ASBA"}
+{"etf": "N", "exchange": "N", "name": "American Savings Bank, N.A. Common Stock", "test_issue": "N", "ticker": "ASBH"}
 {"etf": "N", "exchange": "N", "name": "Ardmore Shipping Corporation Common Stock", "test_issue": "N", "ticker": "ASC"}
 {"etf": "Y", "exchange": "P", "name": "Allspring SMID Core ETF", "test_issue": "N", "ticker": "ASCE"}
 {"etf": "Y", "exchange": "P", "name": "Global X FTSE Southeast Asia ETF", "test_issue": "N", "ticker": "ASEA"}
@@ -991,6 +992,7 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Laddered International Moderate Buffer ETF", "test_issue": "N", "ticker": "BUFY"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Laddered Moderate Buffer ETF", "test_issue": "N", "ticker": "BUFZ"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Utility, Infrastructure & Power Opportunities Trust", "test_issue": "N", "ticker": "BUI"}
+{"etf": "Y", "exchange": "Z", "name": "Rebuild America ETF", "test_issue": "N", "ticker": "BUIL"}
 {"etf": "Y", "exchange": "P", "name": "Pacer US Cash Cows Growth ETF", "test_issue": "N", "ticker": "BUL"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors FANG & Innovation 3x Leveraged ETN", "test_issue": "N", "ticker": "BULZ"}
 {"etf": "N", "exchange": "N", "name": "Burford Capital Limited Ordinary Shares", "test_issue": "N", "ticker": "BUR"}
@@ -4895,7 +4897,7 @@
 {"etf": "N", "exchange": "N", "name": "Oceaneering International, Inc. Common Stock", "test_issue": "N", "ticker": "OII"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN", "test_issue": "N", "ticker": "OILD"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares K-1 Free Crude Oil ETF", "test_issue": "N", "ticker": "OILK"}
-{"etf": "Y", "exchange": "P", "name": "Texas Capital Texas Oil Index ETF", "test_issue": "N", "ticker": "OILT"}
+{"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Oil Index ETF", "test_issue": "N", "ticker": "OILT"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN", "test_issue": "N", "ticker": "OILU"}
 {"etf": "N", "exchange": "N", "name": "Oil States International, Inc. Common Stock", "test_issue": "N", "ticker": "OIS"}
 {"etf": "N", "exchange": "N", "name": "ONEOK, Inc. Common Stock", "test_issue": "N", "ticker": "OKE"}
@@ -6701,7 +6703,6 @@
 {"etf": "N", "exchange": "N", "name": "TC Energy Corporation Common Stock", "test_issue": "N", "ticker": "TRP"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford AAA CLO ETF", "test_issue": "N", "ticker": "TRPA"}
 {"etf": "Y", "exchange": "Z", "name": "Xtrackers US 0-1 Year Treasury ETF", "test_issue": "N", "ticker": "TRSY"}
-{"etf": "N", "exchange": "A", "name": "Trio-Tech International Common Stock", "test_issue": "N", "ticker": "TRT"}
 {"etf": "N", "exchange": "N", "name": "Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares", "test_issue": "N", "ticker": "TRTN$A"}
 {"etf": "N", "exchange": "N", "name": "Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares", "test_issue": "N", "ticker": "TRTN$B"}
 {"etf": "N", "exchange": "N", "name": "Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares", "test_issue": "N", "ticker": "TRTN$C"}
@@ -6784,7 +6785,7 @@
 {"etf": "N", "exchange": "N", "name": "TXNM Energy, Inc. Common Stock", "test_issue": "N", "ticker": "TXNM"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily TXN Bull 2X ETF", "test_issue": "N", "ticker": "TXNU"}
 {"etf": "N", "exchange": "N", "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests", "test_issue": "N", "ticker": "TXO"}
-{"etf": "Y", "exchange": "P", "name": "Texas Capital Texas Equity Index ETF", "test_issue": "N", "ticker": "TXS"}
+{"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Equity Index ETF", "test_issue": "N", "ticker": "TXS"}
 {"etf": "N", "exchange": "N", "name": "Textron Inc. Common Stock", "test_issue": "N", "ticker": "TXT"}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx IR+M Tax-Aware Intermediate Duration ETF", "test_issue": "N", "ticker": "TXXI"}
 {"etf": "N", "exchange": "N", "name": "Tri Continental Corporation Common Stock", "test_issue": "N", "ticker": "TY"}

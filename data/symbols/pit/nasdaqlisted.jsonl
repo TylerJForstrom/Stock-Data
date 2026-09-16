@@ -184,6 +184,7 @@
 {"category": "G", "etf": "Y", "name": "iShares Asia 50 ETF", "provable_from": false, "test_issue": "N", "ticker": "AIA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "AIAI Holdings Corporation - Class A common stock", "provable_from": false, "test_issue": "N", "ticker": "AIAI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Bitzero Holdings Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "AIBZ", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "China AI ETF", "provable_from": true, "test_issue": "N", "ticker": "AICH", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "S", "etf": "N", "name": "20/20 Biolabs, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIDX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "All In FutureTech Alliance, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIFA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "AI Financial Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIFC", "valid_from": "2026-07-28", "valid_to": null}
@@ -860,6 +861,7 @@
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2032 High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BSJW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2033 High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BSJX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BSJY", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Invesco BulletShares 2036 Municipal Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "BSMA", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2026 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BSMQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2027 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BSMR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco BulletShares 2028 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BSMS", "valid_from": "2026-07-28", "valid_to": null}
@@ -1843,7 +1845,7 @@
 {"category": "Q", "etf": "N", "name": "Fidus Investment Corporation - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "FDUS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "5E Advanced Materials, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FEAM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Fenbo Holdings Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FEBO", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "ENvue Medical, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FEED", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "ENvue Medical, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FEED", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
 {"category": "G", "etf": "N", "name": "Frequency Electronics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FEIM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Franklin Electric Co., Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FELE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust Emerging Markets AlphaDEX Fund", "provable_from": false, "test_issue": "N", "ticker": "FEM", "valid_from": "2026-07-28", "valid_to": null}
@@ -2787,6 +2789,7 @@
 {"category": "S", "etf": "N", "name": "Aurora Mobile Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "JG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "JPMorgan Global Select Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "JGLO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Global Artificial Intelligence ETF", "provable_from": false, "test_issue": "N", "ticker": "JHAI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Janus Henderson International Core Alpha ETF", "provable_from": true, "test_issue": "N", "ticker": "JINT", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "JPMorgan International Value ETF", "provable_from": false, "test_issue": "N", "ticker": "JIVE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "J & J Snack Foods Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JJSF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Jack Henry & Associates, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JKHY", "valid_from": "2026-07-28", "valid_to": null}
@@ -2855,9 +2858,12 @@
 {"category": "G", "etf": "N", "name": "Keystone Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "KEYYU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Keystone Acquisition Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "KEYYW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Kentucky First Federal Bancorp - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KFFB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "KFII", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Rights", "provable_from": false, "test_issue": "N", "ticker": "KFIIR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Unit", "provable_from": false, "test_issue": "N", "ticker": "KFIIU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "KFII", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"category": "S", "etf": "N", "name": "K - Class A Ordinary shares", "provable_from": true, "test_issue": "N", "ticker": "KFII", "valid_from": "2026-09-16", "valid_to": null}
+{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Rights", "provable_from": false, "test_issue": "N", "ticker": "KFIIR", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"category": "S", "etf": "N", "name": "K - Rights", "provable_from": true, "test_issue": "N", "ticker": "KFIIR", "valid_from": "2026-09-16", "valid_to": null}
+{"category": "G", "etf": "N", "name": "K&F Growth Acquisition Corp. II - Unit", "provable_from": false, "test_issue": "N", "ticker": "KFIIU", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"category": "S", "etf": "N", "name": "K - Unit", "provable_from": true, "test_issue": "N", "ticker": "KFIIU", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Kestrel Group, Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Kolibri Global Energy Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "KGEI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "The Kraft Heinz Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KHC", "valid_from": "2026-07-28", "valid_to": "2026-09-14"}
@@ -3575,10 +3581,14 @@
 {"category": "G", "etf": "N", "name": "Anbio Biotechnology - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NNNN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "NANO-X IMAGING LTD - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NNOX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NI Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NODK", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NOEM", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Right", "provable_from": false, "test_issue": "N", "ticker": "NOEMR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "NOEMU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NOEMW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NOEM", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "NOEM", "valid_from": "2026-09-16", "valid_to": null}
+{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Right", "provable_from": false, "test_issue": "N", "ticker": "NOEMR", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Right", "provable_from": true, "test_issue": "N", "ticker": "NOEMR", "valid_from": "2026-09-16", "valid_to": null}
+{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "NOEMU", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Unit", "provable_from": true, "test_issue": "N", "ticker": "NOEMU", "valid_from": "2026-09-16", "valid_to": null}
+{"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NOEMW", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
+{"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "NOEMW", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NOMADAR Corp. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NOMA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "NOVT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Tangible Equity Units", "provable_from": false, "test_issue": "N", "ticker": "NOVTU", "valid_from": "2026-07-28", "valid_to": null}
@@ -4753,7 +4763,7 @@
 {"category": "G", "etf": "N", "name": "SANUWAVE Health, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SNWV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Sanofi - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "SNY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Synergy CHC Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SNYR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "SOBR Safe, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SOBR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "SOBR Safe, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SOBR", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "SOCA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "SOCAU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SOCAW", "valid_from": "2026-07-28", "valid_to": null}
@@ -5139,6 +5149,7 @@
 {"category": "Q", "etf": "N", "name": "TriMas Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Tungray Technologies Inc - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "TRSG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "TrustCo Bank Corp NY - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRST", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Trio-Tech International - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "TRT", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "VanEck Communication Services TruSector ETF", "provable_from": false, "test_issue": "N", "ticker": "TRUC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "VanEck Consumer Discretionary TruSector ETF", "provable_from": false, "test_issue": "N", "ticker": "TRUD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "VanEck Financials TruSector ETF", "provable_from": false, "test_issue": "N", "ticker": "TRUF", "valid_from": "2026-07-28", "valid_to": null}
@@ -5500,6 +5511,7 @@
 {"category": "Q", "etf": "N", "name": "WEBTOON Entertainment Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "WBTN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "WEBUY GLOBAL LTD. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WBUY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "WisdomTree Cybersecurity Fund", "provable_from": false, "test_issue": "N", "ticker": "WCBR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "West Coast Community Bancorp - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "WCCB", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "WisdomTree Cloud Computing Fund", "provable_from": false, "test_issue": "N", "ticker": "WCLD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Wellchange Holdings Company Limited - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "WCT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "WisdomTree Asia Defense Fund", "provable_from": false, "test_issue": "N", "ticker": "WDAF", "valid_from": "2026-07-28", "valid_to": null}
