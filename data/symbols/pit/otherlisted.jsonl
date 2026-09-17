@@ -971,7 +971,8 @@
 {"etf": "Y", "exchange": "P", "name": "Beacon Tactical Alternatives Risk ETF", "provable_from": true, "test_issue": "N", "ticker": "BTA", "valid_from": "2026-08-25", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "AGF U.S. Market Neutral Anti-Beta Fund", "provable_from": false, "test_issue": "N", "ticker": "BTAL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Mini Trust (BTC)", "provable_from": false, "test_issue": "N", "ticker": "BTC", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "BTCC", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "BTCC", "valid_from": "2026-07-28", "valid_to": "2026-09-17"}
+{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin High Income ETF", "provable_from": true, "test_issue": "N", "ticker": "BTCC", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "NEOS Bitcoin High Income ETF", "provable_from": false, "test_issue": "N", "ticker": "BTCI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "7RCC Spot Bitcoin and Carbon Credit Futures ETF", "provable_from": false, "test_issue": "N", "ticker": "BTCK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "T-Rex 2X Long Bitcoin Daily Target ETF", "provable_from": false, "test_issue": "N", "ticker": "BTCL", "valid_from": "2026-07-28", "valid_to": null}
@@ -1196,6 +1197,7 @@
 {"etf": "Y", "exchange": "P", "name": "Capital Group Conservative Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "CGCV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Dividend Growers ETF", "provable_from": false, "test_issue": "N", "ticker": "CGDG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Dividend Value ETF", "provable_from": false, "test_issue": "N", "ticker": "CGDV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "CG Flagship Equity ETF", "provable_from": true, "test_issue": "N", "ticker": "CGFS", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Global Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "CGGE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Capital Group U.S. Large Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "CGGG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Global Growth Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "CGGO", "valid_from": "2026-07-28", "valid_to": null}
@@ -2217,7 +2219,8 @@
 {"etf": "N", "exchange": "N", "name": "Energy Transfer LP Common Units ", "provable_from": false, "test_issue": "N", "ticker": "ET", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units", "provable_from": false, "test_issue": "N", "ticker": "ET$I", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "ETB", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Grayscale Ethereum Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "ETCO", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Grayscale Ethereum Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "ETCO", "valid_from": "2026-07-28", "valid_to": "2026-09-17"}
+{"etf": "Y", "exchange": "P", "name": "Grayscale Ethereum High Income ETF", "provable_from": true, "test_issue": "N", "ticker": "ETCO", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Ethan Allen Interiors Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ETD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Fundsmith Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "ETFT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "ETG", "valid_from": "2026-07-28", "valid_to": null}
@@ -3254,6 +3257,7 @@
 {"etf": "N", "exchange": "N", "name": "HubSpot, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HUBS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Shipping & Global Logistics ETF", "provable_from": false, "test_issue": "N", "ticker": "HULL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Humana Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HUM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "800VDC AI Datacenter Ecosystem ETF", "provable_from": true, "test_issue": "N", "ticker": "HUMM", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Humanoid Robotics ETF", "provable_from": false, "test_issue": "N", "ticker": "HUMN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Huntsman Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HUN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "First Trust Horizon Managed Volatility Domestic ETF", "provable_from": false, "test_issue": "N", "ticker": "HUSV", "valid_from": "2026-07-28", "valid_to": null}
@@ -3268,6 +3272,7 @@
 {"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Managed Futures Strategy ETF", "provable_from": true, "test_issue": "N", "ticker": "HXF", "valid_from": "2026-09-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hexcel Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HXL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hyster-Yale, Inc. Class A common stock", "provable_from": false, "test_issue": "N", "ticker": "HY", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "provable_from": true, "test_issue": "N", "ticker": "HYAC.U", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares BB Rated Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "HYBB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "State Street Blackstone High Income ETF", "provable_from": false, "test_issue": "N", "ticker": "HYBL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "TCW High Yield Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "HYBX", "valid_from": "2026-07-28", "valid_to": null}
@@ -4474,6 +4479,7 @@
 {"etf": "Y", "exchange": "P", "name": "NYLIM Merger Arbitrage ETF", "provable_from": true, "test_issue": "N", "ticker": "MNA", "valid_from": "2026-08-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ALPS BBH Intermediate Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MNBD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs", "provable_from": true, "test_issue": "N", "ticker": "MNGU", "valid_from": "2026-08-27", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Long MANGOS Plus Daily Target ETF", "provable_from": true, "test_issue": "N", "ticker": "MNGZ", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests", "provable_from": false, "test_issue": "N", "ticker": "MNR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "MNRS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MNSO", "valid_from": "2026-07-28", "valid_to": null}
@@ -5520,6 +5526,7 @@
 {"etf": "Y", "exchange": "P", "name": "Invesco Large Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "PWB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Nomura Energy Transition ETF", "provable_from": false, "test_issue": "N", "ticker": "PWER", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Quanta Services, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PWR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "F", "name": "Westwood Salient Enhanced Power & Infrastructure ETF", "provable_from": true, "test_issue": "N", "ticker": "PWRX", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Eagle Global Renewable Energy Income ETF", "provable_from": false, "test_issue": "N", "ticker": "PWRZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Pacer WealthShield ETF", "provable_from": false, "test_issue": "N", "ticker": "PWS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Invesco Large Cap Value ETF", "provable_from": false, "test_issue": "N", "ticker": "PWV", "valid_from": "2026-07-28", "valid_to": null}

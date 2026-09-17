@@ -954,7 +954,7 @@
 {"etf": "Y", "exchange": "P", "name": "Beacon Tactical Alternatives Risk ETF", "test_issue": "N", "ticker": "BTA"}
 {"etf": "Y", "exchange": "P", "name": "AGF U.S. Market Neutral Anti-Beta Fund", "test_issue": "N", "ticker": "BTAL"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Mini Trust (BTC)", "test_issue": "N", "ticker": "BTC"}
-{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Covered Call ETF", "test_issue": "N", "ticker": "BTCC"}
+{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin High Income ETF", "test_issue": "N", "ticker": "BTCC"}
 {"etf": "Y", "exchange": "Z", "name": "NEOS Bitcoin High Income ETF", "test_issue": "N", "ticker": "BTCI"}
 {"etf": "Y", "exchange": "P", "name": "7RCC Spot Bitcoin and Carbon Credit Futures ETF", "test_issue": "N", "ticker": "BTCK"}
 {"etf": "Y", "exchange": "Z", "name": "T-Rex 2X Long Bitcoin Daily Target ETF", "test_issue": "N", "ticker": "BTCL"}
@@ -1174,6 +1174,7 @@
 {"etf": "Y", "exchange": "P", "name": "Capital Group Conservative Equity ETF", "test_issue": "N", "ticker": "CGCV"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Dividend Growers ETF", "test_issue": "N", "ticker": "CGDG"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Dividend Value ETF", "test_issue": "N", "ticker": "CGDV"}
+{"etf": "Y", "exchange": "Z", "name": "CG Flagship Equity ETF", "test_issue": "N", "ticker": "CGFS"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Global Equity ETF", "test_issue": "N", "ticker": "CGGE"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group U.S. Large Growth ETF", "test_issue": "N", "ticker": "CGGG"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Global Growth Equity ETF", "test_issue": "N", "ticker": "CGGO"}
@@ -2178,7 +2179,7 @@
 {"etf": "N", "exchange": "N", "name": "Energy Transfer LP Common Units ", "test_issue": "N", "ticker": "ET"}
 {"etf": "N", "exchange": "N", "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units", "test_issue": "N", "ticker": "ET$I"}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ETB"}
-{"etf": "Y", "exchange": "P", "name": "Grayscale Ethereum Covered Call ETF", "test_issue": "N", "ticker": "ETCO"}
+{"etf": "Y", "exchange": "P", "name": "Grayscale Ethereum High Income ETF", "test_issue": "N", "ticker": "ETCO"}
 {"etf": "N", "exchange": "N", "name": "Ethan Allen Interiors Inc. Common Stock", "test_issue": "N", "ticker": "ETD"}
 {"etf": "Y", "exchange": "P", "name": "Fundsmith Equity ETF", "test_issue": "N", "ticker": "ETFT"}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ETG"}
@@ -3198,6 +3199,7 @@
 {"etf": "N", "exchange": "N", "name": "HubSpot, Inc. Common Stock", "test_issue": "N", "ticker": "HUBS"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Shipping & Global Logistics ETF", "test_issue": "N", "ticker": "HULL"}
 {"etf": "N", "exchange": "N", "name": "Humana Inc. Common Stock", "test_issue": "N", "ticker": "HUM"}
+{"etf": "Y", "exchange": "P", "name": "800VDC AI Datacenter Ecosystem ETF", "test_issue": "N", "ticker": "HUMM"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Humanoid Robotics ETF", "test_issue": "N", "ticker": "HUMN"}
 {"etf": "N", "exchange": "N", "name": "Huntsman Corporation Common Stock", "test_issue": "N", "ticker": "HUN"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Horizon Managed Volatility Domestic ETF", "test_issue": "N", "ticker": "HUSV"}
@@ -3212,6 +3214,7 @@
 {"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Managed Futures Strategy ETF", "test_issue": "N", "ticker": "HXF"}
 {"etf": "N", "exchange": "N", "name": "Hexcel Corporation Common Stock", "test_issue": "N", "ticker": "HXL"}
 {"etf": "N", "exchange": "N", "name": "Hyster-Yale, Inc. Class A common stock", "test_issue": "N", "ticker": "HY"}
+{"etf": "N", "exchange": "N", "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "HYAC.U"}
 {"etf": "Y", "exchange": "P", "name": "iShares BB Rated Corporate Bond ETF", "test_issue": "N", "ticker": "HYBB"}
 {"etf": "Y", "exchange": "Z", "name": "State Street Blackstone High Income ETF", "test_issue": "N", "ticker": "HYBL"}
 {"etf": "Y", "exchange": "N", "name": "TCW High Yield Bond ETF", "test_issue": "N", "ticker": "HYBX"}
@@ -4372,6 +4375,7 @@
 {"etf": "Y", "exchange": "P", "name": "NYLIM Merger Arbitrage ETF", "test_issue": "N", "ticker": "MNA"}
 {"etf": "Y", "exchange": "P", "name": "ALPS BBH Intermediate Municipal Bond ETF", "test_issue": "N", "ticker": "MNBD"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs", "test_issue": "N", "ticker": "MNGU"}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Long MANGOS Plus Daily Target ETF", "test_issue": "N", "ticker": "MNGZ"}
 {"etf": "N", "exchange": "N", "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests", "test_issue": "N", "ticker": "MNR"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Miners ETF", "test_issue": "N", "ticker": "MNRS"}
 {"etf": "N", "exchange": "N", "name": "MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares", "test_issue": "N", "ticker": "MNSO"}
@@ -5394,6 +5398,7 @@
 {"etf": "Y", "exchange": "P", "name": "Invesco Large Cap Growth ETF", "test_issue": "N", "ticker": "PWB"}
 {"etf": "Y", "exchange": "P", "name": "Nomura Energy Transition ETF", "test_issue": "N", "ticker": "PWER"}
 {"etf": "N", "exchange": "N", "name": "Quanta Services, Inc. Common Stock", "test_issue": "N", "ticker": "PWR"}
+{"etf": "Y", "exchange": "F", "name": "Westwood Salient Enhanced Power & Infrastructure ETF", "test_issue": "N", "ticker": "PWRX"}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Eagle Global Renewable Energy Income ETF", "test_issue": "N", "ticker": "PWRZ"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer WealthShield ETF", "test_issue": "N", "ticker": "PWS"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Large Cap Value ETF", "test_issue": "N", "ticker": "PWV"}
