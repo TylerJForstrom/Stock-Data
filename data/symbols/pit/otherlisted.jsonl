@@ -422,6 +422,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X FTSE Southeast Asia ETF", "provable_from": false, "test_issue": "N", "ticker": "ASEA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Liberty All-Star Growth Fund, Inc.", "provable_from": false, "test_issue": "N", "ticker": "ASG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "ASGI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "ASGI.V", "valid_from": "2026-09-18", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus AlphaSimplex Global Macro ETF", "provable_from": false, "test_issue": "N", "ticker": "ASGM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Ashland Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Harvest CSI 300 China A-Shares ETF", "provable_from": false, "test_issue": "N", "ticker": "ASHR", "valid_from": "2026-07-28", "valid_to": null}
@@ -436,6 +437,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi ASML 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ASMZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Aspen Aerogels, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASPN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long ASST Daily Target ETF", "provable_from": true, "test_issue": "N", "ticker": "ASSX", "valid_from": "2026-09-18", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ASTS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Short ASTS ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ASTS 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTT", "valid_from": "2026-07-28", "valid_to": null}
@@ -3117,7 +3119,7 @@
 {"etf": "N", "exchange": "N", "name": "HCI Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion HCM Tactical Enhanced US ETF", "provable_from": false, "test_issue": "N", "ticker": "HCMT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Core Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "HCRB", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "A", "name": "Healthy Choice Wellness Corp. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCWC", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Healthy Choice Wellness Corp. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCWC", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
 {"etf": "N", "exchange": "N", "name": "Hercules Capital, Inc. 6.25% Notes due 2033", "provable_from": false, "test_issue": "N", "ticker": "HCXY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Home Depot, Inc. (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "HDFC Bank Limited Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HDB", "valid_from": "2026-07-28", "valid_to": null}
@@ -3215,6 +3217,7 @@
 {"etf": "Y", "exchange": "P", "name": "YieldMax HOOD Option Income Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "HOOY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Short HOOD ETF", "provable_from": false, "test_issue": "N", "ticker": "HOOZ", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"etf": "N", "exchange": "N", "name": "Hornbeck Offshore Services, Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "HOS", "valid_from": "2026-09-02", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Host Digital Inc. Class A Common Stock", "provable_from": true, "test_issue": "N", "ticker": "HOST", "valid_from": "2026-09-18", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hovnanian Enterprises, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HOV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Helmerich & Payne, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hewlett Packard Enterprise Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HPE", "valid_from": "2026-07-28", "valid_to": null}
@@ -3482,7 +3485,8 @@
 {"etf": "Y", "exchange": "P", "name": "First Trust Innovation Leaders ETF", "provable_from": false, "test_issue": "N", "ticker": "ILDR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares Latin America 40 ETF", "provable_from": false, "test_issue": "N", "ticker": "ILF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "AB International Low Volatility Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "ILOW", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Brookmont Catastrophic Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "ILS", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Brookmont Catastrophic Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "ILS", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
+{"etf": "Y", "exchange": "F", "name": "Brookmont Catastrophic Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "ILS", "valid_from": "2026-09-18", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 10  Year USD Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "ILTB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Innovator International Developed Power Buffer ETF  March", "provable_from": false, "test_issue": "N", "ticker": "IMAR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Imax Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IMAX", "valid_from": "2026-07-28", "valid_to": null}
@@ -5975,7 +5979,7 @@
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp New", "provable_from": false, "test_issue": "N", "ticker": "SAR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "StandardAero, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SARO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "M.D. Sass Concentrated Value ETF", "provable_from": false, "test_issue": "N", "ticker": "SASS", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 6.00% Notes due 2027", "provable_from": false, "test_issue": "N", "ticker": "SAT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 6.00% Notes due 2027", "provable_from": false, "test_issue": "N", "ticker": "SAT", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco Alerian Galaxy Crypto Economy ETF", "provable_from": false, "test_issue": "N", "ticker": "SATO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Small Cap Moderate Buffer ETF - August", "provable_from": false, "test_issue": "N", "ticker": "SAUG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 7.50% Notes due 2031", "provable_from": false, "test_issue": "N", "ticker": "SAV", "valid_from": "2026-07-28", "valid_to": null}

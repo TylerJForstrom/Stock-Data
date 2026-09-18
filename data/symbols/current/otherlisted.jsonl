@@ -416,6 +416,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X FTSE Southeast Asia ETF", "test_issue": "N", "ticker": "ASEA"}
 {"etf": "N", "exchange": "N", "name": "Liberty All-Star Growth Fund, Inc.", "test_issue": "N", "ticker": "ASG"}
 {"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ASGI"}
+{"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued", "test_issue": "N", "ticker": "ASGI.V"}
 {"etf": "Y", "exchange": "P", "name": "Virtus AlphaSimplex Global Macro ETF", "test_issue": "N", "ticker": "ASGM"}
 {"etf": "N", "exchange": "N", "name": "Ashland Inc. Common Stock", "test_issue": "N", "ticker": "ASH"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Harvest CSI 300 China A-Shares ETF", "test_issue": "N", "ticker": "ASHR"}
@@ -430,6 +431,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi ASML 2x Daily ETF", "test_issue": "N", "ticker": "ASMZ"}
 {"etf": "N", "exchange": "N", "name": "Aspen Aerogels, Inc. Common Stock", "test_issue": "N", "ticker": "ASPN"}
 {"etf": "N", "exchange": "N", "name": "Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock", "test_issue": "N", "ticker": "ASR"}
+{"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long ASST Daily Target ETF", "test_issue": "N", "ticker": "ASSX"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ASTS Daily ETF", "test_issue": "N", "ticker": "ASTG"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Short ASTS ETF", "test_issue": "N", "ticker": "ASTN"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ASTS 2x Daily ETF", "test_issue": "N", "ticker": "ASTT"}
@@ -3062,7 +3064,6 @@
 {"etf": "N", "exchange": "N", "name": "HCI Group, Inc. Common Stock", "test_issue": "N", "ticker": "HCI"}
 {"etf": "Y", "exchange": "P", "name": "Direxion HCM Tactical Enhanced US ETF", "test_issue": "N", "ticker": "HCMT"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Core Bond ETF", "test_issue": "N", "ticker": "HCRB"}
-{"etf": "N", "exchange": "A", "name": "Healthy Choice Wellness Corp. Class A Common Stock", "test_issue": "N", "ticker": "HCWC"}
 {"etf": "N", "exchange": "N", "name": "Hercules Capital, Inc. 6.25% Notes due 2033", "test_issue": "N", "ticker": "HCXY"}
 {"etf": "N", "exchange": "N", "name": "Home Depot, Inc. (The) Common Stock", "test_issue": "N", "ticker": "HD"}
 {"etf": "N", "exchange": "N", "name": "HDFC Bank Limited Common Stock", "test_issue": "N", "ticker": "HDB"}
@@ -3157,6 +3158,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Roundhill HOOD WeeklyPay ETF", "test_issue": "N", "ticker": "HOOW"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax HOOD Option Income Strategy ETF", "test_issue": "N", "ticker": "HOOY"}
 {"etf": "N", "exchange": "N", "name": "Hornbeck Offshore Services, Inc. Common Stock", "test_issue": "N", "ticker": "HOS"}
+{"etf": "N", "exchange": "A", "name": "Host Digital Inc. Class A Common Stock", "test_issue": "N", "ticker": "HOST"}
 {"etf": "N", "exchange": "N", "name": "Hovnanian Enterprises, Inc. Class A Common Stock", "test_issue": "N", "ticker": "HOV"}
 {"etf": "N", "exchange": "N", "name": "Helmerich & Payne, Inc. Common Stock", "test_issue": "N", "ticker": "HP"}
 {"etf": "N", "exchange": "N", "name": "Hewlett Packard Enterprise Company Common Stock", "test_issue": "N", "ticker": "HPE"}
@@ -3417,7 +3419,7 @@
 {"etf": "Y", "exchange": "P", "name": "First Trust Innovation Leaders ETF", "test_issue": "N", "ticker": "ILDR"}
 {"etf": "Y", "exchange": "P", "name": "iShares Latin America 40 ETF", "test_issue": "N", "ticker": "ILF"}
 {"etf": "Y", "exchange": "P", "name": "AB International Low Volatility Equity ETF", "test_issue": "N", "ticker": "ILOW"}
-{"etf": "Y", "exchange": "P", "name": "Brookmont Catastrophic Bond ETF", "test_issue": "N", "ticker": "ILS"}
+{"etf": "Y", "exchange": "F", "name": "Brookmont Catastrophic Bond ETF", "test_issue": "N", "ticker": "ILS"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 10  Year USD Bond ETF", "test_issue": "N", "ticker": "ILTB"}
 {"etf": "Y", "exchange": "P", "name": "Innovator International Developed Power Buffer ETF  March", "test_issue": "N", "ticker": "IMAR"}
 {"etf": "N", "exchange": "N", "name": "Imax Corporation Common Stock", "test_issue": "N", "ticker": "IMAX"}
@@ -5831,7 +5833,6 @@
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp New", "test_issue": "N", "ticker": "SAR"}
 {"etf": "N", "exchange": "N", "name": "StandardAero, Inc. Common Stock", "test_issue": "N", "ticker": "SARO"}
 {"etf": "Y", "exchange": "P", "name": "M.D. Sass Concentrated Value ETF", "test_issue": "N", "ticker": "SASS"}
-{"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 6.00% Notes due 2027", "test_issue": "N", "ticker": "SAT"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco Alerian Galaxy Crypto Economy ETF", "test_issue": "N", "ticker": "SATO"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Small Cap Moderate Buffer ETF - August", "test_issue": "N", "ticker": "SAUG"}
 {"etf": "N", "exchange": "N", "name": "Saratoga Investment Corp 7.50% Notes due 2031", "test_issue": "N", "ticker": "SAV"}

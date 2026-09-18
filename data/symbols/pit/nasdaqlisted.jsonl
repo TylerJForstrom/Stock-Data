@@ -695,7 +695,8 @@
 {"category": "Q", "etf": "N", "name": "BioAge Labs, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BIOA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Instinct Bio Technical Company Holdings Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "BIOT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Instinct Bio Technical Company Holdings Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BIOTW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Bioceres Crop Solutions Corp. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BIOX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Bioceres Crop Solutions Corp. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BIOX", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
+{"category": "S", "etf": "N", "name": "Bioceres Crop Solutions Corp. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BIOX", "valid_from": "2026-09-18", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST Biotech ETF", "provable_from": false, "test_issue": "N", "ticker": "BIOY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Smartbird, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BIRD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "ProShares UltraShort Nasdaq Biotechnology", "provable_from": false, "test_issue": "N", "ticker": "BIS", "valid_from": "2026-07-28", "valid_to": null}
@@ -2064,8 +2065,10 @@
 {"category": "S", "etf": "N", "name": "Futurewave Acquisition Corporation - Units", "provable_from": false, "test_issue": "N", "ticker": "FWACU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Futurewave Acquisition Corporation - Warrants", "provable_from": true, "test_issue": "N", "ticker": "FWACW", "valid_from": "2026-08-01", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Forward Industries, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FWDI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FWONA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FWONK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FWONA", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
+{"category": "Q", "etf": "N", "name": "Liberty Media Corporation - Series A Common Stock", "provable_from": true, "test_issue": "N", "ticker": "FWONA", "valid_from": "2026-09-18", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FWONK", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
+{"category": "Q", "etf": "N", "name": "Liberty Media Corporation - Series C Common Stock", "provable_from": true, "test_issue": "N", "ticker": "FWONK", "valid_from": "2026-09-18", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Forward Air Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FWRD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Watch Restaurant Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FWRG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "FortuneX Acquisition Corporation - Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "FXAC", "valid_from": "2026-07-28", "valid_to": null}
@@ -2097,8 +2100,10 @@
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GCGR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "GCGRU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "GCGRW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "GCL Global Holdings Ltd - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GCL", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "GCL Global Holdings Ltd - Warrants", "provable_from": false, "test_issue": "N", "ticker": "GCLWW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "GCL Global Holdings Ltd - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GCL", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
+{"category": "S", "etf": "N", "name": "GCL Global Holdings Ltd - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "GCL", "valid_from": "2026-09-18", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "GCL Global Holdings Ltd - Warrants", "provable_from": false, "test_issue": "N", "ticker": "GCLWW", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
+{"category": "S", "etf": "N", "name": "GCL Global Holdings Ltd - Warrants", "provable_from": true, "test_issue": "N", "ticker": "GCLWW", "valid_from": "2026-09-18", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GCM Grosvenor Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCMG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GigaCloud Technology Inc - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GCT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "GlucoTrack, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCTK", "valid_from": "2026-07-28", "valid_to": null}
@@ -4771,7 +4776,7 @@
 {"category": "S", "etf": "N", "name": "Senti Biosciences Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SNTI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SANUWAVE Health, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SNWV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Sanofi - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "SNY", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Synergy CHC Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SNYR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Synergy CHC Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SNYR", "valid_from": "2026-07-28", "valid_to": "2026-09-18"}
 {"category": "S", "etf": "N", "name": "SOBR Safe, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SOBR", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "SOCA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Solarius Capital Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "SOCAU", "valid_from": "2026-07-28", "valid_to": null}

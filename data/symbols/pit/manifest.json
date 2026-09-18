@@ -3,16 +3,16 @@
   "event_ordering": "events are un-applied newest-first by (date, position in the append-only events.jsonl); two snapshot runs on one UTC day emit two same-date events for one identity key, and the second must be reversed first",
   "files": [
     {
-      "bytes": 1100971,
+      "bytes": 1101981,
       "name": "nasdaqlisted.jsonl",
-      "rows": 5787,
-      "sha256": "4117eebba6103cc9570a4c46bbd34e714b1f7f3d4ade34865407fad0eaa8e00d"
+      "rows": 5792,
+      "sha256": "4279450bbb049e4257a83c9d17ab1755b6c4443cd7d0454d0a26a34226f3ae1b"
     },
     {
-      "bytes": 1509947,
+      "bytes": 1510761,
       "name": "otherlisted.jsonl",
-      "rows": 7796,
-      "sha256": "c2ff3af0677131ae7d13eb831f95ac8bb54ee98f9a308d176e4654daff0f229e"
+      "rows": 7800,
+      "sha256": "dcb004b5f252bf6c902730b228ead5a7414681b7da64171f882725b12f6c39fe"
     },
     {
       "bytes": 1613586,
@@ -27,13 +27,13 @@
       "sha256": "9f678bbee14069ad8d059fbbf01cea4d969032dcd16a1d57d12e9ae4173e57c1"
     }
   ],
-  "generated_at_utc": "2026-09-17T12:35:18Z",
+  "generated_at_utc": "2026-09-18T12:13:30Z",
   "input_sha256": {
-    "data/symbols/current/nasdaqlisted.jsonl": "f52514177a8da0a67ae83f271725ca185339276e7d51913ffa390e1e4a69c275",
-    "data/symbols/current/otherlisted.jsonl": "a4e00847159d4a9fa004ed3ee5e99a3b7c304ba84888179818e4311f9224d01e",
+    "data/symbols/current/nasdaqlisted.jsonl": "49b72792fd8c49f15c52bb4f6aae61479ce4f1d7c88b22c49110f73282a670e3",
+    "data/symbols/current/otherlisted.jsonl": "c813f8540be3f8f8adc48f2f779c1b6f2d43d0ee880064b15f8bf6155c7ecdad",
     "data/symbols/current/sec_company_tickers.jsonl": "e0927d3c026f19a22fac5bab40be3531926d6f0be9cb487176d0fbb28ac4163c",
     "data/symbols/current/sec_company_tickers_exchange.jsonl": "d5576dcf87b143e6e8b983e860dbbdb79260b29926440bc6d39eee0546eaedff",
-    "data/symbols/events/events.jsonl": "b4071d5d31d48c44c4cc3e22c654d729bc828bae4664c68a759003d37388d1e9"
+    "data/symbols/events/events.jsonl": "bf75369431cdabd7aa2bfd0bcaa824c9dc195fce28f132bfe08ba2a8fd2fc719"
   },
   "interval_semantics": "half-open: a row is the directory state for its identity key on every date D with valid_from <= D < valid_to; valid_to null means still current. Membership at asof = rows whose interval covers asof.",
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
