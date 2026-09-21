@@ -9,10 +9,10 @@
       "sha256": "6bfc19e4d9033df74973f55f70ba0f5a9e2d8281fccf795c1713ee424db8b20a"
     },
     {
-      "bytes": 1510761,
+      "bytes": 1511523,
       "name": "otherlisted.jsonl",
-      "rows": 7800,
-      "sha256": "dcb004b5f252bf6c902730b228ead5a7414681b7da64171f882725b12f6c39fe"
+      "rows": 7804,
+      "sha256": "5259918043c718681d94fabaa88170623b067f9d1ae47499e121fe3918ace84c"
     },
     {
       "bytes": 1621088,
@@ -27,13 +27,13 @@
       "sha256": "abff5477f1d3ac6a71e9c54c540cc96b9187f8bce055c25e633cfeddd9e24bdd"
     }
   ],
-  "generated_at_utc": "2026-09-20T12:20:07Z",
+  "generated_at_utc": "2026-09-21T14:06:06Z",
   "input_sha256": {
     "data/symbols/current/nasdaqlisted.jsonl": "182c0eb0429cae47fcea8fca8f6771218cf1cf23d2d62a1700a2f67f69656aa7",
-    "data/symbols/current/otherlisted.jsonl": "c813f8540be3f8f8adc48f2f779c1b6f2d43d0ee880064b15f8bf6155c7ecdad",
+    "data/symbols/current/otherlisted.jsonl": "5efe32fdb38a21ec67fbfdee363b15bcae2ba1ee83d670cea50a270bed7bb1a6",
     "data/symbols/current/sec_company_tickers.jsonl": "56e710334fd1b6a743a4b3a58d0a45188ca46bc440770b1b029ac553fc64336d",
     "data/symbols/current/sec_company_tickers_exchange.jsonl": "233f9e6e5990433f17f2b487d3e704666b7941ec0b2c49e33f2d7af4b0868598",
-    "data/symbols/events/events.jsonl": "e712afa9ca4487ee621204a7e0ae329b0484039e9deffcd80c6e88538878ca2c"
+    "data/symbols/events/events.jsonl": "87cf264810386f0acb4fafa9d04617f9b0d0921fce239190e06ecbeca68d0108"
   },
   "interval_semantics": "half-open: a row is the directory state for its identity key on every date D with valid_from <= D < valid_to; valid_to null means still current. Membership at asof = rows whose interval covers asof.",
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",

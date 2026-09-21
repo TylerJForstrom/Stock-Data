@@ -1489,7 +1489,7 @@
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long CRWV Daily Target ETF", "provable_from": false, "test_issue": "N", "ticker": "CRWU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi CRWV 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "CRWX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Columbia Core Plus Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "CRXP", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Cosan S.A. ADS", "provable_from": false, "test_issue": "N", "ticker": "CSAN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Cosan S.A. ADS", "provable_from": false, "test_issue": "N", "ticker": "CSAN", "valid_from": "2026-07-28", "valid_to": "2026-09-21"}
 {"etf": "Y", "exchange": "P", "name": "Invesco S&P Spin-Off ETF", "provable_from": false, "test_issue": "N", "ticker": "CSD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 15% Structured Buffer ETF - September Series", "provable_from": true, "test_issue": "N", "ticker": "CSEP", "valid_from": "2026-09-15", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long CLS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "CSEX", "valid_from": "2026-07-28", "valid_to": null}
@@ -1513,6 +1513,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify Managed Futures Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "CTA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $3.50 Series", "provable_from": false, "test_issue": "N", "ticker": "CTA$A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $4.50 Series", "provable_from": false, "test_issue": "N", "ticker": "CTA$B", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "F", "name": "Calamos Timpani Active SMID Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "CTAG", "valid_from": "2026-09-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify US Equity PLUS Managed Futures Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "CTAP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 30% Structured Buffer ETF - August Series", "provable_from": true, "test_issue": "N", "ticker": "CTAU", "valid_from": "2026-08-04", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Castellan Targeted Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "CTEF", "valid_from": "2026-07-28", "valid_to": null}
@@ -1856,6 +1857,7 @@
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Regional Banks Bull 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "DPST", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "DQ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June", "provable_from": false, "test_issue": "N", "ticker": "DQJN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September", "provable_from": true, "test_issue": "N", "ticker": "DQSE", "valid_from": "2026-09-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Draco Evolution AI ETF", "provable_from": false, "test_issue": "N", "ticker": "DRAI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long DRAM ETF", "provable_from": false, "test_issue": "N", "ticker": "DRAL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Memory ETF", "provable_from": false, "test_issue": "N", "ticker": "DRAM", "valid_from": "2026-07-28", "valid_to": null}
@@ -5622,6 +5624,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long QNT Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "QNTU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares Q Dynamic Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "QPX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - August Series", "provable_from": true, "test_issue": "N", "ticker": "QQAU", "valid_from": "2026-08-04", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF", "provable_from": true, "test_issue": "N", "ticker": "QQBF", "valid_from": "2026-09-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "HCM Defender 100 Index ETF", "provable_from": false, "test_issue": "N", "ticker": "QQH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series", "provable_from": false, "test_issue": "N", "ticker": "QQJL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - June Series", "provable_from": false, "test_issue": "N", "ticker": "QQJN", "valid_from": "2026-07-28", "valid_to": null}
@@ -6097,6 +6100,7 @@
 {"etf": "N", "exchange": "N", "name": "Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units", "provable_from": false, "test_issue": "N", "ticker": "SEAL$A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units", "provable_from": false, "test_issue": "N", "ticker": "SEAL$B", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Seaboard Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SEB", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Main Active Rotation ETF", "provable_from": true, "test_issue": "N", "ticker": "SECA", "valid_from": "2026-09-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "NYLI MacKay Securitized Income ETF", "provable_from": false, "test_issue": "N", "ticker": "SECR", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"etf": "Y", "exchange": "P", "name": "NYLIM MacKay Securitized Income ETF", "provable_from": true, "test_issue": "N", "ticker": "SECR", "valid_from": "2026-08-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Main Sector Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "SECT", "valid_from": "2026-07-28", "valid_to": null}

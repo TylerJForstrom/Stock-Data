@@ -5048,3 +5048,8 @@
 {"date": "2026-09-19", "event": "added", "record": {"category": "Q", "etf": "N", "name": "Orion180 Insurance Group Inc. - Class A Common Stock", "test_issue": "N", "ticker": "OIG"}, "source": "nasdaqlisted"}
 {"date": "2026-09-19", "event": "added", "record": {"category": "G", "etf": "N", "name": "Churchill Capital Corp XIII - Class A Ordinary Shares", "test_issue": "N", "ticker": "XIII"}, "source": "nasdaqlisted"}
 {"date": "2026-09-19", "event": "added", "record": {"category": "G", "etf": "N", "name": "Churchill Capital Corp XIII - Warrants", "test_issue": "N", "ticker": "XIIIW"}, "source": "nasdaqlisted"}
+{"date": "2026-09-21", "event": "added", "record": {"etf": "Y", "exchange": "F", "name": "Calamos Timpani Active SMID Growth ETF", "test_issue": "N", "ticker": "CTAG"}, "source": "otherlisted"}
+{"date": "2026-09-21", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September", "test_issue": "N", "ticker": "DQSE"}, "source": "otherlisted"}
+{"date": "2026-09-21", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF", "test_issue": "N", "ticker": "QQBF"}, "source": "otherlisted"}
+{"date": "2026-09-21", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "Main Active Rotation ETF", "test_issue": "N", "ticker": "SECA"}, "source": "otherlisted"}
+{"date": "2026-09-21", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "Cosan S.A. ADS", "test_issue": "N", "ticker": "CSAN"}, "source": "otherlisted"}

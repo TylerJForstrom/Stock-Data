@@ -1462,7 +1462,6 @@
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long CRWV Daily Target ETF", "test_issue": "N", "ticker": "CRWU"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi CRWV 2x Daily ETF", "test_issue": "N", "ticker": "CRWX"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Core Plus Bond ETF", "test_issue": "N", "ticker": "CRXP"}
-{"etf": "N", "exchange": "N", "name": "Cosan S.A. ADS", "test_issue": "N", "ticker": "CSAN"}
 {"etf": "Y", "exchange": "P", "name": "Invesco S&P Spin-Off ETF", "test_issue": "N", "ticker": "CSD"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 15% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "CSEP"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long CLS Daily ETF", "test_issue": "N", "ticker": "CSEX"}
@@ -1486,6 +1485,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify Managed Futures Strategy ETF", "test_issue": "N", "ticker": "CTA"}
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $3.50 Series", "test_issue": "N", "ticker": "CTA$A"}
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $4.50 Series", "test_issue": "N", "ticker": "CTA$B"}
+{"etf": "Y", "exchange": "F", "name": "Calamos Timpani Active SMID Growth ETF", "test_issue": "N", "ticker": "CTAG"}
 {"etf": "Y", "exchange": "P", "name": "Simplify US Equity PLUS Managed Futures Strategy ETF", "test_issue": "N", "ticker": "CTAP"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 30% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "CTAU"}
 {"etf": "Y", "exchange": "Z", "name": "Castellan Targeted Equity ETF", "test_issue": "N", "ticker": "CTEF"}
@@ -1827,6 +1827,7 @@
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Regional Banks Bull 3X ETF", "test_issue": "N", "ticker": "DPST"}
 {"etf": "N", "exchange": "N", "name": "DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares", "test_issue": "N", "ticker": "DQ"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June", "test_issue": "N", "ticker": "DQJN"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September", "test_issue": "N", "ticker": "DQSE"}
 {"etf": "Y", "exchange": "P", "name": "Draco Evolution AI ETF", "test_issue": "N", "ticker": "DRAI"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long DRAM ETF", "test_issue": "N", "ticker": "DRAL"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Memory ETF", "test_issue": "N", "ticker": "DRAM"}
@@ -5484,6 +5485,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long QNT Daily ETF", "test_issue": "N", "ticker": "QNTU"}
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares Q Dynamic Growth ETF", "test_issue": "N", "ticker": "QPX"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "QQAU"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF", "test_issue": "N", "ticker": "QQBF"}
 {"etf": "Y", "exchange": "P", "name": "HCM Defender 100 Index ETF", "test_issue": "N", "ticker": "QQH"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series", "test_issue": "N", "ticker": "QQJL"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - June Series", "test_issue": "N", "ticker": "QQJN"}
@@ -5948,6 +5950,7 @@
 {"etf": "N", "exchange": "N", "name": "Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units", "test_issue": "N", "ticker": "SEAL$A"}
 {"etf": "N", "exchange": "N", "name": "Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units", "test_issue": "N", "ticker": "SEAL$B"}
 {"etf": "N", "exchange": "A", "name": "Seaboard Corporation Common Stock", "test_issue": "N", "ticker": "SEB"}
+{"etf": "Y", "exchange": "Z", "name": "Main Active Rotation ETF", "test_issue": "N", "ticker": "SECA"}
 {"etf": "Y", "exchange": "P", "name": "NYLIM MacKay Securitized Income ETF", "test_issue": "N", "ticker": "SECR"}
 {"etf": "Y", "exchange": "Z", "name": "Main Sector Rotation ETF", "test_issue": "N", "ticker": "SECT"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Securitized Income Active ETF", "test_issue": "N", "ticker": "SECU"}

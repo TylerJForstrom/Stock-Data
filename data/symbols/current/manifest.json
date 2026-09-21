@@ -7,9 +7,9 @@
       "sha256": "182c0eb0429cae47fcea8fca8f6771218cf1cf23d2d62a1700a2f67f69656aa7"
     },
     {
-      "bytes": 939426,
+      "bytes": 939811,
       "name": "otherlisted.jsonl",
-      "sha256": "c813f8540be3f8f8adc48f2f779c1b6f2d43d0ee880064b15f8bf6155c7ecdad"
+      "sha256": "5efe32fdb38a21ec67fbfdee363b15bcae2ba1ee83d670cea50a270bed7bb1a6"
     },
     {
       "bytes": 737116,
@@ -23,16 +23,16 @@
     }
   ],
   "first_observed": {},
-  "generated_at_utc": "2026-09-20T12:20:05Z",
+  "generated_at_utc": "2026-09-21T14:06:04Z",
   "last_success": {
-    "nasdaqlisted": "2026-09-20",
-    "otherlisted": "2026-09-20",
-    "sec_company_tickers": "2026-09-20",
-    "sec_company_tickers_exchange": "2026-09-20"
+    "nasdaqlisted": "2026-09-21",
+    "otherlisted": "2026-09-21",
+    "sec_company_tickers": "2026-09-21",
+    "sec_company_tickers_exchange": "2026-09-21"
   },
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
-  "snapshot_date": "2026-09-20",
+  "snapshot_date": "2026-09-21",
   "source_urls": [
     "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",
     "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt",
