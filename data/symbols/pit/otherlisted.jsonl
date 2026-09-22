@@ -2135,6 +2135,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI Norway ETF", "provable_from": false, "test_issue": "N", "ticker": "ENOR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Enovis Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ENOV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Energizer Holdings, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ENR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Ninepoint North American Energy Independence ETF", "provable_from": true, "test_issue": "N", "ticker": "ENRG", "valid_from": "2026-09-22", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "EnerSys Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ENS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ENTG Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ENTL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Enova International, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ENVA", "valid_from": "2026-07-28", "valid_to": null}
@@ -2785,6 +2786,7 @@
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Access U.S. Aggregate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "GCOR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Global Cash Cows Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "GCOW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "Goldman Sachs Core Plus Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "GCPB", "valid_from": "2026-08-10", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Grayscale AI Compute ETF", "provable_from": true, "test_issue": "N", "ticker": "GCPU", "valid_from": "2026-09-22", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Guggenheim Ultra Short Income ETF", "provable_from": false, "test_issue": "N", "ticker": "GCSH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCTS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50", "provable_from": false, "test_issue": "N", "ticker": "GCTS.W", "valid_from": "2026-07-28", "valid_to": null}
@@ -4126,7 +4128,7 @@
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2065 Inflation-Protected Longevity Income ETF", "provable_from": false, "test_issue": "N", "ticker": "LIBD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2028 Income Bucket ETF", "provable_from": false, "test_issue": "N", "ticker": "LIFT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Lennox International, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LII", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "Z", "name": "Themes Lithium & Battery Metal Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "LIMI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Themes Lithium & Battery Metal Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "LIMI", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"etf": "N", "exchange": "N", "name": "Lionsgate Studios Corp Common Shares", "provable_from": false, "test_issue": "N", "ticker": "LION", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X Lithium & Battery Tech ETF", "provable_from": false, "test_issue": "N", "ticker": "LIT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "LITB", "valid_from": "2026-07-28", "valid_to": null}
@@ -4484,10 +4486,11 @@
 {"etf": "Y", "exchange": "P", "name": "NYLI Merger Arbitrage ETF", "provable_from": false, "test_issue": "N", "ticker": "MNA", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"etf": "Y", "exchange": "P", "name": "NYLIM Merger Arbitrage ETF", "provable_from": true, "test_issue": "N", "ticker": "MNA", "valid_from": "2026-08-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ALPS BBH Intermediate Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MNBD", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF", "provable_from": true, "test_issue": "N", "ticker": "MNGB", "valid_from": "2026-09-22", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs", "provable_from": true, "test_issue": "N", "ticker": "MNGU", "valid_from": "2026-08-27", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Long MANGOS Plus Daily Target ETF", "provable_from": true, "test_issue": "N", "ticker": "MNGZ", "valid_from": "2026-09-17", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests", "provable_from": false, "test_issue": "N", "ticker": "MNR", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "MNRS", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "MNRS", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"etf": "N", "exchange": "N", "name": "MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MNSO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi MNST 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "MNSX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "MNTN, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MNTN", "valid_from": "2026-07-28", "valid_to": null}

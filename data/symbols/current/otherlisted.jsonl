@@ -2097,6 +2097,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI Norway ETF", "test_issue": "N", "ticker": "ENOR"}
 {"etf": "N", "exchange": "N", "name": "Enovis Corporation Common Stock", "test_issue": "N", "ticker": "ENOV"}
 {"etf": "N", "exchange": "N", "name": "Energizer Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "ENR"}
+{"etf": "Y", "exchange": "P", "name": "Ninepoint North American Energy Independence ETF", "test_issue": "N", "ticker": "ENRG"}
 {"etf": "N", "exchange": "N", "name": "EnerSys Common Stock", "test_issue": "N", "ticker": "ENS"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ENTG Daily ETF", "test_issue": "N", "ticker": "ENTL"}
 {"etf": "N", "exchange": "N", "name": "Enova International, Inc. Common Stock", "test_issue": "N", "ticker": "ENVA"}
@@ -2736,6 +2737,7 @@
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Access U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "GCOR"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Global Cash Cows Dividend ETF", "test_issue": "N", "ticker": "GCOW"}
 {"etf": "Y", "exchange": "N", "name": "Goldman Sachs Core Plus Bond ETF", "test_issue": "N", "ticker": "GCPB"}
+{"etf": "Y", "exchange": "P", "name": "Grayscale AI Compute ETF", "test_issue": "N", "ticker": "GCPU"}
 {"etf": "Y", "exchange": "P", "name": "Guggenheim Ultra Short Income ETF", "test_issue": "N", "ticker": "GCSH"}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Common Stock", "test_issue": "N", "ticker": "GCTS"}
 {"etf": "N", "exchange": "N", "name": "GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50", "test_issue": "N", "ticker": "GCTS.W"}
@@ -4038,7 +4040,6 @@
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2065 Inflation-Protected Longevity Income ETF", "test_issue": "N", "ticker": "LIBD"}
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2028 Income Bucket ETF", "test_issue": "N", "ticker": "LIFT"}
 {"etf": "N", "exchange": "N", "name": "Lennox International, Inc. Common Stock", "test_issue": "N", "ticker": "LII"}
-{"etf": "Y", "exchange": "Z", "name": "Themes Lithium & Battery Metal Miners ETF", "test_issue": "N", "ticker": "LIMI"}
 {"etf": "N", "exchange": "N", "name": "Lionsgate Studios Corp Common Shares", "test_issue": "N", "ticker": "LION"}
 {"etf": "Y", "exchange": "P", "name": "Global X Lithium & Battery Tech ETF", "test_issue": "N", "ticker": "LIT"}
 {"etf": "N", "exchange": "N", "name": "LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares", "test_issue": "N", "ticker": "LITB"}
@@ -4377,10 +4378,10 @@
 {"etf": "N", "exchange": "N", "name": "Western Asset Managed Municipals Fund, Inc. Common Stock", "test_issue": "N", "ticker": "MMU"}
 {"etf": "Y", "exchange": "P", "name": "NYLIM Merger Arbitrage ETF", "test_issue": "N", "ticker": "MNA"}
 {"etf": "Y", "exchange": "P", "name": "ALPS BBH Intermediate Municipal Bond ETF", "test_issue": "N", "ticker": "MNBD"}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF", "test_issue": "N", "ticker": "MNGB"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs", "test_issue": "N", "ticker": "MNGU"}
 {"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Long MANGOS Plus Daily Target ETF", "test_issue": "N", "ticker": "MNGZ"}
 {"etf": "N", "exchange": "N", "name": "Mach Natural Resources LP Common Units representing Limited Partner Interests", "test_issue": "N", "ticker": "MNR"}
-{"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Miners ETF", "test_issue": "N", "ticker": "MNRS"}
 {"etf": "N", "exchange": "N", "name": "MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares", "test_issue": "N", "ticker": "MNSO"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi MNST 2x Daily ETF", "test_issue": "N", "ticker": "MNSX"}
 {"etf": "N", "exchange": "N", "name": "MNTN, Inc. Class A Common Stock", "test_issue": "N", "ticker": "MNTN"}

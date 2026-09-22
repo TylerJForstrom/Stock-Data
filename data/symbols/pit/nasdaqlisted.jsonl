@@ -821,9 +821,9 @@
 {"category": "S", "etf": "N", "name": "Barinthus Biotherapeutics plc - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "BRNS", "valid_from": "2026-07-28", "valid_to": "2026-09-09"}
 {"category": "S", "etf": "N", "name": "BrenX Ltd. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BRNX", "valid_from": "2026-08-14", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Burney U.S. Factor Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "BRNY", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "ProCap Financial, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "ProCap Financial, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRR", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"category": "G", "etf": "Y", "name": "Coinshares Bitcoin ETF", "provable_from": false, "test_issue": "N", "ticker": "BRRR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "ProCap Financial, Inc. - Warrant.", "provable_from": false, "test_issue": "N", "ticker": "BRRWW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "ProCap Financial, Inc. - Warrant.", "provable_from": false, "test_issue": "N", "ticker": "BRRWW", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BRTM", "valid_from": "2026-09-11", "valid_to": null}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "BRTMU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "BRTMW", "valid_from": "2026-09-11", "valid_to": null}
@@ -1723,6 +1723,7 @@
 {"category": "G", "etf": "Y", "name": "VanEck Video Gaming and eSports ETF", "provable_from": false, "test_issue": "N", "ticker": "ESPO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Esquire Financial Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ESQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Establishment Labs Holdings Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "ESTA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "EnerSyn Global Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "ESYN", "valid_from": "2026-09-22", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Breakthrough Environmental Solutions ETF", "provable_from": false, "test_issue": "N", "ticker": "ETEC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Ethereum Trust ETF", "provable_from": false, "test_issue": "N", "ticker": "ETHA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Staked Ethereum Trust ETF", "provable_from": false, "test_issue": "N", "ticker": "ETHB", "valid_from": "2026-07-28", "valid_to": null}
@@ -2482,7 +2483,7 @@
 {"category": "Q", "etf": "N", "name": "Hancock Whitney Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HWC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060", "provable_from": false, "test_issue": "N", "ticker": "HWCPZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Global Value Fund", "provable_from": true, "test_issue": "N", "ticker": "HWGV", "valid_from": "2026-08-27", "valid_to": null}
-{"category": "S", "etf": "N", "name": "HWH International Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HWH", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "HWH International Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HWH", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley International Value Fund", "provable_from": false, "test_issue": "N", "ticker": "HWIV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Hawkins, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HWKN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Opportunities Fund", "provable_from": false, "test_issue": "N", "ticker": "HWO", "valid_from": "2026-07-28", "valid_to": null}
@@ -3021,7 +3022,7 @@
 {"category": "Q", "etf": "N", "name": "Littelfuse, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LFUS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Lifevantage Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LFVN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Lifeward Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "LFWD", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "Themes US Cash Flow Champions ETF", "provable_from": false, "test_issue": "N", "ticker": "LGCF", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Themes US Cash Flow Champions ETF", "provable_from": false, "test_issue": "N", "ticker": "LGCF", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"category": "S", "etf": "N", "name": "Lucas GC Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "LGCL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "JPMorgan Fundamental Data Science Large Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "LGDS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Lion Group Holding Ltd. - American Depositary Share", "provable_from": false, "test_issue": "N", "ticker": "LGHL", "valid_from": "2026-07-28", "valid_to": null}
@@ -3554,9 +3555,9 @@
 {"category": "S", "etf": "N", "name": "NervGen Pharma Corp. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "NGEN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Nicholas Bitcoin and Treasuries AfterDark ETF", "provable_from": false, "test_issue": "N", "ticker": "NGHT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Neurogene Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NGNE", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "NHIC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Units", "provable_from": false, "test_issue": "N", "ticker": "NHICU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NHICW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "NHIC", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
+{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Units", "provable_from": false, "test_issue": "N", "ticker": "NHICU", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
+{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NHICW", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NHIV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Units", "provable_from": false, "test_issue": "N", "ticker": "NHIVU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NHIVW", "valid_from": "2026-07-28", "valid_to": null}
@@ -3689,6 +3690,8 @@
 {"category": "G", "etf": "N", "name": "NOVONIX Limited - American Depository Shares", "provable_from": false, "test_issue": "N", "ticker": "NVX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST NVDA ETF", "provable_from": false, "test_issue": "N", "ticker": "NVYY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Northwest Bancshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWBI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "newcleo plc - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "NWCL", "valid_from": "2026-09-22", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "newcleo plc - Warrants", "provable_from": true, "test_issue": "N", "ticker": "NWCLW", "valid_from": "2026-09-22", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "NorthWestern Energy Group, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Norwood Financial Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWFL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "CL Workshop Group Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "NWGL", "valid_from": "2026-07-28", "valid_to": null}
@@ -4265,6 +4268,7 @@
 {"category": "G", "etf": "Y", "name": "Invesco ESG NASDAQ 100 ETF", "provable_from": false, "test_issue": "N", "ticker": "QQMG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco QQQ Trust, Series 1", "provable_from": false, "test_issue": "N", "ticker": "QQQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "ProShares Nasdaq-100 Dorsey Wright Momentum ETF", "provable_from": false, "test_issue": "N", "ticker": "QQQA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF", "provable_from": true, "test_issue": "N", "ticker": "QQQB", "valid_from": "2026-09-22", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Direxion NASDAQ-100 Equal Weighted Index ETF", "provable_from": false, "test_issue": "N", "ticker": "QQQE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF", "provable_from": false, "test_issue": "N", "ticker": "QQQG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "NEOS Nasdaq-100 Hedged Equity Income ETF", "provable_from": false, "test_issue": "N", "ticker": "QQQH", "valid_from": "2026-07-28", "valid_to": null}
@@ -4737,7 +4741,7 @@
 {"category": "S", "etf": "N", "name": "Silexion Therapeutics Corp - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SLXN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Silexion Therapeutics Corp - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SLXNW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Southern Missouri Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SMBC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "Themes US Small Cap Cash Flow Champions ETF", "provable_from": false, "test_issue": "N", "ticker": "SMCF", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Themes US Small Cap Cash Flow Champions ETF", "provable_from": false, "test_issue": "N", "ticker": "SMCF", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"category": "Q", "etf": "N", "name": "Super Micro Computer, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SMCI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "SMCIP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long SMCI Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SMCL", "valid_from": "2026-07-28", "valid_to": null}
@@ -4933,6 +4937,8 @@
 {"category": "G", "etf": "N", "name": "Stellar V Capital Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "SVCCU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Stellar V Capital Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SVCCW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Silvaco Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SVCO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Silvia, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "SVIA", "valid_from": "2026-09-22", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Silvia, Inc. - Warrant.", "provable_from": true, "test_issue": "N", "ticker": "SVIAW", "valid_from": "2026-09-22", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Spring Valley Acquisition Corp. IV - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SVIV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Spring Valley Acquisition Corp. IV - Units", "provable_from": false, "test_issue": "N", "ticker": "SVIVU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Spring Valley Acquisition Corp. IV - Warrants", "provable_from": false, "test_issue": "N", "ticker": "SVIVW", "valid_from": "2026-07-28", "valid_to": null}
@@ -5461,6 +5467,7 @@
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 ETF", "provable_from": false, "test_issue": "N", "ticker": "VONE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "VONG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 Value ETF", "provable_from": false, "test_issue": "N", "ticker": "VONV", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "VistaShares Shield S&P 500 Enhanced Protection ETF", "provable_from": true, "test_issue": "N", "ticker": "VOOB", "valid_from": "2026-09-22", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Vor Biopharma Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VOR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "TCW Transform 500 ETF", "provable_from": false, "test_issue": "N", "ticker": "VOTE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Vox Royalty Corp. - common stock", "provable_from": false, "test_issue": "N", "ticker": "VOXR", "valid_from": "2026-07-28", "valid_to": null}

@@ -788,9 +788,7 @@
 {"category": "G", "etf": "N", "name": "Brilliant Earth Group, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRLT"}
 {"category": "S", "etf": "N", "name": "BrenX Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "BRNX"}
 {"category": "G", "etf": "Y", "name": "Burney U.S. Factor Rotation ETF", "test_issue": "N", "ticker": "BRNY"}
-{"category": "G", "etf": "N", "name": "ProCap Financial, Inc. - Common Stock", "test_issue": "N", "ticker": "BRR"}
 {"category": "G", "etf": "Y", "name": "Coinshares Bitcoin ETF", "test_issue": "N", "ticker": "BRRR"}
-{"category": "S", "etf": "N", "name": "ProCap Financial, Inc. - Warrant.", "test_issue": "N", "ticker": "BRRWW"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "BRTM"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Units", "test_issue": "N", "ticker": "BRTMU"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Warrants", "test_issue": "N", "ticker": "BRTMW"}
@@ -1657,6 +1655,7 @@
 {"category": "G", "etf": "Y", "name": "VanEck Video Gaming and eSports ETF", "test_issue": "N", "ticker": "ESPO"}
 {"category": "S", "etf": "N", "name": "Esquire Financial Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "ESQ"}
 {"category": "S", "etf": "N", "name": "Establishment Labs Holdings Inc. - Common Shares", "test_issue": "N", "ticker": "ESTA"}
+{"category": "S", "etf": "N", "name": "EnerSyn Global Inc. - Common Stock", "test_issue": "N", "ticker": "ESYN"}
 {"category": "G", "etf": "Y", "name": "iShares Breakthrough Environmental Solutions ETF", "test_issue": "N", "ticker": "ETEC"}
 {"category": "G", "etf": "Y", "name": "iShares Ethereum Trust ETF", "test_issue": "N", "ticker": "ETHA"}
 {"category": "G", "etf": "Y", "name": "iShares Staked Ethereum Trust ETF", "test_issue": "N", "ticker": "ETHB"}
@@ -2397,7 +2396,6 @@
 {"category": "Q", "etf": "N", "name": "Hancock Whitney Corporation - Common Stock", "test_issue": "N", "ticker": "HWC"}
 {"category": "Q", "etf": "N", "name": "Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060", "test_issue": "N", "ticker": "HWCPZ"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Global Value Fund", "test_issue": "N", "ticker": "HWGV"}
-{"category": "S", "etf": "N", "name": "HWH International Inc. - Common Stock", "test_issue": "N", "ticker": "HWH"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley International Value Fund", "test_issue": "N", "ticker": "HWIV"}
 {"category": "Q", "etf": "N", "name": "Hawkins, Inc. - Common Stock", "test_issue": "N", "ticker": "HWKN"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Opportunities Fund", "test_issue": "N", "ticker": "HWO"}
@@ -2909,7 +2907,6 @@
 {"category": "Q", "etf": "N", "name": "Littelfuse, Inc. - Common Stock", "test_issue": "N", "ticker": "LFUS"}
 {"category": "S", "etf": "N", "name": "Lifevantage Corporation - Common Stock", "test_issue": "N", "ticker": "LFVN"}
 {"category": "S", "etf": "N", "name": "Lifeward Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "LFWD"}
-{"category": "G", "etf": "Y", "name": "Themes US Cash Flow Champions ETF", "test_issue": "N", "ticker": "LGCF"}
 {"category": "S", "etf": "N", "name": "Lucas GC Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "LGCL"}
 {"category": "G", "etf": "Y", "name": "JPMorgan Fundamental Data Science Large Growth ETF", "test_issue": "N", "ticker": "LGDS"}
 {"category": "S", "etf": "N", "name": "Lion Group Holding Ltd. - American Depositary Share", "test_issue": "N", "ticker": "LGHL"}
@@ -3430,9 +3427,6 @@
 {"category": "S", "etf": "N", "name": "NervGen Pharma Corp. - Common stock", "test_issue": "N", "ticker": "NGEN"}
 {"category": "G", "etf": "Y", "name": "Nicholas Bitcoin and Treasuries AfterDark ETF", "test_issue": "N", "ticker": "NGHT"}
 {"category": "G", "etf": "N", "name": "Neurogene Inc. - Common Stock", "test_issue": "N", "ticker": "NGNE"}
-{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Class A Ordinary shares", "test_issue": "N", "ticker": "NHIC"}
-{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Units", "test_issue": "N", "ticker": "NHICU"}
-{"category": "G", "etf": "N", "name": "NewHold Investment Corp III - Warrants", "test_issue": "N", "ticker": "NHICW"}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Class A Ordinary Shares", "test_issue": "N", "ticker": "NHIV"}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Units", "test_issue": "N", "ticker": "NHIVU"}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Warrants", "test_issue": "N", "ticker": "NHIVW"}
@@ -3559,6 +3553,8 @@
 {"category": "G", "etf": "N", "name": "NOVONIX Limited - American Depository Shares", "test_issue": "N", "ticker": "NVX"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST NVDA ETF", "test_issue": "N", "ticker": "NVYY"}
 {"category": "Q", "etf": "N", "name": "Northwest Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "NWBI"}
+{"category": "Q", "etf": "N", "name": "newcleo plc - Ordinary Shares", "test_issue": "N", "ticker": "NWCL"}
+{"category": "Q", "etf": "N", "name": "newcleo plc - Warrants", "test_issue": "N", "ticker": "NWCLW"}
 {"category": "Q", "etf": "N", "name": "NorthWestern Energy Group, Inc.  - Common Stock", "test_issue": "N", "ticker": "NWE"}
 {"category": "G", "etf": "N", "name": "Norwood Financial Corp. - Common Stock", "test_issue": "N", "ticker": "NWFL"}
 {"category": "S", "etf": "N", "name": "CL Workshop Group Limited - American Depositary Shares", "test_issue": "N", "ticker": "NWGL"}
@@ -4127,6 +4123,7 @@
 {"category": "G", "etf": "Y", "name": "Invesco ESG NASDAQ 100 ETF", "test_issue": "N", "ticker": "QQMG"}
 {"category": "G", "etf": "Y", "name": "Invesco QQQ Trust, Series 1", "test_issue": "N", "ticker": "QQQ"}
 {"category": "G", "etf": "Y", "name": "ProShares Nasdaq-100 Dorsey Wright Momentum ETF", "test_issue": "N", "ticker": "QQQA"}
+{"category": "G", "etf": "Y", "name": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF", "test_issue": "N", "ticker": "QQQB"}
 {"category": "G", "etf": "Y", "name": "Direxion NASDAQ-100 Equal Weighted Index ETF", "test_issue": "N", "ticker": "QQQE"}
 {"category": "G", "etf": "Y", "name": "Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF", "test_issue": "N", "ticker": "QQQG"}
 {"category": "G", "etf": "Y", "name": "NEOS Nasdaq-100 Hedged Equity Income ETF", "test_issue": "N", "ticker": "QQQH"}
@@ -4587,7 +4584,6 @@
 {"category": "S", "etf": "N", "name": "Silexion Therapeutics Corp - Ordinary Shares", "test_issue": "N", "ticker": "SLXN"}
 {"category": "S", "etf": "N", "name": "Silexion Therapeutics Corp - Warrant", "test_issue": "N", "ticker": "SLXNW"}
 {"category": "G", "etf": "N", "name": "Southern Missouri Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "SMBC"}
-{"category": "G", "etf": "Y", "name": "Themes US Small Cap Cash Flow Champions ETF", "test_issue": "N", "ticker": "SMCF"}
 {"category": "Q", "etf": "N", "name": "Super Micro Computer, Inc. - Common Stock", "test_issue": "N", "ticker": "SMCI"}
 {"category": "Q", "etf": "N", "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock", "test_issue": "N", "ticker": "SMCIP"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long SMCI Daily ETF", "test_issue": "N", "ticker": "SMCL"}
@@ -4777,6 +4773,8 @@
 {"category": "G", "etf": "N", "name": "Stellar V Capital Corp. - Unit", "test_issue": "N", "ticker": "SVCCU"}
 {"category": "G", "etf": "N", "name": "Stellar V Capital Corp. - Warrant", "test_issue": "N", "ticker": "SVCCW"}
 {"category": "Q", "etf": "N", "name": "Silvaco Group, Inc. - Common Stock", "test_issue": "N", "ticker": "SVCO"}
+{"category": "G", "etf": "N", "name": "Silvia, Inc. - Common Stock", "test_issue": "N", "ticker": "SVIA"}
+{"category": "S", "etf": "N", "name": "Silvia, Inc. - Warrant.", "test_issue": "N", "ticker": "SVIAW"}
 {"category": "G", "etf": "N", "name": "Spring Valley Acquisition Corp. IV - Class A Ordinary Shares", "test_issue": "N", "ticker": "SVIV"}
 {"category": "G", "etf": "N", "name": "Spring Valley Acquisition Corp. IV - Units", "test_issue": "N", "ticker": "SVIVU"}
 {"category": "G", "etf": "N", "name": "Spring Valley Acquisition Corp. IV - Warrants", "test_issue": "N", "ticker": "SVIVW"}
@@ -5290,6 +5288,7 @@
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 ETF", "test_issue": "N", "ticker": "VONE"}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 Growth ETF", "test_issue": "N", "ticker": "VONG"}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 1000 Value ETF", "test_issue": "N", "ticker": "VONV"}
+{"category": "G", "etf": "Y", "name": "VistaShares Shield S&P 500 Enhanced Protection ETF", "test_issue": "N", "ticker": "VOOB"}
 {"category": "Q", "etf": "N", "name": "Vor Biopharma Inc. - Common Stock", "test_issue": "N", "ticker": "VOR"}
 {"category": "G", "etf": "Y", "name": "TCW Transform 500 ETF", "test_issue": "N", "ticker": "VOTE"}
 {"category": "S", "etf": "N", "name": "Vox Royalty Corp. - common stock", "test_issue": "N", "ticker": "VOXR"}
