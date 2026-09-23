@@ -5205,3 +5205,21 @@
 {"date": "2026-09-22", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF", "test_issue": "N", "ticker": "MNGB"}, "source": "otherlisted"}
 {"date": "2026-09-22", "event": "removed", "record": {"etf": "Y", "exchange": "Z", "name": "Themes Lithium & Battery Metal Miners ETF", "test_issue": "N", "ticker": "LIMI"}, "source": "otherlisted"}
 {"date": "2026-09-22", "event": "removed", "record": {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Miners ETF", "test_issue": "N", "ticker": "MNRS"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"category": "G", "etf": "Y", "name": "REX AI Chipmaking ETF", "test_issue": "N", "ticker": "CHIP"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"category": "G", "etf": "N", "name": "Live Oak Acquisition Corp. VI - Units", "test_issue": "N", "ticker": "LOVIU"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"category": "G", "etf": "Y", "name": "State Street My2036 Corporate Bond ETF", "test_issue": "N", "ticker": "MYCP"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"category": "G", "etf": "Y", "name": "State Street My2032 High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "MYHF"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"category": "G", "etf": "Y", "name": "State Street My2032 Municipal Bond ETF", "test_issue": "N", "ticker": "MYML"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"category": "G", "etf": "Y", "name": "VictoryShares Municipal High Yield ETF", "test_issue": "N", "ticker": "VMHY"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"category": "G", "etf": "Y", "name": "VictoryShares Short-Duration Municipal ETF", "test_issue": "N", "ticker": "VMSD"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "PLTS"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "changed", "previous": {"category": "S", "etf": "N", "name": "Identiv, Inc. - Common Stock", "test_issue": "N", "ticker": "INVE"}, "record": {"category": "S", "etf": "N", "name": "INVE Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "INVE"}, "source": "nasdaqlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "iShares Future AI Beneficiaries ETF", "test_issue": "N", "ticker": "AIBF"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "xETFs AI Bottlenecks ETF", "test_issue": "N", "ticker": "NECK"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest AMD & Target Income ETF", "test_issue": "N", "ticker": "XVAD"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest AMZN & Target Income ETF", "test_issue": "N", "ticker": "XVAZ"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest GOOG & Target Income ETF", "test_issue": "N", "ticker": "XVGL"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest MSFT & Target Income ETF", "test_issue": "N", "ticker": "XVMS"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest META & Target Income ETF", "test_issue": "N", "ticker": "XVMT"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "FT Vest PLTR & Target Income ETF", "test_issue": "N", "ticker": "XVPT"}, "source": "otherlisted"}
+{"date": "2026-09-23", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights", "test_issue": "N", "ticker": "RIV.R"}, "source": "otherlisted"}

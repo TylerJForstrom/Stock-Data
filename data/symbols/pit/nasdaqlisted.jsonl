@@ -1102,6 +1102,7 @@
 {"category": "S", "etf": "N", "name": "Change Agents Corporation  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CHGA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Stance Sustainable Beta ETF", "provable_from": false, "test_issue": "N", "ticker": "CHGX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Calamos Convertible Opportunities and Income Fund - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "CHI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "REX AI Chipmaking ETF", "provable_from": true, "test_issue": "N", "ticker": "CHIP", "valid_from": "2026-09-23", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Check Point Software Technologies Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CHKP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Chemung Financial Corp  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CHMG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "China Natural Resources, Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "CHNR", "valid_from": "2026-07-28", "valid_to": null}
@@ -2670,7 +2671,8 @@
 {"category": "S", "etf": "N", "name": "Intrusion Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INTZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Innventure, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Innoviva, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INVA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Identiv, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INVE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Identiv, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INVE", "valid_from": "2026-07-28", "valid_to": "2026-09-23"}
+{"category": "S", "etf": "N", "name": "INVE Technologies, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "INVE", "valid_from": "2026-09-23", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Innoviz Technologies Ltd. - Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "INVZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Ionic Digital Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IOND", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long IONQ Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "IONL", "valid_from": "2026-07-28", "valid_to": null}
@@ -3094,6 +3096,7 @@
 {"category": "G", "etf": "Y", "name": "Liberty One Tactical Income ETF", "provable_from": false, "test_issue": "N", "ticker": "LOTI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Lotus Technology Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "LOTWW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "The Lovesac Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LOVE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Live Oak Acquisition Corp. VI - Units", "provable_from": true, "test_issue": "N", "ticker": "LOVIU", "valid_from": "2026-09-23", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Launch One Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "LPAA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Launch One Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "LPAAU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Launch One Acquisition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "LPAAW", "valid_from": "2026-07-28", "valid_to": null}
@@ -3444,6 +3447,7 @@
 {"category": "G", "etf": "Y", "name": "State Street My2033 Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYCM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2034 Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYCN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2035 Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYCO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "State Street My2036 Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "MYCP", "valid_from": "2026-09-23", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Western Financial, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYFW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Myriad Genetics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYGN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2027 High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYHA", "valid_from": "2026-07-28", "valid_to": null}
@@ -3451,12 +3455,14 @@
 {"category": "G", "etf": "Y", "name": "State Street My2029 High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYHC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2030 High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYHD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2031 High Yield Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYHE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "State Street My2032 High Yield Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "MYHF", "valid_from": "2026-09-23", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2026 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYMF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2027 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYMG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2028 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYMH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2029 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYMI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2030 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYMJ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street My2031 Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MYMK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "State Street My2032 Municipal Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "MYML", "valid_from": "2026-09-23", "valid_to": null}
 {"category": "S", "etf": "N", "name": "PLAYSTUDIOS, Inc.  - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYPS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "MYR Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYRG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Myseum.AI, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MYSE", "valid_from": "2026-07-28", "valid_to": null}
@@ -4056,7 +4062,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long PLTR Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "PLTG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Playtika Holding Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLTK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Palantir Technologies Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLTR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PLTS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PLTS", "valid_from": "2026-07-28", "valid_to": "2026-09-23"}
 {"category": "G", "etf": "Y", "name": "Direxion Daily PLTR Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "PLTU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2x Short PLTR ETF", "provable_from": false, "test_issue": "N", "ticker": "PLTZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Plug Power, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLUG", "valid_from": "2026-07-28", "valid_to": null}
@@ -5453,6 +5459,8 @@
 {"category": "G", "etf": "Y", "name": "Vanguard Mortgage-Backed Securities ETF", "provable_from": false, "test_issue": "N", "ticker": "VMBS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Viemed Healthcare, Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "VMD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Versamet Royalties Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VMET", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "VictoryShares Municipal High Yield ETF", "provable_from": true, "test_issue": "N", "ticker": "VMHY", "valid_from": "2026-09-23", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "VictoryShares Short-Duration Municipal ETF", "provable_from": true, "test_issue": "N", "ticker": "VMSD", "valid_from": "2026-09-23", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Vince Holding Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VNCE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Vanda Pharmaceuticals Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VNDA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "VNET Group, Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "VNET", "valid_from": "2026-07-28", "valid_to": null}

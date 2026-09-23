@@ -186,6 +186,7 @@
 {"etf": "N", "exchange": "N", "name": "C3.ai, Inc. Class A Common Stock", "test_issue": "N", "ticker": "AI"}
 {"etf": "N", "exchange": "A", "name": "AIB Data Centers Inc. Common Stock", "test_issue": "N", "ticker": "AIB"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bear 2X ETF", "test_issue": "N", "ticker": "AIBD"}
+{"etf": "Y", "exchange": "P", "name": "iShares Future AI Beneficiaries ETF", "test_issue": "N", "ticker": "AIBF"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bull 2X ETF", "test_issue": "N", "ticker": "AIBU"}
 {"etf": "Y", "exchange": "P", "name": "Amplify AI Powered Equity ETF", "test_issue": "N", "ticker": "AIEQ"}
 {"etf": "N", "exchange": "N", "name": "American International Group, Inc. New Common Stock", "test_issue": "N", "ticker": "AIG"}
@@ -4613,6 +4614,7 @@
 {"etf": "N", "exchange": "N", "name": "Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01", "test_issue": "N", "ticker": "NEA"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Short Duration Bond Active ETF", "test_issue": "N", "ticker": "NEAR"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long NBIS Daily ETF", "test_issue": "N", "ticker": "NEBX"}
+{"etf": "Y", "exchange": "P", "name": "xETFs AI Bottlenecks ETF", "test_issue": "N", "ticker": "NECK"}
 {"etf": "N", "exchange": "N", "name": "NextEra Energy, Inc. Common Stock", "test_issue": "N", "ticker": "NEE"}
 {"etf": "N", "exchange": "N", "name": "NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079", "test_issue": "N", "ticker": "NEE$N"}
 {"etf": "N", "exchange": "N", "name": "NextEra Energy, Inc. 7.299% Corporate Units", "test_issue": "N", "ticker": "NEE$S"}
@@ -5656,7 +5658,6 @@
 {"etf": "N", "exchange": "N", "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "RITM$F"}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Common Stock", "test_issue": "N", "ticker": "RIV"}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock", "test_issue": "N", "ticker": "RIV$A"}
-{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights", "test_issue": "N", "ticker": "RIV.R"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi RIVN 2x Daily ETF", "test_issue": "N", "ticker": "RIVC"}
 {"etf": "Y", "exchange": "Z", "name": "Principal Inflation Protection ETF", "test_issue": "N", "ticker": "RIZE"}
 {"etf": "Y", "exchange": "P", "name": "RJ ClariVest Capital Appreciation ETF", "test_issue": "N", "ticker": "RJCA"}
@@ -7500,8 +7501,14 @@
 {"etf": "Y", "exchange": "P", "name": "Franklin U.S. Dividend Booster Index ETF", "test_issue": "N", "ticker": "XUDV"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Uncapped Accelerated U.S. Equity ETF", "test_issue": "N", "ticker": "XUSP"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Target 15 Distribution ETF", "test_issue": "N", "ticker": "XV"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest AMD & Target Income ETF", "test_issue": "N", "ticker": "XVAD"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest AAPL & Target Income ETF", "test_issue": "N", "ticker": "XVAP"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest AMZN & Target Income ETF", "test_issue": "N", "ticker": "XVAZ"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest GOOG & Target Income ETF", "test_issue": "N", "ticker": "XVGL"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest MSFT & Target Income ETF", "test_issue": "N", "ticker": "XVMS"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest META & Target Income ETF", "test_issue": "N", "ticker": "XVMT"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest NVDA & Target Income ETF", "test_issue": "N", "ticker": "XVNV"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest PLTR & Target Income ETF", "test_issue": "N", "ticker": "XVPT"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest SPCX & Target Income ETF", "test_issue": "N", "ticker": "XVSP"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest TSLA & Target Income ETF", "test_issue": "N", "ticker": "XVTS"}
 {"etf": "Y", "exchange": "Z", "name": "iShares ESG Select Screened S&P 500 ETF", "test_issue": "N", "ticker": "XVV"}

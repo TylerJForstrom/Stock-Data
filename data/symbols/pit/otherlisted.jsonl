@@ -189,6 +189,7 @@
 {"etf": "N", "exchange": "N", "name": "C3.ai, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "AIB Data Centers Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bear 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "AIBD", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "iShares Future AI Beneficiaries ETF", "provable_from": true, "test_issue": "N", "ticker": "AIBF", "valid_from": "2026-09-23", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "AIBU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Amplify AI Powered Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "AIEQ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "American International Group, Inc. New Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIG", "valid_from": "2026-07-28", "valid_to": null}
@@ -4730,6 +4731,7 @@
 {"etf": "N", "exchange": "N", "name": "Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01", "provable_from": false, "test_issue": "N", "ticker": "NEA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "iShares Short Duration Bond Active ETF", "provable_from": false, "test_issue": "N", "ticker": "NEAR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long NBIS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "NEBX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "xETFs AI Bottlenecks ETF", "provable_from": true, "test_issue": "N", "ticker": "NECK", "valid_from": "2026-09-23", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NextEra Energy, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NEE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079", "provable_from": false, "test_issue": "N", "ticker": "NEE$N", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NextEra Energy, Inc. 7.299% Corporate Units", "provable_from": false, "test_issue": "N", "ticker": "NEE$S", "valid_from": "2026-07-28", "valid_to": null}
@@ -5801,7 +5803,7 @@
 {"etf": "N", "exchange": "N", "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "RITM$F", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RIV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "RIV$A", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights", "provable_from": true, "test_issue": "N", "ticker": "RIV.R", "valid_from": "2026-09-04", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights", "provable_from": true, "test_issue": "N", "ticker": "RIV.R", "valid_from": "2026-09-04", "valid_to": "2026-09-23"}
 {"etf": "N", "exchange": "N", "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "RIV.V", "valid_from": "2026-08-28", "valid_to": "2026-09-04"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi RIVN 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "RIVC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Principal Inflation Protection ETF", "provable_from": false, "test_issue": "N", "ticker": "RIZE", "valid_from": "2026-07-28", "valid_to": null}
@@ -7690,10 +7692,16 @@
 {"etf": "Y", "exchange": "P", "name": "Franklin U.S. Dividend Booster Index ETF", "provable_from": false, "test_issue": "N", "ticker": "XUDV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Uncapped Accelerated U.S. Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "XUSP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify Target 15 Distribution ETF", "provable_from": false, "test_issue": "N", "ticker": "XV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest AMD & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVAD", "valid_from": "2026-09-23", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest AAPL & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVAP", "valid_from": "2026-08-19", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest AMZN & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVAZ", "valid_from": "2026-09-23", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest GOOG & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVGL", "valid_from": "2026-09-23", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest MSFT & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVMS", "valid_from": "2026-09-23", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest META & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVMT", "valid_from": "2026-09-23", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest NVDA & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVNV", "valid_from": "2026-08-19", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XVO", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Mid-Cap 2x Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "XVO", "valid_from": "2026-08-20", "valid_to": "2026-08-21"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest PLTR & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVPT", "valid_from": "2026-09-23", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest SPCX & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVSP", "valid_from": "2026-08-26", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest TSLA & Target Income ETF", "provable_from": true, "test_issue": "N", "ticker": "XVTS", "valid_from": "2026-08-19", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XVUG", "valid_from": "2026-07-28", "valid_to": "2026-08-19"}
