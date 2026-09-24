@@ -417,7 +417,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X FTSE Southeast Asia ETF", "test_issue": "N", "ticker": "ASEA"}
 {"etf": "N", "exchange": "N", "name": "Liberty All-Star Growth Fund, Inc.", "test_issue": "N", "ticker": "ASG"}
 {"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ASGI"}
-{"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued", "test_issue": "N", "ticker": "ASGI.V"}
+{"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights", "test_issue": "N", "ticker": "ASGI.R"}
 {"etf": "Y", "exchange": "P", "name": "Virtus AlphaSimplex Global Macro ETF", "test_issue": "N", "ticker": "ASGM"}
 {"etf": "N", "exchange": "N", "name": "Ashland Inc. Common Stock", "test_issue": "N", "ticker": "ASH"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Harvest CSI 300 China A-Shares ETF", "test_issue": "N", "ticker": "ASHR"}
@@ -635,6 +635,7 @@
 {"etf": "N", "exchange": "N", "name": "Brunswick Corporation Common Stock", "test_issue": "N", "ticker": "BC"}
 {"etf": "N", "exchange": "N", "name": "Brunswick Corporation 6.375% Notes due 2049", "test_issue": "N", "ticker": "BC$C"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "BCAT"}
+{"etf": "N", "exchange": "N", "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued", "test_issue": "N", "ticker": "BCAT.V"}
 {"etf": "N", "exchange": "N", "name": "Boise Cascade, L.L.C. Common Stock", "test_issue": "N", "ticker": "BCC"}
 {"etf": "Y", "exchange": "Z", "name": "Global X Bitcoin Covered Call ETF", "test_issue": "N", "ticker": "BCCC"}
 {"etf": "Y", "exchange": "P", "name": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF", "test_issue": "N", "ticker": "BCD"}
@@ -971,7 +972,6 @@
 {"etf": "N", "exchange": "N", "name": "British American Tobacco  Industries, p.l.c. Common Stock ADR", "test_issue": "N", "ticker": "BTI"}
 {"etf": "N", "exchange": "N", "name": "John Hancock Financial Opportunities Fund Common Stock", "test_issue": "N", "ticker": "BTO"}
 {"etf": "Y", "exchange": "P", "name": "iShares Total USD Fixed Income Market ETF", "test_issue": "N", "ticker": "BTOT"}
-{"etf": "Y", "exchange": "P", "name": "Beacon Tactical Risk ETF", "test_issue": "N", "ticker": "BTR"}
 {"etf": "Y", "exchange": "P", "name": "Global X Bitcoin Trend Strategy ETF", "test_issue": "N", "ticker": "BTRN"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Municipal 2030 Target Term Trust", "test_issue": "N", "ticker": "BTT"}
 {"etf": "N", "exchange": "N", "name": "Peabody Energy Corporation Common Stock ", "test_issue": "N", "ticker": "BTU"}
@@ -1596,6 +1596,7 @@
 {"etf": "N", "exchange": "N", "name": "DigitalBridge Group, Inc. 7.15% Series I ", "test_issue": "N", "ticker": "DBRG$I"}
 {"etf": "N", "exchange": "N", "name": "DigitalBridge Group, Inc. 7.125% Series J ", "test_issue": "N", "ticker": "DBRG$J"}
 {"etf": "N", "exchange": "A", "name": "Dakota Gold Corp. Common Stock", "test_issue": "N", "ticker": "DC"}
+{"etf": "Y", "exchange": "Z", "name": "T-Strive Digital Credit Preferred Income ETF", "test_issue": "N", "ticker": "DCAP"}
 {"etf": "N", "exchange": "N", "name": "Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes", "test_issue": "N", "ticker": "DCBG"}
 {"etf": "N", "exchange": "N", "name": "Dauch Corporation Common Stock", "test_issue": "N", "ticker": "DCH"}
 {"etf": "N", "exchange": "N", "name": "Donaldson Company, Inc. Common Stock", "test_issue": "N", "ticker": "DCI"}
@@ -4283,6 +4284,7 @@
 {"etf": "N", "exchange": "N", "name": "Magna International, Inc. Common Stock", "test_issue": "N", "ticker": "MGA"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap ETF", "test_issue": "N", "ticker": "MGC"}
 {"etf": "N", "exchange": "N", "name": "Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "MGF"}
+{"etf": "Y", "exchange": "P", "name": "Man Active Global Infrastructure ETF", "test_issue": "N", "ticker": "MGIN"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Mega Cap Growth ETF", "test_issue": "N", "ticker": "MGK"}
 {"etf": "N", "exchange": "A", "name": "The Marygold Companies, Inc. Common Stock", "test_issue": "N", "ticker": "MGLD"}
 {"etf": "N", "exchange": "N", "name": "MGM Resorts International Common Stock", "test_issue": "N", "ticker": "MGM"}
@@ -6605,6 +6607,7 @@
 {"etf": "Y", "exchange": "P", "name": "Touchstone International Equity ETF", "test_issue": "N", "ticker": "TLCI"}
 {"etf": "Y", "exchange": "Z", "name": "The Laddered T-Bill ETF", "test_issue": "N", "ticker": "TLDR"}
 {"etf": "Y", "exchange": "P", "name": "iShares 10-20 Year Treasury Bond ETF", "test_issue": "N", "ticker": "TLH"}
+{"etf": "Y", "exchange": "P", "name": "American Beacon The London Company Income Equity ETF", "test_issue": "N", "ticker": "TLIE"}
 {"etf": "N", "exchange": "N", "name": "PT Telekomunikasi Indonesia, Tbk", "test_issue": "N", "ticker": "TLK"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF", "test_issue": "N", "ticker": "TLTD"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Morningstar Emerging Markets Factor Tilt ETF", "test_issue": "N", "ticker": "TLTE"}
@@ -6996,6 +6999,7 @@
 {"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Class A Ordinary Shares", "test_issue": "N", "ticker": "VACI"}
 {"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant", "test_issue": "N", "ticker": "VACI.U"}
 {"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share", "test_issue": "N", "ticker": "VACI.W"}
+{"etf": "Y", "exchange": "P", "name": "VegaShares US Equity Autocallable Conservative Income ETF", "test_issue": "N", "ticker": "VAIC"}
 {"etf": "Y", "exchange": "P", "name": "VegaShares US Equity Autocallable Income ETF", "test_issue": "N", "ticker": "VAIE"}
 {"etf": "N", "exchange": "N", "name": "Valaris Limited Common Shares", "test_issue": "N", "ticker": "VAL"}
 {"etf": "N", "exchange": "N", "name": "Valaris Limited Warrants", "test_issue": "N", "ticker": "VAL.W"}

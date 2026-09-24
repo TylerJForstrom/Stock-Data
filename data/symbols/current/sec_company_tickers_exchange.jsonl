@@ -3081,6 +3081,7 @@
 {"cik": 1191832, "exchange": "OTC", "ticker": "KNGRF", "title": "Kingsmen Resources Ltd."}
 {"cik": 1192323, "exchange": "OTC", "ticker": "SPST", "title": "Superstar Platforms Inc."}
 {"cik": 1192448, "exchange": "NYSE", "ticker": "GKOS", "title": "GLAUKOS Corp"}
+{"cik": 1193158, "exchange": "OTC", "ticker": "NXTN", "title": "NEXT10, INC"}
 {"cik": 1195737, "exchange": "NYSE", "ticker": "NEA", "title": "Nuveen AMT-Free Quality Municipal Income Fund"}
 {"cik": 1195738, "exchange": "NYSE", "ticker": "NKX", "title": "NUVEEN CALIFORNIA AMT-FREE QUALITY MUNICIPAL INCOME FUND"}
 {"cik": 1195739, "exchange": "NYSE", "ticker": "NRK", "title": "NUVEEN NEW YORK AMT-FREE QUALITY MUNICIPAL INCOME FUND"}
@@ -3996,7 +3997,7 @@
 {"cik": 1413447, "exchange": "Nasdaq", "ticker": "NXPI", "title": "NXP Semiconductors N.V."}
 {"cik": 1413745, "exchange": "Nasdaq", "ticker": "YDKG", "title": "Yueda Digital Holding"}
 {"cik": 1413855, "exchange": "Nasdaq", "ticker": "AIFU", "title": "AIFU Inc."}
-{"cik": 1413891, "exchange": null, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC."}
+{"cik": 1413891, "exchange": "OTC", "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC."}
 {"cik": 1414382, "exchange": "OTC", "ticker": "CLEV", "title": "Concrete Leveling Systems Inc"}
 {"cik": 1414767, "exchange": "Nasdaq", "ticker": "NCPL", "title": "Netcapital Inc."}
 {"cik": 1414767, "exchange": "Nasdaq", "ticker": "NCPLW", "title": "Netcapital Inc."}
@@ -6315,7 +6316,6 @@
 {"cik": 1739016, "exchange": "OTC", "ticker": "SYAXF", "title": "Elevra Lithium Ltd"}
 {"cik": 1739104, "exchange": "NYSE", "ticker": "ELAN", "title": "Elanco Animal Health Inc"}
 {"cik": 1739174, "exchange": "NYSE", "ticker": "HLSQ", "title": "Tessera Defense & Homeland Security Inc."}
-{"cik": 1739174, "exchange": "NYSE", "ticker": "PHGE", "title": "Tessera Defense & Homeland Security Inc."}
 {"cik": 1739410, "exchange": "Nasdaq", "ticker": "RLYB", "title": "Rallybio Corp"}
 {"cik": 1739445, "exchange": "NYSE", "ticker": "ACA", "title": "Arcosa, Inc."}
 {"cik": 1739566, "exchange": "NYSE", "ticker": "UTZ", "title": "Utz Brands, Inc."}
@@ -6788,6 +6788,7 @@
 {"cik": 1801834, "exchange": "Nasdaq", "ticker": "PRFX", "title": "PRF Technologies Ltd."}
 {"cik": 1802156, "exchange": "NYSE", "ticker": "XPOF", "title": "Xponential Fitness, Inc."}
 {"cik": 1802255, "exchange": "NYSE", "ticker": "GRDN", "title": "Guardian Pharmacy Services, Inc."}
+{"cik": 1802369, "exchange": null, "ticker": "ADRX", "title": "ADARx Pharmaceuticals, Inc."}
 {"cik": 1802450, "exchange": null, "ticker": "MSPR", "title": "MSP Recovery, Inc."}
 {"cik": 1802665, "exchange": "Nasdaq", "ticker": "HRMY", "title": "Harmony Biosciences Holdings, Inc."}
 {"cik": 1802768, "exchange": "Nasdaq", "ticker": "RPRX", "title": "Royalty Pharma plc"}
@@ -8185,8 +8186,8 @@
 {"cik": 1948443, "exchange": "Nasdaq", "ticker": "ATTT", "title": "Raytech Holding Ltd"}
 {"cik": 1948455, "exchange": "Nasdaq", "ticker": "ISPR", "title": "Ispire Technology Inc."}
 {"cik": 1948697, "exchange": "Nasdaq", "ticker": "SPPL", "title": "SIMPPLE LTD."}
-{"cik": 1948864, "exchange": "NYSE", "ticker": "HCWC", "title": "HEALTHY CHOICE WELLNESS CORP."}
-{"cik": 1948864, "exchange": "NYSE", "ticker": "HOST", "title": "HEALTHY CHOICE WELLNESS CORP."}
+{"cik": 1948864, "exchange": "NYSE", "ticker": "HCWC", "title": "Host Digital Inc."}
+{"cik": 1948864, "exchange": "NYSE", "ticker": "HOST", "title": "Host Digital Inc."}
 {"cik": 1949257, "exchange": "Nasdaq", "ticker": "RADX", "title": "Radiopharm Theranostics Ltd"}
 {"cik": 1949257, "exchange": "OTC", "ticker": "RDPTF", "title": "Radiopharm Theranostics Ltd"}
 {"cik": 1949283, "exchange": "OTC", "ticker": "EXHI", "title": "Exlites Holdings International Inc"}
@@ -8454,7 +8455,7 @@
 {"cik": 1990251, "exchange": "Nasdaq", "ticker": "WCT", "title": "Wellchange Holdings Co Ltd"}
 {"cik": 1990354, "exchange": "Nasdaq", "ticker": "WAY", "title": "Waystar Holding Corp."}
 {"cik": 1990446, "exchange": null, "ticker": "GRPS", "title": "Trans American Aquaculture, Inc"}
-{"cik": 1990950, "exchange": null, "ticker": "SELXF", "title": "Semilux International Ltd."}
+{"cik": 1990950, "exchange": "OTC", "ticker": "SELXF", "title": "Semilux International Ltd."}
 {"cik": 1991261, "exchange": "Nasdaq", "ticker": "SKK", "title": "SKK Holdings Ltd"}
 {"cik": 1991332, "exchange": "Nasdaq", "ticker": "MKDW", "title": "MKDWELL Tech Inc."}
 {"cik": 1991332, "exchange": "Nasdaq", "ticker": "MKDWW", "title": "MKDWELL Tech Inc."}
@@ -9783,6 +9784,7 @@
 {"cik": 2088827, "exchange": "OTC", "ticker": "HRBAY", "title": "Horiba, Ltd./ADR"}
 {"cik": 2088827, "exchange": "OTC", "ticker": "HRIBF", "title": "Horiba, Ltd./ADR"}
 {"cik": 2088896, "exchange": "Nasdaq", "ticker": "XE", "title": "X-Energy, Inc."}
+{"cik": 2089160, "exchange": null, "ticker": "STNF", "title": "Santa Ana Global Enterprises, S.A."}
 {"cik": 2089174, "exchange": "OTC", "ticker": "PTAXY", "title": "Paltac Corporation/ADR"}
 {"cik": 2089271, "exchange": "Nasdaq", "ticker": "HONA", "title": "Honeywell Aerospace Inc."}
 {"cik": 2089283, "exchange": "Nasdaq", "ticker": "NUCL", "title": "Eagle Nuclear Energy Corp."}
@@ -10258,7 +10260,7 @@
 {"cik": 2124472, "exchange": "Nasdaq", "ticker": "OIG", "title": "Orion180 Insurance Group Inc."}
 {"cik": 2124478, "exchange": null, "ticker": "SKG", "title": "SMART KREATE GROUP Ltd"}
 {"cik": 2125056, "exchange": null, "ticker": "WELA", "title": "Wella Co"}
-{"cik": 2125355, "exchange": null, "ticker": "BMB", "title": "Bamboo Insurance Services, Inc."}
+{"cik": 2125355, "exchange": "NYSE", "ticker": "BMB", "title": "Bamboo Insurance Services, Inc."}
 {"cik": 2125551, "exchange": "Nasdaq", "ticker": "ALPXR", "title": "Alpex Acquisition Corp"}
 {"cik": 2125551, "exchange": "Nasdaq", "ticker": "ALPXU", "title": "Alpex Acquisition Corp"}
 {"cik": 2125551, "exchange": "Nasdaq", "ticker": "ALPXW", "title": "Alpex Acquisition Corp"}
@@ -10336,7 +10338,7 @@
 {"cik": 2131613, "exchange": null, "ticker": "KVLT", "title": "CoVolt Power, Inc."}
 {"cik": 2131812, "exchange": "OTC", "ticker": "OPNHY", "title": "Open House Group Co. Ltd/ADR"}
 {"cik": 2131812, "exchange": "OTC", "ticker": "OPPPF", "title": "Open House Group Co. Ltd/ADR"}
-{"cik": 2131813, "exchange": null, "ticker": "NWCL", "title": "newcleo plc"}
+{"cik": 2131813, "exchange": "Nasdaq", "ticker": "NWCL", "title": "newcleo plc"}
 {"cik": 2131853, "exchange": "NYSE", "ticker": "FTRA", "title": "FutureCorp Space Acquisition 1"}
 {"cik": 2131853, "exchange": "NYSE", "ticker": "FTRA-UN", "title": "FutureCorp Space Acquisition 1"}
 {"cik": 2131853, "exchange": "NYSE", "ticker": "FTRA-WT", "title": "FutureCorp Space Acquisition 1"}

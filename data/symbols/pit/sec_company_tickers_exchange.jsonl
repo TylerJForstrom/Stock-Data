@@ -1238,6 +1238,7 @@
 {"cik": 1191832, "exchange": "OTC", "provable_from": false, "ticker": "KNGRF", "title": "Kingsmen Resources Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1192323, "exchange": "OTC", "provable_from": false, "ticker": "SPST", "title": "Superstar Platforms Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1192448, "exchange": "NYSE", "provable_from": false, "ticker": "GKOS", "title": "GLAUKOS Corp", "valid_from": "2026-07-28", "valid_to": null}
+{"cik": 1193158, "exchange": "OTC", "provable_from": true, "ticker": "NXTN", "title": "NEXT10, INC", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1195737, "exchange": "NYSE", "provable_from": false, "ticker": "NEA", "title": "Nuveen AMT-Free Quality Municipal Income Fund", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1195738, "exchange": "NYSE", "provable_from": false, "ticker": "NKX", "title": "NUVEEN CALIFORNIA AMT-FREE QUALITY MUNICIPAL INCOME FUND", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1195739, "exchange": "NYSE", "provable_from": false, "ticker": "NRK", "title": "NUVEEN NEW YORK AMT-FREE QUALITY MUNICIPAL INCOME FUND", "valid_from": "2026-07-28", "valid_to": null}
@@ -2261,7 +2262,8 @@
 {"cik": 1413891, "exchange": "OTC", "provable_from": false, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC.", "valid_from": "2026-07-28", "valid_to": "2026-08-05"}
 {"cik": 1413891, "exchange": null, "provable_from": true, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC.", "valid_from": "2026-08-05", "valid_to": "2026-08-26"}
 {"cik": 1413891, "exchange": "OTC", "provable_from": true, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC.", "valid_from": "2026-08-26", "valid_to": "2026-09-10"}
-{"cik": 1413891, "exchange": null, "provable_from": true, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC.", "valid_from": "2026-09-10", "valid_to": null}
+{"cik": 1413891, "exchange": null, "provable_from": true, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC.", "valid_from": "2026-09-10", "valid_to": "2026-09-24"}
+{"cik": 1413891, "exchange": "OTC", "provable_from": true, "ticker": "HWNI", "title": "HIGH WIRE NETWORKS, INC.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1413909, "exchange": "OTC", "provable_from": false, "ticker": "DSGT", "title": "DSG Global Inc.", "valid_from": "2026-07-28", "valid_to": "2026-09-01"}
 {"cik": 1414382, "exchange": "OTC", "provable_from": false, "ticker": "CLEV", "title": "Concrete Leveling Systems Inc", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1414767, "exchange": "Nasdaq", "provable_from": false, "ticker": "NCPL", "title": "Netcapital Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -4832,7 +4834,7 @@
 {"cik": 1739174, "exchange": "NYSE", "provable_from": true, "ticker": "HLSQ", "title": "BiomX Inc.", "valid_from": "2026-09-15", "valid_to": "2026-09-19"}
 {"cik": 1739174, "exchange": "NYSE", "provable_from": true, "ticker": "HLSQ", "title": "Tessera Defense & Homeland Security Inc.", "valid_from": "2026-09-19", "valid_to": null}
 {"cik": 1739174, "exchange": "NYSE", "provable_from": false, "ticker": "PHGE", "title": "BiomX Inc.", "valid_from": "2026-07-28", "valid_to": "2026-09-19"}
-{"cik": 1739174, "exchange": "NYSE", "provable_from": true, "ticker": "PHGE", "title": "Tessera Defense & Homeland Security Inc.", "valid_from": "2026-09-19", "valid_to": null}
+{"cik": 1739174, "exchange": "NYSE", "provable_from": true, "ticker": "PHGE", "title": "Tessera Defense & Homeland Security Inc.", "valid_from": "2026-09-19", "valid_to": "2026-09-24"}
 {"cik": 1739410, "exchange": "Nasdaq", "provable_from": false, "ticker": "RLYB", "title": "Rallybio Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1739445, "exchange": "NYSE", "provable_from": false, "ticker": "ACA", "title": "Arcosa, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1739566, "exchange": "NYSE", "provable_from": false, "ticker": "UTZ", "title": "Utz Brands, Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -5395,6 +5397,7 @@
 {"cik": 1801834, "exchange": "Nasdaq", "provable_from": false, "ticker": "PRFX", "title": "PRF Technologies Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1802156, "exchange": "NYSE", "provable_from": false, "ticker": "XPOF", "title": "Xponential Fitness, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1802255, "exchange": "NYSE", "provable_from": false, "ticker": "GRDN", "title": "Guardian Pharmacy Services, Inc.", "valid_from": "2026-07-28", "valid_to": null}
+{"cik": 1802369, "exchange": null, "provable_from": true, "ticker": "ADRX", "title": "ADARx Pharmaceuticals, Inc.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1802450, "exchange": "OTC", "provable_from": false, "ticker": "MSPR", "title": "MSP Recovery, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"cik": 1802450, "exchange": null, "provable_from": true, "ticker": "MSPR", "title": "MSP Recovery, Inc.", "valid_from": "2026-08-17", "valid_to": "2026-08-18"}
 {"cik": 1802450, "exchange": "OTC", "provable_from": true, "ticker": "MSPR", "title": "MSP Recovery, Inc.", "valid_from": "2026-08-18", "valid_to": "2026-08-19"}
@@ -7120,9 +7123,11 @@
 {"cik": 1948443, "exchange": "Nasdaq", "provable_from": false, "ticker": "RAY", "title": "Raytech Holding Ltd", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"cik": 1948455, "exchange": "Nasdaq", "provable_from": false, "ticker": "ISPR", "title": "Ispire Technology Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1948697, "exchange": "Nasdaq", "provable_from": false, "ticker": "SPPL", "title": "SIMPPLE LTD.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1948864, "exchange": "NYSE", "provable_from": false, "ticker": "HCWC", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-07-28", "valid_to": null}
+{"cik": 1948864, "exchange": "NYSE", "provable_from": false, "ticker": "HCWC", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-07-28", "valid_to": "2026-09-24"}
+{"cik": 1948864, "exchange": "NYSE", "provable_from": true, "ticker": "HCWC", "title": "Host Digital Inc.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1948864, "exchange": null, "provable_from": true, "ticker": "HOST", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-09-19", "valid_to": "2026-09-22"}
-{"cik": 1948864, "exchange": "NYSE", "provable_from": true, "ticker": "HOST", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-09-22", "valid_to": null}
+{"cik": 1948864, "exchange": "NYSE", "provable_from": true, "ticker": "HOST", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-09-22", "valid_to": "2026-09-24"}
+{"cik": 1948864, "exchange": "NYSE", "provable_from": true, "ticker": "HOST", "title": "Host Digital Inc.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1949257, "exchange": "Nasdaq", "provable_from": false, "ticker": "RADX", "title": "Radiopharm Theranostics Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1949257, "exchange": "OTC", "provable_from": false, "ticker": "RDPTF", "title": "Radiopharm Theranostics Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1949283, "exchange": "OTC", "provable_from": true, "ticker": "EXHI", "title": "Exlites Holdings International Inc", "valid_from": "2026-09-12", "valid_to": null}
@@ -7444,7 +7449,8 @@
 {"cik": 1990446, "exchange": "OTC", "provable_from": true, "ticker": "GRPS", "title": "Trans American Aquaculture, Inc", "valid_from": "2026-08-19", "valid_to": "2026-08-26"}
 {"cik": 1990446, "exchange": null, "provable_from": true, "ticker": "GRPS", "title": "Trans American Aquaculture, Inc", "valid_from": "2026-08-26", "valid_to": null}
 {"cik": 1990950, "exchange": "OTC", "provable_from": false, "ticker": "SELXF", "title": "Semilux International Ltd.", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
-{"cik": 1990950, "exchange": null, "provable_from": true, "ticker": "SELXF", "title": "Semilux International Ltd.", "valid_from": "2026-09-22", "valid_to": null}
+{"cik": 1990950, "exchange": null, "provable_from": true, "ticker": "SELXF", "title": "Semilux International Ltd.", "valid_from": "2026-09-22", "valid_to": "2026-09-24"}
+{"cik": 1990950, "exchange": "OTC", "provable_from": true, "ticker": "SELXF", "title": "Semilux International Ltd.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1991188, "exchange": "OTC", "provable_from": false, "ticker": "NOPFF", "title": "Nevada Organic Phosphate Inc.", "valid_from": "2026-07-28", "valid_to": "2026-08-05"}
 {"cik": 1991261, "exchange": "Nasdaq", "provable_from": false, "ticker": "SKK", "title": "SKK Holdings Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1991332, "exchange": "Nasdaq", "provable_from": false, "ticker": "MKDW", "title": "MKDWELL Tech Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -8922,6 +8928,7 @@
 {"cik": 2088827, "exchange": "OTC", "provable_from": false, "ticker": "HRBAY", "title": "Horiba, Ltd./ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2088827, "exchange": "OTC", "provable_from": false, "ticker": "HRIBF", "title": "Horiba, Ltd./ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2088896, "exchange": "Nasdaq", "provable_from": false, "ticker": "XE", "title": "X-Energy, Inc.", "valid_from": "2026-07-28", "valid_to": null}
+{"cik": 2089160, "exchange": null, "provable_from": true, "ticker": "STNF", "title": "Santa Ana Global Enterprises, S.A.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 2089174, "exchange": "OTC", "provable_from": false, "ticker": "PCCOF", "title": "Paltac Corporation/ADR", "valid_from": "2026-07-28", "valid_to": "2026-09-01"}
 {"cik": 2089174, "exchange": "OTC", "provable_from": false, "ticker": "PTAXY", "title": "Paltac Corporation/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2089271, "exchange": "Nasdaq", "provable_from": false, "ticker": "HONA", "title": "Honeywell Aerospace Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -9475,7 +9482,8 @@
 {"cik": 2124472, "exchange": "Nasdaq", "provable_from": true, "ticker": "OIG", "title": "Orion180 Insurance Group Inc.", "valid_from": "2026-09-19", "valid_to": null}
 {"cik": 2124478, "exchange": null, "provable_from": true, "ticker": "SKG", "title": "SMART KREATE GROUP Ltd", "valid_from": "2026-09-10", "valid_to": null}
 {"cik": 2125056, "exchange": null, "provable_from": true, "ticker": "WELA", "title": "Wella Co", "valid_from": "2026-09-04", "valid_to": null}
-{"cik": 2125355, "exchange": null, "provable_from": true, "ticker": "BMB", "title": "Bamboo Insurance Services, Inc.", "valid_from": "2026-09-01", "valid_to": null}
+{"cik": 2125355, "exchange": null, "provable_from": true, "ticker": "BMB", "title": "Bamboo Insurance Services, Inc.", "valid_from": "2026-09-01", "valid_to": "2026-09-24"}
+{"cik": 2125355, "exchange": "NYSE", "provable_from": true, "ticker": "BMB", "title": "Bamboo Insurance Services, Inc.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 2125551, "exchange": "Nasdaq", "provable_from": false, "ticker": "ALPX", "title": "Alpex Acquisition Corp", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"cik": 2125551, "exchange": "Nasdaq", "provable_from": false, "ticker": "ALPXR", "title": "Alpex Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2125551, "exchange": "Nasdaq", "provable_from": false, "ticker": "ALPXU", "title": "Alpex Acquisition Corp", "valid_from": "2026-07-28", "valid_to": null}
@@ -9576,7 +9584,8 @@
 {"cik": 2131812, "exchange": "OTC", "provable_from": false, "ticker": "OPNHY", "title": "Open House Group Co. Ltd/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2131812, "exchange": "OTC", "provable_from": false, "ticker": "OPPPF", "title": "Open House Group Co. Ltd/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2131813, "exchange": null, "provable_from": false, "ticker": "NWCL", "title": "newcleo Ltd.", "valid_from": "2026-07-28", "valid_to": "2026-09-12"}
-{"cik": 2131813, "exchange": null, "provable_from": true, "ticker": "NWCL", "title": "newcleo plc", "valid_from": "2026-09-12", "valid_to": null}
+{"cik": 2131813, "exchange": null, "provable_from": true, "ticker": "NWCL", "title": "newcleo plc", "valid_from": "2026-09-12", "valid_to": "2026-09-24"}
+{"cik": 2131813, "exchange": "Nasdaq", "provable_from": true, "ticker": "NWCL", "title": "newcleo plc", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 2131853, "exchange": null, "provable_from": false, "ticker": "FTRA", "title": "FutureCorp Space Acquisition 1", "valid_from": "2026-07-28", "valid_to": "2026-07-29"}
 {"cik": 2131853, "exchange": "NYSE", "provable_from": true, "ticker": "FTRA", "title": "FutureCorp Space Acquisition 1", "valid_from": "2026-07-29", "valid_to": "2026-07-30"}
 {"cik": 2131853, "exchange": null, "provable_from": true, "ticker": "FTRA", "title": "FutureCorp Space Acquisition 1", "valid_from": "2026-07-30", "valid_to": "2026-08-01"}

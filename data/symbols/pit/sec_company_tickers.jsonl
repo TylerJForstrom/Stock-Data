@@ -1226,6 +1226,7 @@
 {"cik": 1191832, "provable_from": false, "ticker": "KNGRF", "title": "Kingsmen Resources Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1192323, "provable_from": false, "ticker": "SPST", "title": "Superstar Platforms Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1192448, "provable_from": false, "ticker": "GKOS", "title": "GLAUKOS Corp", "valid_from": "2026-07-28", "valid_to": null}
+{"cik": 1193158, "provable_from": true, "ticker": "NXTN", "title": "NEXT10, INC", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1195737, "provable_from": false, "ticker": "NEA", "title": "Nuveen AMT-Free Quality Municipal Income Fund", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1195738, "provable_from": false, "ticker": "NKX", "title": "NUVEEN CALIFORNIA AMT-FREE QUALITY MUNICIPAL INCOME FUND", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1195739, "provable_from": false, "ticker": "NRK", "title": "NUVEEN NEW YORK AMT-FREE QUALITY MUNICIPAL INCOME FUND", "valid_from": "2026-07-28", "valid_to": null}
@@ -4754,7 +4755,7 @@
 {"cik": 1739174, "provable_from": true, "ticker": "HLSQ", "title": "BiomX Inc.", "valid_from": "2026-09-12", "valid_to": "2026-09-19"}
 {"cik": 1739174, "provable_from": true, "ticker": "HLSQ", "title": "Tessera Defense & Homeland Security Inc.", "valid_from": "2026-09-19", "valid_to": null}
 {"cik": 1739174, "provable_from": false, "ticker": "PHGE", "title": "BiomX Inc.", "valid_from": "2026-07-28", "valid_to": "2026-09-19"}
-{"cik": 1739174, "provable_from": true, "ticker": "PHGE", "title": "Tessera Defense & Homeland Security Inc.", "valid_from": "2026-09-19", "valid_to": null}
+{"cik": 1739174, "provable_from": true, "ticker": "PHGE", "title": "Tessera Defense & Homeland Security Inc.", "valid_from": "2026-09-19", "valid_to": "2026-09-24"}
 {"cik": 1739410, "provable_from": false, "ticker": "RLYB", "title": "Rallybio Corp", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1739445, "provable_from": false, "ticker": "ACA", "title": "Arcosa, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1739566, "provable_from": false, "ticker": "UTZ", "title": "Utz Brands, Inc.", "valid_from": "2026-07-28", "valid_to": null}
@@ -5295,6 +5296,7 @@
 {"cik": 1801834, "provable_from": false, "ticker": "PRFX", "title": "PRF Technologies Ltd.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1802156, "provable_from": false, "ticker": "XPOF", "title": "Xponential Fitness, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1802255, "provable_from": false, "ticker": "GRDN", "title": "Guardian Pharmacy Services, Inc.", "valid_from": "2026-07-28", "valid_to": null}
+{"cik": 1802369, "provable_from": true, "ticker": "ADRX", "title": "ADARx Pharmaceuticals, Inc.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1802450, "provable_from": false, "ticker": "MSPR", "title": "MSP Recovery, Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1802450, "provable_from": false, "ticker": "MSPRW", "title": "MSP Recovery, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-31"}
 {"cik": 1802450, "provable_from": false, "ticker": "MSPRZ", "title": "MSP Recovery, Inc.", "valid_from": "2026-07-28", "valid_to": "2026-07-31"}
@@ -6918,8 +6920,10 @@
 {"cik": 1948443, "provable_from": false, "ticker": "RAY", "title": "Raytech Holding Ltd", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"cik": 1948455, "provable_from": false, "ticker": "ISPR", "title": "Ispire Technology Inc.", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1948697, "provable_from": false, "ticker": "SPPL", "title": "SIMPPLE LTD.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1948864, "provable_from": false, "ticker": "HCWC", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-07-28", "valid_to": null}
-{"cik": 1948864, "provable_from": true, "ticker": "HOST", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-09-19", "valid_to": null}
+{"cik": 1948864, "provable_from": false, "ticker": "HCWC", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-07-28", "valid_to": "2026-09-24"}
+{"cik": 1948864, "provable_from": true, "ticker": "HCWC", "title": "Host Digital Inc.", "valid_from": "2026-09-24", "valid_to": null}
+{"cik": 1948864, "provable_from": true, "ticker": "HOST", "title": "HEALTHY CHOICE WELLNESS CORP.", "valid_from": "2026-09-19", "valid_to": "2026-09-24"}
+{"cik": 1948864, "provable_from": true, "ticker": "HOST", "title": "Host Digital Inc.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 1949257, "provable_from": false, "ticker": "RADX", "title": "Radiopharm Theranostics Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1949257, "provable_from": false, "ticker": "RDPTF", "title": "Radiopharm Theranostics Ltd", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 1949283, "provable_from": true, "ticker": "EXHI", "title": "Exlites Holdings International Inc", "valid_from": "2026-09-12", "valid_to": null}
@@ -8701,6 +8705,7 @@
 {"cik": 2088827, "provable_from": false, "ticker": "HRBAY", "title": "Horiba, Ltd./ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2088827, "provable_from": false, "ticker": "HRIBF", "title": "Horiba, Ltd./ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2088896, "provable_from": false, "ticker": "XE", "title": "X-Energy, Inc.", "valid_from": "2026-07-28", "valid_to": null}
+{"cik": 2089160, "provable_from": true, "ticker": "STNF", "title": "Santa Ana Global Enterprises, S.A.", "valid_from": "2026-09-24", "valid_to": null}
 {"cik": 2089174, "provable_from": false, "ticker": "PCCOF", "title": "Paltac Corporation/ADR", "valid_from": "2026-07-28", "valid_to": "2026-09-02"}
 {"cik": 2089174, "provable_from": false, "ticker": "PTAXY", "title": "Paltac Corporation/ADR", "valid_from": "2026-07-28", "valid_to": null}
 {"cik": 2089271, "provable_from": false, "ticker": "HONA", "title": "Honeywell Aerospace Inc.", "valid_from": "2026-07-28", "valid_to": null}

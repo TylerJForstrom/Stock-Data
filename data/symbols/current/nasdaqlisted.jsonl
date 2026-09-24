@@ -1439,7 +1439,6 @@
 {"category": "Q", "etf": "N", "name": "DocuSign, Inc. - Common Stock", "test_issue": "N", "ticker": "DOCU"}
 {"category": "S", "etf": "N", "name": "Dogness (International) Corporation - Class A Common Stock", "test_issue": "N", "ticker": "DOGZ"}
 {"category": "S", "etf": "N", "name": "Dominari Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "DOMH"}
-{"category": "G", "etf": "N", "name": "Domo, Inc. - Class B Common Stock", "test_issue": "N", "ticker": "DOMO"}
 {"category": "Q", "etf": "N", "name": "BRP Inc. - Common Subordinate Voting Shares", "test_issue": "N", "ticker": "DOO"}
 {"category": "Q", "etf": "N", "name": "Dorman Products, Inc. - Common Stock", "test_issue": "N", "ticker": "DORM"}
 {"category": "Q", "etf": "N", "name": "Amdocs Limited - Ordinary Shares", "test_issue": "N", "ticker": "DOX"}
@@ -1839,6 +1838,8 @@
 {"category": "G", "etf": "Y", "name": "First Trust Smith Opportunistic Fixed Income ETF", "test_issue": "N", "ticker": "FIXD"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST 20Y Treasuries ETF", "test_issue": "N", "ticker": "FIYY"}
 {"category": "Q", "etf": "N", "name": "National Beverage Corp. - Common Stock", "test_issue": "N", "ticker": "FIZZ"}
+{"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Class A Ordinary Shares", "test_issue": "N", "ticker": "FJDI"}
+{"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Rights", "test_issue": "N", "ticker": "FJDIR"}
 {"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Units", "test_issue": "N", "ticker": "FJDIU"}
 {"category": "G", "etf": "Y", "name": "First Trust Japan AlphaDEX Fund", "test_issue": "N", "ticker": "FJP"}
 {"category": "G", "etf": "Y", "name": "First Trust United Kingdom AlphaDEX Fund", "test_issue": "N", "ticker": "FKU"}
@@ -2240,7 +2241,7 @@
 {"category": "G", "etf": "N", "name": "HCM IV Acquisition Corp. - Unit", "test_issue": "N", "ticker": "HACQU"}
 {"category": "G", "etf": "N", "name": "HCM IV Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "HACQW"}
 {"category": "Q", "etf": "N", "name": "Hanmi Financial Corporation - Common Stock", "test_issue": "N", "ticker": "HAFC"}
-{"category": "Q", "etf": "N", "name": "The Hain Celestial Group, Inc. - Common Stock", "test_issue": "N", "ticker": "HAIN"}
+{"category": "S", "etf": "N", "name": "The Hain Celestial Group, Inc. - Common Stock", "test_issue": "N", "ticker": "HAIN"}
 {"category": "Q", "etf": "N", "name": "Halozyme Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "HALO"}
 {"category": "S", "etf": "N", "name": "Haoxi Health Technology Limited - Class A Ord Share", "test_issue": "N", "ticker": "HAO"}
 {"category": "Q", "etf": "N", "name": "Happen, Inc. - Common Stock", "test_issue": "N", "ticker": "HAPN"}
@@ -2378,6 +2379,7 @@
 {"category": "S", "etf": "N", "name": "Hub Cyber Security Ltd. - Warrant expiring 2/27/28", "test_issue": "N", "ticker": "HUBCW"}
 {"category": "S", "etf": "N", "name": "Hub Cyber Security Ltd. - Warrant", "test_issue": "N", "ticker": "HUBCZ"}
 {"category": "Q", "etf": "N", "name": "Hub Group, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "HUBG"}
+{"category": "G", "etf": "N", "name": "Huckleberry.ai, Inc. - Class B Common Stock", "test_issue": "N", "ticker": "HUCK"}
 {"category": "S", "etf": "N", "name": "Huadi International Group Co., Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "HUDI"}
 {"category": "S", "etf": "N", "name": "HUHUTECH International Group Inc. - Ordinary Shares", "test_issue": "N", "ticker": "HUHU"}
 {"category": "G", "etf": "N", "name": "Huize Holding Limited - American Depositary Shares", "test_issue": "N", "ticker": "HUIZ"}
@@ -2387,9 +2389,6 @@
 {"category": "Q", "etf": "N", "name": "Huron Consulting Group Inc. - Common Stock", "test_issue": "N", "ticker": "HURN"}
 {"category": "Q", "etf": "N", "name": "Hut 8 Corp. - Common Stock", "test_issue": "N", "ticker": "HUT"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long HUT Daily ETF", "test_issue": "N", "ticker": "HUTG"}
-{"category": "G", "etf": "N", "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares", "test_issue": "N", "ticker": "HVII"}
-{"category": "G", "etf": "N", "name": "Hennessy Capital Investment Corp. VII - Rights", "test_issue": "N", "ticker": "HVIIR"}
-{"category": "G", "etf": "N", "name": "Hennessy Capital Investment Corp. VII - Unit", "test_issue": "N", "ticker": "HVIIU"}
 {"category": "G", "etf": "N", "name": "Highview Merger Corp. - Class A Ordinary Share", "test_issue": "N", "ticker": "HVMC"}
 {"category": "G", "etf": "N", "name": "Highview Merger Corp. - Units", "test_issue": "N", "ticker": "HVMCU"}
 {"category": "G", "etf": "N", "name": "Highview Merger Corp. - Warrants", "test_issue": "N", "ticker": "HVMCW"}
@@ -2399,6 +2398,7 @@
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Global Value Fund", "test_issue": "N", "ticker": "HWGV"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley International Value Fund", "test_issue": "N", "ticker": "HWIV"}
 {"category": "Q", "etf": "N", "name": "Hawkins, Inc. - Common Stock", "test_issue": "N", "ticker": "HWKN"}
+{"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Mid-Cap Value Fund", "test_issue": "N", "ticker": "HWMV"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley Opportunities Fund", "test_issue": "N", "ticker": "HWO"}
 {"category": "G", "etf": "Y", "name": "Hotchkis & Wiley SMID Cap Diversified Value Fund", "test_issue": "N", "ticker": "HWSM"}
 {"category": "S", "etf": "N", "name": "Haoxin Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "HXHX"}
@@ -2870,9 +2870,9 @@
 {"category": "Q", "etf": "N", "name": "Liberty Global Ltd. - Class A Common Shares", "test_issue": "N", "ticker": "LBTYA"}
 {"category": "Q", "etf": "N", "name": "Liberty Global Ltd. - Class B Common Shares", "test_issue": "N", "ticker": "LBTYB"}
 {"category": "Q", "etf": "N", "name": "Liberty Global Ltd. - Class C Common Shares", "test_issue": "N", "ticker": "LBTYK"}
-{"category": "G", "etf": "N", "name": "Lakeshore Acquisition III Corp. - Ordinary Shares", "test_issue": "N", "ticker": "LCCC"}
-{"category": "G", "etf": "N", "name": "Lakeshore Acquisition III Corp. - Rights", "test_issue": "N", "ticker": "LCCCR"}
-{"category": "G", "etf": "N", "name": "Lakeshore Acquisition III Corp. - Unit", "test_issue": "N", "ticker": "LCCCU"}
+{"category": "S", "etf": "N", "name": "Lakeshore Acquisition III Corp. - Ordinary Shares", "test_issue": "N", "ticker": "LCCC"}
+{"category": "S", "etf": "N", "name": "Lakeshore Acquisition III Corp. - Rights", "test_issue": "N", "ticker": "LCCCR"}
+{"category": "S", "etf": "N", "name": "Lakeshore Acquisition III Corp. - Unit", "test_issue": "N", "ticker": "LCCCU"}
 {"category": "G", "etf": "Y", "name": "JPMorgan Fundamental Data Science Large Core ETF", "test_issue": "N", "ticker": "LCDS"}
 {"category": "S", "etf": "N", "name": "Locafy Limited - Ordinary Share", "test_issue": "N", "ticker": "LCFY"}
 {"category": "S", "etf": "N", "name": "Locafy Limited - Warrant", "test_issue": "N", "ticker": "LCFYW"}
@@ -3671,6 +3671,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long ONDS Daily ETF", "test_issue": "N", "ticker": "ONDG"}
 {"category": "S", "etf": "N", "name": "Ondas Inc - Common Stock", "test_issue": "N", "ticker": "ONDS"}
 {"category": "S", "etf": "N", "name": "OneConstruction Group Limited - Ordinary Shares", "test_issue": "N", "ticker": "ONEG"}
+{"category": "G", "etf": "N", "name": "ONE Nuclear Energy Inc. - Common Stock", "test_issue": "N", "ticker": "ONEN"}
 {"category": "G", "etf": "Y", "name": "Fidelity Nasdaq Composite Index ETF", "test_issue": "N", "ticker": "ONEQ"}
 {"category": "G", "etf": "N", "name": "OneWater Marine Inc. - Class A Common Stock", "test_issue": "N", "ticker": "ONEW"}
 {"category": "S", "etf": "N", "name": "Onfolio Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "ONFO"}
@@ -4123,6 +4124,7 @@
 {"category": "G", "etf": "Y", "name": "ProShares UltraShort QQQ Mega", "test_issue": "N", "ticker": "QQDN"}
 {"category": "G", "etf": "Y", "name": "First Trust Nasdaq-100 Select Equal Weight ETF", "test_issue": "N", "ticker": "QQEW"}
 {"category": "G", "etf": "Y", "name": "Invesco QQQ Hedged Advantage ETF", "test_issue": "N", "ticker": "QQHG"}
+{"category": "G", "etf": "Y", "name": "Invesco Nasdaq International Innovators 100 ETF", "test_issue": "N", "ticker": "QQI"}
 {"category": "G", "etf": "Y", "name": "Invesco QQQ Low Volatility ETF", "test_issue": "N", "ticker": "QQLV"}
 {"category": "G", "etf": "Y", "name": "Invesco ESG NASDAQ 100 ETF", "test_issue": "N", "ticker": "QQMG"}
 {"category": "G", "etf": "Y", "name": "Invesco QQQ Trust, Series 1", "test_issue": "N", "ticker": "QQQ"}
@@ -4841,7 +4843,6 @@
 {"category": "G", "etf": "Y", "name": "F/m US Treasury 3 Month Bill Fund", "test_issue": "N", "ticker": "TBIL"}
 {"category": "Q", "etf": "N", "name": "Taboola.com Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "TBLA"}
 {"category": "Q", "etf": "N", "name": "Thornburg Income Builder Opportunities Trust - Closed End Fund", "test_issue": "N", "ticker": "TBLD"}
-{"category": "G", "etf": "N", "name": "Theravance Biopharma, Inc. - Ordinary Shares", "test_issue": "N", "ticker": "TBPH"}
 {"category": "S", "etf": "N", "name": "Token Cat Limited - American Depositary Shares", "test_issue": "N", "ticker": "TC"}
 {"category": "G", "etf": "Y", "name": "21Shares Canton Network ETF", "test_issue": "N", "ticker": "TCAN"}
 {"category": "Q", "etf": "N", "name": "Texas Capital Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "TCBI"}
@@ -5085,9 +5086,11 @@
 {"category": "G", "etf": "N", "name": "Twelve Seas Investment Company III - Rights", "test_issue": "N", "ticker": "TWLVR"}
 {"category": "G", "etf": "N", "name": "Twelve Seas Investment Company III - Units", "test_issue": "N", "ticker": "TWLVU"}
 {"category": "Q", "etf": "N", "name": "Twist Bioscience Corporation - Common Stock", "test_issue": "N", "ticker": "TWST"}
+{"category": "G", "etf": "Y", "name": "Northern Trust California Intermediate Tax-Exempt Bond ETF", "test_issue": "N", "ticker": "TXCA"}
 {"category": "Q", "etf": "N", "name": "10x Genomics, Inc. - Common Stock", "test_issue": "N", "ticker": "TXG"}
 {"category": "Q", "etf": "N", "name": "TherapeuticsMD, Inc. - Common Stock", "test_issue": "N", "ticker": "TXMD"}
 {"category": "Q", "etf": "N", "name": "Texas Instruments Incorporated - Common Stock", "test_issue": "N", "ticker": "TXN"}
+{"category": "G", "etf": "Y", "name": "Northern Trust New York Intermediate Tax-Exempt Bond ETF", "test_issue": "N", "ticker": "TXNY"}
 {"category": "Q", "etf": "N", "name": "Texas Roadhouse, Inc. - Common Stock", "test_issue": "N", "ticker": "TXRH"}
 {"category": "G", "etf": "Y", "name": "Thornburg International Equity ETF", "test_issue": "N", "ticker": "TXUE"}
 {"category": "G", "etf": "Y", "name": "Thornburg International Growth Fund ETF", "test_issue": "N", "ticker": "TXUG"}
