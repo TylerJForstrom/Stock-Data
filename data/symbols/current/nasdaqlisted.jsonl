@@ -788,6 +788,7 @@
 {"category": "G", "etf": "N", "name": "Brilliant Earth Group, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRLT"}
 {"category": "S", "etf": "N", "name": "BrenX Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "BRNX"}
 {"category": "G", "etf": "Y", "name": "Burney U.S. Factor Rotation ETF", "test_issue": "N", "ticker": "BRNY"}
+{"category": "G", "etf": "N", "name": "Bluerock Acquisition Corp. II - Units", "test_issue": "N", "ticker": "BRRKU"}
 {"category": "G", "etf": "Y", "name": "Coinshares Bitcoin ETF", "test_issue": "N", "ticker": "BRRR"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "BRTM"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Units", "test_issue": "N", "ticker": "BRTMU"}
@@ -1841,6 +1842,7 @@
 {"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Class A Ordinary Shares", "test_issue": "N", "ticker": "FJDI"}
 {"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Rights", "test_issue": "N", "ticker": "FJDIR"}
 {"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Units", "test_issue": "N", "ticker": "FJDIU"}
+{"category": "G", "etf": "N", "name": "ARC Group Securities Acquisition I - Warrants", "test_issue": "N", "ticker": "FJDIW"}
 {"category": "G", "etf": "Y", "name": "First Trust Japan AlphaDEX Fund", "test_issue": "N", "ticker": "FJP"}
 {"category": "G", "etf": "Y", "name": "First Trust United Kingdom AlphaDEX Fund", "test_issue": "N", "ticker": "FKU"}
 {"category": "S", "etf": "N", "name": "Franklin Wireless Corp. - common stock", "test_issue": "N", "ticker": "FKWL"}
@@ -2727,7 +2729,6 @@
 {"category": "G", "etf": "Y", "name": "Janus Henderson Small/Mid Cap Growth Alpha ETF", "test_issue": "N", "ticker": "JSMD"}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Small Cap Growth Alpha ETF", "test_issue": "N", "ticker": "JSML"}
 {"category": "S", "etf": "N", "name": "Jasper Therapeutics, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "JSPR"}
-{"category": "S", "etf": "N", "name": "Jasper Therapeutics, Inc. - Warrant", "test_issue": "N", "ticker": "JSPRW"}
 {"category": "S", "etf": "N", "name": "Jet.AI Inc. - Common Stock", "test_issue": "N", "ticker": "JTAI"}
 {"category": "G", "etf": "Y", "name": "JPMorgan U.S. Tech Leaders ETF", "test_issue": "N", "ticker": "JTEK"}
 {"category": "S", "etf": "N", "name": "JATT III Acquisition Corp - Ordinary Shares", "test_issue": "N", "ticker": "JTTT"}
@@ -2792,7 +2793,6 @@
 {"category": "G", "etf": "N", "name": "Kalaris Therapeutics, Inc.  - Common Stock", "test_issue": "N", "ticker": "KLRS"}
 {"category": "Q", "etf": "N", "name": "Kaltura, Inc. - Common Stock", "test_issue": "N", "ticker": "KLTR"}
 {"category": "Q", "etf": "N", "name": "KLX Energy Services Holdings, Inc.  - Common Stock", "test_issue": "N", "ticker": "KLXE"}
-{"category": "Q", "etf": "N", "name": "KLX Energy Services Holdings, Inc.  - Rights", "test_issue": "N", "ticker": "KLXER"}
 {"category": "Q", "etf": "N", "name": "Kimberly-Clark Corporation - Common Stock", "test_issue": "N", "ticker": "KMB"}
 {"category": "Q", "etf": "N", "name": "Kamada Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "KMDA"}
 {"category": "G", "etf": "Y", "name": "KraneShares 2x Long MELI Daily ETF", "test_issue": "N", "ticker": "KMLI"}
@@ -4973,6 +4973,7 @@
 {"category": "S", "etf": "N", "name": "TOMI Environmental Solutions, Inc. - Common Stock", "test_issue": "N", "ticker": "TOMZ"}
 {"category": "S", "etf": "N", "name": "TON Strategy Company - Common Stock", "test_issue": "N", "ticker": "TONX"}
 {"category": "S", "etf": "N", "name": "TOP Financial Group Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "TOP"}
+{"category": "G", "etf": "Y", "name": "KraneShares Actuator ETF", "test_issue": "N", "ticker": "TORK"}
 {"category": "S", "etf": "N", "name": "Toro Corp. - Common stock", "test_issue": "N", "ticker": "TORO"}
 {"category": "S", "etf": "N", "name": "Tuniu Corporation - American Depositary Shares", "test_issue": "N", "ticker": "TOUR"}
 {"category": "Q", "etf": "N", "name": "Towne Bank - Common Stock", "test_issue": "N", "ticker": "TOWN"}
