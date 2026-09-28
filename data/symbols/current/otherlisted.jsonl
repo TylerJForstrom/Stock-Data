@@ -1604,7 +1604,7 @@
 {"etf": "N", "exchange": "N", "name": "Ducommun Incorporated Common Stock", "test_issue": "N", "ticker": "DCO"}
 {"etf": "N", "exchange": "N", "name": "Dime Commercial Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "DCOM"}
 {"etf": "N", "exchange": "N", "name": "Dime Commercial Bancshares, Inc. Preferred Stock, Series A", "test_issue": "N", "ticker": "DCOM$"}
-{"etf": "Y", "exchange": "P", "name": "Dimensional US Core Equity 1 ETF", "test_issue": "N", "ticker": "DCOR"}
+{"etf": "Y", "exchange": "P", "name": "US Core Equity 1 Portfolio ETF Class Shares", "test_issue": "N", "ticker": "DCOR"}
 {"etf": "Y", "exchange": "P", "name": "DoubleLine Commercial Real Estate Debt ETF", "test_issue": "N", "ticker": "DCRE"}
 {"etf": "N", "exchange": "N", "name": "DuPont de Nemours, Inc. Common Stock", "test_issue": "N", "ticker": "DD"}
 {"etf": "N", "exchange": "A", "name": "DDC Enterprise Limited Class A Ordinary Shares", "test_issue": "N", "ticker": "DDC"}
@@ -1675,7 +1675,7 @@
 {"etf": "Y", "exchange": "P", "name": "Dimensional Emerging Core Equity Market ETF", "test_issue": "N", "ticker": "DFAE"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional International Core Equity Market ETF", "test_issue": "N", "ticker": "DFAI"}
 {"etf": "Y", "exchange": "Z", "name": "Dimensional US Large Cap Core Equity Market ETF", "test_issue": "N", "ticker": "DFAL"}
-{"etf": "Y", "exchange": "P", "name": "Dimensional US Real Estate ETF", "test_issue": "N", "ticker": "DFAR"}
+{"etf": "Y", "exchange": "P", "name": "DFA Real Estate Securities Portfolio ETF Class Shares", "test_issue": "N", "ticker": "DFAR"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional U.S. Small Cap ETF", "test_issue": "N", "ticker": "DFAS"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional U.S. Targeted Value ETF", "test_issue": "N", "ticker": "DFAT"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional US Core Equity Market ETF", "test_issue": "N", "ticker": "DFAU"}
@@ -1707,7 +1707,7 @@
 {"etf": "Y", "exchange": "P", "name": "Dimensional Emerging Markets Sustainability Core 1 ETF", "test_issue": "N", "ticker": "DFSE"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional International Sustainability Core 1 ETF", "test_issue": "N", "ticker": "DFSI"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional US Sustainability Core 1 ETF", "test_issue": "N", "ticker": "DFSU"}
-{"etf": "Y", "exchange": "P", "name": "Dimensional US Small Cap Value ETF", "test_issue": "N", "ticker": "DFSV"}
+{"etf": "Y", "exchange": "P", "name": "US Small Cap Value Portfolio ETF Class Shares", "test_issue": "N", "ticker": "DFSV"}
 {"etf": "Y", "exchange": "P", "name": "DF Tactical 30 ETF", "test_issue": "N", "ticker": "DFTT"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional U.S. Equity Market ETF", "test_issue": "N", "ticker": "DFUS"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional US Marketwide Value ETF", "test_issue": "N", "ticker": "DFUV"}
@@ -1878,7 +1878,7 @@
 {"etf": "N", "exchange": "N", "name": "DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077", "test_issue": "N", "ticker": "DTW"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus Large Cap Enhanced Yield ETF", "test_issue": "N", "ticker": "DUBS"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Energy", "test_issue": "N", "ticker": "DUG"}
-{"etf": "Y", "exchange": "P", "name": "Dimensional US High Profitability ETF", "test_issue": "N", "ticker": "DUHP"}
+{"etf": "Y", "exchange": "P", "name": "US High Relative Profitability Portfolio ETF Class Shares", "test_issue": "N", "ticker": "DUHP"}
 {"etf": "N", "exchange": "N", "name": "Duke Energy Corporation (Holding Company) Common Stock", "test_issue": "N", "ticker": "DUK"}
 {"etf": "N", "exchange": "N", "name": "Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock", "test_issue": "N", "ticker": "DUK$A"}
 {"etf": "N", "exchange": "N", "name": "Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078", "test_issue": "N", "ticker": "DUKB"}
@@ -1913,7 +1913,7 @@
 {"etf": "N", "exchange": "A", "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)", "test_issue": "N", "ticker": "DXF"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional International Vector Equity ETF", "test_issue": "N", "ticker": "DXIV"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Japan Hedged Equity Fund", "test_issue": "N", "ticker": "DXJ"}
-{"etf": "Y", "exchange": "P", "name": "Dimensional US Vector Equity ETF", "test_issue": "N", "ticker": "DXUV"}
+{"etf": "Y", "exchange": "P", "name": "US Vector Equity Portfolio ETF Class Shares", "test_issue": "N", "ticker": "DXUV"}
 {"etf": "N", "exchange": "N", "name": "Destiny Tech100 Inc. Common Stock", "test_issue": "N", "ticker": "DXYZ"}
 {"etf": "N", "exchange": "N", "name": "Dycom Industries, Inc. Common Stock", "test_issue": "N", "ticker": "DY"}
 {"etf": "Y", "exchange": "P", "name": "LeaderShares Dynamic Yield ETF", "test_issue": "N", "ticker": "DYLD"}
@@ -3986,6 +3986,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Principal Capital Appreciation Select ETF", "test_issue": "N", "ticker": "LCAP"}
 {"etf": "Y", "exchange": "Z", "name": "Touchstone US Large Cap Focused ETF", "test_issue": "N", "ticker": "LCF"}
 {"etf": "N", "exchange": "N", "name": "LCI Industries", "test_issue": "N", "ticker": "LCII"}
+{"etf": "Y", "exchange": "N", "name": "Logan Capital International ETF", "test_issue": "N", "ticker": "LCIV"}
 {"etf": "Y", "exchange": "P", "name": "Logan Capital Large Cap Growth ETF", "test_issue": "N", "ticker": "LCLG"}
 {"etf": "N", "exchange": "N", "name": "Lincoln International, Inc. Class A Common Stock", "test_issue": "N", "ticker": "LCLN"}
 {"etf": "Y", "exchange": "P", "name": "LOGIQ Contrarian Opportunities ETF", "test_issue": "N", "ticker": "LCO"}
@@ -5148,6 +5149,7 @@
 {"etf": "N", "exchange": "N", "name": "PIMCO Income Strategy Fund II", "test_issue": "N", "ticker": "PFN"}
 {"etf": "N", "exchange": "N", "name": "Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated", "test_issue": "N", "ticker": "PFO"}
 {"etf": "Y", "exchange": "P", "name": "PGIM Floating Rate Income ETF", "test_issue": "N", "ticker": "PFRL"}
+{"etf": "Y", "exchange": "P", "name": "Putnam Focused U.S. Research ETF", "test_issue": "N", "ticker": "PFRX"}
 {"etf": "N", "exchange": "N", "name": "Provident Financial Services, Inc Common Stock", "test_issue": "N", "ticker": "PFS"}
 {"etf": "N", "exchange": "N", "name": "PennyMac Financial Services, Inc. Common Stock", "test_issue": "N", "ticker": "PFSI"}
 {"etf": "Y", "exchange": "P", "name": "VanEck Preferred Securities ex Financials ETF", "test_issue": "N", "ticker": "PFXF"}
@@ -5866,9 +5868,6 @@
 {"etf": "N", "exchange": "N", "name": "Southside Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "SBSI"}
 {"etf": "N", "exchange": "N", "name": "D/B/A Sibanye-Stillwater Limited ADS", "test_issue": "N", "ticker": "SBSW"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long SBET Daily Target ETF", "test_issue": "N", "ticker": "SBTU"}
-{"etf": "N", "exchange": "N", "name": "SilverBox Corp IV Class A Ordinary Shares", "test_issue": "N", "ticker": "SBXD"}
-{"etf": "N", "exchange": "N", "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "SBXD.U"}
-{"etf": "N", "exchange": "N", "name": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50", "test_issue": "N", "ticker": "SBXD.W"}
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Class A Ordinary Shares", "test_issue": "N", "ticker": "SBXE"}
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "SBXE.U"}
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50", "test_issue": "N", "ticker": "SBXE.W"}
@@ -6790,9 +6789,6 @@
 {"etf": "N", "exchange": "N", "name": "Twilio Inc. Class A Common Stock", "test_issue": "N", "ticker": "TWLO"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Russell2000", "test_issue": "N", "ticker": "TWM"}
 {"etf": "N", "exchange": "N", "name": "Taiwan Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "TWN"}
-{"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)", "test_issue": "N", "ticker": "TWO$A"}
-{"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$B"}
-{"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "TWO$C"}
 {"etf": "N", "exchange": "N", "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030", "test_issue": "N", "ticker": "TWOD"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Large Cap Accelerated Outcome ETF", "test_issue": "N", "ticker": "TWOX"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi TSM 2x Daily ETF", "test_issue": "N", "ticker": "TWSC"}

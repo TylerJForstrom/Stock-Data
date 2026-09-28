@@ -1877,6 +1877,8 @@
 {"category": "G", "etf": "Y", "name": "Fidelity Managed Futures ETF", "provable_from": false, "test_issue": "N", "ticker": "FFUT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FGBI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "FGBIP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "FG Communities Holdings Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "FGC", "valid_from": "2026-09-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock", "provable_from": true, "test_issue": "N", "ticker": "FGCPP", "valid_from": "2026-09-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "FGI Industries Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FGI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "FG Imperii Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FGII", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "FG Imperii Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "FGIIU", "valid_from": "2026-07-28", "valid_to": null}
@@ -1884,8 +1886,8 @@
 {"category": "S", "etf": "N", "name": "FGI Industries Ltd. - warrant", "provable_from": false, "test_issue": "N", "ticker": "FGIWW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Founder Group Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FGL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust Germany AlphaDEX Fund", "provable_from": false, "test_issue": "N", "ticker": "FGM", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "FG Nexus Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FGNX", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "FGNXP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "FG Nexus Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FGNX", "valid_from": "2026-07-28", "valid_to": "2026-09-28"}
+{"category": "G", "etf": "N", "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "FGNXP", "valid_from": "2026-07-28", "valid_to": "2026-09-28"}
 {"category": "G", "etf": "Y", "name": "FT Vest Growth Strength & Target Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FGSI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Hawaiian, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FHB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Foghorn Therapeutics Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FHTX", "valid_from": "2026-07-28", "valid_to": null}
@@ -2235,6 +2237,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long GOOGL Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "GOU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco Equal Weight 0-30 Year Treasury ETF", "provable_from": false, "test_issue": "N", "ticker": "GOVI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "GeoVax Labs, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GOVX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "GOWell Energy Technology - Ordinary shares", "provable_from": true, "test_issue": "N", "ticker": "GOW", "valid_from": "2026-09-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "GreenPower Motor Company Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "GP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "General Purpose Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GPAC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "General Purpose Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "GPACU", "valid_from": "2026-07-28", "valid_to": null}
@@ -2697,9 +2700,9 @@
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Rights", "provable_from": false, "test_issue": "N", "ticker": "IPCXR", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. III - Units", "provable_from": false, "test_issue": "N", "ticker": "IPCXU", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"category": "S", "etf": "N", "name": "Professional Diversity Network, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IPDN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "IPEX", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Right", "provable_from": false, "test_issue": "N", "ticker": "IPEXR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "IPEXU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "IPEX", "valid_from": "2026-07-28", "valid_to": "2026-09-28"}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Right", "provable_from": false, "test_issue": "N", "ticker": "IPEXR", "valid_from": "2026-07-28", "valid_to": "2026-09-28"}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "IPEXU", "valid_from": "2026-07-28", "valid_to": "2026-09-28"}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "IPFX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VI - Units", "provable_from": false, "test_issue": "N", "ticker": "IPFXU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VI - Warrant", "provable_from": false, "test_issue": "N", "ticker": "IPFXW", "valid_from": "2026-07-28", "valid_to": null}
@@ -3994,7 +3997,7 @@
 {"category": "G", "etf": "Y", "name": "Invesco Dorsey Wright Momentum ETF", "provable_from": false, "test_issue": "N", "ticker": "PDP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "PDS Biotechnology Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PDSB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Palladyne AI Corp. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "PDYN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Palladyne AI Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "PDYNW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Palladyne AI Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "PDYNW", "valid_from": "2026-07-28", "valid_to": "2026-09-28"}
 {"category": "G", "etf": "N", "name": "Peoples Bancorp of North Carolina, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PEBK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Peoples Bancorp Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PEBO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Peace Acquisition Corp - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PECE", "valid_from": "2026-07-28", "valid_to": null}
@@ -5090,6 +5093,7 @@
 {"category": "S", "etf": "N", "name": "TryHard Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "THH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Lazard Equity Megatrends ETF", "provable_from": false, "test_issue": "N", "ticker": "THMZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Gentherm Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "THRM", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued", "provable_from": true, "test_issue": "N", "ticker": "THRMV", "valid_from": "2026-09-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Prospera Income ETF", "provable_from": false, "test_issue": "N", "ticker": "THRV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Thryv Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "THRY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "T. Rowe Price High Income Municipal ETF", "provable_from": false, "test_issue": "N", "ticker": "THYM", "valid_from": "2026-07-28", "valid_to": null}

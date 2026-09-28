@@ -1806,6 +1806,8 @@
 {"category": "G", "etf": "Y", "name": "Fidelity Managed Futures ETF", "test_issue": "N", "ticker": "FFUT"}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "FGBI"}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock", "test_issue": "N", "ticker": "FGBIP"}
+{"category": "G", "etf": "N", "name": "FG Communities Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "FGC"}
+{"category": "G", "etf": "N", "name": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock", "test_issue": "N", "ticker": "FGCPP"}
 {"category": "S", "etf": "N", "name": "FGI Industries Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "FGI"}
 {"category": "G", "etf": "N", "name": "FG Imperii Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "FGII"}
 {"category": "G", "etf": "N", "name": "FG Imperii Acquisition Corp. - Units", "test_issue": "N", "ticker": "FGIIU"}
@@ -1813,8 +1815,6 @@
 {"category": "S", "etf": "N", "name": "FGI Industries Ltd. - warrant", "test_issue": "N", "ticker": "FGIWW"}
 {"category": "S", "etf": "N", "name": "Founder Group Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "FGL"}
 {"category": "G", "etf": "Y", "name": "First Trust Germany AlphaDEX Fund", "test_issue": "N", "ticker": "FGM"}
-{"category": "G", "etf": "N", "name": "FG Nexus Inc. - Common Stock", "test_issue": "N", "ticker": "FGNX"}
-{"category": "G", "etf": "N", "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock", "test_issue": "N", "ticker": "FGNXP"}
 {"category": "G", "etf": "Y", "name": "FT Vest Growth Strength & Target Income ETF", "test_issue": "N", "ticker": "FGSI"}
 {"category": "Q", "etf": "N", "name": "First Hawaiian, Inc. - Common Stock", "test_issue": "N", "ticker": "FHB"}
 {"category": "G", "etf": "N", "name": "Foghorn Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "FHTX"}
@@ -2151,6 +2151,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long GOOGL Daily ETF", "test_issue": "N", "ticker": "GOU"}
 {"category": "G", "etf": "Y", "name": "Invesco Equal Weight 0-30 Year Treasury ETF", "test_issue": "N", "ticker": "GOVI"}
 {"category": "S", "etf": "N", "name": "GeoVax Labs, Inc. - Common Stock", "test_issue": "N", "ticker": "GOVX"}
+{"category": "G", "etf": "N", "name": "GOWell Energy Technology - Ordinary shares", "test_issue": "N", "ticker": "GOW"}
 {"category": "S", "etf": "N", "name": "GreenPower Motor Company Inc. - Common Shares", "test_issue": "N", "ticker": "GP"}
 {"category": "G", "etf": "N", "name": "General Purpose Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "GPAC"}
 {"category": "G", "etf": "N", "name": "General Purpose Acquisition Corp. - Units", "test_issue": "N", "ticker": "GPACU"}
@@ -2599,9 +2600,6 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST IONQ ETF", "test_issue": "N", "ticker": "IOYY"}
 {"category": "Q", "etf": "N", "name": "Interparfums, Inc. - Common Stock", "test_issue": "N", "ticker": "IPAR"}
 {"category": "S", "etf": "N", "name": "Professional Diversity Network, Inc. - Common Stock", "test_issue": "N", "ticker": "IPDN"}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "IPEX"}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Right", "test_issue": "N", "ticker": "IPEXR"}
-{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. - Unit", "test_issue": "N", "ticker": "IPEXU"}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares", "test_issue": "N", "ticker": "IPFX"}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VI - Units", "test_issue": "N", "ticker": "IPFXU"}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VI - Warrant", "test_issue": "N", "ticker": "IPFXW"}
@@ -3841,7 +3839,6 @@
 {"category": "G", "etf": "Y", "name": "Invesco Dorsey Wright Momentum ETF", "test_issue": "N", "ticker": "PDP"}
 {"category": "S", "etf": "N", "name": "PDS Biotechnology Corporation - Common Stock", "test_issue": "N", "ticker": "PDSB"}
 {"category": "G", "etf": "N", "name": "Palladyne AI Corp. - Common stock", "test_issue": "N", "ticker": "PDYN"}
-{"category": "G", "etf": "N", "name": "Palladyne AI Corp. - Warrant", "test_issue": "N", "ticker": "PDYNW"}
 {"category": "G", "etf": "N", "name": "Peoples Bancorp of North Carolina, Inc. - Common Stock", "test_issue": "N", "ticker": "PEBK"}
 {"category": "Q", "etf": "N", "name": "Peoples Bancorp Inc. - Common Stock", "test_issue": "N", "ticker": "PEBO"}
 {"category": "S", "etf": "N", "name": "Peace Acquisition Corp - Ordinary Shares", "test_issue": "N", "ticker": "PECE"}
@@ -4910,6 +4907,7 @@
 {"category": "S", "etf": "N", "name": "TryHard Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "THH"}
 {"category": "G", "etf": "Y", "name": "Lazard Equity Megatrends ETF", "test_issue": "N", "ticker": "THMZ"}
 {"category": "Q", "etf": "N", "name": "Gentherm Inc - Common Stock", "test_issue": "N", "ticker": "THRM"}
+{"category": "Q", "etf": "N", "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued", "test_issue": "N", "ticker": "THRMV"}
 {"category": "G", "etf": "Y", "name": "Prospera Income ETF", "test_issue": "N", "ticker": "THRV"}
 {"category": "S", "etf": "N", "name": "Thryv Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "THRY"}
 {"category": "G", "etf": "Y", "name": "T. Rowe Price High Income Municipal ETF", "test_issue": "N", "ticker": "THYM"}
