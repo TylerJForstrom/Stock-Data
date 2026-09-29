@@ -2562,6 +2562,7 @@
 {"category": "G", "etf": "Y", "name": "iShares Global Clean Energy ETF", "provable_from": false, "test_issue": "N", "ticker": "ICLN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ICON plc - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ICLR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Investcorp Credit Management BDC, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ICMB", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Symmetry Panoramic International Country Momentum ETF", "provable_from": true, "test_issue": "N", "ticker": "ICMO", "valid_from": "2026-09-29", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Icon Energy Corp. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "ICON", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Copper and Metals Mining ETF", "provable_from": false, "test_issue": "N", "ticker": "ICOP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "SeaStar Medical Holding Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ICU", "valid_from": "2026-07-28", "valid_to": null}
@@ -3438,6 +3439,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long MU Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "MULL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Franklin Multisector Income ETF", "provable_from": false, "test_issue": "N", "ticker": "MULT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Direxion Daily MU Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "MUU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "YieldMax MU Option Income Strategy ETF", "provable_from": true, "test_issue": "N", "ticker": "MUY", "valid_from": "2026-09-29", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST MU ETF", "provable_from": false, "test_issue": "N", "ticker": "MUYY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Muzero Acquisition Corp - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MUZE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Muzero Acquisition Corp - Unit", "provable_from": false, "test_issue": "N", "ticker": "MUZEU", "valid_from": "2026-07-28", "valid_to": null}
@@ -4454,7 +4456,7 @@
 {"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RILY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026", "provable_from": false, "test_issue": "N", "ticker": "RILYG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "RILYL", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026", "provable_from": false, "test_issue": "N", "ticker": "RILYN", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026", "provable_from": false, "test_issue": "N", "ticker": "RILYN", "valid_from": "2026-07-28", "valid_to": "2026-09-29"}
 {"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "RILYP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028", "provable_from": false, "test_issue": "N", "ticker": "RILYT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BRC Group Holdings, Inc. - 5.25% Senior Notes due 2028", "provable_from": false, "test_issue": "N", "ticker": "RILYZ", "valid_from": "2026-07-28", "valid_to": null}
@@ -4562,6 +4564,7 @@
 {"category": "S", "etf": "N", "name": "RYTHM, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RYM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "rYojbaba Co., Ltd. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "RYOJ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Rhythm Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RYTM", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Roze AI Inc. - Common Shares", "provable_from": true, "test_issue": "N", "ticker": "RZAI", "valid_from": "2026-09-29", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Rezolute, Inc. - Common Stock (NV)", "provable_from": false, "test_issue": "N", "ticker": "RZLT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Rezolve AI PLC - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RZLV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Rezolve AI PLC - Warrants", "provable_from": false, "test_issue": "N", "ticker": "RZLVW", "valid_from": "2026-07-28", "valid_to": null}
@@ -5168,7 +5171,8 @@
 {"category": "S", "etf": "N", "name": "TON Strategy Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TONX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "TOP Financial Group Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "TOP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "KraneShares Actuator ETF", "provable_from": true, "test_issue": "N", "ticker": "TORK", "valid_from": "2026-09-25", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Toro Corp. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "TORO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Toro Corp. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "TORO", "valid_from": "2026-07-28", "valid_to": "2026-09-29"}
+{"category": "S", "etf": "N", "name": "Toro Corp. - Common Shares", "provable_from": true, "test_issue": "N", "ticker": "TORO", "valid_from": "2026-09-29", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Tuniu Corporation - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "TOUR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Towne Bank - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TOWN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "TOYO Co., Ltd - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "TOYO", "valid_from": "2026-07-28", "valid_to": null}

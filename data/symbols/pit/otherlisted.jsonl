@@ -2783,7 +2783,7 @@
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Core Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "GBND", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "New Concept Energy, Inc Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GBR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Trust (BTC)", "provable_from": false, "test_issue": "N", "ticker": "GBTC", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Global Business Travel Group, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GBTG", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Global Business Travel Group, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GBTG", "valid_from": "2026-07-28", "valid_to": "2026-09-29"}
 {"etf": "N", "exchange": "N", "name": "Greenbrier Companies, Inc. (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GBX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Gabelli Commercial Aerospace and Defense ETF", "provable_from": false, "test_issue": "N", "ticker": "GCAD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Dynamic California Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "GCAL", "valid_from": "2026-07-28", "valid_to": null}
@@ -3562,7 +3562,7 @@
 {"etf": "Y", "exchange": "P", "name": "ProShares S&P Global Core Battery Metals ETF", "provable_from": false, "test_issue": "N", "ticker": "ION", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi IONQ 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "IONC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "IonQ, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IONQ", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share", "provable_from": false, "test_issue": "N", "ticker": "IONQ.W", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share", "provable_from": false, "test_issue": "N", "ticker": "IONQ.W", "valid_from": "2026-07-28", "valid_to": "2026-09-29"}
 {"etf": "Y", "exchange": "P", "name": "iShares Global 100 ETF", "provable_from": false, "test_issue": "N", "ticker": "IOO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify Tara India Opportunities ETF", "provable_from": false, "test_issue": "N", "ticker": "IOPP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Income Opportunity Realty Investors, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IOR", "valid_from": "2026-07-28", "valid_to": null}
@@ -4079,7 +4079,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Principal Capital Appreciation Select ETF", "provable_from": false, "test_issue": "N", "ticker": "LCAP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Touchstone US Large Cap Focused ETF", "provable_from": false, "test_issue": "N", "ticker": "LCF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "LCI Industries", "provable_from": false, "test_issue": "N", "ticker": "LCII", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "N", "name": "Logan Capital International ETF", "provable_from": true, "test_issue": "N", "ticker": "LCIV", "valid_from": "2026-09-28", "valid_to": null}
+{"etf": "Y", "exchange": "N", "name": "Logan Capital International ETF", "provable_from": true, "test_issue": "N", "ticker": "LCIV", "valid_from": "2026-09-28", "valid_to": "2026-09-29"}
 {"etf": "Y", "exchange": "P", "name": "Logan Capital Broad Innovative Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "LCLG", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"etf": "Y", "exchange": "P", "name": "Logan Capital Large Cap Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "LCLG", "valid_from": "2026-08-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Lincoln International, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LCLN", "valid_from": "2026-07-28", "valid_to": null}
@@ -4229,6 +4229,7 @@
 {"etf": "N", "exchange": "A", "name": "Luda Technology Group Limited Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "LUD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Photonic and Optical ETF", "provable_from": false, "test_issue": "N", "ticker": "LUMA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Lumen Technologies, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LUMN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Longnook Uncommon Compounders ETF", "provable_from": true, "test_issue": "N", "ticker": "LUNC", "valid_from": "2026-09-29", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long LUNR ETF", "provable_from": false, "test_issue": "N", "ticker": "LUNL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Southwest Airlines Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LUV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "LUXE", "valid_from": "2026-07-28", "valid_to": null}
@@ -4876,6 +4877,7 @@
 {"etf": "N", "exchange": "N", "name": "Nuveen New York AMT-Free Quality Municipal Income Fund ", "provable_from": false, "test_issue": "N", "ticker": "NRK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Neuberger Real Estate Securities Income Fund Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NRO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Natural Resource Partners LP Limited Partnership", "provable_from": false, "test_issue": "N", "ticker": "NRP", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Common Shares of Beneficial Interest of Bitwise NEAR ETF", "provable_from": true, "test_issue": "N", "ticker": "NRR", "valid_from": "2026-09-29", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Aztlan North America Nearshoring Stock Selection ETF", "provable_from": false, "test_issue": "N", "ticker": "NRSH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "North European Oil Royality Trust Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NRT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)", "provable_from": false, "test_issue": "N", "ticker": "NRUC", "valid_from": "2026-07-28", "valid_to": null}
