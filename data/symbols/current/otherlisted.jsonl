@@ -56,6 +56,7 @@
 {"etf": "N", "exchange": "N", "name": "Archer Aviation Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACHR"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ACHR 2x Daily ETF", "test_issue": "N", "ticker": "ACHX"}
 {"etf": "N", "exchange": "N", "name": "Albertsons Companies, Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACI"}
+{"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Growth ETF", "test_issue": "N", "ticker": "ACIG"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Index Autocallable Income Strategy ETF", "test_issue": "N", "ticker": "ACII"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus Collared Investment Opportunity ETF", "test_issue": "N", "ticker": "ACIO"}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Target 15 ACKtivist Distribution ETF", "test_issue": "N", "ticker": "ACKY"}
@@ -74,6 +75,7 @@
 {"etf": "N", "exchange": "N", "name": "Ares Commercial Real Estate Corporation Common Stock", "test_issue": "N", "ticker": "ACRE"}
 {"etf": "Y", "exchange": "Z", "name": "American Century Small Cap Growth Insights ETF", "test_issue": "N", "ticker": "ACSG"}
 {"etf": "Y", "exchange": "Z", "name": "American Customer Satisfaction ETF", "test_issue": "N", "ticker": "ACSI"}
+{"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture SMID Cap ETF", "test_issue": "N", "ticker": "ACSM"}
 {"etf": "Y", "exchange": "Z", "name": "American Century Small Cap Value Insights ETF", "test_issue": "N", "ticker": "ACSV"}
 {"etf": "Y", "exchange": "P", "name": "FIS Tactical Equity ETF", "test_issue": "N", "ticker": "ACTS"}
 {"etf": "N", "exchange": "A", "name": "Acme United Corporation. Common Stock", "test_issue": "N", "ticker": "ACU"}
@@ -294,7 +296,6 @@
 {"etf": "N", "exchange": "N", "name": "American Well Corporation Class A Common Stock", "test_issue": "N", "ticker": "AMWL"}
 {"etf": "N", "exchange": "N", "name": "America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares", "test_issue": "N", "ticker": "AMX"}
 {"etf": "Y", "exchange": "P", "name": "InfraCap MLP ETF", "test_issue": "N", "ticker": "AMZA"}
-{"etf": "N", "exchange": "A", "name": "Amaze Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "AMZE"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long AMZN Daily ETF", "test_issue": "N", "ticker": "AMZG"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short AMZN Daily ETF", "test_issue": "N", "ticker": "AMZO"}
 {"etf": "Y", "exchange": "Z", "name": "Kurv Yield Premium Strategy Amazon (AMZN) ETF", "test_issue": "N", "ticker": "AMZP"}
@@ -503,6 +504,7 @@
 {"etf": "Y", "exchange": "P", "name": "Avantis U.S. Mid Cap Equity ETF", "test_issue": "N", "ticker": "AVMC"}
 {"etf": "Y", "exchange": "P", "name": "Avantis Core Municipal Fixed Income ETF", "test_issue": "N", "ticker": "AVMU"}
 {"etf": "Y", "exchange": "P", "name": "Avantis U.S. Mid Cap Value ETF", "test_issue": "N", "ticker": "AVMV"}
+{"etf": "Y", "exchange": "P", "name": "Avantis All International Core Equity ETF", "test_issue": "N", "ticker": "AVNC"}
 {"etf": "Y", "exchange": "P", "name": "Avantis All International Markets Equity ETF", "test_issue": "N", "ticker": "AVNM"}
 {"etf": "N", "exchange": "N", "name": "Avient Corporation Common Stock", "test_issue": "N", "ticker": "AVNT"}
 {"etf": "Y", "exchange": "P", "name": "Avantis All International Markets Value ETF", "test_issue": "N", "ticker": "AVNV"}
@@ -1575,6 +1577,7 @@
 {"etf": "N", "exchange": "N", "name": "Endava plc American Depositary Shares (each representing one Class A Ordinary Share)", "test_issue": "N", "ticker": "DAVA"}
 {"etf": "N", "exchange": "N", "name": "Deutsche Bank AG Common Stock", "test_issue": "N", "ticker": "DB"}
 {"etf": "Y", "exchange": "P", "name": "Invesco DB Agriculture Fund", "test_issue": "N", "ticker": "DBA"}
+{"etf": "Y", "exchange": "P", "name": "IMGP DBI Absolute Return ETF", "test_issue": "N", "ticker": "DBAR"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers MSCI All World ex US Hedged Equity ETF", "test_issue": "N", "ticker": "DBAW"}
 {"etf": "Y", "exchange": "P", "name": "Invesco DB Base Metals Fund", "test_issue": "N", "ticker": "DBB"}
 {"etf": "Y", "exchange": "P", "name": "Invesco DB Commodity Index Tracking Fund", "test_issue": "N", "ticker": "DBC"}
@@ -1591,7 +1594,6 @@
 {"etf": "Y", "exchange": "P", "name": "DoubleLine Opportunistic Core Bond ETF", "test_issue": "N", "ticker": "DBND"}
 {"etf": "Y", "exchange": "P", "name": "Invesco DB Oil Fund", "test_issue": "N", "ticker": "DBO"}
 {"etf": "Y", "exchange": "P", "name": "Invesco DB Precious Metals Fund", "test_issue": "N", "ticker": "DBP"}
-{"etf": "N", "exchange": "N", "name": "DigitalBridge Group, Inc.", "test_issue": "N", "ticker": "DBRG"}
 {"etf": "N", "exchange": "N", "name": "DigitalBridge Group, Inc. 7.125% Series H ", "test_issue": "N", "ticker": "DBRG$H"}
 {"etf": "N", "exchange": "N", "name": "DigitalBridge Group, Inc. 7.15% Series I ", "test_issue": "N", "ticker": "DBRG$I"}
 {"etf": "N", "exchange": "N", "name": "DigitalBridge Group, Inc. 7.125% Series J ", "test_issue": "N", "ticker": "DBRG$J"}
@@ -2780,7 +2782,6 @@
 {"etf": "Y", "exchange": "P", "name": "Genter Capital Taxable Quality Intermediate ETF", "test_issue": "N", "ticker": "GENT"}
 {"etf": "Y", "exchange": "P", "name": "Genter Capital International Dividend ETF", "test_issue": "N", "ticker": "GENW"}
 {"etf": "N", "exchange": "N", "name": "Geo Group Inc (The) REIT", "test_issue": "N", "ticker": "GEO"}
-{"etf": "N", "exchange": "N", "name": "Getty Images Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "GETY"}
 {"etf": "N", "exchange": "N", "name": "GE Vernova Inc. Common Stock", "test_issue": "N", "ticker": "GEV"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi GEV 2x Daily ETF", "test_issue": "N", "ticker": "GEVC"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long GEV Daily ETF", "test_issue": "N", "ticker": "GEVX"}
@@ -3562,6 +3563,7 @@
 {"etf": "N", "exchange": "N", "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)", "test_issue": "N", "ticker": "ITUB"}
 {"etf": "N", "exchange": "N", "name": "Illinois Tool Works Inc. Common Stock", "test_issue": "N", "ticker": "ITW"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares Russell 2000 High Income ETF", "test_issue": "N", "ticker": "ITWO"}
+{"etf": "N", "exchange": "N", "name": "Ives Ultra AI Opportunities Inc. Common Stock", "test_issue": "N", "ticker": "IVAI"}
 {"etf": "Y", "exchange": "P", "name": "iShares S&P 500 Value ETF", "test_issue": "N", "ticker": "IVE"}
 {"etf": "Y", "exchange": "P", "name": "Dan IVES Wedbush AI Power & Infrastructure ETF", "test_issue": "N", "ticker": "IVEP"}
 {"etf": "Y", "exchange": "P", "name": "Dan IVES Wedbush AI Revolution ETF", "test_issue": "N", "ticker": "IVES"}
@@ -3764,6 +3766,7 @@
 {"etf": "Y", "exchange": "P", "name": "JPMorgan Diversified Return U.S. Equity ETF", "test_issue": "N", "ticker": "JPUS"}
 {"etf": "Y", "exchange": "P", "name": "iShares JPX-Nikkei 400 ETF", "test_issue": "N", "ticker": "JPXN"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Credit Strategies Income Fund Shares of Beneficial Interest", "test_issue": "N", "ticker": "JQC"}
+{"etf": "Y", "exchange": "P", "name": "Jensen U.S. Quality Index ETF", "test_issue": "N", "ticker": "JQTY"}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan U.S. Quality Factor ETF", "test_issue": "N", "ticker": "JQUA"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "JRI"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Real Estate Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "JRS"}
@@ -3984,6 +3987,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Principal Capital Appreciation Select ETF", "test_issue": "N", "ticker": "LCAP"}
 {"etf": "Y", "exchange": "Z", "name": "Touchstone US Large Cap Focused ETF", "test_issue": "N", "ticker": "LCF"}
 {"etf": "N", "exchange": "N", "name": "LCI Industries", "test_issue": "N", "ticker": "LCII"}
+{"etf": "Y", "exchange": "N", "name": "Logan Capital International ETF", "test_issue": "N", "ticker": "LCIV"}
 {"etf": "Y", "exchange": "P", "name": "Logan Capital Large Cap Growth ETF", "test_issue": "N", "ticker": "LCLG"}
 {"etf": "N", "exchange": "N", "name": "Lincoln International, Inc. Class A Common Stock", "test_issue": "N", "ticker": "LCLN"}
 {"etf": "Y", "exchange": "P", "name": "LOGIQ Contrarian Opportunities ETF", "test_issue": "N", "ticker": "LCO"}
@@ -6473,7 +6477,7 @@
 {"etf": "N", "exchange": "N", "name": "Transcontinental Realty Investors, Inc. Common Stock", "test_issue": "N", "ticker": "TCI"}
 {"etf": "N", "exchange": "N", "name": "TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085", "test_issue": "N", "ticker": "TCPA"}
 {"etf": "Y", "exchange": "P", "name": "Thrivent Core Plus Bond ETF", "test_issue": "N", "ticker": "TCPB"}
-{"etf": "Y", "exchange": "P", "name": "Towle Value ETF", "test_issue": "N", "ticker": "TCV"}
+{"etf": "Y", "exchange": "P", "name": "Towle Small-Cap Value ETF", "test_issue": "N", "ticker": "TCV"}
 {"etf": "N", "exchange": "N", "name": "Toronto Dominion Bank (The) Common Stock", "test_issue": "N", "ticker": "TD"}
 {"etf": "Y", "exchange": "Z", "name": "TappAlpha Innovation 100 Growth & Daily Income ETF", "test_issue": "N", "ticker": "TDAQ"}
 {"etf": "Y", "exchange": "Z", "name": "TDAQ Lift ETF", "test_issue": "N", "ticker": "TDAX"}

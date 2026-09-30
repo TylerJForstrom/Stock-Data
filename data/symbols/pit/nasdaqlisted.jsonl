@@ -55,6 +55,7 @@
 {"category": "G", "etf": "Y", "name": "Pacer Metaurus Enhanced Core Income Autocallable ETF", "provable_from": true, "test_issue": "N", "ticker": "ACBE", "valid_from": "2026-09-11", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Pacer Metaurus High Income Autocallable ETF", "provable_from": true, "test_issue": "N", "ticker": "ACBH", "valid_from": "2026-09-11", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Acco Group Holdings Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ACCL", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Accelevation Holdings Corp. - Class A ordinary shares", "provable_from": true, "test_issue": "N", "ticker": "ACCV", "valid_from": "2026-09-30", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ProFrac Holding Corp. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACDC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "ARS Core Equity Portfolio ETF", "provable_from": false, "test_issue": "N", "ticker": "ACEP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Adicet Bio, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACET", "valid_from": "2026-07-28", "valid_to": null}
@@ -220,7 +221,7 @@
 {"category": "G", "etf": "N", "name": "Airship AI Holdings, Inc - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AISP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Airship AI Holdings, Inc - Warrants", "provable_from": false, "test_issue": "N", "ticker": "AISPW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Defiance US 100 Tech AI Moat ETF", "provable_from": false, "test_issue": "N", "ticker": "AIX", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "AIxCrypto Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIXC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "AIxCrypto Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIXC", "valid_from": "2026-07-28", "valid_to": "2026-09-30"}
 {"category": "G", "etf": "N", "name": "XIAO-I Corporation - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "AIXI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Akamai Technologies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AKAM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Akanda Corp. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "AKAN", "valid_from": "2026-07-28", "valid_to": null}
@@ -759,9 +760,12 @@
 {"category": "Q", "etf": "N", "name": "BioMarin Pharmaceutical Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BMRN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Brand Engagement Network Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BNAI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Brand Engagement Network Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BNAIW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BNC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BNCWW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BNCWZ", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BNC", "valid_from": "2026-07-28", "valid_to": "2026-09-30"}
+{"category": "S", "etf": "N", "name": "BNB Standard Corporation - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "BNC", "valid_from": "2026-09-30", "valid_to": null}
+{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BNCWW", "valid_from": "2026-07-28", "valid_to": "2026-09-30"}
+{"category": "S", "etf": "N", "name": "BNB Standard Corporation - Warrant", "provable_from": true, "test_issue": "N", "ticker": "BNCWW", "valid_from": "2026-09-30", "valid_to": null}
+{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BNCWZ", "valid_from": "2026-07-28", "valid_to": "2026-09-30"}
+{"category": "S", "etf": "N", "name": "BNB Standard Corporation - Warrants", "provable_from": true, "test_issue": "N", "ticker": "BNCWZ", "valid_from": "2026-09-30", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Total Bond Market ETF", "provable_from": false, "test_issue": "N", "ticker": "BND", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Core-Plus Bond Index ETF", "provable_from": false, "test_issue": "N", "ticker": "BNDP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Total World Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BNDW", "valid_from": "2026-07-28", "valid_to": null}
@@ -1676,6 +1680,7 @@
 {"category": "S", "etf": "N", "name": "enGene Therapeutics Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ENGN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "enGene Therapeutics Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "ENGNW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Energys Group Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ENGS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "iShares Enhanced Emerging Markets Active ETF", "provable_from": true, "test_issue": "N", "ticker": "ENHE", "valid_from": "2026-09-30", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Enhanced International Active ETF", "provable_from": false, "test_issue": "N", "ticker": "ENHI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Enhanced Large Cap Core Active ETF", "provable_from": false, "test_issue": "N", "ticker": "ENHU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Enlight Renewable Energy Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ENLT", "valid_from": "2026-07-28", "valid_to": null}
@@ -1874,6 +1879,7 @@
 {"category": "Q", "etf": "N", "name": "First Financial Bancorp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FFBC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Financial Bankshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FFIN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "F5, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FFIV", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "FF EAI Robotics Ecosystem Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "FFR", "valid_from": "2026-09-30", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Fidelity Managed Futures ETF", "provable_from": false, "test_issue": "N", "ticker": "FFUT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FGBI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "FGBIP", "valid_from": "2026-07-28", "valid_to": null}

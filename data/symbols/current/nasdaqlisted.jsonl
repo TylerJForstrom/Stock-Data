@@ -51,6 +51,7 @@
 {"category": "G", "etf": "Y", "name": "Pacer Metaurus Enhanced Core Income Autocallable ETF", "test_issue": "N", "ticker": "ACBE"}
 {"category": "G", "etf": "Y", "name": "Pacer Metaurus High Income Autocallable ETF", "test_issue": "N", "ticker": "ACBH"}
 {"category": "S", "etf": "N", "name": "Acco Group Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "ACCL"}
+{"category": "Q", "etf": "N", "name": "Accelevation Holdings Corp. - Class A ordinary shares", "test_issue": "N", "ticker": "ACCV"}
 {"category": "Q", "etf": "N", "name": "ProFrac Holding Corp. - Class A Common Stock", "test_issue": "N", "ticker": "ACDC"}
 {"category": "G", "etf": "Y", "name": "ARS Core Equity Portfolio ETF", "test_issue": "N", "ticker": "ACEP"}
 {"category": "S", "etf": "N", "name": "Adicet Bio, Inc. - Common Stock", "test_issue": "N", "ticker": "ACET"}
@@ -214,7 +215,6 @@
 {"category": "G", "etf": "N", "name": "Airship AI Holdings, Inc - Class A Common Stock", "test_issue": "N", "ticker": "AISP"}
 {"category": "S", "etf": "N", "name": "Airship AI Holdings, Inc - Warrants", "test_issue": "N", "ticker": "AISPW"}
 {"category": "G", "etf": "Y", "name": "Defiance US 100 Tech AI Moat ETF", "test_issue": "N", "ticker": "AIX"}
-{"category": "S", "etf": "N", "name": "AIxCrypto Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "AIXC"}
 {"category": "G", "etf": "N", "name": "XIAO-I Corporation - American Depositary Shares", "test_issue": "N", "ticker": "AIXI"}
 {"category": "Q", "etf": "N", "name": "Akamai Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "AKAM"}
 {"category": "S", "etf": "N", "name": "Akanda Corp. - Common Shares", "test_issue": "N", "ticker": "AKAN"}
@@ -730,9 +730,9 @@
 {"category": "Q", "etf": "N", "name": "BioMarin Pharmaceutical Inc. - Common Stock", "test_issue": "N", "ticker": "BMRN"}
 {"category": "S", "etf": "N", "name": "Brand Engagement Network Inc. - Common Stock", "test_issue": "N", "ticker": "BNAI"}
 {"category": "S", "etf": "N", "name": "Brand Engagement Network Inc. - Warrant", "test_issue": "N", "ticker": "BNAIW"}
-{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Common Stock", "test_issue": "N", "ticker": "BNC"}
-{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Warrant", "test_issue": "N", "ticker": "BNCWW"}
-{"category": "S", "etf": "N", "name": "CEA Industries Inc. - Warrants", "test_issue": "N", "ticker": "BNCWZ"}
+{"category": "S", "etf": "N", "name": "BNB Standard Corporation - Common Stock", "test_issue": "N", "ticker": "BNC"}
+{"category": "S", "etf": "N", "name": "BNB Standard Corporation - Warrant", "test_issue": "N", "ticker": "BNCWW"}
+{"category": "S", "etf": "N", "name": "BNB Standard Corporation - Warrants", "test_issue": "N", "ticker": "BNCWZ"}
 {"category": "G", "etf": "Y", "name": "Vanguard Total Bond Market ETF", "test_issue": "N", "ticker": "BND"}
 {"category": "G", "etf": "Y", "name": "Vanguard Core-Plus Bond Index ETF", "test_issue": "N", "ticker": "BNDP"}
 {"category": "G", "etf": "Y", "name": "Vanguard Total World Bond ETF", "test_issue": "N", "ticker": "BNDW"}
@@ -1608,6 +1608,7 @@
 {"category": "S", "etf": "N", "name": "enGene Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "ENGN"}
 {"category": "S", "etf": "N", "name": "enGene Therapeutics Inc. - Warrants", "test_issue": "N", "ticker": "ENGNW"}
 {"category": "S", "etf": "N", "name": "Energys Group Limited - Ordinary Shares", "test_issue": "N", "ticker": "ENGS"}
+{"category": "G", "etf": "Y", "name": "iShares Enhanced Emerging Markets Active ETF", "test_issue": "N", "ticker": "ENHE"}
 {"category": "G", "etf": "Y", "name": "iShares Enhanced International Active ETF", "test_issue": "N", "ticker": "ENHI"}
 {"category": "G", "etf": "Y", "name": "iShares Enhanced Large Cap Core Active ETF", "test_issue": "N", "ticker": "ENHU"}
 {"category": "Q", "etf": "N", "name": "Enlight Renewable Energy Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "ENLT"}
@@ -1803,6 +1804,7 @@
 {"category": "Q", "etf": "N", "name": "First Financial Bancorp. - Common Stock", "test_issue": "N", "ticker": "FFBC"}
 {"category": "Q", "etf": "N", "name": "First Financial Bankshares, Inc. - Common Stock", "test_issue": "N", "ticker": "FFIN"}
 {"category": "Q", "etf": "N", "name": "F5, Inc. - Common Stock", "test_issue": "N", "ticker": "FFIV"}
+{"category": "S", "etf": "N", "name": "FF EAI Robotics Ecosystem Inc. - Common Stock", "test_issue": "N", "ticker": "FFR"}
 {"category": "G", "etf": "Y", "name": "Fidelity Managed Futures ETF", "test_issue": "N", "ticker": "FFUT"}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "FGBI"}
 {"category": "G", "etf": "N", "name": "First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock", "test_issue": "N", "ticker": "FGBIP"}
