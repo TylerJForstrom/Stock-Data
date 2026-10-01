@@ -1966,6 +1966,7 @@
 {"etf": "N", "exchange": "A", "name": "Allspring Income Opportunities Fund Common Shares", "provable_from": false, "test_issue": "N", "ticker": "EAD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "GrafTech International Ltd. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EAF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Pacer Developed Markets Cash Cows Growth Leaders ETF", "provable_from": false, "test_issue": "N", "ticker": "EAFG", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Xtrackers MSCI EAFE 50% Hedged Equity ETF", "provable_from": true, "test_issue": "N", "ticker": "EAFH", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares ESG Aware U.S. Aggregate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "EAGG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Eagle Capital Select Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "EAGL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Entergy Arkansas, LLC First Mortgage Bonds, 4.875% Series Due September 1, 2066", "provable_from": false, "test_issue": "N", "ticker": "EAI", "valid_from": "2026-07-28", "valid_to": null}
@@ -4160,6 +4161,7 @@
 {"etf": "Y", "exchange": "Z", "name": "FlexShares Credit-Scored US Long Corporate Bond Index Fund", "provable_from": false, "test_issue": "N", "ticker": "LKOR", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"etf": "Y", "exchange": "Z", "name": "Northern Trust Credit-Scored US Long Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "LKOR", "valid_from": "2026-08-17", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X Long-Term Treasury Ladder ETF", "provable_from": false, "test_issue": "N", "ticker": "LLDR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Global X LLM ETF", "provable_from": true, "test_issue": "N", "ticker": "LLMA", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Eli Lilly and Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LLY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Long LLY ETF", "provable_from": false, "test_issue": "N", "ticker": "LLYX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Lemonade, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LMND", "valid_from": "2026-07-28", "valid_to": null}
@@ -4263,7 +4265,7 @@
 {"etf": "N", "exchange": "N", "name": "Macy's Inc Common Stock", "provable_from": false, "test_issue": "N", "ticker": "M", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Mastercard Incorporated Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Mid-America Apartment Communities, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MAA", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "MAA$I", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "MAA$I", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
 {"etf": "N", "exchange": "N", "name": "Macerich Company (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MAC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares U.S. Manufacturing ETF", "provable_from": false, "test_issue": "N", "ticker": "MADE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Truth Social America First ETF", "provable_from": false, "test_issue": "N", "ticker": "MAGA", "valid_from": "2026-07-28", "valid_to": null}
@@ -4368,7 +4370,8 @@
 {"etf": "N", "exchange": "N", "name": "MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non-Cumulative Preferred Stock, Series F", "provable_from": false, "test_issue": "N", "ticker": "MET$F", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long META Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "METG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short META Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "METQ", "valid_from": "2026-08-18", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Roundhill Ball Metaverse ETF", "provable_from": false, "test_issue": "N", "ticker": "METV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Roundhill Ball Metaverse ETF", "provable_from": false, "test_issue": "N", "ticker": "METV", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
+{"etf": "Y", "exchange": "P", "name": "Roundhill Metaverse ETF", "provable_from": true, "test_issue": "N", "ticker": "METV", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill META WeeklyPay ETF", "provable_from": false, "test_issue": "N", "ticker": "METW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily MSCI Mexico Bull 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "MEXX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "MFA Financial, Inc.", "provable_from": false, "test_issue": "N", "ticker": "MFA", "valid_from": "2026-07-28", "valid_to": null}
@@ -4484,6 +4487,7 @@
 {"etf": "Y", "exchange": "P", "name": "NYLIM MacKay California Muni Intermediate ETF", "provable_from": true, "test_issue": "N", "ticker": "MMCA", "valid_from": "2026-08-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares", "provable_from": false, "test_issue": "N", "ticker": "MMD", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"etf": "N", "exchange": "N", "name": "NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares", "provable_from": true, "test_issue": "N", "ticker": "MMD", "valid_from": "2026-08-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "NYLIM MacKay Muni High Income ETF", "provable_from": true, "test_issue": "N", "ticker": "MMHI", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Marcus & Millichap, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MMI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Mid Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "MMID", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "NYLI MacKay Muni Insured ETF", "provable_from": false, "test_issue": "N", "ticker": "MMIN", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
@@ -4820,7 +4824,7 @@
 {"etf": "N", "exchange": "N", "name": "Annaly Capital Management Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NLY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Annaly Capital Management Inc 6.95% Series F", "provable_from": false, "test_issue": "N", "ticker": "NLY$F", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NLY$G", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NLY$I", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NLY$I", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
 {"etf": "N", "exchange": "N", "name": "Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NLY$J", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "NMAI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - March", "provable_from": false, "test_issue": "N", "ticker": "NMAR", "valid_from": "2026-07-28", "valid_to": null}
@@ -5013,8 +5017,10 @@
 {"etf": "Y", "exchange": "Z", "name": "Aptus October Deep Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "OCDB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ClearShares OCIO ETF", "provable_from": false, "test_issue": "N", "ticker": "OCIO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long DOCN Daily Target ETF", "provable_from": true, "test_issue": "N", "ticker": "OCNL", "valid_from": "2026-08-06", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "VanEck U.S. Equity Buffer ETF - October", "provable_from": true, "test_issue": "N", "ticker": "OCT", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Aptus October Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "OCTB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Premium Income 20 Barrier ETF - October", "provable_from": false, "test_issue": "N", "ticker": "OCTH", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "AllianzIM International Equity Buffer15 Uncapped Oct ETF", "provable_from": true, "test_issue": "N", "ticker": "OCTI", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Premium Income 30 Barrier ETF - October", "provable_from": false, "test_issue": "N", "ticker": "OCTJ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Max Buffer ETF - October", "provable_from": false, "test_issue": "N", "ticker": "OCTM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "PGIM S&P 500 Buffer 12 ETF - October", "provable_from": false, "test_issue": "N", "ticker": "OCTP", "valid_from": "2026-07-28", "valid_to": null}
@@ -5421,6 +5427,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long POET ETF", "provable_from": false, "test_issue": "N", "ticker": "POEL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long PONY Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "PONX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Portland General Electric Co Common Stock", "provable_from": false, "test_issue": "N", "ticker": "POR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "provable_from": true, "test_issue": "N", "ticker": "PORT.U", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Post Holdings, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "POST", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Electrification Supercycle ETF", "provable_from": false, "test_issue": "N", "ticker": "POW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Invesco Bloomberg Pricing Power ETF", "provable_from": false, "test_issue": "N", "ticker": "POWA", "valid_from": "2026-07-28", "valid_to": null}
@@ -5803,7 +5810,8 @@
 {"etf": "N", "exchange": "N", "name": "Robert Half Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RHI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Resolute Holdings Management Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "RHLD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Ryman Hospitality Properties, Inc. (REIT)", "provable_from": false, "test_issue": "N", "ticker": "RHP", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "RH Tactical Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "RHRX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "RH Tactical Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "RHRX", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
+{"etf": "Y", "exchange": "P", "name": "Adaptive Tactical Rotation ETF", "provable_from": true, "test_issue": "N", "ticker": "RHRX", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "RH Tactical Outlook ETF", "provable_from": false, "test_issue": "N", "ticker": "RHTX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Hoya Capital High Dividend Yield ETF", "provable_from": false, "test_issue": "N", "ticker": "RIET", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Transocean Ltd (Switzerland) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RIG", "valid_from": "2026-07-28", "valid_to": null}
@@ -6888,6 +6896,7 @@
 {"etf": "Y", "exchange": "P", "name": "Pacer Data and Digital Revolution ETF", "provable_from": false, "test_issue": "N", "ticker": "TRFK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "AAM Transformers ETF", "provable_from": false, "test_issue": "N", "ticker": "TRFM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Targa Resources, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRGP", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "VegaShares Trillions ETF", "provable_from": true, "test_issue": "N", "ticker": "TRIL", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Trinity Capital Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRIN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "MC Trio Equity Buffered ETF", "provable_from": false, "test_issue": "N", "ticker": "TRIO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Trulieve Cannabis Corp. Subordinate Voting Shares", "provable_from": false, "test_issue": "N", "ticker": "TRLV", "valid_from": "2026-07-28", "valid_to": null}
@@ -7174,6 +7183,7 @@
 {"etf": "Y", "exchange": "Z", "name": "ProShares Ultra VIX Short Term Futures ETF", "provable_from": false, "test_issue": "N", "ticker": "UVXY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Russell2000", "provable_from": false, "test_issue": "N", "ticker": "UWM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "UWM Holdings Corporation Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "UWMC", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued", "provable_from": true, "test_issue": "N", "ticker": "UWMC.V", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Uranium ETF", "provable_from": false, "test_issue": "N", "ticker": "UX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Uncapped Accelerator ETF - April", "provable_from": false, "test_issue": "N", "ticker": "UXAP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Industrials", "provable_from": false, "test_issue": "N", "ticker": "UXI", "valid_from": "2026-07-28", "valid_to": null}
@@ -7392,6 +7402,7 @@
 {"etf": "N", "exchange": "Z", "name": "iPath Series B S&P 500 VIX Short-Term Futures ETN", "provable_from": false, "test_issue": "N", "ticker": "VXX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "Z", "name": "iPath Series B S&P 500 VIX Mid-Term Futures ETN", "provable_from": false, "test_issue": "N", "ticker": "VXZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Inverse VIX Short-Term Futures ETNs due March 22, 2045", "provable_from": false, "test_issue": "N", "ticker": "VYLD", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Vylor Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "VYLR", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard High Dividend Yield ETF", "provable_from": false, "test_issue": "N", "ticker": "VYM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NCR Voyix Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VYX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Verizon Communications Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VZ", "valid_from": "2026-07-28", "valid_to": null}
@@ -7734,6 +7745,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares ESG Select Screened S&P 500 ETF", "provable_from": false, "test_issue": "N", "ticker": "XVV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Ex-U.S. Equities 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "XW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Amplify Top 10 Space ETF", "provable_from": true, "test_issue": "N", "ticker": "XWNG", "valid_from": "2026-08-19", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Roundhill S&P 500 Target 10,000 2030 ETF", "provable_from": true, "test_issue": "N", "ticker": "XX", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Twenty One Capital, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "XXI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Teucrium 2x Long Daily XRP ETF", "provable_from": false, "test_issue": "N", "ticker": "XXRP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify Ancorato Target 25 Distribution ETF", "provable_from": false, "test_issue": "N", "ticker": "XXV", "valid_from": "2026-07-28", "valid_to": null}

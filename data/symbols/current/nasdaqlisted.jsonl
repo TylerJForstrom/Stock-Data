@@ -1090,6 +1090,7 @@
 {"category": "Q", "etf": "N", "name": "Charter Communications, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CHTR"}
 {"category": "Q", "etf": "N", "name": "Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "CHTRP"}
 {"category": "Q", "etf": "N", "name": "Calamos Global Dynamic Income Fund - Closed End Fund", "test_issue": "N", "ticker": "CHW"}
+{"category": "S", "etf": "N", "name": "Chilwa Minerals Limited - American Depository Shares", "test_issue": "N", "ticker": "CHWM"}
 {"category": "Q", "etf": "N", "name": "Calamos Convertible and High Income Fund - Closed End Fund", "test_issue": "N", "ticker": "CHY"}
 {"category": "Q", "etf": "N", "name": "Chime Financial, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CHYM"}
 {"category": "G", "etf": "Y", "name": "First Trust NASDAQ Cybersecurity ETF", "test_issue": "N", "ticker": "CIBR"}
@@ -2292,7 +2293,7 @@
 {"category": "G", "etf": "Y", "name": "Global X HealthTech ETF", "test_issue": "N", "ticker": "HEAL"}
 {"category": "G", "etf": "Y", "name": "State Street Galaxy Hedged Digital Asset Ecosystem ETF", "test_issue": "N", "ticker": "HECO"}
 {"category": "Q", "etf": "N", "name": "Helen of Troy Limited - Common Stock", "test_issue": "N", "ticker": "HELE"}
-{"category": "G", "etf": "N", "name": "Cybin Inc. - Common Stock", "test_issue": "N", "ticker": "HELP"}
+{"category": "G", "etf": "N", "name": "Helus Pharma Inc.  - Common Stock", "test_issue": "N", "ticker": "HELP"}
 {"category": "Q", "etf": "N", "name": "D-Market Electronic Services & Trading - American Depositary Shares", "test_issue": "N", "ticker": "HEPS"}
 {"category": "G", "etf": "Y", "name": "JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF", "test_issue": "N", "ticker": "HEQQ"}
 {"category": "G", "etf": "Y", "name": "Pacer Cash Cows Fund of Funds ETF", "test_issue": "N", "ticker": "HERD"}
@@ -3199,6 +3200,7 @@
 {"category": "S", "etf": "N", "name": "MoonLake Immunotherapeutics - Class A Ordinary Shares", "test_issue": "N", "ticker": "MLTX"}
 {"category": "Q", "etf": "N", "name": "Mineralys Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "MLYS"}
 {"category": "Q", "etf": "N", "name": "MiniMed Group, Inc. - Common Stock", "test_issue": "N", "ticker": "MMED"}
+{"category": "Q", "etf": "N", "name": "MiniMed Group, Inc. - Common Stock When Issued", "test_issue": "N", "ticker": "MMEDV"}
 {"category": "Q", "etf": "N", "name": "Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests", "test_issue": "N", "ticker": "MMLP"}
 {"category": "Q", "etf": "N", "name": "Merit Medical Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "MMSI"}
 {"category": "G", "etf": "N", "name": "Miluna Acquisition Corp - Class A Ordinary Shares", "test_issue": "N", "ticker": "MMTX"}
@@ -3520,7 +3522,6 @@
 {"category": "Q", "etf": "N", "name": "Nutanix, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "NTNX"}
 {"category": "Q", "etf": "N", "name": "Natera, Inc. - Common Stock", "test_issue": "N", "ticker": "NTRA"}
 {"category": "S", "etf": "N", "name": "Nutriband Inc. - Common Stock", "test_issue": "N", "ticker": "NTRB"}
-{"category": "S", "etf": "N", "name": "Nutriband Inc. - Warrant", "test_issue": "N", "ticker": "NTRBW"}
 {"category": "S", "etf": "N", "name": "NextTrip, Inc. - Common Stock", "test_issue": "N", "ticker": "NTRP"}
 {"category": "Q", "etf": "N", "name": "Northern Trust Corporation - Common Stock", "test_issue": "N", "ticker": "NTRS"}
 {"category": "Q", "etf": "N", "name": "Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock", "test_issue": "N", "ticker": "NTRSO"}
@@ -3692,6 +3693,7 @@
 {"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant", "test_issue": "N", "ticker": "OPENZ"}
 {"category": "S", "etf": "N", "name": "Office Properties Income Trust - Common shares of beneficial interest", "test_issue": "N", "ticker": "OPI"}
 {"category": "Q", "etf": "N", "name": "Opko Health, Inc. - Common Stock", "test_issue": "N", "ticker": "OPK"}
+{"category": "S", "etf": "N", "name": "OpenWorld, Inc. - Common Stock", "test_issue": "N", "ticker": "OPNW"}
 {"category": "G", "etf": "Y", "name": "WisdomTree Japan Opportunities Fund", "test_issue": "N", "ticker": "OPPJ"}
 {"category": "Q", "etf": "N", "name": "Opera Limited - American Depositary Shares", "test_issue": "N", "ticker": "OPRA"}
 {"category": "Q", "etf": "N", "name": "Oportun Financial Corporation - common stock", "test_issue": "N", "ticker": "OPRT"}
@@ -3803,7 +3805,7 @@
 {"category": "G", "etf": "Y", "name": "Portfolio Building Block European Banks Index ETF", "test_issue": "N", "ticker": "PBEU"}
 {"category": "S", "etf": "N", "name": "Pioneer Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "PBFS"}
 {"category": "S", "etf": "N", "name": "Pathfinder Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "PBHC"}
-{"category": "G", "etf": "N", "name": "PowerBank Corporation - Common Stock", "test_issue": "N", "ticker": "PBK"}
+{"category": "S", "etf": "N", "name": "PowerBank Corporation - Common Stock", "test_issue": "N", "ticker": "PBK"}
 {"category": "Q", "etf": "N", "name": "Parabilis Medicines, Inc. - Common Stock", "test_issue": "N", "ticker": "PBLS"}
 {"category": "S", "etf": "N", "name": "Psyence Biomedical Ltd. - Common Shares", "test_issue": "N", "ticker": "PBM"}
 {"category": "S", "etf": "N", "name": "Psyence Biomedical Ltd. - Warrant", "test_issue": "N", "ticker": "PBMWW"}
@@ -4866,6 +4868,7 @@
 {"category": "G", "etf": "N", "name": "Translational Development Acquisition Corp. - Units", "test_issue": "N", "ticker": "TDACU"}
 {"category": "G", "etf": "N", "name": "Translational Development Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "TDACW"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long TDC Daily ETF", "test_issue": "N", "ticker": "TDCL"}
+{"category": "G", "etf": "Y", "name": "T. Rowe Price Dynamic Emerging Markets Bond ETF", "test_issue": "N", "ticker": "TDEM"}
 {"category": "G", "etf": "Y", "name": "Touchstone Dynamic International ETF", "test_issue": "N", "ticker": "TDI"}
 {"category": "S", "etf": "N", "name": "Dreamland Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "TDIC"}
 {"category": "G", "etf": "Y", "name": "First Trust NASDAQ Technology Dividend Index Fund", "test_issue": "N", "ticker": "TDIV"}
@@ -5316,7 +5319,6 @@
 {"category": "Q", "etf": "N", "name": "Varex Imaging Corporation - Common Stock", "test_issue": "N", "ticker": "VREX"}
 {"category": "G", "etf": "Y", "name": "Invesco Variable Rate Investment Grade ETF", "test_issue": "N", "ticker": "VRIG"}
 {"category": "G", "etf": "N", "name": "Vroom, Inc. - Common Stock", "test_issue": "N", "ticker": "VRM"}
-{"category": "S", "etf": "N", "name": "VerifyMe, Inc. - Common Stock", "test_issue": "N", "ticker": "VRME"}
 {"category": "Q", "etf": "N", "name": "Varonis Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "VRNS"}
 {"category": "S", "etf": "N", "name": "Verra Mobility Corporation - Class A Common Stock", "test_issue": "N", "ticker": "VRRM"}
 {"category": "Q", "etf": "N", "name": "Verisk Analytics, Inc. - Common Stock", "test_issue": "N", "ticker": "VRSK"}
@@ -5535,7 +5537,7 @@
 {"category": "G", "etf": "N", "name": "Xsolla SPAC 1 - Class A Ordinary Shares", "test_issue": "N", "ticker": "XSLL"}
 {"category": "G", "etf": "N", "name": "Xsolla SPAC 1 - Units", "test_issue": "N", "ticker": "XSLLU"}
 {"category": "G", "etf": "N", "name": "Xsolla SPAC 1 - Warrants", "test_issue": "N", "ticker": "XSLLW"}
-{"category": "G", "etf": "Y", "name": "VegaShares SpaceX & Beyond Earth ETF", "test_issue": "N", "ticker": "XSPC"}
+{"category": "G", "etf": "Y", "name": "VegaShares Space & AI ETF", "test_issue": "N", "ticker": "XSPC"}
 {"category": "G", "etf": "Y", "name": "NEOS Boosted S&P 500 High Income ETF", "test_issue": "N", "ticker": "XSPI"}
 {"category": "G", "etf": "Y", "name": "iShares Future Exponential Technologies ETF", "test_issue": "N", "ticker": "XT"}
 {"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "XTER"}

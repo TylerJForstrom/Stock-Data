@@ -1132,6 +1132,7 @@
 {"category": "Q", "etf": "N", "name": "Charter Communications, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CHTR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock", "provable_from": true, "test_issue": "N", "ticker": "CHTRP", "valid_from": "2026-08-21", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Calamos Global Dynamic Income Fund - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "CHW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Chilwa Minerals Limited - American Depository Shares", "provable_from": true, "test_issue": "N", "ticker": "CHWM", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Calamos Convertible and High Income Fund - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "CHY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Chime Financial, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CHYM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust NASDAQ Cybersecurity ETF", "provable_from": false, "test_issue": "N", "ticker": "CIBR", "valid_from": "2026-07-28", "valid_to": null}
@@ -2384,7 +2385,8 @@
 {"category": "G", "etf": "Y", "name": "Global X HealthTech ETF", "provable_from": false, "test_issue": "N", "ticker": "HEAL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "State Street Galaxy Hedged Digital Asset Ecosystem ETF", "provable_from": false, "test_issue": "N", "ticker": "HECO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Helen of Troy Limited - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HELE", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Cybin Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HELP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Cybin Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HELP", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
+{"category": "G", "etf": "N", "name": "Helus Pharma Inc.  - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "HELP", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "D-Market Electronic Services & Trading - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "HEPS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF", "provable_from": false, "test_issue": "N", "ticker": "HEQQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Pacer Cash Cows Fund of Funds ETF", "provable_from": false, "test_issue": "N", "ticker": "HERD", "valid_from": "2026-07-28", "valid_to": null}
@@ -3343,6 +3345,7 @@
 {"category": "S", "etf": "N", "name": "MoonLake Immunotherapeutics - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MLTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Mineralys Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MLYS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "MiniMed Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MMED", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "MiniMed Group, Inc. - Common Stock When Issued", "provable_from": true, "test_issue": "N", "ticker": "MMEDV", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests", "provable_from": false, "test_issue": "N", "ticker": "MMLP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Merit Medical Systems, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MMSI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Miluna Acquisition Corp - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MMTX", "valid_from": "2026-07-28", "valid_to": null}
@@ -3676,7 +3679,7 @@
 {"category": "Q", "etf": "N", "name": "Nutanix, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NTNX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Natera, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NTRA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nutriband Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NTRB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Nutriband Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NTRBW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Nutriband Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NTRBW", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
 {"category": "S", "etf": "N", "name": "NextTrip, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NTRP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Northern Trust Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NTRS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NTRSO", "valid_from": "2026-07-28", "valid_to": null}
@@ -3850,6 +3853,7 @@
 {"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant", "provable_from": false, "test_issue": "N", "ticker": "OPENZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Office Properties Income Trust - Common shares of beneficial interest", "provable_from": false, "test_issue": "N", "ticker": "OPI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Opko Health, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OPK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "OpenWorld, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "OPNW", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "WisdomTree Japan Opportunities Fund", "provable_from": false, "test_issue": "N", "ticker": "OPPJ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Opera Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "OPRA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Oportun Financial Corporation - common stock", "provable_from": false, "test_issue": "N", "ticker": "OPRT", "valid_from": "2026-07-28", "valid_to": null}
@@ -3965,7 +3969,8 @@
 {"category": "G", "etf": "Y", "name": "Portfolio Building Block European Banks Index ETF", "provable_from": false, "test_issue": "N", "ticker": "PBEU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Pioneer Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PBFS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Pathfinder Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PBHC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "PowerBank Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PBK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "PowerBank Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PBK", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
+{"category": "S", "etf": "N", "name": "PowerBank Corporation - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "PBK", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Parabilis Medicines, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PBLS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Psyence Biomedical Ltd. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "PBM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Psyence Biomedical Ltd. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "PBMWW", "valid_from": "2026-07-28", "valid_to": null}
@@ -5056,6 +5061,7 @@
 {"category": "G", "etf": "N", "name": "Translational Development Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "TDACU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Translational Development Acquisition Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "TDACW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long TDC Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "TDCL", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "T. Rowe Price Dynamic Emerging Markets Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "TDEM", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Touchstone Dynamic International ETF", "provable_from": false, "test_issue": "N", "ticker": "TDI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Dreamland Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "TDIC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust NASDAQ Technology Dividend Index Fund", "provable_from": false, "test_issue": "N", "ticker": "TDIV", "valid_from": "2026-07-28", "valid_to": null}
@@ -5520,7 +5526,7 @@
 {"category": "Q", "etf": "N", "name": "Varex Imaging Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VREX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco Variable Rate Investment Grade ETF", "provable_from": false, "test_issue": "N", "ticker": "VRIG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Vroom, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VRM", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "VerifyMe, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VRME", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "VerifyMe, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VRME", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
 {"category": "Q", "etf": "N", "name": "Varonis Systems, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VRNS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Verra Mobility Corporation - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VRRM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Verisk Analytics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VRSK", "valid_from": "2026-07-28", "valid_to": null}
@@ -5747,7 +5753,8 @@
 {"category": "G", "etf": "N", "name": "Xsolla SPAC 1 - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "XSLL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Xsolla SPAC 1 - Units", "provable_from": false, "test_issue": "N", "ticker": "XSLLU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Xsolla SPAC 1 - Warrants", "provable_from": false, "test_issue": "N", "ticker": "XSLLW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "VegaShares SpaceX & Beyond Earth ETF", "provable_from": false, "test_issue": "N", "ticker": "XSPC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "VegaShares SpaceX & Beyond Earth ETF", "provable_from": false, "test_issue": "N", "ticker": "XSPC", "valid_from": "2026-07-28", "valid_to": "2026-10-01"}
+{"category": "G", "etf": "Y", "name": "VegaShares Space & AI ETF", "provable_from": true, "test_issue": "N", "ticker": "XSPC", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "NEOS Boosted S&P 500 High Income ETF", "provable_from": false, "test_issue": "N", "ticker": "XSPI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Future Exponential Technologies ETF", "provable_from": false, "test_issue": "N", "ticker": "XT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "XTER", "valid_from": "2026-08-27", "valid_to": null}
