@@ -667,6 +667,7 @@
 {"etf": "Y", "exchange": "P", "name": "Bancreek International Large Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "BCIL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2030 Income Bucket ETF", "provable_from": false, "test_issue": "N", "ticker": "BCKT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Brinks Company (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BCO", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Rareview Bloomberg Commodity Index ETF", "provable_from": true, "test_issue": "N", "ticker": "BCOM", "valid_from": "2026-10-02", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Adopters ETF", "provable_from": false, "test_issue": "N", "ticker": "BCOR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon Core Plus ETF", "provable_from": false, "test_issue": "N", "ticker": "BCPL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Barclays PLC Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BCS", "valid_from": "2026-07-28", "valid_to": null}
@@ -1949,6 +1950,7 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P International Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "DWX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Dynex Capital, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "DX$C", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock", "provable_from": true, "test_issue": "N", "ticker": "DX$D", "valid_from": "2026-10-02", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "DXC Technology Company Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "DXC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Dow30", "provable_from": false, "test_issue": "N", "ticker": "DXD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)", "provable_from": false, "test_issue": "N", "ticker": "DXF", "valid_from": "2026-07-28", "valid_to": null}
@@ -4506,6 +4508,7 @@
 {"etf": "N", "exchange": "N", "name": "Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "MMT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P 1500 Momentum Tilt ETF", "provable_from": false, "test_issue": "N", "ticker": "MMTM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Western Asset Managed Municipals Fund, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MMU", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi MANGOS ETF", "provable_from": true, "test_issue": "N", "ticker": "MN", "valid_from": "2026-10-02", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "NYLI Merger Arbitrage ETF", "provable_from": false, "test_issue": "N", "ticker": "MNA", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"etf": "Y", "exchange": "P", "name": "NYLIM Merger Arbitrage ETF", "provable_from": true, "test_issue": "N", "ticker": "MNA", "valid_from": "2026-08-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ALPS BBH Intermediate Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MNBD", "valid_from": "2026-07-28", "valid_to": null}
@@ -4900,6 +4903,8 @@
 {"etf": "Y", "exchange": "P", "name": "North Square Disciplined Value ETF", "provable_from": false, "test_issue": "N", "ticker": "NSIV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Insperity, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NSP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Nasus Pharma Ltd. Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NSRX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "NorthStar Earth & Space Enterprises, Inc. Common Shares", "provable_from": true, "test_issue": "N", "ticker": "NSTR", "valid_from": "2026-10-02", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "NorthStar Earth & Space Enterprises, Inc. Warrants", "provable_from": true, "test_issue": "N", "ticker": "NSTR.W", "valid_from": "2026-10-02", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NTB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Network-1 Technologies, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NTIP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nutrien Ltd. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "NTR", "valid_from": "2026-07-28", "valid_to": null}
@@ -7199,9 +7204,9 @@
 {"etf": "N", "exchange": "N", "name": "Visa Inc.", "provable_from": false, "test_issue": "N", "ticker": "V", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Newfleet ABS/MBS ETF", "provable_from": false, "test_issue": "N", "ticker": "VABS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Marriott Vacations Worldwide Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VAC", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "VACI", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant", "provable_from": false, "test_issue": "N", "ticker": "VACI.U", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "VACI.W", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "VACI", "valid_from": "2026-07-28", "valid_to": "2026-10-02"}
+{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant", "provable_from": false, "test_issue": "N", "ticker": "VACI.U", "valid_from": "2026-07-28", "valid_to": "2026-10-02"}
+{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "VACI.W", "valid_from": "2026-07-28", "valid_to": "2026-10-02"}
 {"etf": "Y", "exchange": "P", "name": "VegaShares US Equity Autocallable Conservative Income ETF", "provable_from": true, "test_issue": "N", "ticker": "VAIC", "valid_from": "2026-09-24", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "VegaShares US Equity Autocallable Income ETF", "provable_from": false, "test_issue": "N", "ticker": "VAIE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Valaris Limited Common Shares", "provable_from": false, "test_issue": "N", "ticker": "VAL", "valid_from": "2026-07-28", "valid_to": null}

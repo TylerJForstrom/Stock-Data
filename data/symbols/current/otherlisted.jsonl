@@ -653,6 +653,7 @@
 {"etf": "Y", "exchange": "P", "name": "Bancreek International Large Cap ETF", "test_issue": "N", "ticker": "BCIL"}
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2030 Income Bucket ETF", "test_issue": "N", "ticker": "BCKT"}
 {"etf": "N", "exchange": "N", "name": "Brinks Company (The) Common Stock", "test_issue": "N", "ticker": "BCO"}
+{"etf": "Y", "exchange": "Z", "name": "Rareview Bloomberg Commodity Index ETF", "test_issue": "N", "ticker": "BCOM"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Bitcoin Adopters ETF", "test_issue": "N", "ticker": "BCOR"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon Core Plus ETF", "test_issue": "N", "ticker": "BCPL"}
 {"etf": "N", "exchange": "N", "name": "Barclays PLC Common Stock", "test_issue": "N", "ticker": "BCS"}
@@ -1910,6 +1911,7 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P International Dividend ETF", "test_issue": "N", "ticker": "DWX"}
 {"etf": "N", "exchange": "N", "name": "Dynex Capital, Inc. Common Stock", "test_issue": "N", "ticker": "DX"}
 {"etf": "N", "exchange": "N", "name": "Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "DX$C"}
+{"etf": "N", "exchange": "N", "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "DX$D"}
 {"etf": "N", "exchange": "N", "name": "DXC Technology Company Common Stock ", "test_issue": "N", "ticker": "DXC"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Dow30", "test_issue": "N", "ticker": "DXD"}
 {"etf": "N", "exchange": "A", "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)", "test_issue": "N", "ticker": "DXF"}
@@ -4384,6 +4386,7 @@
 {"etf": "N", "exchange": "N", "name": "Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "MMT"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P 1500 Momentum Tilt ETF", "test_issue": "N", "ticker": "MMTM"}
 {"etf": "N", "exchange": "N", "name": "Western Asset Managed Municipals Fund, Inc. Common Stock", "test_issue": "N", "ticker": "MMU"}
+{"etf": "Y", "exchange": "Z", "name": "Corgi MANGOS ETF", "test_issue": "N", "ticker": "MN"}
 {"etf": "Y", "exchange": "P", "name": "NYLIM Merger Arbitrage ETF", "test_issue": "N", "ticker": "MNA"}
 {"etf": "Y", "exchange": "P", "name": "ALPS BBH Intermediate Municipal Bond ETF", "test_issue": "N", "ticker": "MNBD"}
 {"etf": "Y", "exchange": "P", "name": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF", "test_issue": "N", "ticker": "MNGB"}
@@ -4764,6 +4767,8 @@
 {"etf": "Y", "exchange": "P", "name": "North Square Disciplined Value ETF", "test_issue": "N", "ticker": "NSIV"}
 {"etf": "N", "exchange": "N", "name": "Insperity, Inc. Common Stock", "test_issue": "N", "ticker": "NSP"}
 {"etf": "N", "exchange": "A", "name": "Nasus Pharma Ltd. Ordinary Shares", "test_issue": "N", "ticker": "NSRX"}
+{"etf": "N", "exchange": "A", "name": "NorthStar Earth & Space Enterprises, Inc. Common Shares", "test_issue": "N", "ticker": "NSTR"}
+{"etf": "N", "exchange": "A", "name": "NorthStar Earth & Space Enterprises, Inc. Warrants", "test_issue": "N", "ticker": "NSTR.W"}
 {"etf": "N", "exchange": "N", "name": "Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares", "test_issue": "N", "ticker": "NTB"}
 {"etf": "N", "exchange": "A", "name": "Network-1 Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "NTIP"}
 {"etf": "N", "exchange": "N", "name": "Nutrien Ltd. Common Shares", "test_issue": "N", "ticker": "NTR"}
@@ -7003,9 +7008,6 @@
 {"etf": "N", "exchange": "N", "name": "Visa Inc.", "test_issue": "N", "ticker": "V"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Newfleet ABS/MBS ETF", "test_issue": "N", "ticker": "VABS"}
 {"etf": "N", "exchange": "N", "name": "Marriott Vacations Worldwide Corporation Common Stock", "test_issue": "N", "ticker": "VAC"}
-{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Class A Ordinary Shares", "test_issue": "N", "ticker": "VACI"}
-{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant", "test_issue": "N", "ticker": "VACI.U"}
-{"etf": "N", "exchange": "N", "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share", "test_issue": "N", "ticker": "VACI.W"}
 {"etf": "Y", "exchange": "P", "name": "VegaShares US Equity Autocallable Conservative Income ETF", "test_issue": "N", "ticker": "VAIC"}
 {"etf": "Y", "exchange": "P", "name": "VegaShares US Equity Autocallable Income ETF", "test_issue": "N", "ticker": "VAIE"}
 {"etf": "N", "exchange": "N", "name": "Valaris Limited Common Shares", "test_issue": "N", "ticker": "VAL"}
