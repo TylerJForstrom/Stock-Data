@@ -9,9 +9,9 @@
   ],
   "files": [
     {
-      "bytes": 1597387,
+      "bytes": 1600967,
       "name": "flagged_events.jsonl.gz",
-      "sha256": "16aa95652e96d4f6dc69c1e9e8284de296df2e73158569c812c71e5ac1ba86b9"
+      "sha256": "31f620f05c35601b0f439414953afdd6e1d29bbd1ba203cab9f7c7d09d1efbe1"
     }
   ],
   "flagged_item_codes": {
@@ -22,7 +22,7 @@
     "4.02": "non_reliance_on_financials",
     "5.02": "officer_departure"
   },
-  "generated_at_utc": "2026-09-26T13:43:14Z",
+  "generated_at_utc": "2026-10-03T14:13:25Z",
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
   "source_urls": [
