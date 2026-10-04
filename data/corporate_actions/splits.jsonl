@@ -110,9 +110,6 @@
 {"cik": 1018840, "confidence": "high", "effective_date": "1999-05-25", "filed": "2014-03-31", "flags": [], "ratio": 2.0, "ticker": "ANF"}
 {"cik": 1705110, "confidence": "high", "effective_date": "2025-03-24", "filed": "2025-05-06", "flags": [], "ratio": 0.1, "ticker": "ANGI"}
 {"cik": 1880438, "confidence": "high", "effective_date": "2022-03-17", "filed": "2022-05-10", "flags": [], "ratio": 2.352936, "ticker": "ANTX"}
-{"cik": 1591956, "confidence": "high", "effective_date": "2023-06-28", "filed": "2024-03-13", "flags": [], "ratio": 0.14, "ticker": "ANY"}
-{"cik": 1591956, "confidence": "low", "effective_date": "2023-06-30", "filed": "2023-08-14", "flags": [], "ratio": 0.142857, "ticker": "ANY"}
-{"cik": 1591956, "confidence": "low", "effective_date": "2026-03-31", "filed": "2026-05-15", "flags": [], "ratio": 0.1, "ticker": "ANY"}
 {"cik": 91142, "confidence": "high", "effective_date": "2013-04-15", "filed": "2013-08-05", "flags": [], "ratio": 2.0, "ticker": "AOS"}
 {"cik": 91142, "confidence": "high", "effective_date": "2016-04-11", "filed": "2016-11-08", "flags": [], "ratio": 2.0, "ticker": "AOS"}
 {"cik": 1796209, "confidence": "high", "effective_date": "2025-06-30", "filed": "2025-07-31", "flags": [], "ratio": 1.5, "ticker": "APG"}
@@ -623,6 +620,7 @@
 {"cik": 1818844, "confidence": "high", "effective_date": "2024-10-09", "filed": "2025-05-09", "flags": ["direction_inverted_by_share_check"], "ratio": 0.04, "ticker": "DWTX"}
 {"cik": 826675, "confidence": "low", "effective_date": "2019-06-30", "filed": "2019-08-06", "flags": ["direction_inverted_by_share_check"], "ratio": 0.3333333333333333, "ticker": "DX"}
 {"cik": 826675, "confidence": "low", "effective_date": "2019-06-30", "filed": "2019-08-06", "flags": ["direction_inverted_by_share_check"], "ratio": 0.3333333333333333, "ticker": "DX-PC"}
+{"cik": 826675, "confidence": "low", "effective_date": "2019-06-30", "filed": "2019-08-06", "flags": ["direction_inverted_by_share_check"], "ratio": 0.3333333333333333, "ticker": "DX-PD"}
 {"cik": 1093557, "confidence": "high", "effective_date": "2019-12-31", "filed": "2022-07-28", "flags": [], "ratio": 4.0, "ticker": "DXCM"}
 {"cik": 931148, "confidence": "high", "effective_date": "2024-03-31", "filed": "2025-10-24", "flags": [], "ratio": 0.1, "ticker": "EAF"}
 {"cik": 1708035, "confidence": "high", "effective_date": "2017-09-28", "filed": "2017-11-14", "flags": [], "ratio": 8.8275, "ticker": "ECVT"}
@@ -709,6 +707,7 @@
 {"cik": 1805521, "confidence": "high", "effective_date": "2023-08-22", "filed": "2025-03-31", "flags": [], "ratio": 0.0125, "ticker": "FFAI"}
 {"cik": 1805521, "confidence": "high", "effective_date": "2024-02-23", "filed": "2025-03-31", "flags": [], "ratio": 0.333, "ticker": "FFAI"}
 {"cik": 1805521, "confidence": "high", "effective_date": "2024-08-04", "filed": "2025-03-31", "flags": [], "ratio": 0.025, "ticker": "FFAI"}
+{"cik": 1460702, "confidence": "high", "effective_date": "2015-06-17", "filed": "2015-08-12", "flags": [], "ratio": 7.15, "ticker": "FFR"}
 {"cik": 1934850, "confidence": "low", "effective_date": "2022-06-24", "filed": "2023-02-27", "flags": [], "ratio": 105000.0, "ticker": "FG"}
 {"cik": 1864943, "confidence": "high", "effective_date": "2025-06-30", "filed": "2025-08-13", "flags": [], "ratio": 0.2, "ticker": "FGI"}
 {"cik": 1864943, "confidence": "high", "effective_date": "2025-06-30", "filed": "2025-08-13", "flags": [], "ratio": 0.2, "ticker": "FGIWW"}
@@ -1506,8 +1505,9 @@
 {"cik": 1281895, "confidence": "high", "effective_date": "2015-01-31", "filed": "2015-05-14", "flags": [], "ratio": 1.197, "ticker": "RCKT"}
 {"cik": 1281895, "confidence": "high", "effective_date": "2015-01-31", "filed": "2016-03-23", "flags": [], "ratio": 0.835422, "ticker": "RCKT"}
 {"cik": 1442620, "confidence": "high", "effective_date": "2019-12-10", "filed": "2020-03-18", "flags": [], "ratio": 0.2, "ticker": "RCON"}
-{"cik": 1442620, "confidence": "low", "effective_date": "2020-12-31", "filed": "2021-04-05", "flags": ["direction_inverted_by_share_check"], "ratio": 5.0, "ticker": "RCON"}
+{"cik": 1442620, "confidence": "high", "effective_date": "2020-12-31", "filed": "2021-04-05", "flags": ["direction_inverted_by_share_check"], "ratio": 5.0, "ticker": "RCON"}
 {"cik": 1442620, "confidence": "high", "effective_date": "2024-03-29", "filed": "2024-05-24", "flags": [], "ratio": 0.056, "ticker": "RCON"}
+{"cik": 1442620, "confidence": "high", "effective_date": "2026-08-18", "filed": "2026-09-30", "flags": [], "ratio": 0.005, "ticker": "RCON"}
 {"cik": 1724521, "confidence": "high", "effective_date": "2018-03-09", "filed": "2018-05-09", "flags": [], "ratio": 0.2525, "ticker": "RCUS"}
 {"cik": 1596961, "confidence": "high", "effective_date": "2020-05-18", "filed": "2022-04-08", "flags": [], "ratio": 0.05, "ticker": "RDNW"}
 {"cik": 1094366, "confidence": "high", "effective_date": "2013-04-12", "filed": "2014-03-31", "flags": [], "ratio": 2.0, "ticker": "RDWR"}
