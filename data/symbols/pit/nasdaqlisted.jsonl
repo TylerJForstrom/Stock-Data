@@ -1503,7 +1503,7 @@
 {"category": "S", "etf": "N", "name": "Draganfly Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "DPRO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Top KingWin Ltd - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "DPU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Domino's Pizza Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DPZ", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Direct Digital Holdings, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DRCT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Direct Digital Holdings, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DRCT", "valid_from": "2026-07-28", "valid_to": "2026-10-05"}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "DRDB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Unit", "provable_from": false, "test_issue": "N", "ticker": "DRDBU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Warrants", "provable_from": false, "test_issue": "N", "ticker": "DRDBW", "valid_from": "2026-07-28", "valid_to": null}
@@ -2717,7 +2717,9 @@
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VI - Warrant", "provable_from": false, "test_issue": "N", "ticker": "IPFXW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "IPG Photonics Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IPGP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Innate Pharma S.A. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "IPHA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "IPHX", "valid_from": "2026-10-05", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VIII - Unit", "provable_from": true, "test_issue": "N", "ticker": "IPHXU", "valid_from": "2026-08-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Inflection Point Acquisition Corp. VIII - Warrant", "provable_from": true, "test_issue": "N", "ticker": "IPHXW", "valid_from": "2026-10-05", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco International BuyBack Achievers ETF", "provable_from": false, "test_issue": "N", "ticker": "IPKW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Intelligent Protection Management Corp.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IPM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Century Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IPSC", "valid_from": "2026-07-28", "valid_to": null}
@@ -4567,6 +4569,7 @@
 {"category": "Q", "etf": "N", "name": "Runway Growth Finance Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RWAY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Runway Growth Finance Corp. - 7.25% Notes due 2031", "provable_from": false, "test_issue": "N", "ticker": "RWAYI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Runway Growth Finance Corp. - 7.50% Notes due 2027", "provable_from": false, "test_issue": "N", "ticker": "RWAYL", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Runway Growth Finance Corp. - 7.75% Notes Due 2031", "provable_from": true, "test_issue": "N", "ticker": "RWAYM", "valid_from": "2026-10-05", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Rayliant NxtGen Multifactor International Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "RWIN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Recursion Pharmaceuticals, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RXRX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "RxSight, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RXST", "valid_from": "2026-07-28", "valid_to": null}
@@ -5040,7 +5043,9 @@
 {"category": "S", "etf": "N", "name": "Taylor Devices, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TAYD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "The Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TBBK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Turtle Beach Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TBCH", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "TBCV", "valid_from": "2026-10-05", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Thunder Bridge Capital Partners V, Ltd. - Units", "provable_from": true, "test_issue": "N", "ticker": "TBCVU", "valid_from": "2026-08-14", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Thunder Bridge Capital Partners V, Ltd. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "TBCVW", "valid_from": "2026-10-05", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "F/m US Treasury 3 Month Bill Fund", "provable_from": false, "test_issue": "N", "ticker": "TBIL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Taboola.com Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "TBLA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Thornburg Income Builder Opportunities Trust - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "TBLD", "valid_from": "2026-07-28", "valid_to": null}
@@ -5575,8 +5580,8 @@
 {"category": "Q", "etf": "N", "name": "WaFd, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WAFD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "WaFd, Inc. - Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "WAFDP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Wah Fu Education Group Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WAFU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Waldencast plc - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "WALD", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Waldencast plc - Warrant", "provable_from": false, "test_issue": "N", "ticker": "WALDW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Waldencast plc - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "WALD", "valid_from": "2026-07-28", "valid_to": "2026-10-05"}
+{"category": "S", "etf": "N", "name": "Waldencast plc - Warrant", "provable_from": false, "test_issue": "N", "ticker": "WALDW", "valid_from": "2026-07-28", "valid_to": "2026-10-05"}
 {"category": "G", "etf": "Y", "name": "WisdomTree US Adaptive Moving Average Fund", "provable_from": false, "test_issue": "N", "ticker": "WAMA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "VanEck Space ETF", "provable_from": false, "test_issue": "N", "ticker": "WARP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Washington Trust Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WASH", "valid_from": "2026-07-28", "valid_to": null}
@@ -5627,7 +5632,7 @@
 {"category": "Q", "etf": "N", "name": "Wingstop Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WING", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Themes Generative Artificial Intelligence ETF", "provable_from": false, "test_issue": "N", "ticker": "WISE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Wix.com Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WIX", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "WISeKey International Holding Ltd - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "WKEY", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "WISeKey International Holding Ltd - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "WKEY", "valid_from": "2026-07-28", "valid_to": "2026-10-05"}
 {"category": "S", "etf": "N", "name": "Workhorse Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WKHS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Worksport, Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WKSP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Wilco 63 Corporation - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "WLCO", "valid_from": "2026-08-11", "valid_to": null}
@@ -5649,6 +5654,7 @@
 {"category": "G", "etf": "Y", "name": "iShares Global Timber & Forestry ETF", "provable_from": false, "test_issue": "N", "ticker": "WOOD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Petco Health and Wellness Company, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WOOF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Westport Fuel Systems Inc - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "WPRT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "WISeQey Corp - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "WQEY", "valid_from": "2026-10-05", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Wrap Technologies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WRAP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "WeRide Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "WRD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "World Acceptance Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WRLD", "valid_from": "2026-07-28", "valid_to": null}
