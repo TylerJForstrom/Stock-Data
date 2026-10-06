@@ -1494,9 +1494,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Castellan Targeted Equity ETF", "test_issue": "N", "ticker": "CTEF"}
 {"etf": "N", "exchange": "N", "name": "Claritev Corporation Class A Common Stock", "test_issue": "N", "ticker": "CTEV"}
 {"etf": "Y", "exchange": "P", "name": "ProShares S&P Kensho Cleantech ETF", "test_issue": "N", "ticker": "CTEX"}
-{"etf": "N", "exchange": "N", "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)", "test_issue": "N", "ticker": "CTGG"}
 {"etf": "N", "exchange": "A", "name": "Contango Silver & Gold Inc. Common Stock", "test_issue": "N", "ticker": "CTGO"}
-{"etf": "N", "exchange": "N", "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)", "test_issue": "N", "ticker": "CTHH"}
 {"etf": "Y", "exchange": "Z", "name": "Castellan Targeted Income ETF", "test_issue": "N", "ticker": "CTIF"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 30% Structured Buffer ETF - July Series", "test_issue": "N", "ticker": "CTJL"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 30% Structured Buffer ETF - June Series", "test_issue": "N", "ticker": "CTJN"}
@@ -2870,6 +2868,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi GLXY 2x Daily ETF", "test_issue": "N", "ticker": "GLX"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long GLXY Daily Target ETF", "test_issue": "N", "ticker": "GLXU"}
 {"etf": "N", "exchange": "N", "name": "General Motors Company Common Stock", "test_issue": "N", "ticker": "GM"}
+{"etf": "Y", "exchange": "P", "name": "Simplify Brookwood Global Macro ETF", "test_issue": "N", "ticker": "GMAC"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - March", "test_issue": "N", "ticker": "GMAR"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - May", "test_issue": "N", "ticker": "GMAY"}
 {"etf": "N", "exchange": "N", "name": "GameStop Corporation Common Stock", "test_issue": "N", "ticker": "GME"}
@@ -3100,6 +3099,7 @@
 {"etf": "Y", "exchange": "N", "name": "Unlimited HFEQ Equity Long/Short ETF", "test_issue": "N", "ticker": "HFEQ"}
 {"etf": "Y", "exchange": "N", "name": "Unlimited HFGM Global Macro ETF", "test_issue": "N", "ticker": "HFGM"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Large Cap Growth ETF", "test_issue": "N", "ticker": "HFGO"}
+{"etf": "Y", "exchange": "P", "name": "Nomura High Yield Total Return ETF", "test_issue": "N", "ticker": "HFIX"}
 {"etf": "Y", "exchange": "N", "name": "Unlimited HFMF Managed Futures ETF", "test_issue": "N", "ticker": "HFMF"}
 {"etf": "Y", "exchange": "N", "name": "Unlimited HFND Multi-Strategy Return Tracker ETF", "test_issue": "N", "ticker": "HFND"}
 {"etf": "N", "exchange": "N", "name": "Highland Opportunities and Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "HFRO"}
@@ -4129,7 +4129,6 @@
 {"etf": "N", "exchange": "N", "name": "Lucky Strike Entertainment Corporation Class A Common Stock", "test_issue": "N", "ticker": "LUCK"}
 {"etf": "N", "exchange": "A", "name": "Luda Technology Group Limited Ordinary Shares", "test_issue": "N", "ticker": "LUD"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Photonic and Optical ETF", "test_issue": "N", "ticker": "LUMA"}
-{"etf": "N", "exchange": "N", "name": "Lumen Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "LUMN"}
 {"etf": "Y", "exchange": "P", "name": "Longnook Uncommon Compounders ETF", "test_issue": "N", "ticker": "LUNC"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long LUNR ETF", "test_issue": "N", "ticker": "LUNL"}
 {"etf": "N", "exchange": "N", "name": "Southwest Airlines Company Common Stock", "test_issue": "N", "ticker": "LUV"}
@@ -6089,6 +6088,7 @@
 {"etf": "N", "exchange": "N", "name": "SK Telecom Co., Ltd. Common Stock", "test_issue": "N", "ticker": "SKM"}
 {"etf": "N", "exchange": "N", "name": "Tanger Inc. Common Stock", "test_issue": "N", "ticker": "SKT"}
 {"etf": "N", "exchange": "N", "name": "Champion Homes, Inc. Common Stock", "test_issue": "N", "ticker": "SKY"}
+{"etf": "N", "exchange": "N", "name": "Skydance Corporation Class B Common Stock", "test_issue": "N", "ticker": "SKYD"}
 {"etf": "N", "exchange": "N", "name": "Sky Harbour Group Corporation Class A Common Stock", "test_issue": "N", "ticker": "SKYH"}
 {"etf": "N", "exchange": "N", "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "SKYH.W"}
 {"etf": "N", "exchange": "N", "name": "SLB Limited Common Shares", "test_issue": "N", "ticker": "SLB"}
@@ -6831,6 +6831,7 @@
 {"etf": "N", "exchange": "A", "name": "AgEagle Aerial Systems, Inc. Common Stock", "test_issue": "N", "ticker": "UAVS"}
 {"etf": "N", "exchange": "N", "name": "Uber Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "UBER"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill UBER WeeklyPay ETF", "test_issue": "N", "ticker": "UBEW"}
+{"etf": "Y", "exchange": "P", "name": "AAM Ubiquitous ETF", "test_issue": "N", "ticker": "UBIQ"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF", "test_issue": "N", "ticker": "UBOT"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra MSCI Brazil Capped", "test_issue": "N", "ticker": "UBR"}
 {"etf": "N", "exchange": "N", "name": "UBS Group AG Registered Ordinary Shares", "test_issue": "N", "ticker": "UBS"}
@@ -6986,7 +6987,6 @@
 {"etf": "Y", "exchange": "Z", "name": "ProShares Ultra VIX Short Term Futures ETF", "test_issue": "N", "ticker": "UVXY"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Russell2000", "test_issue": "N", "ticker": "UWM"}
 {"etf": "N", "exchange": "N", "name": "UWM Holdings Corporation Class A Common Stock", "test_issue": "N", "ticker": "UWMC"}
-{"etf": "N", "exchange": "N", "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued", "test_issue": "N", "ticker": "UWMC.V"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Uranium ETF", "test_issue": "N", "ticker": "UX"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Uncapped Accelerator ETF - April", "test_issue": "N", "ticker": "UXAP"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Industrials", "test_issue": "N", "ticker": "UXI"}

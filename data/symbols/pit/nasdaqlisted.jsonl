@@ -1341,6 +1341,8 @@
 {"category": "Q", "etf": "N", "name": "Cintas Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CTAS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Community Trust Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CTBI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Global X ClimateTech ETF", "provable_from": false, "test_issue": "N", "ticker": "CTEC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Qwest Corporation - 6.500% Notes due 2051", "provable_from": true, "test_issue": "N", "ticker": "CTGG", "valid_from": "2026-10-06", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Qwest Corporation - 6.750% Notes due 2052", "provable_from": true, "test_issue": "N", "ticker": "CTHH", "valid_from": "2026-10-06", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Cytek Biosciences, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CTKB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "CytomX Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CTMX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Contineum Therapeutics, Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "CTNM", "valid_from": "2026-07-28", "valid_to": null}
@@ -3033,7 +3035,7 @@
 {"category": "G", "etf": "Y", "name": "First Trust Indxx Innovative Transaction & Process ETF", "provable_from": false, "test_issue": "N", "ticker": "LEGR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "SEI High Yield Bond & Alternative Credit ETF", "provable_from": false, "test_issue": "N", "ticker": "LEND", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "LENZ Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LENZ", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Leslie's, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LESL", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Leslie's, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LESL", "valid_from": "2026-07-28", "valid_to": "2026-10-06"}
 {"category": "G", "etf": "Y", "name": "Alexis Practical Tactical ETF", "provable_from": false, "test_issue": "N", "ticker": "LEXI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Lexaria Bioscience Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LEXX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Leapfrog Acquisition Corporation - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "LFAC", "valid_from": "2026-07-28", "valid_to": null}
@@ -3167,6 +3169,7 @@
 {"category": "S", "etf": "N", "name": "Innovative Eyewear, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "LUCYW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long LULU Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "LULG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "lululemon athletica inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LULU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Lumen Technologies, Inc.  - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "LUMN", "valid_from": "2026-10-06", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Pulmonx Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LUNG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Intuitive Machines, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LUNR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "JPMorgan Fundamental Data Science Large Value ETF", "provable_from": false, "test_issue": "N", "ticker": "LVDS", "valid_from": "2026-07-28", "valid_to": null}
@@ -3596,7 +3599,7 @@
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NHIVW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NHP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NHPAP", "valid_from": "2026-07-28", "valid_to": "2026-09-04"}
-{"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NHPBP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "NHPBP", "valid_from": "2026-07-28", "valid_to": "2026-10-06"}
 {"category": "S", "etf": "N", "name": "Natural Health Trends Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NHTC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "NICE Ltd - American Depositary Shares each representing one Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "NICE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nicola Mining Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "NICM", "valid_from": "2026-07-28", "valid_to": null}
@@ -3962,6 +3965,7 @@
 {"category": "S", "etf": "N", "name": "PAVmed Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PAVM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PAVS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Patria Investments Limited - Class A Common Shares", "provable_from": false, "test_issue": "N", "ticker": "PAX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Pine Tree Acquisition Corp. - Units", "provable_from": true, "test_issue": "N", "ticker": "PAXGU", "valid_from": "2026-10-06", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Payoneer Global Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PAYO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "PayPay Corporation - American Depository Shares", "provable_from": false, "test_issue": "N", "ticker": "PAYP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Paysign, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PAYS", "valid_from": "2026-07-28", "valid_to": null}
@@ -4199,7 +4203,7 @@
 {"category": "S", "etf": "N", "name": "Performance Shipping Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "PSHG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "PS International Group Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PSIG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Power Solutions International, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PSIX", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Paramount Skydance Corporation - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PSKY", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Paramount Skydance Corporation - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PSKY", "valid_from": "2026-07-28", "valid_to": "2026-10-06"}
 {"category": "G", "etf": "Y", "name": "Invesco Dorsey Wright Consumer Staples Momentum ETF", "provable_from": false, "test_issue": "N", "ticker": "PSL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "PriceSmart, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PSMT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Personalis, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PSNL", "valid_from": "2026-07-28", "valid_to": null}
@@ -4327,7 +4331,7 @@
 {"category": "G", "etf": "Y", "name": "First Trust NASDAQ-100 Ex-Technology Sector Index Fund", "provable_from": false, "test_issue": "N", "ticker": "QQXT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Quest Resource Holding Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QRHC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Global X NASDAQ 100 Risk Managed Income ETF", "provable_from": false, "test_issue": "N", "ticker": "QRMI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Qorvo, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QRVO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Qorvo, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QRVO", "valid_from": "2026-07-28", "valid_to": "2026-10-06"}
 {"category": "Q", "etf": "N", "name": "QuantumScape Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Quartzsea Acquisition Corporation - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "QSEA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Quartzsea Acquisition Corporation - Rights", "provable_from": false, "test_issue": "N", "ticker": "QSEAR", "valid_from": "2026-07-28", "valid_to": null}
