@@ -395,7 +395,7 @@
 {"category": "S", "etf": "N", "name": "Accuray Incorporated - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "ARAY", "valid_from": "2026-08-06", "valid_to": null}
 {"category": "S", "etf": "N", "name": "ARB IOT Group Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ARBB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Arbe Robotics Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ARBE", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Arbe Robotics Ltd. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ARBEW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Arbe Robotics Ltd. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ARBEW", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
 {"category": "S", "etf": "N", "name": "Argo Blockchain plc - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "ARBK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ArcBest Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ARCB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Ares Capital Corporation - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "ARCC", "valid_from": "2026-07-28", "valid_to": null}
@@ -580,7 +580,9 @@
 {"category": "Q", "etf": "N", "name": "Atlanta Braves Holdings, Inc. - Series A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BATRA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Atlanta Braves Holdings, Inc. - Series C Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BATRK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "BBB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Neighborhood Intelligence, Inc.  - Warrant", "provable_from": true, "test_issue": "N", "ticker": "BBBYW", "valid_from": "2026-08-18", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Neighborhood Intelligence, Inc.  - Warrant", "provable_from": true, "test_issue": "N", "ticker": "BBBYW", "valid_from": "2026-08-18", "valid_to": "2026-10-07"}
+{"category": "G", "etf": "N", "name": "Bradbury Capital Inc. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BBCI", "valid_from": "2026-10-07", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Bradbury Capital Inc. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "BBCIW", "valid_from": "2026-10-07", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Concrete Pumping Holdings, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BBCP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BBCQ", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"category": "G", "etf": "N", "name": "Bleichroeder Acquisition Corp. II - Units", "provable_from": false, "test_issue": "N", "ticker": "BBCQU", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
@@ -725,7 +727,7 @@
 {"category": "G", "etf": "N", "name": "Blue Bird Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BLBD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Large Cap Core Active ETF", "provable_from": false, "test_issue": "N", "ticker": "BLCR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Ballard Power Systems, Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "BLDP", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "BioLife Solutions, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BLFS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "BioLife Solutions, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BLFS", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
 {"category": "S", "etf": "N", "name": "Bridgeline Digital, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BLIN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BeLive Holdings - ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "BLIV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Blackbaud, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BLKB", "valid_from": "2026-07-28", "valid_to": null}
@@ -2617,8 +2619,8 @@
 {"category": "S", "etf": "N", "name": "Inhibikase Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IKT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Intelligent Living Application Group Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ILAG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Lithium Miners and Producers ETF", "provable_from": false, "test_issue": "N", "ticker": "ILIT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Triller Group Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ILLR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Triller Group Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ILLRW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Triller Group Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ILLR", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
+{"category": "S", "etf": "N", "name": "Triller Group Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ILLRW", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
 {"category": "G", "etf": "N", "name": "Illumination Acquisition Corp I - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ILLU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Illumination Acquisition Corp I - Units", "provable_from": false, "test_issue": "N", "ticker": "ILLUU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Illumination Acquisition Corp I - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ILLUW", "valid_from": "2026-07-28", "valid_to": null}
@@ -4779,7 +4781,7 @@
 {"category": "S", "etf": "N", "name": "Stabilis Solutions, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLNG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Soluna Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLNH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "SLNHP", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Simulations Plus, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Simulations Plus, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLP", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
 {"category": "G", "etf": "Y", "name": "iShares 0-5 Year Investment Grade Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "SLQD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "SLR Investment Corp. - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "SLRC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "SELLAS Life Sciences Group, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLS", "valid_from": "2026-07-28", "valid_to": null}
@@ -4874,9 +4876,9 @@
 {"category": "Q", "etf": "N", "name": "South Plains Financial, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SPFI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Springview Holdings Ltd - Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "SPHL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "F/m Emerald Special Situations ETF", "provable_from": false, "test_issue": "N", "ticker": "SPIT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "SPKL", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "SPKLU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SPKLW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "SPKL", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
+{"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "SPKLU", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
+{"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SPKLW", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long SPOT Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SPOG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Spok Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SPOK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "SIMPPLE LTD. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SPPL", "valid_from": "2026-07-28", "valid_to": null}
@@ -5594,7 +5596,7 @@
 {"category": "S", "etf": "N", "name": "Eco Wave Power Global AB (publ) - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "WAVE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Waystar Holding Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WAY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Weibo Corporation - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "WB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Warner Bros. Discovery, Inc. - Series A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WBD", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Warner Bros. Discovery, Inc. - Series A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WBD", "valid_from": "2026-07-28", "valid_to": "2026-10-07"}
 {"category": "Q", "etf": "N", "name": "WEBTOON Entertainment Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "WBTN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "WEBUY GLOBAL LTD. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WBUY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "WisdomTree Cybersecurity Fund", "provable_from": false, "test_issue": "N", "ticker": "WCBR", "valid_from": "2026-07-28", "valid_to": null}
@@ -5657,6 +5659,7 @@
 {"category": "S", "etf": "N", "name": "WORK Medical Technology Group LTD - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "WOK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Global Timber & Forestry ETF", "provable_from": false, "test_issue": "N", "ticker": "WOOD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Petco Health and Wellness Company, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WOOF", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "SCWorx Corp. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "WORX", "valid_from": "2026-10-07", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Westport Fuel Systems Inc - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "WPRT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "WISeQey Corp - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "WQEY", "valid_from": "2026-10-05", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Wrap Technologies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WRAP", "valid_from": "2026-07-28", "valid_to": null}

@@ -5945,3 +5945,25 @@
 {"date": "2026-10-06", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)", "test_issue": "N", "ticker": "CTHH"}, "source": "otherlisted"}
 {"date": "2026-10-06", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "Lumen Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "LUMN"}, "source": "otherlisted"}
 {"date": "2026-10-06", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued", "test_issue": "N", "ticker": "UWMC.V"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"category": "G", "etf": "N", "name": "Bradbury Capital Inc. - Ordinary Shares", "test_issue": "N", "ticker": "BBCI"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"category": "S", "etf": "N", "name": "Bradbury Capital Inc. - Warrants", "test_issue": "N", "ticker": "BBCIW"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"category": "S", "etf": "N", "name": "SCWorx Corp. - Common Stock", "test_issue": "N", "ticker": "WORX"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Arbe Robotics Ltd. - Warrant", "test_issue": "N", "ticker": "ARBEW"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "Q", "etf": "N", "name": "Neighborhood Intelligence, Inc.  - Warrant", "test_issue": "N", "ticker": "BBBYW"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "S", "etf": "N", "name": "BioLife Solutions, Inc. - Common Stock", "test_issue": "N", "ticker": "BLFS"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Triller Group Inc. - Common Stock", "test_issue": "N", "ticker": "ILLR"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Triller Group Inc. - Warrant", "test_issue": "N", "ticker": "ILLRW"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "Q", "etf": "N", "name": "Simulations Plus, Inc. - Common Stock", "test_issue": "N", "ticker": "SLP"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Class A Ordinary Share", "test_issue": "N", "ticker": "SPKL"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Unit", "test_issue": "N", "ticker": "SPKLU"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Spark I Acquisition Corp. - Warrant", "test_issue": "N", "ticker": "SPKLW"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"category": "Q", "etf": "N", "name": "Warner Bros. Discovery, Inc. - Series A Common Stock", "test_issue": "N", "ticker": "WBD"}, "source": "nasdaqlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "FT Vest Laddered Autocallable Buffer & Resilient Income ETF", "test_issue": "N", "ticker": "ACYB"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "Amplify Top 10 Semiconductors ETF", "test_issue": "N", "ticker": "CPU"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "Oakmark U.S. Concentrated ETF", "test_issue": "N", "ticker": "OAKL"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "Russell Investments Multisector Bond ETF", "test_issue": "N", "ticker": "RINK"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "NEOS Silver High Income ETF", "test_issue": "N", "ticker": "SLVI"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "Synera Funds Takumi+ ETF", "test_issue": "N", "ticker": "SMTJ"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "Direxion U.S. 500 Plus ETF", "test_issue": "N", "ticker": "SPXP"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights", "test_issue": "N", "ticker": "NMCO.R"}, "source": "otherlisted"}
+{"date": "2026-10-07", "event": "changed", "previous": {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026", "test_issue": "N", "ticker": "AOCT"}, "record": {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028", "test_issue": "N", "ticker": "AOCT"}, "source": "otherlisted"}

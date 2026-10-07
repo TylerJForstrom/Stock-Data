@@ -85,6 +85,7 @@
 {"etf": "Y", "exchange": "P", "name": "Advent Convertible Bond ETF", "test_issue": "N", "ticker": "ACVT"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture Value ETF", "test_issue": "N", "ticker": "ACVU"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI Global Min Vol Factor ETF", "test_issue": "N", "ticker": "ACWV"}
+{"etf": "Y", "exchange": "P", "name": "FT Vest Laddered Autocallable Buffer & Resilient Income ETF", "test_issue": "N", "ticker": "ACYB"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest Laddered Autocallable Barrier & Income ETF", "test_issue": "N", "ticker": "ACYN"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest Autocallable Barrier & High Income ETF", "test_issue": "N", "ticker": "ACYQ"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest Laddered Autocallable Barrier & Resilient Income ETF", "test_issue": "N", "ticker": "ACYS"}
@@ -311,7 +312,7 @@
 {"etf": "Y", "exchange": "P", "name": "Anthropic AI Lab Ecosystem ETF", "test_issue": "N", "ticker": "ANTW"}
 {"etf": "N", "exchange": "N", "name": "Annovis Bio, Inc. Common Stock", "test_issue": "N", "ticker": "ANVS"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 80/20 Aggressive Allocation ETF", "test_issue": "N", "ticker": "AOA"}
-{"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026", "test_issue": "N", "ticker": "AOCT"}
+{"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028", "test_issue": "N", "ticker": "AOCT"}
 {"etf": "N", "exchange": "N", "name": "abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "AOD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 30/70 Conservative Allocation ETF", "test_issue": "N", "ticker": "AOK"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 40/60 Moderate Allocation ETF", "test_issue": "N", "ticker": "AOM"}
@@ -1424,6 +1425,7 @@
 {"etf": "Y", "exchange": "P", "name": "Calamos S&P 500 Structured Alt Protection ETF June", "test_issue": "N", "ticker": "CPSU"}
 {"etf": "Y", "exchange": "P", "name": "Calamos S&P 500 Structured Alt Protection ETF January", "test_issue": "N", "ticker": "CPSY"}
 {"etf": "N", "exchange": "N", "name": "Camden Property Trust Common Stock", "test_issue": "N", "ticker": "CPT"}
+{"etf": "Y", "exchange": "P", "name": "Amplify Top 10 Semiconductors ETF", "test_issue": "N", "ticker": "CPU"}
 {"etf": "Y", "exchange": "P", "name": "USCF Daily Target 2X Copper Index ETF", "test_issue": "N", "ticker": "CPXR"}
 {"etf": "N", "exchange": "N", "name": "Cheniere Energy Partners, LP Common Units", "test_issue": "N", "ticker": "CQP"}
 {"etf": "Y", "exchange": "P", "name": "Invesco China Technology ETF", "test_issue": "N", "ticker": "CQQQ"}
@@ -4695,7 +4697,6 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify National Muni Bond ETF", "test_issue": "N", "ticker": "NMB"}
 {"etf": "Y", "exchange": "P", "name": "NovaTide Flexible Allocation ETF", "test_issue": "N", "ticker": "NMBL"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Common Shares", "test_issue": "N", "ticker": "NMCO"}
-{"etf": "N", "exchange": "N", "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights", "test_issue": "N", "ticker": "NMCO.R"}
 {"etf": "N", "exchange": "N", "name": "Nouveau Monde Graphite Inc. Common Shares", "test_issue": "N", "ticker": "NMG"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal Income Fund, Inc. Common Stock", "test_issue": "N", "ticker": "NMI"}
 {"etf": "N", "exchange": "A", "name": "Neuberger Energy Infrastructure and Income Fund Inc. Common Stock", "test_issue": "N", "ticker": "NML"}
@@ -4862,6 +4863,7 @@
 {"etf": "N", "exchange": "N", "name": "Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units", "test_issue": "N", "ticker": "OAK$B"}
 {"etf": "Y", "exchange": "P", "name": "Oakmark Global Large Cap ETF", "test_issue": "N", "ticker": "OAKG"}
 {"etf": "Y", "exchange": "P", "name": "Oakmark International Large Cap ETF", "test_issue": "N", "ticker": "OAKI"}
+{"etf": "Y", "exchange": "P", "name": "Oakmark U.S. Concentrated ETF", "test_issue": "N", "ticker": "OAKL"}
 {"etf": "Y", "exchange": "P", "name": "Oakmark U.S. Large Cap ETF", "test_issue": "N", "ticker": "OAKM"}
 {"etf": "Y", "exchange": "P", "name": "OneAscent Large Cap Core ETF", "test_issue": "N", "ticker": "OALC"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax Innovation Option Income Strategy ETF", "test_issue": "N", "ticker": "OARK"}
@@ -5655,6 +5657,7 @@
 {"etf": "Y", "exchange": "P", "name": "ALPS Strategic Income Fund", "test_issue": "N", "ticker": "RIGS"}
 {"etf": "Y", "exchange": "P", "name": "Indexperts Gorilla Aggressive Growth ETF", "test_issue": "N", "ticker": "RILA"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Inflation Expectations ETF", "test_issue": "N", "ticker": "RINF"}
+{"etf": "Y", "exchange": "P", "name": "Russell Investments Multisector Bond ETF", "test_issue": "N", "ticker": "RINK"}
 {"etf": "N", "exchange": "N", "name": "Rio Tinto Plc Common Stock", "test_issue": "N", "ticker": "RIO"}
 {"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Long RIOT ETF", "test_issue": "N", "ticker": "RIOX"}
 {"etf": "Y", "exchange": "P", "name": "Pictet Emerging Markets Rising Economies ETF", "test_issue": "N", "ticker": "RISE"}
@@ -6107,6 +6110,7 @@
 {"etf": "N", "exchange": "A", "name": "Solaris Resources Inc. Common Shares", "test_issue": "N", "ticker": "SLSR"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax Ultra Short Option Income Strategy ETF", "test_issue": "N", "ticker": "SLTY"}
 {"etf": "Y", "exchange": "P", "name": "iShares Silver Trust", "test_issue": "N", "ticker": "SLV"}
+{"etf": "Y", "exchange": "Z", "name": "NEOS Silver High Income ETF", "test_issue": "N", "ticker": "SLVI"}
 {"etf": "N", "exchange": "N", "name": "Sylvamo Corporation Common Stock", "test_issue": "N", "ticker": "SLVM"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI Global Silver and Metals Miners ETF", "test_issue": "N", "ticker": "SLVP"}
 {"etf": "Y", "exchange": "P", "name": "Nicholas Silver Income ETF", "test_issue": "N", "ticker": "SLVX"}
@@ -6156,6 +6160,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi SMR 2x Daily ETF", "test_issue": "N", "ticker": "SMRX"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long SMTC Daily ETF", "test_issue": "N", "ticker": "SMTG"}
 {"etf": "Y", "exchange": "P", "name": "ALPS Smith Core Plus Bond ETF", "test_issue": "N", "ticker": "SMTH"}
+{"etf": "Y", "exchange": "P", "name": "Synera Funds Takumi+ ETF", "test_issue": "N", "ticker": "SMTJ"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SMR Daily ETF", "test_issue": "N", "ticker": "SMU"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long SMR Daily Target ETF", "test_issue": "N", "ticker": "SMUP"}
 {"etf": "N", "exchange": "N", "name": "Similarweb Ltd. Ordinary Shares", "test_issue": "N", "ticker": "SMWB"}
@@ -6289,6 +6294,7 @@
 {"etf": "Y", "exchange": "P", "name": "ProShares S&P 500 Ex-Energy ETF", "test_issue": "N", "ticker": "SPXE"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily S&P 500 Bull 3X ETF", "test_issue": "N", "ticker": "SPXL"}
 {"etf": "Y", "exchange": "P", "name": "ProShares S&P 500 Ex-Financials ETF", "test_issue": "N", "ticker": "SPXN"}
+{"etf": "Y", "exchange": "P", "name": "Direxion U.S. 500 Plus ETF", "test_issue": "N", "ticker": "SPXP"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily S&P 500 Bear 3X ETF", "test_issue": "N", "ticker": "SPXS"}
 {"etf": "Y", "exchange": "P", "name": "ProShares S&P 500 Ex-Technology ETF", "test_issue": "N", "ticker": "SPXT"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraPro Short S&P500", "test_issue": "N", "ticker": "SPXU"}
