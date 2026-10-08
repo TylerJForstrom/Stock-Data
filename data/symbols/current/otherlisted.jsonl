@@ -6482,6 +6482,8 @@
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Capital Appreciation Equity ETF", "test_issue": "N", "ticker": "TCAF"}
 {"etf": "Y", "exchange": "N", "name": "Tortoise AI Infrastructure ETF", "test_issue": "N", "ticker": "TCAI"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Capital Appreciation Premium Income ETF", "test_issue": "N", "ticker": "TCAL"}
+{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TCBI"}
+{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B", "test_issue": "N", "ticker": "TCBI$B"}
 {"etf": "N", "exchange": "N", "name": "Third Coast Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TCBX"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Blue Chip Growth ETF", "test_issue": "N", "ticker": "TCHP"}
 {"etf": "N", "exchange": "N", "name": "Transcontinental Realty Investors, Inc. Common Stock", "test_issue": "N", "ticker": "TCI"}
@@ -7311,6 +7313,7 @@
 {"etf": "N", "exchange": "A", "name": "Western Copper and Gold Corporation Common Stock", "test_issue": "N", "ticker": "WRN"}
 {"etf": "N", "exchange": "N", "name": "Worthington Steel, Inc. Common Shares", "test_issue": "N", "ticker": "WS"}
 {"etf": "Y", "exchange": "P", "name": "Weitz Short Duration Bond ETF", "test_issue": "N", "ticker": "WSDB"}
+{"etf": "Y", "exchange": "F", "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund", "test_issue": "N", "ticker": "WSLS"}
 {"etf": "N", "exchange": "N", "name": "Williams-Sonoma, Inc. Common Stock (DE)", "test_issue": "N", "ticker": "WSM"}
 {"etf": "Y", "exchange": "P", "name": "Wasatch Small/Mid Cap ETF", "test_issue": "N", "ticker": "WSMD"}
 {"etf": "N", "exchange": "N", "name": "Watsco, Inc. Common Stock", "test_issue": "N", "ticker": "WSO"}
@@ -7318,6 +7321,7 @@
 {"etf": "N", "exchange": "N", "name": "West Pharmaceutical Services, Inc. Common Stock", "test_issue": "N", "ticker": "WST"}
 {"etf": "N", "exchange": "N", "name": "WisdomTree, Inc. Common Stock", "test_issue": "N", "ticker": "WT"}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree Artificial Intelligence and Innovation Fund", "test_issue": "N", "ticker": "WTAI"}
+{"etf": "Y", "exchange": "F", "name": "WisdomTree Global Alpha Fund", "test_issue": "N", "ticker": "WTAL"}
 {"etf": "N", "exchange": "N", "name": "W&T Offshore, Inc. Common Stock", "test_issue": "N", "ticker": "WTI"}
 {"etf": "Y", "exchange": "P", "name": "USCF Oil Plus Bitcoin Strategy Fund", "test_issue": "N", "ticker": "WTIB"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Energy 3X Inverse Leveraged ETNs", "test_issue": "N", "ticker": "WTID"}
