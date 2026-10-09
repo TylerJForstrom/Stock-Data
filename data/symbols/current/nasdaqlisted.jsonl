@@ -197,6 +197,7 @@
 {"category": "G", "etf": "Y", "name": "Defiance AI Magnificent 10 ETF", "test_issue": "N", "ticker": "AIMG"}
 {"category": "G", "etf": "Y", "name": "Acuitas Small Cap Active ETF", "test_issue": "N", "ticker": "AIMS"}
 {"category": "G", "etf": "Y", "name": "Defiance Inference AI Chip ETF", "test_issue": "N", "ticker": "AINF"}
+{"category": "S", "etf": "N", "name": "AI OKTO CORP. - Common Stock", "test_issue": "N", "ticker": "AIOK"}
 {"category": "S", "etf": "N", "name": "AIOS Tech Inc. - Class A Common Shares", "test_issue": "N", "ticker": "AIOS"}
 {"category": "G", "etf": "N", "name": "PowerFleet, Inc. - Common Stock", "test_issue": "N", "ticker": "AIOT"}
 {"category": "G", "etf": "N", "name": "Arteris, Inc.  - Common Stock", "test_issue": "N", "ticker": "AIP"}
@@ -591,6 +592,7 @@
 {"category": "S", "etf": "N", "name": "BriaCell Therapeutics Corp. - Warrants", "test_issue": "N", "ticker": "BCTXL"}
 {"category": "S", "etf": "N", "name": "BriaCell Therapeutics Corp. - Warrant", "test_issue": "N", "ticker": "BCTXZ"}
 {"category": "Q", "etf": "N", "name": "Bicycle Therapeutics plc - American Depositary Shares", "test_issue": "N", "ticker": "BCYC"}
+{"category": "S", "etf": "N", "name": "Biddance AI Systems, Inc. - Class A Ordinary Share", "test_issue": "N", "ticker": "BDAI"}
 {"category": "G", "etf": "N", "name": "BTC Development Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "BDCI"}
 {"category": "G", "etf": "N", "name": "BTC Development Corp. - Unit", "test_issue": "N", "ticker": "BDCIU"}
 {"category": "G", "etf": "N", "name": "BTC Development Corp. - Warrant", "test_issue": "N", "ticker": "BDCIW"}
@@ -1445,7 +1447,7 @@
 {"category": "Q", "etf": "N", "name": "Amdocs Limited - Ordinary Shares", "test_issue": "N", "ticker": "DOX"}
 {"category": "Q", "etf": "N", "name": "DouYu International Holdings Limited - American Depositary Shares", "test_issue": "N", "ticker": "DOYU"}
 {"category": "S", "etf": "N", "name": "Draganfly Inc. - Common Shares", "test_issue": "N", "ticker": "DPRO"}
-{"category": "S", "etf": "N", "name": "Top KingWin Ltd - Class A Ordinary Shares", "test_issue": "N", "ticker": "DPU"}
+{"category": "S", "etf": "N", "name": "Nexpu Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "DPU"}
 {"category": "Q", "etf": "N", "name": "Domino's Pizza Inc - Common Stock", "test_issue": "N", "ticker": "DPZ"}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Ordinary shares", "test_issue": "N", "ticker": "DRDB"}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Unit", "test_issue": "N", "ticker": "DRDBU"}
@@ -2312,7 +2314,6 @@
 {"category": "S", "etf": "N", "name": "Health In Tech, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "HIT"}
 {"category": "S", "etf": "N", "name": "High Tide Inc. - Common Shares", "test_issue": "N", "ticker": "HITI"}
 {"category": "S", "etf": "N", "name": "HIVE Digital Technologies Ltd - Common Shares", "test_issue": "N", "ticker": "HIVE"}
-{"category": "S", "etf": "N", "name": "Hitek Global Inc. - Class A Ordinary Share", "test_issue": "N", "ticker": "HKIT"}
 {"category": "S", "etf": "N", "name": "Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares", "test_issue": "N", "ticker": "HKPD"}
 {"category": "G", "etf": "Y", "name": "Wahed FTSE USA Shariah ETF", "test_issue": "N", "ticker": "HLAL"}
 {"category": "Q", "etf": "N", "name": "Harmonic Inc. - Common Stock", "test_issue": "N", "ticker": "HLIT"}
@@ -3045,7 +3046,6 @@
 {"category": "S", "etf": "N", "name": "Magnitude International Ltd - Ordinary Shares", "test_issue": "N", "ticker": "MAGH"}
 {"category": "S", "etf": "N", "name": "Mako Mining Corp - Common Stock", "test_issue": "N", "ticker": "MAKO"}
 {"category": "S", "etf": "N", "name": "Mama's Creations, Inc. - Common Stock", "test_issue": "N", "ticker": "MAMA"}
-{"category": "S", "etf": "N", "name": "MaxsMaking Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "MAMK"}
 {"category": "S", "etf": "N", "name": "Massimo Group - Common Stock", "test_issue": "N", "ticker": "MAMO"}
 {"category": "Q", "etf": "N", "name": "Manhattan Associates, Inc. - Common Stock", "test_issue": "N", "ticker": "MANH"}
 {"category": "Q", "etf": "N", "name": "Marriott International - Class A Common Stock", "test_issue": "N", "ticker": "MAR"}
@@ -3547,8 +3547,6 @@
 {"category": "G", "etf": "Y", "name": "Direxion Daily NVDA Bull 2X ETF", "test_issue": "N", "ticker": "NVDU"}
 {"category": "S", "etf": "N", "name": "NVE Corporation - Common Stock", "test_issue": "N", "ticker": "NVEC"}
 {"category": "Q", "etf": "N", "name": "Nova Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "NVMI"}
-{"category": "S", "etf": "N", "name": "Nvni Group Limited - Ordinary Shares", "test_issue": "N", "ticker": "NVNI"}
-{"category": "S", "etf": "N", "name": "Nvni Group Limited - Warrants", "test_issue": "N", "ticker": "NVNIW"}
 {"category": "S", "etf": "N", "name": "enVVeno Medical Corporation - Common Stock", "test_issue": "N", "ticker": "NVNO"}
 {"category": "G", "etf": "Y", "name": "PurePlay Nvidia Ecosystem Picks & Shovels Index ETF", "test_issue": "N", "ticker": "NVPS"}
 {"category": "G", "etf": "N", "name": "Navitas Semiconductor Corporation - Common Stock", "test_issue": "N", "ticker": "NVTS"}
@@ -4359,6 +4357,7 @@
 {"category": "G", "etf": "N", "name": "Renatus Tactical Acquisition Corp I - Warrant", "test_issue": "N", "ticker": "RTACW"}
 {"category": "S", "etf": "N", "name": "RTB Digital, Inc. - Common Stock", "test_issue": "N", "ticker": "RTB"}
 {"category": "G", "etf": "Y", "name": "VanEck Retail ETF", "test_issue": "N", "ticker": "RTH"}
+{"category": "S", "etf": "N", "name": "Retension Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "RTSN"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long RTX Daily ETF", "test_issue": "N", "ticker": "RTXG"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost RIOT ETF", "test_issue": "N", "ticker": "RTYY"}
 {"category": "S", "etf": "N", "name": "Rubico Inc. - Common Stock", "test_issue": "N", "ticker": "RUBI"}
@@ -5026,6 +5025,7 @@
 {"category": "G", "etf": "Y", "name": "VanEck Utilities TruSector ETF", "test_issue": "N", "ticker": "TRUU"}
 {"category": "Q", "etf": "N", "name": "trivago N.V. - American Depositary Shares", "test_issue": "N", "ticker": "TRVG"}
 {"category": "G", "etf": "N", "name": "Trevi Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "TRVI"}
+{"category": "Q", "etf": "N", "name": "TRex Bio, Inc. - Common stock", "test_issue": "N", "ticker": "TRXB"}
 {"category": "Q", "etf": "N", "name": "Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares", "test_issue": "N", "ticker": "TSAT"}
 {"category": "G", "etf": "N", "name": "Timberland Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "TSBK"}
 {"category": "G", "etf": "Y", "name": "TimesSquare Quality Mid Cap Growth ETF", "test_issue": "N", "ticker": "TSCM"}

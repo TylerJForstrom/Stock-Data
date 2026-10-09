@@ -203,6 +203,7 @@
 {"category": "G", "etf": "Y", "name": "Defiance AI Magnificent 10 ETF", "provable_from": true, "test_issue": "N", "ticker": "AIMG", "valid_from": "2026-09-11", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Acuitas Small Cap Active ETF", "provable_from": false, "test_issue": "N", "ticker": "AIMS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Defiance Inference AI Chip ETF", "provable_from": true, "test_issue": "N", "ticker": "AINF", "valid_from": "2026-08-19", "valid_to": null}
+{"category": "S", "etf": "N", "name": "AI OKTO CORP. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "AIOK", "valid_from": "2026-10-09", "valid_to": null}
 {"category": "S", "etf": "N", "name": "AIOS Tech Inc. - Class A Common Shares", "provable_from": false, "test_issue": "N", "ticker": "AIOS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "PowerFleet, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIOT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Arteris, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AIP", "valid_from": "2026-07-28", "valid_to": null}
@@ -621,6 +622,7 @@
 {"category": "S", "etf": "N", "name": "BriaCell Therapeutics Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BCTXL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BriaCell Therapeutics Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BCTXZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Bicycle Therapeutics plc - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "BCYC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Biddance AI Systems, Inc. - Class A Ordinary Share", "provable_from": true, "test_issue": "N", "ticker": "BDAI", "valid_from": "2026-10-09", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BTC Development Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BDCI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BTC Development Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "BDCIU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BTC Development Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BDCIW", "valid_from": "2026-07-28", "valid_to": null}
@@ -1505,7 +1507,8 @@
 {"category": "Q", "etf": "N", "name": "Amdocs Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "DOX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "DouYu International Holdings Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "DOYU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Draganfly Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "DPRO", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Top KingWin Ltd - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "DPU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Top KingWin Ltd - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "DPU", "valid_from": "2026-07-28", "valid_to": "2026-10-09"}
+{"category": "S", "etf": "N", "name": "Nexpu Ltd. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "DPU", "valid_from": "2026-10-09", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Domino's Pizza Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DPZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Direct Digital Holdings, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DRCT", "valid_from": "2026-07-28", "valid_to": "2026-10-05"}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "DRDB", "valid_from": "2026-07-28", "valid_to": null}
@@ -2414,7 +2417,7 @@
 {"category": "S", "etf": "N", "name": "Health In Tech, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HIT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "High Tide Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "HITI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "HIVE Digital Technologies Ltd - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "HIVE", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Hitek Global Inc. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "HKIT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Hitek Global Inc. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "HKIT", "valid_from": "2026-07-28", "valid_to": "2026-10-09"}
 {"category": "S", "etf": "N", "name": "Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "HKPD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Wahed FTSE USA Shariah ETF", "provable_from": false, "test_issue": "N", "ticker": "HLAL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Harmonic Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HLIT", "valid_from": "2026-07-28", "valid_to": null}
@@ -3201,7 +3204,7 @@
 {"category": "S", "etf": "N", "name": "Magnitude International Ltd - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MAGH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Mako Mining Corp - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MAKO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Mama's Creations, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MAMA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "MaxsMaking Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MAMK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "MaxsMaking Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MAMK", "valid_from": "2026-07-28", "valid_to": "2026-10-09"}
 {"category": "S", "etf": "N", "name": "Massimo Group - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MAMO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Manhattan Associates, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MANH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Marriott International - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MAR", "valid_from": "2026-07-28", "valid_to": null}
@@ -3720,8 +3723,8 @@
 {"category": "G", "etf": "Y", "name": "Direxion Daily NVDA Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "NVDU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NVE Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NVEC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Nova Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NVMI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Nvni Group Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NVNI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Nvni Group Limited - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NVNIW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Nvni Group Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NVNI", "valid_from": "2026-07-28", "valid_to": "2026-10-09"}
+{"category": "S", "etf": "N", "name": "Nvni Group Limited - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NVNIW", "valid_from": "2026-07-28", "valid_to": "2026-10-09"}
 {"category": "S", "etf": "N", "name": "enVVeno Medical Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NVNO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "PurePlay Nvidia Ecosystem Picks & Shovels Index ETF", "provable_from": false, "test_issue": "N", "ticker": "NVPS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Navitas Semiconductor Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NVTS", "valid_from": "2026-07-28", "valid_to": null}
@@ -4556,6 +4559,7 @@
 {"category": "G", "etf": "N", "name": "Renatus Tactical Acquisition Corp I - Warrant", "provable_from": false, "test_issue": "N", "ticker": "RTACW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "RTB Digital, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RTB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "VanEck Retail ETF", "provable_from": false, "test_issue": "N", "ticker": "RTH", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Retension Pharmaceuticals, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "RTSN", "valid_from": "2026-10-09", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long RTX Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "RTXG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost RIOT ETF", "provable_from": false, "test_issue": "N", "ticker": "RTYY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Rubico Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RUBI", "valid_from": "2026-07-28", "valid_to": null}
@@ -5251,6 +5255,7 @@
 {"category": "G", "etf": "Y", "name": "VanEck Utilities TruSector ETF", "provable_from": false, "test_issue": "N", "ticker": "TRUU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "trivago N.V. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "TRVG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Trevi Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TRVI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "TRex Bio, Inc. - Common stock", "provable_from": true, "test_issue": "N", "ticker": "TRXB", "valid_from": "2026-10-09", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares", "provable_from": false, "test_issue": "N", "ticker": "TSAT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Timberland Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TSBK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "TimesSquare Quality Mid Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "TSCM", "valid_from": "2026-07-28", "valid_to": null}

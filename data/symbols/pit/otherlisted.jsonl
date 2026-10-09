@@ -4448,7 +4448,8 @@
 {"etf": "N", "exchange": "N", "name": "Miami International Holdings, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MIAX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi MU 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "MIC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "The Magnum Ice Cream Company N.V. Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MICC", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "American Century Mid Cap Growth Impact ETF", "provable_from": false, "test_issue": "N", "ticker": "MID", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "American Century Mid Cap Growth Impact ETF", "provable_from": false, "test_issue": "N", "ticker": "MID", "valid_from": "2026-07-28", "valid_to": "2026-10-09"}
+{"etf": "Y", "exchange": "P", "name": "American Century Mid Cap Growth Insights ETF", "provable_from": true, "test_issue": "N", "ticker": "MID", "valid_from": "2026-10-09", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers S&P MidCap 400 Scored & Screened ETF", "provable_from": false, "test_issue": "N", "ticker": "MIDE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Mid Cap Bull 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "MIDU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "VanEck Moody's Analytics IG Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MIG", "valid_from": "2026-07-28", "valid_to": null}
@@ -5122,6 +5123,7 @@
 {"etf": "N", "exchange": "A", "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)", "provable_from": false, "test_issue": "N", "ticker": "OPP$C", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree European Opportunities Fund", "provable_from": false, "test_issue": "N", "ticker": "OPPE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree GeoAlpha Opportunities Fund", "provable_from": true, "test_issue": "N", "ticker": "OPPG", "valid_from": "2026-08-03", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Tuttle Capital Photonics Income Blast ETF", "provable_from": true, "test_issue": "N", "ticker": "OPTO", "valid_from": "2026-10-09", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Ocean Power Technologies, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "OPTT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Optimum Communications, Inc. Class A common stock", "provable_from": false, "test_issue": "N", "ticker": "OPTU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Oppenheimer Holdings, Inc. Class A Common Stock (DE)", "provable_from": false, "test_issue": "N", "ticker": "OPY", "valid_from": "2026-07-28", "valid_to": null}
@@ -7302,6 +7304,7 @@
 {"etf": "N", "exchange": "N", "name": "Versigent PLC Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "VGNT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Silvant Growth Opportunities ETF", "provable_from": false, "test_issue": "N", "ticker": "VGRO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Information Tech ETF", "provable_from": false, "test_issue": "N", "ticker": "VGT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "XFUNDS Technology Income ETF", "provable_from": true, "test_issue": "N", "ticker": "VGTX", "valid_from": "2026-10-09", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Government Securities Active ETF", "provable_from": false, "test_issue": "N", "ticker": "VGVT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Vista Gold Corp Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VGZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Valhi, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VHI", "valid_from": "2026-07-28", "valid_to": null}
@@ -7782,7 +7785,9 @@
 {"etf": "Y", "exchange": "P", "name": "Amplify Top 10 Space ETF", "provable_from": true, "test_issue": "N", "ticker": "XWNG", "valid_from": "2026-08-19", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill S&P 500 Target 10,000 2030 ETF", "provable_from": true, "test_issue": "N", "ticker": "XX", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Twenty One Capital, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "XXI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Subversive Growth 100 Redacted ETF", "provable_from": true, "test_issue": "N", "ticker": "XXQQ", "valid_from": "2026-10-09", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Teucrium 2x Long Daily XRP ETF", "provable_from": false, "test_issue": "N", "ticker": "XXRP", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Subversive S&P 500 Redacted ETF", "provable_from": true, "test_issue": "N", "ticker": "XXSP", "valid_from": "2026-10-09", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify Ancorato Target 25 Distribution ETF", "provable_from": false, "test_issue": "N", "ticker": "XXV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "X Financial American Depositary Shares, each representing six Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "XYF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Xylem Inc. Common Stock New", "provable_from": false, "test_issue": "N", "ticker": "XYL", "valid_from": "2026-07-28", "valid_to": null}
