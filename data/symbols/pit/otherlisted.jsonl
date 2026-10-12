@@ -65,6 +65,7 @@
 {"etf": "Y", "exchange": "N", "name": "TCW AAA CLO ETF", "provable_from": false, "test_issue": "N", "ticker": "ACLO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ACLS 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ACLZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "AECOM Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "American Century Mid Cap Growth Insights ETF", "provable_from": true, "test_issue": "N", "ticker": "ACMG", "valid_from": "2026-10-12", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ACMR 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ACMM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Accenture plc Class A Ordinary Shares (Ireland)", "provable_from": false, "test_issue": "N", "ticker": "ACN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Harbor Active Commodity ETF", "provable_from": false, "test_issue": "N", "ticker": "ACOM", "valid_from": "2026-07-28", "valid_to": null}
@@ -4449,7 +4450,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi MU 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "MIC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "The Magnum Ice Cream Company N.V. Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MICC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "American Century Mid Cap Growth Impact ETF", "provable_from": false, "test_issue": "N", "ticker": "MID", "valid_from": "2026-07-28", "valid_to": "2026-10-09"}
-{"etf": "Y", "exchange": "P", "name": "American Century Mid Cap Growth Insights ETF", "provable_from": true, "test_issue": "N", "ticker": "MID", "valid_from": "2026-10-09", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "American Century Mid Cap Growth Insights ETF", "provable_from": true, "test_issue": "N", "ticker": "MID", "valid_from": "2026-10-09", "valid_to": "2026-10-12"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers S&P MidCap 400 Scored & Screened ETF", "provable_from": false, "test_issue": "N", "ticker": "MIDE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Mid Cap Bull 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "MIDU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "VanEck Moody's Analytics IG Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MIG", "valid_from": "2026-07-28", "valid_to": null}
