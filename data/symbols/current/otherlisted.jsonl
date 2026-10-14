@@ -811,7 +811,6 @@
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon High Yield ETF", "test_issue": "N", "ticker": "BKHY"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon International Equity ETF", "test_issue": "N", "ticker": "BKIE"}
 {"etf": "N", "exchange": "N", "name": "Bakkt, Inc. Class A Common Stock", "test_issue": "N", "ticker": "BKKT"}
-{"etf": "N", "exchange": "N", "name": "Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share", "test_issue": "N", "ticker": "BKKT.W"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon US Large Cap Core Equity ETF", "test_issue": "N", "ticker": "BKLC"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon US Large Cap Equity Growth ETF", "test_issue": "N", "ticker": "BKLG"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Senior Loan ETF", "test_issue": "N", "ticker": "BKLN"}
@@ -953,6 +952,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Brandes U.S. Small-Mid Cap Value ETF", "test_issue": "N", "ticker": "BSMC"}
 {"etf": "Y", "exchange": "P", "name": "Bitwise Solana Staking ETF", "test_issue": "N", "ticker": "BSOL"}
 {"etf": "Y", "exchange": "P", "name": "Beacon Unified Catalyst ETF", "test_issue": "N", "ticker": "BSR"}
+{"etf": "N", "exchange": "N", "name": "BSR Real Estate Investment Trust Units", "test_issue": "N", "ticker": "BSRT"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Science and Technology Trust Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "BST"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Buffer Step-Up Strategy ETF", "test_issue": "N", "ticker": "BSTP"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "BSTZ"}
@@ -1130,7 +1130,6 @@
 {"etf": "N", "exchange": "N", "name": "Crown Holdings, Inc.", "test_issue": "N", "ticker": "CCK"}
 {"etf": "N", "exchange": "N", "name": "Carnival Corporation Ltd. Common Shares", "test_issue": "N", "ticker": "CCL"}
 {"etf": "N", "exchange": "N", "name": "Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)", "test_issue": "N", "ticker": "CCM"}
-{"etf": "N", "exchange": "N", "name": "Clear Channel Outdoor Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "CCO"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Chinese Commodities Strategy No K-1 ETF", "test_issue": "N", "ticker": "CCOM"}
 {"etf": "Y", "exchange": "P", "name": "Core Alternative ETF", "test_issue": "N", "ticker": "CCOR"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi China 2x Daily ETF", "test_issue": "N", "ticker": "CCPX"}
@@ -3250,7 +3249,6 @@
 {"etf": "Y", "exchange": "P", "name": "Xtrackers High Beta High Yield Bond ETF", "test_issue": "N", "ticker": "HYUP"}
 {"etf": "N", "exchange": "N", "name": "MarineMax, Inc.  (FL) Common Stock", "test_issue": "N", "ticker": "HZO"}
 {"etf": "Y", "exchange": "Z", "name": "GraniteShares US 100 Autocallable Income ETF", "test_issue": "N", "ticker": "IACL"}
-{"etf": "N", "exchange": "N", "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "IAE"}
 {"etf": "N", "exchange": "A", "name": "abrdn Australia Equity Fund, Inc. Common Stock", "test_issue": "N", "ticker": "IAF"}
 {"etf": "N", "exchange": "N", "name": "Iamgold Corporation Ordinary Shares", "test_issue": "N", "ticker": "IAG"}
 {"etf": "Y", "exchange": "Z", "name": "iShares International Aggregate Bond Fund", "test_issue": "N", "ticker": "IAGG"}
@@ -3391,7 +3389,6 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares Expanded Tech-Software Sector ETF", "test_issue": "N", "ticker": "IGV"}
 {"etf": "N", "exchange": "N", "name": "iHuman Inc. American depositary shares, each representing five Class A ordinary shares", "test_issue": "N", "ticker": "IH"}
 {"etf": "Y", "exchange": "P", "name": "iShares Cybersecurity and Tech ETF", "test_issue": "N", "ticker": "IHAK"}
-{"etf": "N", "exchange": "N", "name": "Voya Emerging Markets High Income Dividend Equity Fund Common Shares", "test_issue": "N", "ticker": "IHD"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree International Hedged Quality Dividend Growth Fund", "test_issue": "N", "ticker": "IHDG"}
 {"etf": "Y", "exchange": "P", "name": "iShares U.S. Pharmaceutical ETF", "test_issue": "N", "ticker": "IHE"}
 {"etf": "Y", "exchange": "P", "name": "iShares U.S. Health Care Providers ETF", "test_issue": "N", "ticker": "IHF"}
@@ -3974,7 +3971,7 @@
 {"etf": "N", "exchange": "N", "name": "CS Disco, Inc. Common Stock", "test_issue": "N", "ticker": "LAW"}
 {"etf": "N", "exchange": "N", "name": "Lazard, Inc. Common Stock", "test_issue": "N", "ticker": "LAZ"}
 {"etf": "Y", "exchange": "P", "name": "Tema Photonics & Optical ETF", "test_issue": "N", "ticker": "LAZR"}
-{"etf": "N", "exchange": "N", "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests", "test_issue": "N", "ticker": "LB"}
+{"etf": "N", "exchange": "N", "name": "LandBridge Corporation Class A Common Stock", "test_issue": "N", "ticker": "LB"}
 {"etf": "Y", "exchange": "P", "name": "Leatherback Long/Short Alternative Yield ETF", "test_issue": "N", "ticker": "LBAY"}
 {"etf": "Y", "exchange": "Z", "name": "WHITEWOLF Publicly Listed Private Equity ETF", "test_issue": "N", "ticker": "LBO"}
 {"etf": "Y", "exchange": "Z", "name": "GraniteShares Short Term Box ETF", "test_issue": "N", "ticker": "LBOX"}
@@ -4829,7 +4826,6 @@
 {"etf": "N", "exchange": "N", "name": "Northwest Natural Holding Company Common Stock", "test_issue": "N", "ticker": "NWN"}
 {"etf": "N", "exchange": "N", "name": "Quanex Building Products Corporation Common Stock", "test_issue": "N", "ticker": "NX"}
 {"etf": "N", "exchange": "A", "name": "NextBoat Inc. Common Stcok", "test_issue": "N", "ticker": "NXB"}
-{"etf": "N", "exchange": "N", "name": "Nextdoor Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "NXDR"}
 {"etf": "N", "exchange": "N", "name": "NexPoint Diversified Real Estate Trust Common Stock", "test_issue": "N", "ticker": "NXDT"}
 {"etf": "N", "exchange": "N", "name": "NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share)", "test_issue": "N", "ticker": "NXDT$A"}
 {"etf": "N", "exchange": "N", "name": "Nexgen Energy Ltd. Common Shares", "test_issue": "N", "ticker": "NXE"}
@@ -5310,7 +5306,6 @@
 {"etf": "N", "exchange": "N", "name": "Primerica, Inc. Common Stock", "test_issue": "N", "ticker": "PRI"}
 {"etf": "N", "exchange": "N", "name": "Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029", "test_issue": "N", "ticker": "PRIF$D"}
 {"etf": "N", "exchange": "N", "name": "Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock", "test_issue": "N", "ticker": "PRIF$K"}
-{"etf": "N", "exchange": "N", "name": "Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029", "test_issue": "N", "ticker": "PRIF$L"}
 {"etf": "N", "exchange": "N", "name": "Primoris Services Corporation Common Stock", "test_issue": "N", "ticker": "PRIM"}
 {"etf": "Y", "exchange": "P", "name": "State Street IG Public & Private Credit ETF", "test_issue": "N", "ticker": "PRIV"}
 {"etf": "Y", "exchange": "P", "name": "Zacks Preferred Income ETF", "test_issue": "N", "ticker": "PRIZ"}
@@ -6087,7 +6082,7 @@
 {"etf": "N", "exchange": "N", "name": "Tanger Inc. Common Stock", "test_issue": "N", "ticker": "SKT"}
 {"etf": "N", "exchange": "N", "name": "Champion Homes, Inc. Common Stock", "test_issue": "N", "ticker": "SKY"}
 {"etf": "N", "exchange": "N", "name": "Skydance Corporation Class B Common Stock", "test_issue": "N", "ticker": "SKYD"}
-{"etf": "N", "exchange": "N", "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued", "test_issue": "N", "ticker": "SKYD.V"}
+{"etf": "N", "exchange": "N", "name": "Skydance Corporation Warrants to Purchase Class B Common Stock", "test_issue": "N", "ticker": "SKYD.W"}
 {"etf": "N", "exchange": "N", "name": "Sky Harbour Group Corporation Class A Common Stock", "test_issue": "N", "ticker": "SKYH"}
 {"etf": "N", "exchange": "N", "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "SKYH.W"}
 {"etf": "N", "exchange": "N", "name": "SLB Limited Common Shares", "test_issue": "N", "ticker": "SLB"}
@@ -7412,6 +7407,7 @@
 {"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Communication Services (XLC) ETNs", "test_issue": "N", "ticker": "XLCU"}
 {"etf": "Y", "exchange": "P", "name": "State Street Energy Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLE"}
 {"etf": "Y", "exchange": "P", "name": "State Street Energy Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLEI"}
+{"etf": "Y", "exchange": "P", "name": "State Street S&P 500 Energy Market Sector SPDR ETF", "test_issue": "N", "ticker": "XLEM"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Energy 2x Daily ETF", "test_issue": "N", "ticker": "XLEX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Financial Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLF"}
 {"etf": "Y", "exchange": "P", "name": "State Street Financial Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLFI"}
@@ -7422,9 +7418,11 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Industrials 2x Daily ETF", "test_issue": "N", "ticker": "XLIX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Technology Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLK"}
 {"etf": "Y", "exchange": "P", "name": "State Street Technology Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLKI"}
+{"etf": "Y", "exchange": "P", "name": "State Street S&P 500 Technology Market Sector SPDR ETF", "test_issue": "N", "ticker": "XLKM"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Technology 2x Daily ETF", "test_issue": "N", "ticker": "XLKX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Consumer Staples Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLP"}
 {"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short Consumer Staples (XLP) ETNs", "test_issue": "N", "ticker": "XLPD"}
+{"etf": "Y", "exchange": "P", "name": "State Street S&P 500 Consumer Staples Market Sector SPDR ETF", "test_issue": "N", "ticker": "XLPM"}
 {"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Consumer Staples (XLP) ETNs", "test_issue": "N", "ticker": "XLPU"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Consumer Staples 2x Daily ETF", "test_issue": "N", "ticker": "XLPX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Real Estate Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLRE"}
@@ -7439,6 +7437,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Healthcare 2x Daily ETF", "test_issue": "N", "ticker": "XLVX"}
 {"etf": "Y", "exchange": "P", "name": "State Street Consumer Discretionary Select Sector SPDR ETF", "test_issue": "N", "ticker": "XLY"}
 {"etf": "Y", "exchange": "P", "name": "State Street Consumer Discretionary Select Sector SPDR Premium Income ETF", "test_issue": "N", "ticker": "XLYI"}
+{"etf": "Y", "exchange": "P", "name": "State Street S&P 500 Consumer Discretionary Market Sector SPDR ETF", "test_issue": "N", "ticker": "XLYM"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Consumer Discretionary 2x Daily ETF", "test_issue": "N", "ticker": "XLYX"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March", "test_issue": "N", "ticker": "XMAR"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May", "test_issue": "N", "ticker": "XMAY"}

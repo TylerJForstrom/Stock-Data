@@ -63,6 +63,7 @@
 {"category": "Q", "etf": "N", "name": "Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G", "test_issue": "N", "ticker": "ACGLN"}
 {"category": "Q", "etf": "N", "name": "Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F", "test_issue": "N", "ticker": "ACGLO"}
 {"category": "Q", "etf": "N", "name": "Acadia Healthcare Company, Inc. - Common Stock", "test_issue": "N", "ticker": "ACHC"}
+{"category": "G", "etf": "Y", "name": "Global X Asia Semiconductor ETF", "test_issue": "N", "ticker": "ACHP"}
 {"category": "S", "etf": "N", "name": "Achieve Life Sciences, Inc.  - Common Shares", "test_issue": "N", "ticker": "ACHV"}
 {"category": "S", "etf": "N", "name": "American Coastal Insurance Corporation - Common Stock", "test_issue": "N", "ticker": "ACIC"}
 {"category": "G", "etf": "N", "name": "AC Immune SA - Common Stock", "test_issue": "N", "ticker": "ACIU"}
@@ -1382,6 +1383,7 @@
 {"category": "S", "etf": "N", "name": "DeFi Development Corp. - Common Stock", "test_issue": "N", "ticker": "DFDV"}
 {"category": "S", "etf": "N", "name": "DeFi Development Corp. - Warrant", "test_issue": "N", "ticker": "DFDVW"}
 {"category": "G", "etf": "Y", "name": "Dimensional Global Core Plus Fixed Income ETF", "test_issue": "N", "ticker": "DFGP"}
+{"category": "G", "etf": "Y", "name": "DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares", "test_issue": "N", "ticker": "DFGV"}
 {"category": "G", "etf": "Y", "name": "Dimensional International Core Fixed Income ETF", "test_issue": "N", "ticker": "DFGX"}
 {"category": "S", "etf": "N", "name": "Dragonfly Energy Holdings Corp - Common Stock", "test_issue": "N", "ticker": "DFLI"}
 {"category": "S", "etf": "N", "name": "Dragonfly Energy Holdings Corp - Warrant", "test_issue": "N", "ticker": "DFLIW"}
@@ -1601,7 +1603,6 @@
 {"category": "G", "etf": "N", "name": "Emmis Acquisition Corp. - Rights", "test_issue": "N", "ticker": "EMISR"}
 {"category": "G", "etf": "N", "name": "Eastern Company (The) - Common Stock", "test_issue": "N", "ticker": "EML"}
 {"category": "Q", "etf": "N", "name": "Empery Digital Inc. - Common stock", "test_issue": "N", "ticker": "EMPD"}
-{"category": "G", "etf": "Y", "name": "Sophus Capital Emerging Market Small Cap ETF", "test_issue": "N", "ticker": "EMSC"}
 {"category": "G", "etf": "Y", "name": "iShares MSCI Emerging Markets ex China ETF", "test_issue": "N", "ticker": "EMXC"}
 {"category": "G", "etf": "Y", "name": "iShares ESG Advanced MSCI EM ETF", "test_issue": "N", "ticker": "EMXF"}
 {"category": "G", "etf": "Y", "name": "Cambria Endowment Style ETF", "test_issue": "N", "ticker": "ENDW"}
@@ -1859,6 +1860,7 @@
 {"category": "S", "etf": "N", "name": "Filana Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "FLNA"}
 {"category": "Q", "etf": "N", "name": "Fluence Energy, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "FLNC"}
 {"category": "S", "etf": "N", "name": "Fluent, Inc. - Common Stock", "test_issue": "N", "ticker": "FLNT"}
+{"category": "S", "etf": "N", "name": "Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares", "test_issue": "N", "ticker": "FLSC"}
 {"category": "S", "etf": "N", "name": "Flux Power Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "FLUX"}
 {"category": "Q", "etf": "N", "name": "1-800-FLOWERS.COM, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "FLWS"}
 {"category": "Q", "etf": "N", "name": "BingEx Limited - American Depositary Shares", "test_issue": "N", "ticker": "FLX"}
@@ -3153,6 +3155,7 @@
 {"category": "S", "etf": "N", "name": "Megan Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "MGN"}
 {"category": "Q", "etf": "N", "name": "Magnite, Inc. - Common Stock", "test_issue": "N", "ticker": "MGNI"}
 {"category": "Q", "etf": "N", "name": "MacroGenics, Inc. - Common Stock", "test_issue": "N", "ticker": "MGNX"}
+{"category": "G", "etf": "Y", "name": "Leverage Shares MANGOS ETF", "test_issue": "N", "ticker": "MGOL"}
 {"category": "Q", "etf": "N", "name": "MGP Ingredients, Inc. - Common Stock", "test_issue": "N", "ticker": "MGPI"}
 {"category": "Q", "etf": "N", "name": "McGrath RentCorp - Common Stock", "test_issue": "N", "ticker": "MGRC"}
 {"category": "S", "etf": "N", "name": "Mega Fortune Company Limited - Ordinary Shares", "test_issue": "N", "ticker": "MGRT"}
@@ -3564,6 +3567,7 @@
 {"category": "S", "etf": "N", "name": "Newton Golf Company, Inc. - Common Stock", "test_issue": "N", "ticker": "NWTG"}
 {"category": "S", "etf": "N", "name": "Nexus Advanced Technologies Inc. - Ordinary Shares", "test_issue": "N", "ticker": "NXAT"}
 {"category": "S", "etf": "N", "name": "Nexus Advanced Technologies Inc. - Warrant", "test_issue": "N", "ticker": "NXATW"}
+{"category": "S", "etf": "N", "name": "Nextdoor Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "NXDR"}
 {"category": "S", "etf": "N", "name": "NexGel, Inc - Common Stock", "test_issue": "N", "ticker": "NXGL"}
 {"category": "S", "etf": "N", "name": "NexGel, Inc - Warrant", "test_issue": "N", "ticker": "NXGLW"}
 {"category": "Q", "etf": "N", "name": "Neighborhood Intelligence, Inc.  - Common Stock", "test_issue": "N", "ticker": "NXH"}
@@ -3849,6 +3853,7 @@
 {"category": "Q", "etf": "N", "name": "PepsiCo, Inc. - Common Stock", "test_issue": "N", "ticker": "PEP"}
 {"category": "Q", "etf": "N", "name": "PepGen Inc. - Common Stock", "test_issue": "N", "ticker": "PEPG"}
 {"category": "G", "etf": "Y", "name": "Parametric Equity Plus ETF", "test_issue": "N", "ticker": "PEPS"}
+{"category": "G", "etf": "Y", "name": "REX Peptide ETF", "test_issue": "N", "ticker": "PEPT"}
 {"category": "Q", "etf": "N", "name": "Perion Network Ltd - Ordinary Shares", "test_issue": "N", "ticker": "PERI"}
 {"category": "S", "etf": "N", "name": "Perma-Fix Environmental Services, Inc. - Common Stock", "test_issue": "N", "ticker": "PESI"}
 {"category": "Q", "etf": "N", "name": "PetMed Express, Inc. - Common Stock", "test_issue": "N", "ticker": "PETS"}
@@ -4092,9 +4097,6 @@
 {"category": "G", "etf": "N", "name": "QCR Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "QCRH"}
 {"category": "Q", "etf": "N", "name": "QuidelOrtho Corporation - Common Stock", "test_issue": "N", "ticker": "QDEL"}
 {"category": "G", "etf": "Y", "name": "YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF", "test_issue": "N", "ticker": "QDTY"}
-{"category": "S", "etf": "N", "name": "Quetta Acquisition Corporation - Common Stock", "test_issue": "N", "ticker": "QETA"}
-{"category": "S", "etf": "N", "name": "Quetta Acquisition Corporation - Right", "test_issue": "N", "ticker": "QETAR"}
-{"category": "S", "etf": "N", "name": "Quetta Acquisition Corporation - Unit", "test_issue": "N", "ticker": "QETAU"}
 {"category": "G", "etf": "Y", "name": "Invesco QQQ Equal Weight ETF", "test_issue": "N", "ticker": "QEW"}
 {"category": "G", "etf": "Y", "name": "Qualivian Focus Fund ETF", "test_issue": "N", "ticker": "QFF"}
 {"category": "Q", "etf": "N", "name": "Qfin Holdings, Inc.  - American Depositary Shares", "test_issue": "N", "ticker": "QFIN"}
@@ -4356,6 +4358,7 @@
 {"category": "G", "etf": "N", "name": "Renatus Tactical Acquisition Corp I - Warrant", "test_issue": "N", "ticker": "RTACW"}
 {"category": "S", "etf": "N", "name": "RTB Digital, Inc. - Common Stock", "test_issue": "N", "ticker": "RTB"}
 {"category": "G", "etf": "Y", "name": "VanEck Retail ETF", "test_issue": "N", "ticker": "RTH"}
+{"category": "G", "etf": "Y", "name": "F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF", "test_issue": "N", "ticker": "RTHY"}
 {"category": "S", "etf": "N", "name": "Retension Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "RTSN"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long RTX Daily ETF", "test_issue": "N", "ticker": "RTXG"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost RIOT ETF", "test_issue": "N", "ticker": "RTYY"}
