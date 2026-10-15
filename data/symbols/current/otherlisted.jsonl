@@ -418,7 +418,6 @@
 {"etf": "Y", "exchange": "P", "name": "Global X FTSE Southeast Asia ETF", "test_issue": "N", "ticker": "ASEA"}
 {"etf": "N", "exchange": "N", "name": "Liberty All-Star Growth Fund, Inc.", "test_issue": "N", "ticker": "ASG"}
 {"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ASGI"}
-{"etf": "N", "exchange": "N", "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights", "test_issue": "N", "ticker": "ASGI.R"}
 {"etf": "Y", "exchange": "P", "name": "Virtus AlphaSimplex Global Macro ETF", "test_issue": "N", "ticker": "ASGM"}
 {"etf": "N", "exchange": "N", "name": "Ashland Inc. Common Stock", "test_issue": "N", "ticker": "ASH"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Harvest CSI 300 China A-Shares ETF", "test_issue": "N", "ticker": "ASHR"}
@@ -517,6 +516,7 @@
 {"etf": "Y", "exchange": "P", "name": "Avantis Responsible U.S. Equity ETF", "test_issue": "N", "ticker": "AVSU"}
 {"etf": "Y", "exchange": "P", "name": "Avantis Total Equity Markets ETF", "test_issue": "N", "ticker": "AVTM"}
 {"etf": "N", "exchange": "N", "name": "Avantor, Inc. Common Stock", "test_issue": "N", "ticker": "AVTR"}
+{"etf": "Y", "exchange": "P", "name": "Avantis U.S. Core Equity ETF", "test_issue": "N", "ticker": "AVUC"}
 {"etf": "Y", "exchange": "P", "name": "Avantis U.S. Equity ETF", "test_issue": "N", "ticker": "AVUS"}
 {"etf": "Y", "exchange": "P", "name": "Avantis U.S. Small Cap Value ETF", "test_issue": "N", "ticker": "AVUV"}
 {"etf": "N", "exchange": "N", "name": "Avery Dennison Corporation Common Stock", "test_issue": "N", "ticker": "AVY"}
@@ -1025,7 +1025,6 @@
 {"etf": "N", "exchange": "N", "name": "Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share", "test_issue": "N", "ticker": "BWIV.W"}
 {"etf": "N", "exchange": "N", "name": "BW LPG Limited Common Shares", "test_issue": "N", "ticker": "BWLP"}
 {"etf": "N", "exchange": "N", "name": "Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares", "test_issue": "N", "ticker": "BWMX"}
-{"etf": "Y", "exchange": "P", "name": "Bitwise Dogecoin ETF", "test_issue": "N", "ticker": "BWOW"}
 {"etf": "Y", "exchange": "Z", "name": "BWM Quality Growth ETF", "test_issue": "N", "ticker": "BWQG"}
 {"etf": "Y", "exchange": "Z", "name": "Brendan Wood TopGun Index ETF", "test_issue": "N", "ticker": "BWTG"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Bloomberg International Treasury Bond ETF", "test_issue": "N", "ticker": "BWX"}
@@ -2710,6 +2709,7 @@
 {"etf": "N", "exchange": "N", "name": "General American Investors, Inc. Common Stock", "test_issue": "N", "ticker": "GAM"}
 {"etf": "N", "exchange": "N", "name": "General American Investors Company, Inc. Cumulative Preferred Stock", "test_issue": "N", "ticker": "GAM$B"}
 {"etf": "Y", "exchange": "P", "name": "Amplify Video Game Leaders ETF", "test_issue": "N", "ticker": "GAMR"}
+{"etf": "Y", "exchange": "Z", "name": "Tuttle Capital Thematic ETF", "test_issue": "N", "ticker": "GANZ"}
 {"etf": "N", "exchange": "N", "name": "Gap, Inc. (The) Common Stock", "test_issue": "N", "ticker": "GAP"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - April", "test_issue": "N", "ticker": "GAPR"}
 {"etf": "Y", "exchange": "P", "name": "Guinness Atkinson Real Assets Income ETF", "test_issue": "N", "ticker": "GARA"}
@@ -3232,7 +3232,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Amplify HYG High Yield 10% Target Income ETF", "test_issue": "N", "ticker": "HYGM"}
 {"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs", "test_issue": "N", "ticker": "HYGU"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust High Yield Value-Scored Bond ETF", "test_issue": "N", "ticker": "HYGV"}
-{"etf": "Y", "exchange": "Z", "name": "iShares High Yield Corporate Bond BuyWrite Strategy ETF", "test_issue": "N", "ticker": "HYGW"}
+{"etf": "Y", "exchange": "Z", "name": "iShares HYG Premium Income+ ETF", "test_issue": "N", "ticker": "HYGW"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares High Yield Interest Rate Hedged", "test_issue": "N", "ticker": "HYHG"}
 {"etf": "N", "exchange": "N", "name": "Western Asset High Yield Opportunity Fund Inc. Common Stock", "test_issue": "N", "ticker": "HYI"}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree Private Credit and Alternative Income Fund", "test_issue": "N", "ticker": "HYIN"}
@@ -3570,7 +3570,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares Core S&P 500 ETF", "test_issue": "N", "ticker": "IVV"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Large Cap Deep Quarterly Laddered ETF", "test_issue": "N", "ticker": "IVVB"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Large Cap Moderate Quarterly Laddered ETF", "test_issue": "N", "ticker": "IVVM"}
-{"etf": "Y", "exchange": "Z", "name": "iShares S&P 500 BuyWrite ETF", "test_issue": "N", "ticker": "IVVW"}
+{"etf": "Y", "exchange": "Z", "name": "iShares IVV Premium Income+ ETF", "test_issue": "N", "ticker": "IVVW"}
 {"etf": "Y", "exchange": "P", "name": "iShares S&P 500 Growth ETF", "test_issue": "N", "ticker": "IVW"}
 {"etf": "N", "exchange": "N", "name": "Invesco Ltd Common Stock", "test_issue": "N", "ticker": "IVZ"}
 {"etf": "Y", "exchange": "P", "name": "iShares Russell 1000 ETF", "test_issue": "N", "ticker": "IWB"}
@@ -3582,7 +3582,7 @@
 {"etf": "Y", "exchange": "P", "name": "NYLIM Winslow Large Cap Growth ETF", "test_issue": "N", "ticker": "IWLG"}
 {"etf": "Y", "exchange": "P", "name": "iShares Russell 2000 Index Fund", "test_issue": "N", "ticker": "IWM"}
 {"etf": "Y", "exchange": "Z", "name": "NEOS Russell 2000 High Income ETF", "test_issue": "N", "ticker": "IWMI"}
-{"etf": "Y", "exchange": "Z", "name": "iShares Russell 2000 BuyWrite ETF", "test_issue": "N", "ticker": "IWMW"}
+{"etf": "Y", "exchange": "Z", "name": "iShares IWM Premium Income+ ETF", "test_issue": "N", "ticker": "IWMW"}
 {"etf": "Y", "exchange": "P", "name": "Defiance R2000 Weekly Distribution ETF", "test_issue": "N", "ticker": "IWMY"}
 {"etf": "Y", "exchange": "P", "name": "iShares Russell 2000 Value ETF", "test_issue": "N", "ticker": "IWN"}
 {"etf": "Y", "exchange": "P", "name": "iShares Russell 2000 Growth Fund", "test_issue": "N", "ticker": "IWO"}
@@ -4093,7 +4093,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares Inflation Hedged Corporate Bond ETF", "test_issue": "N", "ticker": "LQDI"}
 {"etf": "Y", "exchange": "Z", "name": "Amplify LQD Investment Grade 12% Target Income ETF", "test_issue": "N", "ticker": "LQDM"}
 {"etf": "Y", "exchange": "Z", "name": "MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs", "test_issue": "N", "ticker": "LQDU"}
-{"etf": "Y", "exchange": "Z", "name": "iShares Investment Grade Corporate Bond BuyWrite Strategy ETF", "test_issue": "N", "ticker": "LQDW"}
+{"etf": "Y", "exchange": "Z", "name": "iShares LQD Premium Income+ ETF", "test_issue": "N", "ticker": "LQDW"}
 {"etf": "Y", "exchange": "Z", "name": "Kurv Enhanced Short Maturity ETF", "test_issue": "N", "ticker": "LQID"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest Investment Grade & Target Income ETF", "test_issue": "N", "ticker": "LQTI"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi LRCX 2x Daily ETF", "test_issue": "N", "ticker": "LRCC"}
@@ -6149,6 +6149,7 @@
 {"etf": "Y", "exchange": "P", "name": "ALPS Nautilus SMR, Nuclear & Technology ETF", "test_issue": "N", "ticker": "SMRF"}
 {"etf": "N", "exchange": "N", "name": "SmartRent, Inc. Class A Common Stock", "test_issue": "N", "ticker": "SMRT"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi SMR 2x Daily ETF", "test_issue": "N", "ticker": "SMRX"}
+{"etf": "Y", "exchange": "Z", "name": "Global X Small Modular Reactor ETF", "test_issue": "N", "ticker": "SMRZ"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long SMTC Daily ETF", "test_issue": "N", "ticker": "SMTG"}
 {"etf": "Y", "exchange": "P", "name": "ALPS Smith Core Plus Bond ETF", "test_issue": "N", "ticker": "SMTH"}
 {"etf": "Y", "exchange": "P", "name": "Synera Funds Takumi+ ETF", "test_issue": "N", "ticker": "SMTJ"}
@@ -6179,7 +6180,6 @@
 {"etf": "Y", "exchange": "P", "name": "MRP SynthEquity ETF", "test_issue": "N", "ticker": "SNTH"}
 {"etf": "Y", "exchange": "Z", "name": "MRP SynthEquity Nasdaq 100 ETF", "test_issue": "N", "ticker": "SNTQ"}
 {"etf": "N", "exchange": "N", "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H", "test_issue": "N", "ticker": "SNUS$H"}
-{"etf": "N", "exchange": "N", "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I", "test_issue": "N", "ticker": "SNUS$I"}
 {"etf": "N", "exchange": "N", "name": "TD SYNNEX Corporation Common Stock", "test_issue": "N", "ticker": "SNX"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SNDK Daily ETF", "test_issue": "N", "ticker": "SNXX"}
 {"etf": "N", "exchange": "N", "name": "Southern Company (The) Common Stock", "test_issue": "N", "ticker": "SO"}
@@ -6618,7 +6618,7 @@
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Morningstar Emerging Markets Factor Tilt ETF", "test_issue": "N", "ticker": "TLTE"}
 {"etf": "Y", "exchange": "Z", "name": "NEOS Enhanced Income 20+ Year Treasury Bond ETF", "test_issue": "N", "ticker": "TLTI"}
 {"etf": "Y", "exchange": "Z", "name": "Amplify TLT U.S. Treasury 12% Option Income ETF", "test_issue": "N", "ticker": "TLTP"}
-{"etf": "Y", "exchange": "Z", "name": "iShares 20+ Year Treasury Bond BuyWrite Strategy ETF", "test_issue": "N", "ticker": "TLTW"}
+{"etf": "Y", "exchange": "Z", "name": "iShares TLT Premium Income+ ETF", "test_issue": "N", "ticker": "TLTW"}
 {"etf": "Y", "exchange": "Z", "name": "Global X Treasury Bond Enhanced Income ETF", "test_issue": "N", "ticker": "TLTX"}
 {"etf": "N", "exchange": "N", "name": "Tilly's, Inc. Common Stock", "test_issue": "N", "ticker": "TLYS"}
 {"etf": "N", "exchange": "N", "name": "Toyota Motor Corporation Common Stock", "test_issue": "N", "ticker": "TM"}
@@ -7197,7 +7197,9 @@
 {"etf": "Y", "exchange": "P", "name": "U.S. Global Technology and Aerospace & Defense ETF", "test_issue": "N", "ticker": "WAR"}
 {"etf": "N", "exchange": "N", "name": "Waters Corporation Common Stock", "test_issue": "N", "ticker": "WAT"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Battery Energy Storage Systems ETF", "test_issue": "N", "ticker": "WATS"}
+{"etf": "Y", "exchange": "P", "name": "William Blair Emerging Markets Equity ETF", "test_issue": "N", "ticker": "WBEM"}
 {"etf": "N", "exchange": "N", "name": "WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests", "test_issue": "N", "ticker": "WBI"}
+{"etf": "Y", "exchange": "P", "name": "William Blair International Equity ETF", "test_issue": "N", "ticker": "WBIE"}
 {"etf": "Y", "exchange": "P", "name": "WBI BullBear Value 3000 ETF", "test_issue": "N", "ticker": "WBIF"}
 {"etf": "Y", "exchange": "P", "name": "WBI BullBear Yield 3000 ETF", "test_issue": "N", "ticker": "WBIG"}
 {"etf": "Y", "exchange": "P", "name": "WBI BullBear Quality 3000 ETF", "test_issue": "N", "ticker": "WBIL"}
