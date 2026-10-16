@@ -2,6 +2,7 @@
 {"etf": "N", "exchange": "N", "name": "Alcoa Corporation Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "AA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Alternative Access First Priority CLO Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "AAA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Amplius Aggressive Asset Allocation ETF", "provable_from": false, "test_issue": "N", "ticker": "AAAA", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE Aaa-A Intermediate Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "AAAB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Columbia AAA CLO ETF", "provable_from": false, "test_issue": "N", "ticker": "AAAC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "PGIM AAA CLO Aggregate Duration ETF", "provable_from": false, "test_issue": "N", "ticker": "AAAD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Goldman Sachs Physical Gold ETF Shares", "provable_from": false, "test_issue": "N", "ticker": "AAAU", "valid_from": "2026-07-28", "valid_to": null}
@@ -113,7 +114,7 @@
 {"etf": "N", "exchange": "N", "name": "Aegon Funding Company LLC 5.10% Subordinated Notes due 2049", "provable_from": false, "test_issue": "N", "ticker": "AEFC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Aegon Ltd. New York Registry Shares", "provable_from": false, "test_issue": "N", "ticker": "AEG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long AEHR Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "AEHG", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Large Cap Value ETF", "provable_from": true, "test_issue": "N", "ticker": "AELV", "valid_from": "2026-08-31", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Large Cap Value ETF", "provable_from": true, "test_issue": "N", "ticker": "AELV", "valid_from": "2026-08-31", "valid_to": "2026-10-16"}
 {"etf": "N", "exchange": "N", "name": "Agnico Eagle Mines Limited Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AEM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Mid Cap Core ETF", "provable_from": true, "test_issue": "N", "ticker": "AEMC", "valid_from": "2026-08-27", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Mid Cap Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "AEMG", "valid_from": "2026-08-27", "valid_to": null}
@@ -150,6 +151,7 @@
 {"etf": "N", "exchange": "N", "name": "AGCO Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AGCO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "AGD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares Core U.S. Aggregate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "AGG", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE U.S. Aggregate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "AGGB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify Aggregate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "AGGH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares 1-10 Year U.S. Aggregate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "AGGM", "valid_from": "2026-09-01", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Harbor Disciplined Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "AGGS", "valid_from": "2026-07-28", "valid_to": null}
@@ -312,6 +314,7 @@
 {"etf": "N", "exchange": "N", "name": "Arista Networks, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ANET", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares MSCI Transformational Changes ETF", "provable_from": false, "test_issue": "N", "ticker": "ANEW", "valid_from": "2026-07-28", "valid_to": "2026-10-13"}
 {"etf": "N", "exchange": "N", "name": "Abercrombie & Fitch Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ANF", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE Fallen Angels Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "ANG", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D", "provable_from": false, "test_issue": "N", "ticker": "ANG$D", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Angel Studios, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ANGX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Alto Neuroscience, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ANRO", "valid_from": "2026-07-28", "valid_to": null}
@@ -616,6 +619,7 @@
 {"etf": "N", "exchange": "N", "name": "BigBear.ai, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share", "provable_from": false, "test_issue": "N", "ticker": "BBAI.W", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Banco BBVA Argentina S.A. ADS", "provable_from": false, "test_issue": "N", "ticker": "BBAR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "JPMorgan BetaBuilders Developed Asia Pacific-ex Japan ETF", "provable_from": false, "test_issue": "N", "ticker": "BBAX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE BBB Rated Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "BBBB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx BBB Rated 5-10 Year Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BBBI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx BBB Rated 10+ Year Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BBBL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx BBB Rated 1-5 Year Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BBBS", "valid_from": "2026-07-28", "valid_to": null}
@@ -2726,6 +2730,7 @@
 {"etf": "Y", "exchange": "P", "name": "Franklin Minnesota Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FTMN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Franklin Short-Term Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FTMS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Franklin Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FTMU", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE 5-10 Year IG Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "FTN", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Franklin New Jersey Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FTNJ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Franklin New York Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FTNY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Franklin Ohio Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "FTOH", "valid_from": "2026-07-28", "valid_to": null}
@@ -2809,6 +2814,7 @@
 {"etf": "N", "exchange": "N", "name": "Greenbrier Companies, Inc. (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GBX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Gabelli Commercial Aerospace and Defense ETF", "provable_from": false, "test_issue": "N", "ticker": "GCAD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Dynamic California Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "GCAL", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE Intermediate Government/Credit Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "GCB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree EnhancedContinuous Commodity Index Fund", "provable_from": false, "test_issue": "N", "ticker": "GCC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Green Circle Decarbonize Technology Limited Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GCDT", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
 {"etf": "N", "exchange": "A", "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "GCDT", "valid_from": "2026-08-13", "valid_to": null}
@@ -3204,6 +3210,7 @@
 {"etf": "Y", "exchange": "P", "name": "Hedgeye Quality Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "HGRO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hagerty, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HGTY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Hilton Grand Vacations Inc. Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "HGV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE High Yield Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "HH", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Howard Hughes Holdings Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HHH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Ai Funds High Conviction US Equity AI-Managed ETF", "provable_from": true, "test_issue": "N", "ticker": "HIAI", "valid_from": "2026-08-21", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily S&P 500 High Beta Bull 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "HIBL", "valid_from": "2026-07-28", "valid_to": null}
@@ -3244,6 +3251,7 @@
 {"etf": "N", "exchange": "N", "name": "HNI Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HNI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "VanEck Bitcoin Trust ", "provable_from": false, "test_issue": "N", "ticker": "HODL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Harley-Davidson, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HOG", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Tuttle - Rareview Humanoid Robotics ETF", "provable_from": true, "test_issue": "N", "ticker": "HOID", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan International Hedged Equity Laddered Overlay ETF", "provable_from": false, "test_issue": "N", "ticker": "HOLA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Harbor Alpha Layering ETF", "provable_from": false, "test_issue": "N", "ticker": "HOLD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Home BancShares, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HOMB", "valid_from": "2026-07-28", "valid_to": null}
@@ -3382,7 +3390,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares iBonds 2031 Term High Yield and Income ETF", "provable_from": false, "test_issue": "N", "ticker": "IBHK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "iShares iBonds 2032 Term High Yield and Income ETF", "provable_from": false, "test_issue": "N", "ticker": "IBHL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "iShares iBonds 2033 Term High Yield and Income ETF", "provable_from": false, "test_issue": "N", "ticker": "IBHM", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2026 Term TIPS ETF", "provable_from": false, "test_issue": "N", "ticker": "IBIC", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2026 Term TIPS ETF", "provable_from": false, "test_issue": "N", "ticker": "IBIC", "valid_from": "2026-07-28", "valid_to": "2026-10-16"}
 {"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2027 Term TIPS ETF", "provable_from": false, "test_issue": "N", "ticker": "IBID", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2028 Term TIPS ETF", "provable_from": false, "test_issue": "N", "ticker": "IBIE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2029 Term TIPS ETF", "provable_from": false, "test_issue": "N", "ticker": "IBIF", "valid_from": "2026-07-28", "valid_to": null}
@@ -3474,6 +3482,7 @@
 {"etf": "N", "exchange": "N", "name": "Intercorp Financial Services Inc. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "IFS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Principal Investment Grade Corporate Active ETF", "provable_from": false, "test_issue": "N", "ticker": "IG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "IGA", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE U.S. IG Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "IGB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares Interest Rate Hedged Long-Term Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "IGBH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "IGC Pharma, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "IGC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "TCW Corporate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "IGCB", "valid_from": "2026-07-28", "valid_to": null}
@@ -4168,6 +4177,7 @@
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2060 Inflation-Protected Longevity Income ETF", "provable_from": false, "test_issue": "N", "ticker": "LIAU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2065 Inflation-Protected Longevity Income ETF", "provable_from": false, "test_issue": "N", "ticker": "LIBD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "LifeX 2028 Income Bucket ETF", "provable_from": false, "test_issue": "N", "ticker": "LIFT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE 10 Year IG Corporate Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "LIGB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Lennox International, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LII", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Themes Lithium & Battery Metal Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "LIMI", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"etf": "N", "exchange": "N", "name": "Lionsgate Studios Corp Common Shares", "provable_from": false, "test_issue": "N", "ticker": "LION", "valid_from": "2026-07-28", "valid_to": null}
@@ -4251,6 +4261,7 @@
 {"etf": "Y", "exchange": "P", "name": "Natixis Loomis Sayles Total Return Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "LSTB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "LSV Disciplined Value ETF", "provable_from": false, "test_issue": "N", "ticker": "LSVD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Nomura Tax-Free USA ETF", "provable_from": false, "test_issue": "N", "ticker": "LTAX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE 20 Year U.S. Treasury Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "LTB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "LTC Properties, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LTC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Life Time Group Holdings, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LTH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Communication Services", "provable_from": false, "test_issue": "N", "ticker": "LTL", "valid_from": "2026-07-28", "valid_to": null}
@@ -4513,6 +4524,7 @@
 {"etf": "Y", "exchange": "P", "name": "NYLIM MacKay California Muni Intermediate ETF", "provable_from": true, "test_issue": "N", "ticker": "MMCA", "valid_from": "2026-08-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares", "provable_from": false, "test_issue": "N", "ticker": "MMD", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"etf": "N", "exchange": "N", "name": "NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares", "provable_from": true, "test_issue": "N", "ticker": "MMD", "valid_from": "2026-08-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi Money Market ETF", "provable_from": true, "test_issue": "N", "ticker": "MMF", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "NYLIM MacKay Muni High Income ETF", "provable_from": true, "test_issue": "N", "ticker": "MMHI", "valid_from": "2026-10-01", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Marcus & Millichap, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MMI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Mid Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "MMID", "valid_from": "2026-07-28", "valid_to": null}
@@ -6629,6 +6641,7 @@
 {"etf": "Y", "exchange": "Z", "name": "-1x Short VIX Futures ETF", "provable_from": false, "test_issue": "N", "ticker": "SVIX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Silvercorp Metals Inc. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "SVM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify Volatility Premium ETF", "provable_from": false, "test_issue": "N", "ticker": "SVOL", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE 7-10 Year U.S. Treasury Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "SVTN", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Savers Value Village, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SVV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "ProShares Short VIX Short Term Futures ETF", "provable_from": false, "test_issue": "N", "ticker": "SVXY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Smurfit WestRock plc Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SW", "valid_from": "2026-07-28", "valid_to": null}
@@ -6882,6 +6895,7 @@
 {"etf": "Y", "exchange": "N", "name": "Tortoise Energy ETF", "provable_from": false, "test_issue": "N", "ticker": "TNGY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Teekay Tankers Ltd.", "provable_from": false, "test_issue": "N", "ticker": "TNK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Travel   Leisure Co. Common  Stock", "provable_from": false, "test_issue": "N", "ticker": "TNL", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE 10-20 Year U.S. Treasury Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "TNTW", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Tortoise Nuclear Renaissance ETF", "provable_from": false, "test_issue": "N", "ticker": "TNUK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF", "provable_from": false, "test_issue": "N", "ticker": "TOAK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Twin Oak Active Opportunities III ETF", "provable_from": false, "test_issue": "N", "ticker": "TOAO", "valid_from": "2026-07-28", "valid_to": null}
@@ -7013,6 +7027,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long TTMI Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "TTMX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "21Shares FTSE Crypto 10 Index ETF", "provable_from": false, "test_issue": "N", "ticker": "TTOP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraPro Short 20 Year Treasury", "provable_from": false, "test_issue": "N", "ticker": "TTT", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE U.S. TIPS Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "TTTT", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Technology Top 5 Bear 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "TTXD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Technology Top 5 Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "TTXU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Telus Corporation Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "TU", "valid_from": "2026-07-28", "valid_to": null}
@@ -7067,6 +7082,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Ultra Buffer ETF - April", "provable_from": false, "test_issue": "N", "ticker": "UAPR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Ultra Buffer ETF - August", "provable_from": false, "test_issue": "N", "ticker": "UAUG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "AgEagle Aerial Systems, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "UAVS", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Corgi FTSE U.S. Treasury Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "UB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Uber Technologies, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "UBER", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill UBER WeeklyPay ETF", "provable_from": false, "test_issue": "N", "ticker": "UBEW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "AAM Ubiquitous ETF", "provable_from": true, "test_issue": "N", "ticker": "UBIQ", "valid_from": "2026-10-06", "valid_to": null}
