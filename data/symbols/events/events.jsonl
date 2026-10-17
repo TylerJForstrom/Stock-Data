@@ -6406,3 +6406,23 @@
 {"date": "2026-10-16", "event": "added", "record": {"etf": "Y", "exchange": "Z", "name": "Corgi FTSE U.S. Treasury Bond ETF", "test_issue": "N", "ticker": "UB"}, "source": "otherlisted"}
 {"date": "2026-10-16", "event": "removed", "record": {"etf": "Y", "exchange": "P", "name": "Harbor AlphaEdge Large Cap Value ETF", "test_issue": "N", "ticker": "AELV"}, "source": "otherlisted"}
 {"date": "2026-10-16", "event": "removed", "record": {"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2026 Term TIPS ETF", "test_issue": "N", "ticker": "IBIC"}, "source": "otherlisted"}
+{"date": "2026-10-17", "event": "added", "record": {"cik": 1339688, "ticker": "LCU", "title": "Lion Copper Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "added", "record": {"cik": 1525306, "ticker": "MEGR", "title": "First America Resources Corp"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "added", "record": {"cik": 1929908, "ticker": "BMMX", "title": "Black Mammoth Metals Corp"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "added", "record": {"cik": 1985554, "ticker": "ADVI", "title": "ALPHA DIGITAL VOLTZ INC."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "added", "record": {"cik": 1999261, "ticker": "TEGO", "title": "TEG OVERSEAS, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "removed", "record": {"cik": 1517389, "ticker": "JFILD", "title": "Jubilant Flame International, Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "removed", "record": {"cik": 1561032, "ticker": "NHPBP", "title": "National Healthcare Properties, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "removed", "record": {"cik": 1604778, "ticker": "QRVO", "title": "Qorvo, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "removed", "record": {"cik": 1793855, "ticker": "ASGI-RI", "title": "abrdn Global Infrastructure Income Fund"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "removed", "record": {"cik": 1840199, "ticker": "WALD", "title": "Waldencast plc"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "removed", "record": {"cik": 1902794, "ticker": "MGOL", "title": "MGO Global Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1809267, "ticker": "DGCOF", "title": "Daura Capital Corp."}, "record": {"cik": 1809267, "ticker": "DGCOF", "title": "Daura Gold Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1948443, "ticker": "ATTT", "title": "Raytech Holding Ltd"}, "record": {"cik": 1948443, "ticker": "ATTT", "title": "Atlas Trinity Tech Co., Ltd."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1985554, "ticker": "LDXC", "title": "Londax Corp."}, "record": {"cik": 1985554, "ticker": "LDXC", "title": "ALPHA DIGITAL VOLTZ INC."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1991261, "ticker": "RNTZ", "title": "SKK Holdings Ltd"}, "record": {"cik": 1991261, "ticker": "RNTZ", "title": "Rantizo"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1991261, "ticker": "SKK", "title": "SKK Holdings Ltd"}, "record": {"cik": 1991261, "ticker": "SKK", "title": "Rantizo"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1998560, "ticker": "AXNX", "title": "Mint Inc Ltd"}, "record": {"cik": 1998560, "ticker": "AXNX", "title": "Axonex AI Group Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1998560, "ticker": "MIMI", "title": "Mint Inc Ltd"}, "record": {"cik": 1998560, "ticker": "MIMI", "title": "Axonex AI Group Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "changed", "previous": {"cik": 1999261, "ticker": "STWI", "title": "StageWise Strategies Corp."}, "record": {"cik": 1999261, "ticker": "STWI", "title": "TEG OVERSEAS, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-10-17", "event": "added", "record": {"category": "G", "etf": "N", "name": "City Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "CTY"}, "source": "nasdaqlisted"}
