@@ -60,6 +60,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Growth ETF", "test_issue": "N", "ticker": "ACIG"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Index Autocallable Income Strategy ETF", "test_issue": "N", "ticker": "ACII"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus Collared Investment Opportunity ETF", "test_issue": "N", "ticker": "ACIO"}
+{"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Value ETF", "test_issue": "N", "ticker": "ACIV"}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Target 15 ACKtivist Distribution ETF", "test_issue": "N", "ticker": "ACKY"}
 {"etf": "Y", "exchange": "P", "name": "American Century Large Cap Equity ETF", "test_issue": "N", "ticker": "ACLC"}
 {"etf": "Y", "exchange": "N", "name": "TCW AAA CLO ETF", "test_issue": "N", "ticker": "ACLO"}
@@ -82,7 +83,6 @@
 {"etf": "Y", "exchange": "P", "name": "FIS Tactical Equity ETF", "test_issue": "N", "ticker": "ACTS"}
 {"etf": "N", "exchange": "A", "name": "Acme United Corporation. Common Stock", "test_issue": "N", "ticker": "ACU"}
 {"etf": "N", "exchange": "N", "name": "Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ACV"}
-{"etf": "N", "exchange": "N", "name": "ACV Auctions Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACVA"}
 {"etf": "Y", "exchange": "P", "name": "American Conservative Values ETF", "test_issue": "N", "ticker": "ACVF"}
 {"etf": "Y", "exchange": "P", "name": "Advent Convertible Bond ETF", "test_issue": "N", "ticker": "ACVT"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture Value ETF", "test_issue": "N", "ticker": "ACVU"}
@@ -192,6 +192,7 @@
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bear 2X ETF", "test_issue": "N", "ticker": "AIBD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Future AI Beneficiaries ETF", "test_issue": "N", "ticker": "AIBF"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bull 2X ETF", "test_issue": "N", "ticker": "AIBU"}
+{"etf": "Y", "exchange": "P", "name": "Defiance LLM Catalyst Momentum ETF", "test_issue": "N", "ticker": "AIED"}
 {"etf": "Y", "exchange": "P", "name": "Amplify AI Powered Equity ETF", "test_issue": "N", "ticker": "AIEQ"}
 {"etf": "N", "exchange": "N", "name": "American International Group, Inc. New Common Stock", "test_issue": "N", "ticker": "AIG"}
 {"etf": "Y", "exchange": "P", "name": "Defiance AI Hyperscale Leaders ETF", "test_issue": "N", "ticker": "AIHY"}
@@ -280,7 +281,6 @@
 {"etf": "Y", "exchange": "P", "name": "Alerian MLP ETF", "test_issue": "N", "ticker": "AMLP"}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Defense Supercycle ETF", "test_issue": "N", "ticker": "AMMO"}
 {"etf": "N", "exchange": "N", "name": "AMN Healthcare Services Inc", "test_issue": "N", "ticker": "AMN"}
-{"etf": "Y", "exchange": "P", "name": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF", "test_issue": "N", "ticker": "AMOM"}
 {"etf": "N", "exchange": "N", "name": "Ameriprise Financial, Inc. Common Stock", "test_issue": "N", "ticker": "AMP"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long AMPX ETF", "test_issue": "N", "ticker": "AMPU"}
 {"etf": "N", "exchange": "N", "name": "Amprius Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "AMPX"}
@@ -292,7 +292,7 @@
 {"etf": "N", "exchange": "A", "name": "American Shared Hospital Services Common Stock", "test_issue": "N", "ticker": "AMS"}
 {"etf": "N", "exchange": "N", "name": "American Tower Corporation (REIT) Common Stock", "test_issue": "N", "ticker": "AMT"}
 {"etf": "N", "exchange": "N", "name": "Amerant Bancorp Inc. Class A Common Stock", "test_issue": "N", "ticker": "AMTB"}
-{"etf": "N", "exchange": "N", "name": "AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares", "test_issue": "N", "ticker": "AMTD"}
+{"etf": "N", "exchange": "N", "name": "AMTD IDEA Group American Depositary Shares, each representing three hundred sixty (360) Class A Ordinary Shares", "test_issue": "N", "ticker": "AMTD"}
 {"etf": "N", "exchange": "N", "name": "Amentum Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "AMTM"}
 {"etf": "N", "exchange": "P", "name": "ETRACS Alerian MLP Index ETN Series B due July 18, 2042", "test_issue": "N", "ticker": "AMUB"}
 {"etf": "N", "exchange": "N", "name": "American Well Corporation Class A Common Stock", "test_issue": "N", "ticker": "AMWL"}
@@ -454,7 +454,6 @@
 {"etf": "N", "exchange": "N", "name": "Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.", "test_issue": "N", "ticker": "ATHM"}
 {"etf": "N", "exchange": "N", "name": "Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064", "test_issue": "N", "ticker": "ATHS"}
 {"etf": "N", "exchange": "N", "name": "ATI Inc. Common Stock", "test_issue": "N", "ticker": "ATI"}
-{"etf": "N", "exchange": "N", "name": "Atkore Inc. Common Stock", "test_issue": "N", "ticker": "ATKR"}
 {"etf": "N", "exchange": "Z", "name": "iPath Select MLP ETN", "test_issue": "N", "ticker": "ATMP"}
 {"etf": "N", "exchange": "N", "name": "Atmus Filtration Technologies Inc. Common Stock", "test_issue": "N", "ticker": "ATMU"}
 {"etf": "N", "exchange": "A", "name": "Actinium Pharmaceuticals, Inc. (Delaware) Common Stock", "test_issue": "N", "ticker": "ATNM"}
@@ -978,7 +977,6 @@
 {"etf": "N", "exchange": "N", "name": "British American Tobacco  Industries, p.l.c. Common Stock ADR", "test_issue": "N", "ticker": "BTI"}
 {"etf": "N", "exchange": "N", "name": "John Hancock Financial Opportunities Fund Common Stock", "test_issue": "N", "ticker": "BTO"}
 {"etf": "Y", "exchange": "P", "name": "iShares Total USD Fixed Income Market ETF", "test_issue": "N", "ticker": "BTOT"}
-{"etf": "Y", "exchange": "P", "name": "Global X Bitcoin Trend Strategy ETF", "test_issue": "N", "ticker": "BTRN"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Municipal 2030 Target Term Trust", "test_issue": "N", "ticker": "BTT"}
 {"etf": "N", "exchange": "N", "name": "Peabody Energy Corporation Common Stock ", "test_issue": "N", "ticker": "BTU"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "BTX"}
@@ -1151,6 +1149,7 @@
 {"etf": "N", "exchange": "N", "name": "Cadre Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "CDRE"}
 {"etf": "Y", "exchange": "P", "name": "Simplify High Yield ETF", "test_issue": "N", "ticker": "CDX"}
 {"etf": "N", "exchange": "N", "name": "Celanese Corporation Common Stock", "test_issue": "N", "ticker": "CE"}
+{"etf": "N", "exchange": "F", "name": "CECO Environmental Corp. Common Stock", "test_issue": "N", "ticker": "CECO"}
 {"etf": "N", "exchange": "N", "name": "The Central and Eastern Europe Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "CEE"}
 {"etf": "Y", "exchange": "P", "name": "Sprott Physical Gold and Silver Trust Units", "test_issue": "N", "ticker": "CEF"}
 {"etf": "Y", "exchange": "P", "name": "ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN", "test_issue": "N", "ticker": "CEFD"}
@@ -1597,6 +1596,7 @@
 {"etf": "N", "exchange": "N", "name": "Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes", "test_issue": "N", "ticker": "DCBG"}
 {"etf": "N", "exchange": "N", "name": "Dauch Corporation Common Stock", "test_issue": "N", "ticker": "DCH"}
 {"etf": "N", "exchange": "N", "name": "Donaldson Company, Inc. Common Stock", "test_issue": "N", "ticker": "DCI"}
+{"etf": "N", "exchange": "A", "name": "DeFi Capital Markets, Inc. Common Stock", "test_issue": "N", "ticker": "DCM"}
 {"etf": "Y", "exchange": "P", "name": "DoubleLine Commodity Strategy ETF", "test_issue": "N", "ticker": "DCMT"}
 {"etf": "N", "exchange": "N", "name": "Ducommun Incorporated Common Stock", "test_issue": "N", "ticker": "DCO"}
 {"etf": "N", "exchange": "N", "name": "Dime Commercial Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "DCOM"}
@@ -3315,6 +3315,7 @@
 {"etf": "N", "exchange": "N", "name": "ICICI Bank Limited Common Stock", "test_issue": "N", "ticker": "IBN"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Bloomberg International Corporate Bond ETF", "test_issue": "N", "ticker": "IBND"}
 {"etf": "N", "exchange": "A", "name": "Impact BioMedical, Inc. Common Stock", "test_issue": "N", "ticker": "IBO"}
+{"etf": "N", "exchange": "F", "name": "International Bancshares Corporation Common Stock", "test_issue": "N", "ticker": "IBOC"}
 {"etf": "N", "exchange": "N", "name": "Installed Building Products, Inc. Common Stock", "test_issue": "N", "ticker": "IBP"}
 {"etf": "Y", "exchange": "P", "name": "iShares Neuroscience and Healthcare ETF", "test_issue": "N", "ticker": "IBRN"}
 {"etf": "N", "exchange": "N", "name": "Ibotta, Inc. Class A Common Stock", "test_issue": "N", "ticker": "IBTA"}
@@ -3524,7 +3525,6 @@
 {"etf": "N", "exchange": "N", "name": "IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)", "test_issue": "N", "ticker": "IRS"}
 {"etf": "N", "exchange": "N", "name": "Independence Realty Trust, Inc. Common Stock", "test_issue": "N", "ticker": "IRT"}
 {"etf": "Y", "exchange": "P", "name": "iShares LifePath Retirement ETF", "test_issue": "N", "ticker": "IRTR"}
-{"etf": "Y", "exchange": "P", "name": "Global X Interest Rate Volatility & Inflation Hedge ETF", "test_issue": "N", "ticker": "IRVH"}
 {"etf": "Y", "exchange": "Z", "name": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF", "test_issue": "N", "ticker": "ISBG"}
 {"etf": "Y", "exchange": "P", "name": "iShares International Small-Cap Equity Factor ETF", "test_issue": "N", "ticker": "ISCF"}
 {"etf": "Y", "exchange": "P", "name": "iShares Morningstar Small-Cap Growth ETF", "test_issue": "N", "ticker": "ISCG"}
@@ -5987,6 +5987,7 @@
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF", "test_issue": "N", "ticker": "SEPU"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap Buffer20 Sep ETF", "test_issue": "N", "ticker": "SEPW"}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Structured Outcome (September) ETF", "test_issue": "N", "ticker": "SEPZ"}
+{"etf": "Y", "exchange": "P", "name": "Sequoia ETF", "test_issue": "N", "ticker": "SEQ"}
 {"etf": "N", "exchange": "A", "name": "Serina Therapeutics, Inc. Common Stock", "test_issue": "N", "ticker": "SER"}
 {"etf": "N", "exchange": "N", "name": "SES AI Corporation Class A Common Stock", "test_issue": "N", "ticker": "SES"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Short Ether ETF", "test_issue": "N", "ticker": "SETH"}
@@ -6314,6 +6315,7 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Portfolio S&P 500 Value ETF", "test_issue": "N", "ticker": "SPYV"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF", "test_issue": "N", "ticker": "SPYX"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Quarterly 15 Buffer ETF", "test_issue": "N", "ticker": "SQBA"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Quarterly 20 Barrier ETF", "test_issue": "N", "ticker": "SQBR"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI USA Small-Cap Quality Factor ETF", "test_issue": "N", "ticker": "SQLT"}
 {"etf": "N", "exchange": "N", "name": "Sociedad Quimica y Minera S.A. Common Stock", "test_issue": "N", "ticker": "SQM"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Quarterly Max Buffer ETF", "test_issue": "N", "ticker": "SQMX"}
@@ -6989,7 +6991,6 @@
 {"etf": "N", "exchange": "N", "name": "Utz Brands Inc Class A Common Stock ", "test_issue": "N", "ticker": "UTZ"}
 {"etf": "Y", "exchange": "P", "name": "Invesco DB USD Index Bullish Fund ETF", "test_issue": "N", "ticker": "UUP"}
 {"etf": "Y", "exchange": "Z", "name": "Principal CLO ETF", "test_issue": "N", "ticker": "UUPP"}
-{"etf": "N", "exchange": "A", "name": "Universal Safety Products, Inc. Common Stock", "test_issue": "N", "ticker": "UUU"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi UUUU 2x Daily ETF", "test_issue": "N", "ticker": "UUUC"}
 {"etf": "N", "exchange": "A", "name": "Energy Fuels Inc Ordinary Shares (Canada)", "test_issue": "N", "ticker": "UUUU"}
 {"etf": "N", "exchange": "N", "name": "UNIVERSAL INSURANCE HOLDINGS INC Common Stock", "test_issue": "N", "ticker": "UVE"}
@@ -7276,6 +7277,7 @@
 {"etf": "N", "exchange": "N", "name": "Whirlpool Corporation Common Stock", "test_issue": "N", "ticker": "WHR"}
 {"etf": "N", "exchange": "N", "name": "Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock", "test_issue": "N", "ticker": "WHR$A"}
 {"etf": "N", "exchange": "N", "name": "Western Asset Inflation-Linked Income Fund", "test_issue": "N", "ticker": "WIA"}
+{"etf": "Y", "exchange": "P", "name": "William Blair Emerging Income ETF", "test_issue": "N", "ticker": "WINC"}
 {"etf": "Y", "exchange": "N", "name": "Harbor Long-Term Growers ETF", "test_issue": "N", "ticker": "WINN"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR FTSE International Government Inflation-Protected Bond ETF", "test_issue": "N", "ticker": "WIP"}
 {"etf": "N", "exchange": "N", "name": "Wipro Limited Common Stock", "test_issue": "N", "ticker": "WIT"}
@@ -7373,7 +7375,6 @@
 {"etf": "Y", "exchange": "P", "name": "BondBloxx CCC-Rated USD High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "XCCC"}
 {"etf": "Y", "exchange": "P", "name": "Columbia EM Core ex-China ETF", "test_issue": "N", "ticker": "XCEM"}
 {"etf": "Y", "exchange": "P", "name": "AB US Equity ETF", "test_issue": "N", "ticker": "XCHG"}
-{"etf": "Y", "exchange": "P", "name": "Global X S&P 500 Collar 95-110 ETF", "test_issue": "N", "ticker": "XCLR"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi All Commodities 2x Daily ETF", "test_issue": "N", "ticker": "XCOM"}
 {"etf": "Y", "exchange": "P", "name": "FundX ETF", "test_issue": "N", "ticker": "XCOR"}
 {"etf": "Y", "exchange": "Z", "name": "Franklin Exponential Data ETF", "test_issue": "N", "ticker": "XDAT"}

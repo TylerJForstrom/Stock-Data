@@ -712,7 +712,7 @@
 {"category": "S", "etf": "N", "name": "BioLineRx Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "BLRX"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long BLSH Daily ETF", "test_issue": "N", "ticker": "BLSG"}
 {"category": "Q", "etf": "N", "name": "BlossomHill Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "BLSM"}
-{"category": "S", "etf": "N", "name": "Belite Bio, Inc - American Depositary Shares", "test_issue": "N", "ticker": "BLTE"}
+{"category": "Q", "etf": "N", "name": "Belite Bio, Inc - American Depositary Shares", "test_issue": "N", "ticker": "BLTE"}
 {"category": "G", "etf": "N", "name": "Blue Water Acquisition Corp. III - Class A Ordinary Shares", "test_issue": "N", "ticker": "BLUW"}
 {"category": "G", "etf": "N", "name": "Blue Water Acquisition Corp. III - Unit.", "test_issue": "N", "ticker": "BLUWU"}
 {"category": "G", "etf": "N", "name": "Blue Water Acquisition Corp. III - Warrant.", "test_issue": "N", "ticker": "BLUWW"}
@@ -1011,7 +1011,6 @@
 {"category": "Q", "etf": "N", "name": "Codexis, Inc. - Common Stock", "test_issue": "N", "ticker": "CDXS"}
 {"category": "G", "etf": "N", "name": "Cadiz, Inc. - Common Stock", "test_issue": "N", "ticker": "CDZI"}
 {"category": "G", "etf": "N", "name": "Cadiz, Inc. - Depositary Shares", "test_issue": "N", "ticker": "CDZIP"}
-{"category": "Q", "etf": "N", "name": "CECO Environmental Corp. - Common Stock", "test_issue": "N", "ticker": "CECO"}
 {"category": "G", "etf": "Y", "name": "Global X S&P Catholic Values Developed ex-U.S. ETF", "test_issue": "N", "ticker": "CEFA"}
 {"category": "Q", "etf": "N", "name": "Constellation Energy Corporation - Common Stock When-Issued", "test_issue": "N", "ticker": "CEG"}
 {"category": "S", "etf": "N", "name": "Celcuity Inc. - Common Stock", "test_issue": "N", "ticker": "CELC"}
@@ -1561,7 +1560,7 @@
 {"category": "Q", "etf": "N", "name": "Enterprise Financial Services Corporation - Common Stock", "test_issue": "N", "ticker": "EFSC"}
 {"category": "Q", "etf": "N", "name": "Enterprise Financial Services Corporation - Depositary Shares Each Representing a 1/40th Interest in a Share of 5% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A", "test_issue": "N", "ticker": "EFSCP"}
 {"category": "S", "etf": "N", "name": "Eagle Financial Services Inc - Common Stock", "test_issue": "N", "ticker": "EFSI"}
-{"category": "S", "etf": "N", "name": "Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "EFTY"}
+{"category": "S", "etf": "N", "name": "Etoiles Capital Group Co., Ltd. - Common Stock", "test_issue": "N", "ticker": "EFTY"}
 {"category": "S", "etf": "N", "name": "eGain Corporation - Common Stock", "test_issue": "N", "ticker": "EGAN"}
 {"category": "S", "etf": "N", "name": "Eagle Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "EGBN"}
 {"category": "G", "etf": "Y", "name": "NestYield Visionary ETF", "test_issue": "N", "ticker": "EGGQ"}
@@ -2312,6 +2311,7 @@
 {"category": "S", "etf": "N", "name": "Highway Holdings Limited - Common Stock", "test_issue": "N", "ticker": "HIHO"}
 {"category": "Q", "etf": "N", "name": "Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.", "test_issue": "N", "ticker": "HIMX"}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2X Long HIMS ETF", "test_issue": "N", "ticker": "HIMZ"}
+{"category": "G", "etf": "Y", "name": "Hartford High Yield ETF", "test_issue": "N", "ticker": "HINC"}
 {"category": "S", "etf": "N", "name": "Vyome Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "HIND"}
 {"category": "G", "etf": "Y", "name": "Humilis US Focused Opportunities ETF", "test_issue": "N", "ticker": "HIS"}
 {"category": "G", "etf": "Y", "name": "First Trust High Income Strategic Focus ETF", "test_issue": "N", "ticker": "HISF"}
@@ -2449,7 +2449,6 @@
 {"category": "S", "etf": "N", "name": "iBio, Inc. - Common Stock", "test_issue": "N", "ticker": "IBIO"}
 {"category": "G", "etf": "Y", "name": "iShares Bitcoin Trust ETF", "test_issue": "N", "ticker": "IBIT"}
 {"category": "Q", "etf": "N", "name": "Interactive Brokers Group, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "IBKR"}
-{"category": "Q", "etf": "N", "name": "International Bancshares Corporation - Common Stock", "test_issue": "N", "ticker": "IBOC"}
 {"category": "G", "etf": "Y", "name": "VanEck Robotics ETF", "test_issue": "N", "ticker": "IBOT"}
 {"category": "Q", "etf": "N", "name": "ImmunityBio, Inc. - Common Stock", "test_issue": "N", "ticker": "IBRX"}
 {"category": "G", "etf": "Y", "name": "iShares iBonds Dec 2026 Term Treasury ETF", "test_issue": "N", "ticker": "IBTG"}
@@ -2883,6 +2882,7 @@
 {"category": "S", "etf": "N", "name": "Locafy Limited - Warrant", "test_issue": "N", "ticker": "LCFYW"}
 {"category": "Q", "etf": "N", "name": "Lucid Group, Inc. - Common Stock", "test_issue": "N", "ticker": "LCID"}
 {"category": "S", "etf": "N", "name": "LCNB Corporation - Common Stock", "test_issue": "N", "ticker": "LCNB"}
+{"category": "S", "etf": "N", "name": "Lion Copper Corp. - Common Shares", "test_issue": "N", "ticker": "LCU"}
 {"category": "Q", "etf": "N", "name": "Lifetime Brands, Inc. - Common Stock", "test_issue": "N", "ticker": "LCUT"}
 {"category": "G", "etf": "Y", "name": "iShares ESG MSCI EM Leaders ETF", "test_issue": "N", "ticker": "LDEM"}
 {"category": "G", "etf": "Y", "name": "SGI Enhanced Market Leaders ETF", "test_issue": "N", "ticker": "LDRX"}
@@ -2999,7 +2999,6 @@
 {"category": "Q", "etf": "N", "name": "Lam Research Corporation - Common Stock", "test_issue": "N", "ticker": "LRCX"}
 {"category": "S", "etf": "N", "name": "Lead Real Estate Co., Ltd - American Depositary Shares", "test_issue": "N", "ticker": "LRE"}
 {"category": "G", "etf": "Y", "name": "ClearBridge Large Cap Growth Select ETF", "test_issue": "N", "ticker": "LRGE"}
-{"category": "S", "etf": "N", "name": "La Rosa Holdings Corp. - Common Stock", "test_issue": "N", "ticker": "LRHC"}
 {"category": "G", "etf": "N", "name": "Larimar Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "LRMR"}
 {"category": "G", "etf": "Y", "name": "NYLIM U.S. Large Cap R&D Leaders ETF", "test_issue": "N", "ticker": "LRND"}
 {"category": "Q", "etf": "N", "name": "Lesaka Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "LSAK"}
@@ -3201,7 +3200,6 @@
 {"category": "S", "etf": "N", "name": "MoonLake Immunotherapeutics - Class A Ordinary Shares", "test_issue": "N", "ticker": "MLTX"}
 {"category": "Q", "etf": "N", "name": "Mineralys Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "MLYS"}
 {"category": "Q", "etf": "N", "name": "MiniMed Group, Inc. - Common Stock", "test_issue": "N", "ticker": "MMED"}
-{"category": "Q", "etf": "N", "name": "MiniMed Group, Inc. - Common Stock When Issued", "test_issue": "N", "ticker": "MMEDV"}
 {"category": "Q", "etf": "N", "name": "Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests", "test_issue": "N", "ticker": "MMLP"}
 {"category": "Q", "etf": "N", "name": "Merit Medical Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "MMSI"}
 {"category": "G", "etf": "N", "name": "Miluna Acquisition Corp - Class A Ordinary Shares", "test_issue": "N", "ticker": "MMTX"}
@@ -3441,7 +3439,7 @@
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Class A Ordinary Shares", "test_issue": "N", "ticker": "NHIV"}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Units", "test_issue": "N", "ticker": "NHIVU"}
 {"category": "G", "etf": "N", "name": "NewHold Investment Corp IV - Warrants", "test_issue": "N", "ticker": "NHIVW"}
-{"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "NHP"}
+{"category": "G", "etf": "N", "name": "National Healthcare Properties, Inc. - Common Stock", "test_issue": "N", "ticker": "NHP"}
 {"category": "S", "etf": "N", "name": "Natural Health Trends Corp. - Common Stock", "test_issue": "N", "ticker": "NHTC"}
 {"category": "Q", "etf": "N", "name": "NICE Ltd - American Depositary Shares each representing one Ordinary Share", "test_issue": "N", "ticker": "NICE"}
 {"category": "S", "etf": "N", "name": "Nicola Mining Inc. - American Depositary Shares", "test_issue": "N", "ticker": "NICM"}
@@ -4092,7 +4090,6 @@
 {"category": "G", "etf": "Y", "name": "Innovator Nasdaq-100 10 Buffer ETF Quarterly", "test_issue": "N", "ticker": "QBUF"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost QBTS ETF", "test_issue": "N", "ticker": "QBY"}
 {"category": "G", "etf": "Y", "name": "First Trust NASDAQ Clean Edge Green Energy Index Fund", "test_issue": "N", "ticker": "QCLN"}
-{"category": "G", "etf": "Y", "name": "Global X NASDAQ 100 Collar 95-110 ETF", "test_issue": "N", "ticker": "QCLR"}
 {"category": "S", "etf": "N", "name": "Q/C Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "QCLS"}
 {"category": "G", "etf": "Y", "name": "Direxion Daily QCOM Bear 1X ETF", "test_issue": "N", "ticker": "QCMD"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long QCOM Daily ETF", "test_issue": "N", "ticker": "QCML"}
@@ -4473,7 +4470,6 @@
 {"category": "G", "etf": "Y", "name": "YieldMax S&P 500 0DTE Covered Call Strategy ETF", "test_issue": "N", "ticker": "SDTY"}
 {"category": "G", "etf": "Y", "name": "First Trust SMID Cap Rising Dividend Achievers ETF", "test_issue": "N", "ticker": "SDVY"}
 {"category": "Q", "etf": "N", "name": "Vivid Seats Inc. - Class A common stock", "test_issue": "N", "ticker": "SEAT"}
-{"category": "Q", "etf": "N", "name": "Vivid Seats Inc. - Warrant", "test_issue": "N", "ticker": "SEATW"}
 {"category": "Q", "etf": "N", "name": "SolarEdge Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "SEDG"}
 {"category": "S", "etf": "N", "name": "Origin Agritech Limited - Ordinary Shares", "test_issue": "N", "ticker": "SEED"}
 {"category": "G", "etf": "Y", "name": "SEI Select Emerging Markets Equity ETF", "test_issue": "N", "ticker": "SEEM"}
@@ -4708,6 +4704,7 @@
 {"category": "Q", "etf": "N", "name": "Sarepta Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "SRPT"}
 {"category": "Q", "etf": "N", "name": "Scholar Rock Holding Corporation - Common Stock", "test_issue": "N", "ticker": "SRRK"}
 {"category": "S", "etf": "N", "name": "Strata Critical Medical, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "SRTA"}
+{"category": "S", "etf": "N", "name": "Stratum Holdings Corp. - Common Stock", "test_issue": "N", "ticker": "SRTM"}
 {"category": "S", "etf": "N", "name": "Sensus Healthcare, Inc. - Common Stock", "test_issue": "N", "ticker": "SRTS"}
 {"category": "S", "etf": "N", "name": "Surrozen, Inc. - Common Stock", "test_issue": "N", "ticker": "SRZN"}
 {"category": "G", "etf": "N", "name": "SPACSphere Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "SSAC"}
