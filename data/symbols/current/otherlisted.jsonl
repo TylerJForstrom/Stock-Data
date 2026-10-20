@@ -191,6 +191,7 @@
 {"etf": "N", "exchange": "A", "name": "AIB Data Centers Inc. Common Stock", "test_issue": "N", "ticker": "AIB"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bear 2X ETF", "test_issue": "N", "ticker": "AIBD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Future AI Beneficiaries ETF", "test_issue": "N", "ticker": "AIBF"}
+{"etf": "Y", "exchange": "P", "name": "Defiance AI Infrastructure Bond ETF", "test_issue": "N", "ticker": "AIBN"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily AI and Big Data Bull 2X ETF", "test_issue": "N", "ticker": "AIBU"}
 {"etf": "Y", "exchange": "P", "name": "Defiance LLM Catalyst Momentum ETF", "test_issue": "N", "ticker": "AIED"}
 {"etf": "Y", "exchange": "P", "name": "Amplify AI Powered Equity ETF", "test_issue": "N", "ticker": "AIEQ"}
@@ -1041,7 +1042,6 @@
 {"etf": "N", "exchange": "N", "name": "Boyd Gaming Corporation Common Stock", "test_issue": "N", "ticker": "BYD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Yield Optimized Bond ETF", "test_issue": "N", "ticker": "BYLD"}
 {"etf": "Y", "exchange": "P", "name": "Principal Real Estate Active Opportunities ETF", "test_issue": "N", "ticker": "BYRE"}
-{"etf": "N", "exchange": "N", "name": "Beazer Homes USA, Inc. Common Stock", "test_issue": "N", "ticker": "BZH"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort MSCI Brazil Capped", "test_issue": "N", "ticker": "BZQ"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Drones & Urban Air Mobility ETF", "test_issue": "N", "ticker": "BZZ"}
 {"etf": "N", "exchange": "N", "name": "Citigroup, Inc. Common Stock", "test_issue": "N", "ticker": "C"}
@@ -6194,7 +6194,7 @@
 {"etf": "N", "exchange": "N", "name": "TD SYNNEX Corporation Common Stock", "test_issue": "N", "ticker": "SNX"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SNDK Daily ETF", "test_issue": "N", "ticker": "SNXX"}
 {"etf": "N", "exchange": "N", "name": "Southern Company (The) Common Stock", "test_issue": "N", "ticker": "SO"}
-{"etf": "N", "exchange": "A", "name": "Volato Group, Inc. Class A Common Stock", "test_issue": "N", "ticker": "SOAR"}
+{"etf": "N", "exchange": "A", "name": "SOAR AI, Inc. Class A Common Stock", "test_issue": "N", "ticker": "SOAR"}
 {"etf": "N", "exchange": "N", "name": "South Bow Corporation Common Shares", "test_issue": "N", "ticker": "SOBO"}
 {"etf": "N", "exchange": "N", "name": "Sable Offshore Corp. Common Stock", "test_issue": "N", "ticker": "SOC"}
 {"etf": "Y", "exchange": "P", "name": "Franklin Solana ETF", "test_issue": "N", "ticker": "SOEZ"}
@@ -7634,7 +7634,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr October", "test_issue": "N", "ticker": "ZOCT"}
 {"etf": "N", "exchange": "A", "name": "Zone Frontier Inc. Class B Common Stock", "test_issue": "N", "ticker": "ZONE"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund", "test_issue": "N", "ticker": "ZROZ"}
-{"etf": "Y", "exchange": "P", "name": "USCF Sustainable Battery Metals Strategy Fund", "test_issue": "N", "ticker": "ZSB"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr September", "test_issue": "N", "ticker": "ZSEP"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Silver", "test_issue": "N", "ticker": "ZSL"}
 {"etf": "Y", "exchange": "P", "name": "X-Square Municipal Income ETF", "test_issue": "N", "ticker": "ZTAX"}
