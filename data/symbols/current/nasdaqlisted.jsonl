@@ -178,7 +178,9 @@
 {"category": "S", "etf": "N", "name": "AdaptHealth Corp.  - Common Stock", "test_issue": "N", "ticker": "AHCO"}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable HOOD ETF", "test_issue": "N", "ticker": "AHD"}
 {"category": "S", "etf": "N", "name": "Akso Health Group - American Depositary Shares", "test_issue": "N", "ticker": "AHG"}
+{"category": "G", "etf": "Y", "name": "Allspring Short-Term High Income Fund ETF", "test_issue": "N", "ticker": "AHIC"}
 {"category": "S", "etf": "N", "name": "Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares", "test_issue": "N", "ticker": "AHMA"}
+{"category": "G", "etf": "Y", "name": "Allspring High Yield Municipal Bond Fund ETF", "test_issue": "N", "ticker": "AHYM"}
 {"category": "G", "etf": "Y", "name": "iShares Asia 50 ETF", "test_issue": "N", "ticker": "AIA"}
 {"category": "G", "etf": "N", "name": "AIAI Holdings Corporation - Class A common stock", "test_issue": "N", "ticker": "AIAI"}
 {"category": "S", "etf": "N", "name": "Bitzero Holdings Inc. - Common Shares", "test_issue": "N", "ticker": "AIBZ"}
@@ -444,6 +446,7 @@
 {"category": "S", "etf": "N", "name": "Astrana Health Inc. - Common Stock", "test_issue": "N", "ticker": "ASTH"}
 {"category": "S", "etf": "N", "name": "Ascent Solar Technologies, Inc - Common Stock", "test_issue": "N", "ticker": "ASTI"}
 {"category": "G", "etf": "N", "name": "Algoma Steel Group Inc. - Common Shares", "test_issue": "N", "ticker": "ASTL"}
+{"category": "G", "etf": "Y", "name": "Allspring Strategic Municipal Bond Fund ETF", "test_issue": "N", "ticker": "ASTM"}
 {"category": "Q", "etf": "N", "name": "AST SpaceMobile, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "ASTS"}
 {"category": "S", "etf": "N", "name": "Asure Software Inc - Common Stock", "test_issue": "N", "ticker": "ASUR"}
 {"category": "Q", "etf": "N", "name": "Amtech Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "ASYS"}
@@ -855,7 +858,6 @@
 {"category": "S", "etf": "N", "name": "BTC Digital Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "BTCT"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long BTDR Daily ETF", "test_issue": "N", "ticker": "BTDL"}
 {"category": "S", "etf": "N", "name": "Bitdeer Technologies Group - Ordinary Shares", "test_issue": "N", "ticker": "BTDR"}
-{"category": "G", "etf": "Y", "name": "CoinShares Bitcoin and Ether ETF", "test_issue": "N", "ticker": "BTF"}
 {"category": "G", "etf": "Y", "name": "STKd 100% Bitcoin & 100% Gold ETF", "test_issue": "N", "ticker": "BTGD"}
 {"category": "S", "etf": "N", "name": "Brightline Interactive, Inc. - Common Stock", "test_issue": "N", "ticker": "BTLN"}
 {"category": "G", "etf": "N", "name": "Biote Corp. - Class A common stock", "test_issue": "N", "ticker": "BTMD"}
@@ -1405,7 +1407,6 @@
 {"category": "Q", "etf": "N", "name": "Diversified Healthcare Trust  - 5.625% Senior Notes due 2042", "test_issue": "N", "ticker": "DHCNI"}
 {"category": "Q", "etf": "N", "name": "Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046", "test_issue": "N", "ticker": "DHCNL"}
 {"category": "G", "etf": "N", "name": "1stdibs.com, Inc. - Common Stock", "test_issue": "N", "ticker": "DIBS"}
-{"category": "G", "etf": "Y", "name": "CoinShares Altcoins ETF", "test_issue": "N", "ticker": "DIME"}
 {"category": "G", "etf": "Y", "name": "Simplify Tax Aware Diversified Income Strategy ETF", "test_issue": "N", "ticker": "DINE"}
 {"category": "Q", "etf": "N", "name": "Diodes Incorporated - Common Stock", "test_issue": "N", "ticker": "DIOD"}
 {"category": "G", "etf": "Y", "name": "Altrius Global Dividend ETF", "test_issue": "N", "ticker": "DIVD"}
@@ -3949,7 +3950,7 @@
 {"category": "G", "etf": "N", "name": "Andretti Acquisition Corp. II - Class A Ordinary Shares", "test_issue": "N", "ticker": "POLE"}
 {"category": "G", "etf": "N", "name": "Andretti Acquisition Corp. II - Unit", "test_issue": "N", "ticker": "POLEU"}
 {"category": "G", "etf": "N", "name": "Andretti Acquisition Corp. II - Warrant", "test_issue": "N", "ticker": "POLEW"}
-{"category": "G", "etf": "N", "name": "POMDOCTOR LIMITED - American Depositary Shares", "test_issue": "N", "ticker": "POM"}
+{"category": "G", "etf": "N", "name": "POMDOCTOR LIMITED - Class A Ordinary Shares", "test_issue": "N", "ticker": "POM"}
 {"category": "G", "etf": "N", "name": "Pono Capital Four, Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "PONO"}
 {"category": "G", "etf": "N", "name": "Pono Capital Four, Inc. - Rights", "test_issue": "N", "ticker": "PONOR"}
 {"category": "G", "etf": "N", "name": "Pono Capital Four, Inc. - Units", "test_issue": "N", "ticker": "PONOU"}
@@ -4920,6 +4921,7 @@
 {"category": "G", "etf": "N", "name": "Three Lions Acquisition Corp. - Ordinary Shares", "test_issue": "N", "ticker": "TLAC"}
 {"category": "G", "etf": "N", "name": "Three Lions Acquisition Corp. - Units", "test_issue": "N", "ticker": "TLACU"}
 {"category": "G", "etf": "N", "name": "Three Lions Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "TLACW"}
+{"category": "G", "etf": "Y", "name": "Thrivent Large Cap Stock ETF", "test_issue": "N", "ticker": "TLCE"}
 {"category": "S", "etf": "N", "name": "Tandy Leather Factory, Inc. - common stock", "test_issue": "N", "ticker": "TLF"}
 {"category": "G", "etf": "Y", "name": "Touchstone Large Company Growth ETF", "test_issue": "N", "ticker": "TLG"}
 {"category": "S", "etf": "N", "name": "Ten-League International Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "TLIH"}
@@ -5028,6 +5030,7 @@
 {"category": "G", "etf": "Y", "name": "Touchstone Sands Capital US Select Growth ETF", "test_issue": "N", "ticker": "TSEL"}
 {"category": "Q", "etf": "N", "name": "Tower Semiconductor Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "TSEM"}
 {"category": "Q", "etf": "N", "name": "Taysha Gene Therapies, Inc. - Common Stock", "test_issue": "N", "ticker": "TSHA"}
+{"category": "G", "etf": "Y", "name": "Thrivent Securitized Income ETF", "test_issue": "N", "ticker": "TSIE"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 1.25x Long TSLA Daily ETF", "test_issue": "N", "ticker": "TSL"}
 {"category": "Q", "etf": "N", "name": "Tesla, Inc.  - Common Stock", "test_issue": "N", "ticker": "TSLA"}
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long TSLA Daily ETF", "test_issue": "N", "ticker": "TSLG"}
