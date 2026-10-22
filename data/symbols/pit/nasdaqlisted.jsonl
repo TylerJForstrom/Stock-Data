@@ -482,9 +482,9 @@
 {"category": "S", "etf": "N", "name": "Alpha Technology Group Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ATGL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Alterity Therapeutics Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "ATHE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Aether Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ATHR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ATII", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Unit", "provable_from": false, "test_issue": "N", "ticker": "ATIIU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ATIIW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ATII", "valid_from": "2026-07-28", "valid_to": "2026-10-22"}
+{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Unit", "provable_from": false, "test_issue": "N", "ticker": "ATIIU", "valid_from": "2026-07-28", "valid_to": "2026-10-22"}
+{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ATIIW", "valid_from": "2026-07-28", "valid_to": "2026-10-22"}
 {"category": "Q", "etf": "N", "name": "Atlanticus Holdings Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ATLC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026", "provable_from": false, "test_issue": "N", "ticker": "ATLCL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share", "provable_from": false, "test_issue": "N", "ticker": "ATLCP", "valid_from": "2026-07-28", "valid_to": null}
@@ -1425,6 +1425,7 @@
 {"category": "Q", "etf": "N", "name": "DoorDash, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DASH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Dave Inc.  - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DAVE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Dave Inc.  - Warrants", "provable_from": false, "test_issue": "N", "ticker": "DAVEW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Davion Healthcare Plc - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "DAVI", "valid_from": "2026-10-22", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Global X DAX Germany ETF", "provable_from": false, "test_issue": "N", "ticker": "DAX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "D. Boral Acquisition I Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "DBCA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "D. Boral Acquisition I Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "DBCAU", "valid_from": "2026-07-28", "valid_to": null}
@@ -1681,6 +1682,7 @@
 {"category": "Q", "etf": "N", "name": "Enliven Therapeutics, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ELVN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Elevra Lithium Limited - American Depository Shares", "provable_from": false, "test_issue": "N", "ticker": "ELVR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Elauwit Connection, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ELWT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Emerging Markets AI Mag 3 ETF", "provable_from": true, "test_issue": "N", "ticker": "EMAG", "valid_from": "2026-10-22", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Evolution Metals & Technologies Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EMAT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "EMB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Embecta Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EMBC", "valid_from": "2026-07-28", "valid_to": null}
@@ -3536,6 +3538,8 @@
 {"category": "S", "etf": "N", "name": "Namib Minerals - Warrants", "provable_from": false, "test_issue": "N", "ticker": "NAMMW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "NewAmsterdam Pharma Company N.V. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "NAMS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "NewAmsterdam Pharma Company N.V. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NAMSW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Forge Nano Holdings Inc. - Common stock", "provable_from": true, "test_issue": "N", "ticker": "NANO", "valid_from": "2026-10-22", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Forge Nano Holdings Inc. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "NANOW", "valid_from": "2026-10-22", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Nathan's Famous, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NATH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Themes Transatlantic Defense ETF", "provable_from": false, "test_issue": "N", "ticker": "NATO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nature's Sunshine Products, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NATR", "valid_from": "2026-07-28", "valid_to": null}

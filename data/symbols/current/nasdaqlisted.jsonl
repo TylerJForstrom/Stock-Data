@@ -459,9 +459,6 @@
 {"category": "S", "etf": "N", "name": "Alpha Technology Group Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "ATGL"}
 {"category": "S", "etf": "N", "name": "Alterity Therapeutics Limited - American Depositary Shares", "test_issue": "N", "ticker": "ATHE"}
 {"category": "S", "etf": "N", "name": "Aether Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "ATHR"}
-{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares", "test_issue": "N", "ticker": "ATII"}
-{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Unit", "test_issue": "N", "ticker": "ATIIU"}
-{"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Warrant", "test_issue": "N", "ticker": "ATIIW"}
 {"category": "Q", "etf": "N", "name": "Atlanticus Holdings Corporation - Common Stock", "test_issue": "N", "ticker": "ATLC"}
 {"category": "G", "etf": "N", "name": "Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026", "test_issue": "N", "ticker": "ATLCL"}
 {"category": "Q", "etf": "N", "name": "Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share", "test_issue": "N", "ticker": "ATLCP"}
@@ -1360,6 +1357,7 @@
 {"category": "Q", "etf": "N", "name": "DoorDash, Inc. - Common Stock", "test_issue": "N", "ticker": "DASH"}
 {"category": "G", "etf": "N", "name": "Dave Inc.  - Class A Common Stock", "test_issue": "N", "ticker": "DAVE"}
 {"category": "G", "etf": "N", "name": "Dave Inc.  - Warrants", "test_issue": "N", "ticker": "DAVEW"}
+{"category": "G", "etf": "N", "name": "Davion Healthcare Plc - Ordinary Shares", "test_issue": "N", "ticker": "DAVI"}
 {"category": "G", "etf": "Y", "name": "Global X DAX Germany ETF", "test_issue": "N", "ticker": "DAX"}
 {"category": "G", "etf": "N", "name": "D. Boral Acquisition I Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "DBCA"}
 {"category": "G", "etf": "N", "name": "D. Boral Acquisition I Corp. - Unit", "test_issue": "N", "ticker": "DBCAU"}
@@ -1591,6 +1589,7 @@
 {"category": "Q", "etf": "N", "name": "Enliven Therapeutics, Inc.  - Common Stock", "test_issue": "N", "ticker": "ELVN"}
 {"category": "S", "etf": "N", "name": "Elevra Lithium Limited - American Depository Shares", "test_issue": "N", "ticker": "ELVR"}
 {"category": "S", "etf": "N", "name": "Elauwit Connection, Inc. - Common Stock", "test_issue": "N", "ticker": "ELWT"}
+{"category": "G", "etf": "Y", "name": "Emerging Markets AI Mag 3 ETF", "test_issue": "N", "ticker": "EMAG"}
 {"category": "G", "etf": "N", "name": "Evolution Metals & Technologies Corp. - Common Stock", "test_issue": "N", "ticker": "EMAT"}
 {"category": "G", "etf": "Y", "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF", "test_issue": "N", "ticker": "EMB"}
 {"category": "Q", "etf": "N", "name": "Embecta Corp. - Common Stock", "test_issue": "N", "ticker": "EMBC"}
@@ -3354,6 +3353,8 @@
 {"category": "S", "etf": "N", "name": "Namib Minerals - Warrants", "test_issue": "N", "ticker": "NAMMW"}
 {"category": "G", "etf": "N", "name": "NewAmsterdam Pharma Company N.V. - Ordinary Shares", "test_issue": "N", "ticker": "NAMS"}
 {"category": "G", "etf": "N", "name": "NewAmsterdam Pharma Company N.V. - Warrant", "test_issue": "N", "ticker": "NAMSW"}
+{"category": "G", "etf": "N", "name": "Forge Nano Holdings Inc. - Common stock", "test_issue": "N", "ticker": "NANO"}
+{"category": "S", "etf": "N", "name": "Forge Nano Holdings Inc. - Warrants", "test_issue": "N", "ticker": "NANOW"}
 {"category": "Q", "etf": "N", "name": "Nathan's Famous, Inc. - Common Stock", "test_issue": "N", "ticker": "NATH"}
 {"category": "G", "etf": "Y", "name": "Themes Transatlantic Defense ETF", "test_issue": "N", "ticker": "NATO"}
 {"category": "S", "etf": "N", "name": "Nature's Sunshine Products, Inc. - Common Stock", "test_issue": "N", "ticker": "NATR"}

@@ -6562,3 +6562,13 @@
 {"date": "2026-10-21", "event": "removed", "record": {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short SMR Daily ETF", "test_issue": "N", "ticker": "SMZ"}, "source": "otherlisted"}
 {"date": "2026-10-21", "event": "removed", "record": {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long TSEM Daily ETF", "test_issue": "N", "ticker": "TSEU"}, "source": "otherlisted"}
 {"date": "2026-10-21", "event": "changed", "previous": {"etf": "N", "exchange": "A", "name": "TMD Energy Limited Ordinary Shares", "test_issue": "N", "ticker": "TMDE"}, "record": {"etf": "N", "exchange": "A", "name": "TMD Energy Limited Class A Ordinary Shares", "test_issue": "N", "ticker": "TMDE"}, "source": "otherlisted"}
+{"date": "2026-10-22", "event": "added", "record": {"category": "G", "etf": "N", "name": "Davion Healthcare Plc - Ordinary Shares", "test_issue": "N", "ticker": "DAVI"}, "source": "nasdaqlisted"}
+{"date": "2026-10-22", "event": "added", "record": {"category": "G", "etf": "Y", "name": "Emerging Markets AI Mag 3 ETF", "test_issue": "N", "ticker": "EMAG"}, "source": "nasdaqlisted"}
+{"date": "2026-10-22", "event": "added", "record": {"category": "G", "etf": "N", "name": "Forge Nano Holdings Inc. - Common stock", "test_issue": "N", "ticker": "NANO"}, "source": "nasdaqlisted"}
+{"date": "2026-10-22", "event": "added", "record": {"category": "S", "etf": "N", "name": "Forge Nano Holdings Inc. - Warrants", "test_issue": "N", "ticker": "NANOW"}, "source": "nasdaqlisted"}
+{"date": "2026-10-22", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares", "test_issue": "N", "ticker": "ATII"}, "source": "nasdaqlisted"}
+{"date": "2026-10-22", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Unit", "test_issue": "N", "ticker": "ATIIU"}, "source": "nasdaqlisted"}
+{"date": "2026-10-22", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Archimedes Tech SPAC Partners II Co. - Warrant", "test_issue": "N", "ticker": "ATIIW"}, "source": "nasdaqlisted"}
+{"date": "2026-10-22", "event": "added", "record": {"etf": "Y", "exchange": "F", "name": "HCM Select 50 ETF", "test_issue": "N", "ticker": "FIFT"}, "source": "otherlisted"}
+{"date": "2026-10-22", "event": "added", "record": {"etf": "Y", "exchange": "F", "name": "Tema Commodity Income ETF", "test_issue": "N", "ticker": "ICOM"}, "source": "otherlisted"}
+{"date": "2026-10-22", "event": "added", "record": {"etf": "Y", "exchange": "F", "name": "Tema Commodity Infrastructure ETF", "test_issue": "N", "ticker": "THRU"}, "source": "otherlisted"}
