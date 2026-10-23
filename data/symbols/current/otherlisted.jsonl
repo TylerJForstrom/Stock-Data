@@ -2226,7 +2226,6 @@
 {"etf": "N", "exchange": "N", "name": "EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "EVAC.W"}
 {"etf": "N", "exchange": "N", "name": "Entravision Communications Corporation Common Stock", "test_issue": "N", "ticker": "EVC"}
 {"etf": "N", "exchange": "N", "name": "Eve Holding, Inc. Common Stock", "test_issue": "N", "ticker": "EVEX"}
-{"etf": "N", "exchange": "N", "name": "Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "EVEX.W"}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Senior Income Trust Common Stock", "test_issue": "N", "ticker": "EVF"}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "EVG"}
 {"etf": "N", "exchange": "N", "name": "Evolent Health, Inc Class A Common Stock", "test_issue": "N", "ticker": "EVH"}
@@ -3706,7 +3705,7 @@
 {"etf": "Y", "exchange": "P", "name": "Janus Henderson Income ETF", "test_issue": "N", "ticker": "JIII"}
 {"etf": "N", "exchange": "N", "name": "J. Jill, Inc. Common Stock", "test_issue": "N", "ticker": "JILL"}
 {"etf": "Y", "exchange": "P", "name": "JPMorgan International Research Enhanced Equity ETF", "test_issue": "N", "ticker": "JIRE"}
-{"etf": "N", "exchange": "N", "name": "JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)", "test_issue": "N", "ticker": "JKS"}
+{"etf": "N", "exchange": "N", "name": "Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares)", "test_issue": "N", "ticker": "JKS"}
 {"etf": "Y", "exchange": "P", "name": "John Hancock Large Cap Opportunities ETF", "test_issue": "N", "ticker": "JLCO"}
 {"etf": "N", "exchange": "N", "name": "Jones Lang LaSalle Incorporated Common Stock", "test_issue": "N", "ticker": "JLL"}
 {"etf": "Y", "exchange": "P", "name": "Janus Henderson Corporate Bond ETF", "test_issue": "N", "ticker": "JLQD"}
@@ -4129,7 +4128,7 @@
 {"etf": "N", "exchange": "N", "name": "LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)", "test_issue": "N", "ticker": "LTM"}
 {"etf": "Y", "exchange": "P", "name": "Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund", "test_issue": "N", "ticker": "LTPZ"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest 20+ Year Treasury & Target Income ETF", "test_issue": "N", "ticker": "LTTI"}
-{"etf": "N", "exchange": "N", "name": "Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares", "test_issue": "N", "ticker": "LU"}
+{"etf": "N", "exchange": "N", "name": "Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares)", "test_issue": "N", "ticker": "LU"}
 {"etf": "N", "exchange": "N", "name": "Lucky Strike Entertainment Corporation Class A Common Stock", "test_issue": "N", "ticker": "LUCK"}
 {"etf": "N", "exchange": "A", "name": "Luda Technology Group Limited Ordinary Shares", "test_issue": "N", "ticker": "LUD"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Photonic and Optical ETF", "test_issue": "N", "ticker": "LUMA"}
@@ -4998,6 +4997,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Overlay Shares Large Cap Equity ETF", "test_issue": "N", "ticker": "OVL"}
 {"etf": "Y", "exchange": "Z", "name": "Overlay Shares Hedged Large Cap Equity ETF", "test_issue": "N", "ticker": "OVLH"}
 {"etf": "Y", "exchange": "Z", "name": "Overlay Shares Municipal Bond ETF", "test_issue": "N", "ticker": "OVM"}
+{"etf": "Y", "exchange": "Z", "name": "Overlay Shares Nasdaq 100 Income ETF", "test_issue": "N", "ticker": "OVQ"}
 {"etf": "Y", "exchange": "Z", "name": "Overlay Shares Small Cap Equity ETF", "test_issue": "N", "ticker": "OVS"}
 {"etf": "Y", "exchange": "Z", "name": "Overlay Shares Short Term Bond ETF", "test_issue": "N", "ticker": "OVT"}
 {"etf": "N", "exchange": "N", "name": "Ovintiv Inc. (DE)", "test_issue": "N", "ticker": "OVV"}
@@ -5131,7 +5131,6 @@
 {"etf": "N", "exchange": "N", "name": "Penumbra, Inc. Common Stock", "test_issue": "N", "ticker": "PEN"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long PENG Daily Target ETF", "test_issue": "N", "ticker": "PENU"}
 {"etf": "N", "exchange": "N", "name": "Adams Natural Resources Fund, Inc. Common Stock", "test_issue": "N", "ticker": "PEO"}
-{"etf": "N", "exchange": "N", "name": "Perfect Corp. Class A Ordinary Share", "test_issue": "N", "ticker": "PERF"}
 {"etf": "Y", "exchange": "P", "name": "Pacer PE/VC ETF", "test_issue": "N", "ticker": "PEVC"}
 {"etf": "N", "exchange": "N", "name": "GrabAGun Digital Holdings Inc. Common Stock", "test_issue": "N", "ticker": "PEW"}
 {"etf": "N", "exchange": "N", "name": "GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "PEW.W"}
@@ -5502,6 +5501,7 @@
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares Q Dynamic Growth ETF", "test_issue": "N", "ticker": "QPX"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "QQAU"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF", "test_issue": "N", "ticker": "QQBF"}
+{"etf": "Y", "exchange": "Z", "name": "Tuttle Capital Innovation 100 Income & Hedge ETF", "test_issue": "N", "ticker": "QQDH"}
 {"etf": "Y", "exchange": "P", "name": "HCM Defender 100 Index ETF", "test_issue": "N", "ticker": "QQH"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series", "test_issue": "N", "ticker": "QQJL"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 15% Structured Buffer ETF - June Series", "test_issue": "N", "ticker": "QQJN"}

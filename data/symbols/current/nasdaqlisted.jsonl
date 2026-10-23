@@ -379,7 +379,7 @@
 {"category": "S", "etf": "N", "name": "Aqua Metals, Inc. - Common Stock", "test_issue": "N", "ticker": "AQMS"}
 {"category": "G", "etf": "N", "name": "Aquestive Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "AQST"}
 {"category": "G", "etf": "Y", "name": "Global X Clean Water ETF", "test_issue": "N", "ticker": "AQWA"}
-{"category": "G", "etf": "N", "name": "Arrive AI Inc. - Common Stock", "test_issue": "N", "ticker": "ARAI"}
+{"category": "S", "etf": "N", "name": "Arrive AI Inc. - Common Stock", "test_issue": "N", "ticker": "ARAI"}
 {"category": "S", "etf": "N", "name": "Accuray Incorporated - Common Stock", "test_issue": "N", "ticker": "ARAY"}
 {"category": "S", "etf": "N", "name": "ARB IOT Group Limited - Ordinary Shares", "test_issue": "N", "ticker": "ARBB"}
 {"category": "S", "etf": "N", "name": "Arbe Robotics Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "ARBE"}
@@ -3031,6 +3031,7 @@
 {"category": "G", "etf": "N", "name": "Lixiang Education Holding Co., Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "LXEH"}
 {"category": "G", "etf": "N", "name": "Lexeo Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "LXEO"}
 {"category": "S", "etf": "N", "name": "Lexicon Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "LXRX"}
+{"category": "Q", "etf": "N", "name": "Lycia Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "LYCA"}
 {"category": "Q", "etf": "N", "name": "Lyell Immunopharma, Inc. - Common Stock", "test_issue": "N", "ticker": "LYEL"}
 {"category": "Q", "etf": "N", "name": "Lyft, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "LYFT"}
 {"category": "Q", "etf": "N", "name": "LSI Industries Inc. - Common Stock", "test_issue": "N", "ticker": "LYTS"}
@@ -3785,6 +3786,8 @@
 {"category": "S", "etf": "N", "name": "PAVmed Inc. - Common Stock", "test_issue": "N", "ticker": "PAVM"}
 {"category": "S", "etf": "N", "name": "Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "PAVS"}
 {"category": "Q", "etf": "N", "name": "Patria Investments Limited - Class A Common Shares", "test_issue": "N", "ticker": "PAX"}
+{"category": "G", "etf": "N", "name": "Pine Tree Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "PAXG"}
+{"category": "G", "etf": "N", "name": "Pine Tree Acquisition Corp. - Rights", "test_issue": "N", "ticker": "PAXGR"}
 {"category": "G", "etf": "N", "name": "Pine Tree Acquisition Corp. - Units", "test_issue": "N", "ticker": "PAXGU"}
 {"category": "G", "etf": "N", "name": "Payoneer Global Inc. - Common Stock", "test_issue": "N", "ticker": "PAYO"}
 {"category": "Q", "etf": "N", "name": "PayPay Corporation - American Depository Shares", "test_issue": "N", "ticker": "PAYP"}
@@ -4390,7 +4393,6 @@
 {"category": "G", "etf": "N", "name": "Space Asset Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "SAAQW"}
 {"category": "Q", "etf": "N", "name": "Sabre Corporation - Common Stock", "test_issue": "N", "ticker": "SABR"}
 {"category": "S", "etf": "N", "name": "SAB Biotherapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "SABS"}
-{"category": "S", "etf": "N", "name": "SAB Biotherapeutics, Inc. - Warrant", "test_issue": "N", "ticker": "SABSW"}
 {"category": "Q", "etf": "N", "name": "Safety Insurance Group, Inc. - Common Stock", "test_issue": "N", "ticker": "SAFT"}
 {"category": "S", "etf": "N", "name": "XCF Global, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "SAFX"}
 {"category": "S", "etf": "N", "name": "SAGTEC GLOBAL LIMITED - Class A Ordinary shares", "test_issue": "N", "ticker": "SAGT"}
@@ -4457,8 +4459,6 @@
 {"category": "G", "etf": "N", "name": "Siddhi Acquisition Corp - Unit", "test_issue": "N", "ticker": "SDHIU"}
 {"category": "S", "etf": "N", "name": "Sadot Group Inc. - Common Stock", "test_issue": "N", "ticker": "SDOT"}
 {"category": "G", "etf": "Y", "name": "American Century Short Duration Strategic Income ETF", "test_issue": "N", "ticker": "SDSI"}
-{"category": "S", "etf": "N", "name": "Stardust Power Inc. - Common Stock", "test_issue": "N", "ticker": "SDST"}
-{"category": "S", "etf": "N", "name": "Stardust Power Inc. - Warrant", "test_issue": "N", "ticker": "SDSTW"}
 {"category": "G", "etf": "Y", "name": "YieldMax S&P 500 0DTE Covered Call Strategy ETF", "test_issue": "N", "ticker": "SDTY"}
 {"category": "G", "etf": "Y", "name": "First Trust SMID Cap Rising Dividend Achievers ETF", "test_issue": "N", "ticker": "SDVY"}
 {"category": "Q", "etf": "N", "name": "Vivid Seats Inc. - Class A common stock", "test_issue": "N", "ticker": "SEAT"}
@@ -4596,6 +4596,7 @@
 {"category": "G", "etf": "Y", "name": "VanEck Fabless Semiconductor ETF", "test_issue": "N", "ticker": "SMHX"}
 {"category": "S", "etf": "N", "name": "Smith-Midland Corporation - Common Stock", "test_issue": "N", "ticker": "SMID"}
 {"category": "G", "etf": "N", "name": "Summit Therapeutics Inc.  - Common Stock", "test_issue": "N", "ticker": "SMMT"}
+{"category": "G", "etf": "Y", "name": "xETFs Samsung Group ETF", "test_issue": "N", "ticker": "SMNG"}
 {"category": "G", "etf": "Y", "name": "Symmetry Panoramic Sector Momentum ETF", "test_issue": "N", "ticker": "SMOM"}
 {"category": "S", "etf": "N", "name": "The Simply Good Foods Company - Common Stock", "test_issue": "N", "ticker": "SMPL"}
 {"category": "G", "etf": "Y", "name": "Bushido Capital US Equity ETF", "test_issue": "N", "ticker": "SMRI"}
