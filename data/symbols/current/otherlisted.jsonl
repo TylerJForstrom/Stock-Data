@@ -45,7 +45,6 @@
 {"etf": "N", "exchange": "N", "name": "Abacus Global Management, Inc. Class A Common Stock", "test_issue": "N", "ticker": "ABX"}
 {"etf": "Y", "exchange": "Z", "name": "Abacus Flexible Bond Leaders ETF", "test_issue": "N", "ticker": "ABXB"}
 {"etf": "N", "exchange": "N", "name": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028", "test_issue": "N", "ticker": "ABXL"}
-{"etf": "N", "exchange": "N", "name": "Arcosa, Inc. Common Stock ", "test_issue": "N", "ticker": "ACA"}
 {"etf": "N", "exchange": "N", "name": "Acco Brands Corporation Common Stock", "test_issue": "N", "ticker": "ACCO"}
 {"etf": "N", "exchange": "A", "name": "ACCESS Newswire Inc. Common Stock", "test_issue": "N", "ticker": "ACCS"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Equity Autocallable Income Strategy ETF", "test_issue": "N", "ticker": "ACEI"}
@@ -59,6 +58,7 @@
 {"etf": "N", "exchange": "N", "name": "Albertsons Companies, Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACI"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Growth ETF", "test_issue": "N", "ticker": "ACIG"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Index Autocallable Income Strategy ETF", "test_issue": "N", "ticker": "ACII"}
+{"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Equity ETF", "test_issue": "N", "ticker": "ACIN"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus Collared Investment Opportunity ETF", "test_issue": "N", "ticker": "ACIO"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Value ETF", "test_issue": "N", "ticker": "ACIV"}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Target 15 ACKtivist Distribution ETF", "test_issue": "N", "ticker": "ACKY"}
@@ -1085,6 +1085,7 @@
 {"etf": "N", "exchange": "A", "name": "Perspective Therapeutics, Inc. Common Stock", "test_issue": "N", "ticker": "CATX"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 15% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "CAUG"}
 {"etf": "N", "exchange": "N", "name": "CAVA Group, Inc. Common Stock", "test_issue": "N", "ticker": "CAVA"}
+{"etf": "Y", "exchange": "P", "name": "Calamos Least-Of Autocallable Income ETF", "test_issue": "N", "ticker": "CAYN"}
 {"etf": "N", "exchange": "N", "name": "Chubb Limited  Common Stock", "test_issue": "N", "ticker": "CB"}
 {"etf": "N", "exchange": "N", "name": "Colony Bankcorp, Inc. Common Stock", "test_issue": "N", "ticker": "CBAN"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi 3-12 Month T-Bill ETF", "test_issue": "N", "ticker": "CBIL"}
@@ -1137,7 +1138,6 @@
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long CRCL Daily Target ETF", "test_issue": "N", "ticker": "CCUP"}
 {"etf": "N", "exchange": "N", "name": "Comcast Holdings ZONES", "test_issue": "N", "ticker": "CCZ"}
 {"etf": "N", "exchange": "N", "name": "Coeur Mining, Inc. Common Stock", "test_issue": "N", "ticker": "CDE"}
-{"etf": "Y", "exchange": "P", "name": "Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF", "test_issue": "N", "ticker": "CDEI"}
 {"etf": "N", "exchange": "N", "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)", "test_issue": "N", "ticker": "CDLR"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long CDNS Daily ETF", "test_issue": "N", "ticker": "CDNG"}
 {"etf": "N", "exchange": "N", "name": "COPT Defense Properties Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "CDP"}
@@ -2042,7 +2042,6 @@
 {"etf": "N", "exchange": "A", "name": "Ellomay Capital Ltd Ordinary Shares (Israel)", "test_issue": "N", "ticker": "ELLO"}
 {"etf": "Y", "exchange": "P", "name": "Elm Market Navigator ETF", "test_issue": "N", "ticker": "ELM"}
 {"etf": "N", "exchange": "A", "name": "Electromed, Inc. Common Stock", "test_issue": "N", "ticker": "ELMD"}
-{"etf": "N", "exchange": "N", "name": "Elme Communities Common Stock", "test_issue": "N", "ticker": "ELME"}
 {"etf": "N", "exchange": "N", "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)", "test_issue": "N", "ticker": "ELPC"}
 {"etf": "N", "exchange": "N", "name": "Equity Lifestyle Properties, Inc. Common Stock", "test_issue": "N", "ticker": "ELS"}
 {"etf": "N", "exchange": "N", "name": "Elevance Health, Inc. Common Stock", "test_issue": "N", "ticker": "ELV"}
@@ -3007,6 +3006,7 @@
 {"etf": "N", "exchange": "N", "name": "Getty Realty Corporation Common Stock", "test_issue": "N", "ticker": "GTY"}
 {"etf": "N", "exchange": "N", "name": "Guggenheim Active Allocation Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "GUG"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Ultra Short Municipal Income ETF", "test_issue": "N", "ticker": "GUMI"}
+{"etf": "N", "exchange": "A", "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)", "test_issue": "N", "ticker": "GUNN"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Morningstar Global Upstream Natural Resources ETF", "test_issue": "N", "ticker": "GUNR"}
 {"etf": "Y", "exchange": "P", "name": "Global X Guru Index ETF", "test_issue": "N", "ticker": "GURU"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs MarketBeta U.S. 1000 Equity ETF", "test_issue": "N", "ticker": "GUSA"}
@@ -5029,7 +5029,6 @@
 {"etf": "N", "exchange": "N", "name": "Pampa Energia S.A.", "test_issue": "N", "ticker": "PAM"}
 {"etf": "Y", "exchange": "P", "name": "Pacer Lunt MidCap Multi-Factor Alternator ETF", "test_issue": "N", "ticker": "PAMC"}
 {"etf": "Y", "exchange": "P", "name": "Parametric Equity Premium Income ETF", "test_issue": "N", "ticker": "PAPI"}
-{"etf": "N", "exchange": "A", "name": "Pineapple Financial Inc. Common Stock", "test_issue": "N", "ticker": "PAPL"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Power Buffer ETF - April", "test_issue": "N", "ticker": "PAPR"}
 {"etf": "N", "exchange": "N", "name": "PAR Technology Corporation Common Stock", "test_issue": "N", "ticker": "PAR"}
 {"etf": "N", "exchange": "N", "name": "Par Pacific Holdings, Inc.  Common Stock", "test_issue": "N", "ticker": "PARR"}
@@ -5396,6 +5395,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Pacer TrendpilotTM European Index ETF", "test_issue": "N", "ticker": "PTEU"}
 {"etf": "N", "exchange": "A", "name": "Pelthos Therapeutics Inc. Common Stock", "test_issue": "N", "ticker": "PTHS"}
 {"etf": "Y", "exchange": "P", "name": "Pacer Trendpilot International ETF", "test_issue": "N", "ticker": "PTIN"}
+{"etf": "N", "exchange": "A", "name": "Pineapple Financial Inc. Common Stock", "test_issue": "N", "ticker": "PTIV"}
 {"etf": "Y", "exchange": "P", "name": "Inspire 500 ETF", "test_issue": "N", "ticker": "PTL"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Trendpilot US Large Cap ETF", "test_issue": "N", "ticker": "PTLC"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Trendpilot US Mid Cap ETF", "test_issue": "N", "ticker": "PTMC"}
@@ -7244,7 +7244,6 @@
 {"etf": "Y", "exchange": "P", "name": "Defiance S&P 500 Weekly Distribution ETF", "test_issue": "N", "ticker": "WDTE"}
 {"etf": "N", "exchange": "N", "name": "Western Asset Bond Fund Share of Beneficial Interest", "test_issue": "N", "ticker": "WEA"}
 {"etf": "Y", "exchange": "P", "name": "Teucrium Wheat Fund ETV", "test_issue": "N", "ticker": "WEAT"}
-{"etf": "N", "exchange": "N", "name": "Weave Communications, Inc. Common Stock", "test_issue": "N", "ticker": "WEAV"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Dow Jones Internet Bull 3X ETF", "test_issue": "N", "ticker": "WEBL"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Dow Jones Internet Bear 3X ETF", "test_issue": "N", "ticker": "WEBS"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Chinese Internet 2x Daily ETF", "test_issue": "N", "ticker": "WEBX"}

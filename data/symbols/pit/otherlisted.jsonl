@@ -45,7 +45,7 @@
 {"etf": "N", "exchange": "N", "name": "Abacus Global Management, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ABX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Abacus Flexible Bond Leaders ETF", "provable_from": false, "test_issue": "N", "ticker": "ABXB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028", "provable_from": false, "test_issue": "N", "ticker": "ABXL", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Arcosa, Inc. Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "ACA", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Arcosa, Inc. Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "ACA", "valid_from": "2026-07-28", "valid_to": "2026-10-26"}
 {"etf": "N", "exchange": "N", "name": "Acco Brands Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACCO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "ACCESS Newswire Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACCS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Innovator Equity Autocallable Income Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "ACEI", "valid_from": "2026-07-28", "valid_to": null}
@@ -60,6 +60,7 @@
 {"etf": "N", "exchange": "N", "name": "Albertsons Companies, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "ACIG", "valid_from": "2026-09-30", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Innovator Index Autocallable Income Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "ACII", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Equity ETF", "provable_from": true, "test_issue": "N", "ticker": "ACIN", "valid_from": "2026-10-26", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Aptus Collared Investment Opportunity ETF", "provable_from": false, "test_issue": "N", "ticker": "ACIO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture International Value ETF", "provable_from": true, "test_issue": "N", "ticker": "ACIV", "valid_from": "2026-10-19", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Target 15 ACKtivist Distribution ETF", "provable_from": false, "test_issue": "N", "ticker": "ACKY", "valid_from": "2026-07-28", "valid_to": null}
@@ -1124,6 +1125,7 @@
 {"etf": "N", "exchange": "A", "name": "Perspective Therapeutics, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CATX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 15% Structured Buffer ETF - August Series", "provable_from": true, "test_issue": "N", "ticker": "CAUG", "valid_from": "2026-08-04", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "CAVA Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CAVA", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Calamos Least-Of Autocallable Income ETF", "provable_from": true, "test_issue": "N", "ticker": "CAYN", "valid_from": "2026-10-26", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Chubb Limited  Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Colony Bankcorp, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CBAN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi 3-12 Month T-Bill ETF", "provable_from": false, "test_issue": "N", "ticker": "CBIL", "valid_from": "2026-07-28", "valid_to": null}
@@ -1177,7 +1179,7 @@
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long CRCL Daily Target ETF", "provable_from": false, "test_issue": "N", "ticker": "CCUP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Comcast Holdings ZONES", "provable_from": false, "test_issue": "N", "ticker": "CCZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Coeur Mining, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CDE", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF", "provable_from": false, "test_issue": "N", "ticker": "CDEI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF", "provable_from": false, "test_issue": "N", "ticker": "CDEI", "valid_from": "2026-07-28", "valid_to": "2026-10-26"}
 {"etf": "N", "exchange": "N", "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)", "provable_from": false, "test_issue": "N", "ticker": "CDLR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long CDNS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "CDNG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "COPT Defense Properties Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "CDP", "valid_from": "2026-07-28", "valid_to": null}
@@ -2120,7 +2122,7 @@
 {"etf": "N", "exchange": "A", "name": "Ellomay Capital Ltd Ordinary Shares (Israel)", "provable_from": false, "test_issue": "N", "ticker": "ELLO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Elm Market Navigator ETF", "provable_from": false, "test_issue": "N", "ticker": "ELM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Electromed, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ELMD", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Elme Communities Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ELME", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Elme Communities Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ELME", "valid_from": "2026-07-28", "valid_to": "2026-10-26"}
 {"etf": "N", "exchange": "N", "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)", "provable_from": false, "test_issue": "N", "ticker": "ELPC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Equity Lifestyle Properties, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ELS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Elevance Health, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ELV", "valid_from": "2026-07-28", "valid_to": null}
@@ -3107,6 +3109,7 @@
 {"etf": "N", "exchange": "N", "name": "Getty Realty Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GTY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Guggenheim Active Allocation Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "GUG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Ultra Short Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "GUMI", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)", "provable_from": true, "test_issue": "N", "ticker": "GUNN", "valid_from": "2026-10-26", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "FlexShares Global Upstream Natural Resources Index Fund ETF", "provable_from": false, "test_issue": "N", "ticker": "GUNR", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Morningstar Global Upstream Natural Resources ETF", "provable_from": true, "test_issue": "N", "ticker": "GUNR", "valid_from": "2026-08-17", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X Guru Index ETF", "provable_from": false, "test_issue": "N", "ticker": "GURU", "valid_from": "2026-07-28", "valid_to": null}
@@ -5230,7 +5233,7 @@
 {"etf": "N", "exchange": "N", "name": "Pampa Energia S.A.", "provable_from": false, "test_issue": "N", "ticker": "PAM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Pacer Lunt MidCap Multi-Factor Alternator ETF", "provable_from": false, "test_issue": "N", "ticker": "PAMC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Parametric Equity Premium Income ETF", "provable_from": false, "test_issue": "N", "ticker": "PAPI", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "A", "name": "Pineapple Financial Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PAPL", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Pineapple Financial Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PAPL", "valid_from": "2026-07-28", "valid_to": "2026-10-26"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Power Buffer ETF - April", "provable_from": false, "test_issue": "N", "ticker": "PAPR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "PAR Technology Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PAR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Par Pacific Holdings, Inc.  Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PARR", "valid_from": "2026-07-28", "valid_to": null}
@@ -5608,6 +5611,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Pacer TrendpilotTM European Index ETF", "provable_from": false, "test_issue": "N", "ticker": "PTEU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Pelthos Therapeutics Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PTHS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Pacer Trendpilot International ETF", "provable_from": false, "test_issue": "N", "ticker": "PTIN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "Pineapple Financial Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "PTIV", "valid_from": "2026-10-26", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Inspire 500 ETF", "provable_from": false, "test_issue": "N", "ticker": "PTL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Trendpilot US Large Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "PTLC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Trendpilot US Mid Cap ETF", "provable_from": false, "test_issue": "N", "ticker": "PTMC", "valid_from": "2026-07-28", "valid_to": null}
@@ -7542,7 +7546,7 @@
 {"etf": "Y", "exchange": "P", "name": "Defiance S&P 500 Weekly Distribution ETF", "provable_from": false, "test_issue": "N", "ticker": "WDTE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Western Asset Bond Fund Share of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "WEA", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Teucrium Wheat Fund ETV", "provable_from": false, "test_issue": "N", "ticker": "WEAT", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Weave Communications, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WEAV", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Weave Communications, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "WEAV", "valid_from": "2026-07-28", "valid_to": "2026-10-26"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Dow Jones Internet Bull 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "WEBL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Dow Jones Internet Bear 3X ETF", "provable_from": false, "test_issue": "N", "ticker": "WEBS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Chinese Internet 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "WEBX", "valid_from": "2026-07-28", "valid_to": null}
