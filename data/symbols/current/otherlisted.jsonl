@@ -3818,7 +3818,6 @@
 {"etf": "N", "exchange": "N", "name": "Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant", "test_issue": "N", "ticker": "KCA.U"}
 {"etf": "N", "exchange": "N", "name": "Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant", "test_issue": "N", "ticker": "KCAC.U"}
 {"etf": "N", "exchange": "N", "name": "Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50", "test_issue": "N", "ticker": "KCAC.W"}
-{"etf": "Y", "exchange": "P", "name": "KraneShares China Alpha Index ETF", "test_issue": "N", "ticker": "KCAI"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares California Carbon Allowance Strategy ETF", "test_issue": "N", "ticker": "KCCA"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Capital Markets ETF", "test_issue": "N", "ticker": "KCE"}
 {"etf": "Y", "exchange": "P", "name": "KICK Korea Semiconductor Index ETF", "test_issue": "N", "ticker": "KCHP"}
@@ -3854,7 +3853,6 @@
 {"etf": "N", "exchange": "N", "name": "Kodiak Gas Services, Inc. Common Stock", "test_issue": "N", "ticker": "KGS"}
 {"etf": "N", "exchange": "N", "name": "The Kraft Heinz Company Common Stock", "test_issue": "N", "ticker": "KHC"}
 {"etf": "Y", "exchange": "Z", "name": "Kensington Hedged Premium Income ETF", "test_issue": "N", "ticker": "KHPI"}
-{"etf": "Y", "exchange": "P", "name": "KraneShares Asia Pacific High Income USD Bond ETF", "test_issue": "N", "ticker": "KHYB"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Insurance ETF", "test_issue": "N", "ticker": "KIE"}
 {"etf": "N", "exchange": "N", "name": "Kimco Realty Corporation (HC) Common Stock", "test_issue": "N", "ticker": "KIM"}
 {"etf": "N", "exchange": "N", "name": "Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share", "test_issue": "N", "ticker": "KIM$L"}
@@ -4457,9 +4455,8 @@
 {"etf": "Y", "exchange": "Z", "name": "T-Rex 2X Long Microsoft Daily Target ETF", "test_issue": "N", "ticker": "MSFX"}
 {"etf": "Y", "exchange": "Z", "name": "Kurv Yield Premium Strategy Microsoft (MSFT) ETF", "test_issue": "N", "ticker": "MSFY"}
 {"etf": "N", "exchange": "N", "name": "Madison Square Garden Entertainment Corp. Class A Common Stock", "test_issue": "N", "ticker": "MSGE"}
-{"etf": "N", "exchange": "N", "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued", "test_issue": "N", "ticker": "MSGK.V"}
-{"etf": "N", "exchange": "N", "name": "MSG Rangers Corp. Class A Common Stock When-Issued", "test_issue": "N", "ticker": "MSGR.V"}
-{"etf": "N", "exchange": "N", "name": "Madison Square Garden Sports Corp. Class A Common Stock (New)", "test_issue": "N", "ticker": "MSGS"}
+{"etf": "N", "exchange": "N", "name": "MSG Knickerbockers Corp. Class A Common Stock", "test_issue": "N", "ticker": "MSGK"}
+{"etf": "N", "exchange": "N", "name": "MSG Rangers Corp. Class A Common Stock", "test_issue": "N", "ticker": "MSGR"}
 {"etf": "N", "exchange": "N", "name": "Motorola Solutions, Inc. Common Stock", "test_issue": "N", "ticker": "MSI"}
 {"etf": "N", "exchange": "N", "name": "MSC Income Fund, Inc. Common Stock", "test_issue": "N", "ticker": "MSIF"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi MSI 2x Daily ETF", "test_issue": "N", "ticker": "MSIX"}
@@ -6684,7 +6681,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Top WeeklyPay ETF", "test_issue": "N", "ticker": "TOPW"}
 {"etf": "Y", "exchange": "Z", "name": "Twin Oak Strategic Solutions ETF", "test_issue": "N", "ticker": "TOS"}
 {"etf": "N", "exchange": "N", "name": "Toast, Inc. Class A Common Stock", "test_issue": "N", "ticker": "TOST"}
-{"etf": "Y", "exchange": "P", "name": "LionShares U.S. Equity Total Return ETF", "test_issue": "N", "ticker": "TOT"}
 {"etf": "Y", "exchange": "P", "name": "State Street DoubleLine Total Return Tactical ETF", "test_issue": "N", "ticker": "TOTL"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Total Return ETF", "test_issue": "N", "ticker": "TOTR"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price International Equity ETF", "test_issue": "N", "ticker": "TOUS"}
@@ -7219,6 +7215,7 @@
 {"etf": "Y", "exchange": "P", "name": "WBI BullBear Yield 3000 ETF", "test_issue": "N", "ticker": "WBIG"}
 {"etf": "Y", "exchange": "P", "name": "WBI BullBear Quality 3000 ETF", "test_issue": "N", "ticker": "WBIL"}
 {"etf": "Y", "exchange": "N", "name": "WBI Power Factor High Dividend ETF", "test_issue": "N", "ticker": "WBIY"}
+{"etf": "Y", "exchange": "P", "name": "VanEck Wealth Builder ETF", "test_issue": "N", "ticker": "WBMO"}
 {"etf": "N", "exchange": "N", "name": "Wallbox N.V. Class A Ordinary Shares", "test_issue": "N", "ticker": "WBX"}
 {"etf": "Y", "exchange": "P", "name": "WarCap Unconstrained Equity ETF", "test_issue": "N", "ticker": "WCAP"}
 {"etf": "N", "exchange": "N", "name": "WESCO International, Inc. Common Stock", "test_issue": "N", "ticker": "WCC"}
