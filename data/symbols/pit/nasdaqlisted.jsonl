@@ -110,7 +110,7 @@
 {"category": "Q", "etf": "N", "name": "Adeia Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADEA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Adagio Medical Holdings, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADGM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Analog Devices, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Adial Pharmaceuticals, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADIL", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Adial Pharmaceuticals, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADIL", "valid_from": "2026-07-28", "valid_to": "2026-10-29"}
 {"category": "G", "etf": "N", "name": "ADMA Biologics Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADMA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Automatic Data Processing, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Adaptive Biotechnologies Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ADPT", "valid_from": "2026-07-28", "valid_to": null}
@@ -564,6 +564,7 @@
 {"category": "S", "etf": "N", "name": "A2Z Cust2Mate Solutions Corp. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "AZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "AZI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Azio AI Holdings, Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "AZIO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Azora Therapeutics, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "AZR", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Azenta, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AZTA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost AMZN ETF", "provable_from": false, "test_issue": "N", "ticker": "AZYY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Direxion Daily BABA Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "BABU", "valid_from": "2026-07-28", "valid_to": null}
@@ -685,6 +686,7 @@
 {"category": "G", "etf": "Y", "name": "iShares USD Green Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BGRN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Large Cap Growth Active ETF", "provable_from": false, "test_issue": "N", "ticker": "BGRO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Baillie Gifford U.S. Equity Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "BGUS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "BHAV Acquisition Corp II - Units", "provable_from": true, "test_issue": "N", "ticker": "BHAIU", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BHAV Acquisition Corp - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BHAV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BHAV Acquisition Corp - Rights", "provable_from": false, "test_issue": "N", "ticker": "BHAVR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BHAV Acquisition Corp - Units", "provable_from": false, "test_issue": "N", "ticker": "BHAVU", "valid_from": "2026-07-28", "valid_to": null}
@@ -1830,6 +1832,7 @@
 {"category": "G", "etf": "N", "name": "Fate Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FATE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "FatPipe, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "FATN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "First Breach Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "FBDT", "valid_from": "2026-08-21", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Franklin US Equity Bitcoin Drip Index ETF", "provable_from": true, "test_issue": "N", "ticker": "FBEQ", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "S", "etf": "N", "name": "FBS Global Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FBGL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Fortress Biotech, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FBIO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "FBIOP", "valid_from": "2026-07-28", "valid_to": null}
@@ -1924,6 +1927,7 @@
 {"category": "Q", "etf": "N", "name": "First Hawaiian, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FHB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Foghorn Therapeutics Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FHTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Interstate BancSystem, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FIBK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Franklin US Innovation Bitcoin DRIP Index ETF", "provable_from": true, "test_issue": "N", "ticker": "FIBT", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust International Developed Capital Strength ETF", "provable_from": false, "test_issue": "N", "ticker": "FICS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust S&P International Dividend Aristocrats ETF", "provable_from": false, "test_issue": "N", "ticker": "FID", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "FiEE, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FIEE", "valid_from": "2026-07-28", "valid_to": null}
@@ -2135,6 +2139,7 @@
 {"category": "Q", "etf": "N", "name": "StealthGas, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "GASS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Gauzy Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GAUZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Grayscale Avalanche Staking ETF", "provable_from": false, "test_issue": "N", "ticker": "GAVA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Georgia Banking Company, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "GBC", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Golub Capital BDC, Inc. - Closed End Fund", "provable_from": false, "test_issue": "N", "ticker": "GBDC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "GBank Financial Holdings Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GBFH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Global Indemnity Group, LLC - Class A Common Shares", "provable_from": false, "test_issue": "N", "ticker": "GBLI", "valid_from": "2026-07-28", "valid_to": null}
@@ -2873,7 +2878,8 @@
 {"category": "G", "etf": "Y", "name": "Lazard Japanese Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "JPY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Jerash Holdings (US), Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JRSH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "James River Group Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JRVR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Navient Corporation - 6% Senior Notes due December 15, 2043", "provable_from": false, "test_issue": "N", "ticker": "JSM", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Navient Corporation - 6% Senior Notes due December 15, 2043", "provable_from": false, "test_issue": "N", "ticker": "JSM", "valid_from": "2026-07-28", "valid_to": "2026-10-29"}
+{"category": "Q", "etf": "N", "name": "Navient LLC - 6% Senior Notes due December 15, 2043", "provable_from": true, "test_issue": "N", "ticker": "JSM", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Small/Mid Cap Growth Alpha ETF", "provable_from": false, "test_issue": "N", "ticker": "JSMD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Small Cap Growth Alpha ETF", "provable_from": false, "test_issue": "N", "ticker": "JSML", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Jasper Therapeutics, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JSPR", "valid_from": "2026-07-28", "valid_to": null}
@@ -3550,7 +3556,8 @@
 {"category": "G", "etf": "Y", "name": "Themes Transatlantic Defense ETF", "provable_from": false, "test_issue": "N", "ticker": "NATO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nature's Sunshine Products, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NATR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nautilus Biotechnology, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NAUT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Navient Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NAVI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Navient Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NAVI", "valid_from": "2026-07-28", "valid_to": "2026-10-29"}
+{"category": "Q", "etf": "N", "name": "Navient Holdings, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "NAVI", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Navan, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NAVN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "NioCorp Developments Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NB Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NBBK", "valid_from": "2026-07-28", "valid_to": null}
@@ -4824,7 +4831,8 @@
 {"category": "S", "etf": "N", "name": "Sol-Gel Technologies Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SLGL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "SLM Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B", "provable_from": false, "test_issue": "N", "ticker": "SLMBP", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Brera Holdings PLC - Class B Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SLMT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Brera Holdings PLC - Class B Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SLMT", "valid_from": "2026-07-28", "valid_to": "2026-10-29"}
+{"category": "S", "etf": "N", "name": "Solmate Infrastructure Public Limited Company - Class B Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "SLMT", "valid_from": "2026-10-29", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Silence Therapeutics Plc - American Depository Share", "provable_from": false, "test_issue": "N", "ticker": "SLN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Stabilis Solutions, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLNG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Soluna Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SLNH", "valid_from": "2026-07-28", "valid_to": null}

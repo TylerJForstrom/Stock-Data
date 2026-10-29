@@ -106,7 +106,6 @@
 {"category": "Q", "etf": "N", "name": "Adeia Inc.  - Common Stock", "test_issue": "N", "ticker": "ADEA"}
 {"category": "S", "etf": "N", "name": "Adagio Medical Holdings, Inc - Common Stock", "test_issue": "N", "ticker": "ADGM"}
 {"category": "Q", "etf": "N", "name": "Analog Devices, Inc. - Common Stock", "test_issue": "N", "ticker": "ADI"}
-{"category": "S", "etf": "N", "name": "Adial Pharmaceuticals, Inc - Common Stock", "test_issue": "N", "ticker": "ADIL"}
 {"category": "G", "etf": "N", "name": "ADMA Biologics Inc - Common Stock", "test_issue": "N", "ticker": "ADMA"}
 {"category": "Q", "etf": "N", "name": "Automatic Data Processing, Inc. - Common Stock", "test_issue": "N", "ticker": "ADP"}
 {"category": "Q", "etf": "N", "name": "Adaptive Biotechnologies Corporation - Common Stock", "test_issue": "N", "ticker": "ADPT"}
@@ -536,6 +535,7 @@
 {"category": "S", "etf": "N", "name": "A2Z Cust2Mate Solutions Corp. - Common Shares", "test_issue": "N", "ticker": "AZ"}
 {"category": "S", "etf": "N", "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "AZI"}
 {"category": "S", "etf": "N", "name": "Azio AI Holdings, Inc. - Common stock", "test_issue": "N", "ticker": "AZIO"}
+{"category": "S", "etf": "N", "name": "Azora Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "AZR"}
 {"category": "Q", "etf": "N", "name": "Azenta, Inc. - Common Stock", "test_issue": "N", "ticker": "AZTA"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBoost AMZN ETF", "test_issue": "N", "ticker": "AZYY"}
 {"category": "G", "etf": "Y", "name": "Direxion Daily BABA Bull 2X ETF", "test_issue": "N", "ticker": "BABU"}
@@ -647,6 +647,7 @@
 {"category": "G", "etf": "Y", "name": "iShares USD Green Bond ETF", "test_issue": "N", "ticker": "BGRN"}
 {"category": "G", "etf": "Y", "name": "iShares Large Cap Growth Active ETF", "test_issue": "N", "ticker": "BGRO"}
 {"category": "G", "etf": "Y", "name": "Baillie Gifford U.S. Equity Growth ETF", "test_issue": "N", "ticker": "BGUS"}
+{"category": "G", "etf": "N", "name": "BHAV Acquisition Corp II - Units", "test_issue": "N", "ticker": "BHAIU"}
 {"category": "G", "etf": "N", "name": "BHAV Acquisition Corp - Class A Ordinary Shares", "test_issue": "N", "ticker": "BHAV"}
 {"category": "G", "etf": "N", "name": "BHAV Acquisition Corp - Rights", "test_issue": "N", "ticker": "BHAVR"}
 {"category": "G", "etf": "N", "name": "BHAV Acquisition Corp - Units", "test_issue": "N", "ticker": "BHAVU"}
@@ -1732,6 +1733,7 @@
 {"category": "G", "etf": "N", "name": "Fate Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "FATE"}
 {"category": "S", "etf": "N", "name": "FatPipe, Inc. - common stock", "test_issue": "N", "ticker": "FATN"}
 {"category": "S", "etf": "N", "name": "First Breach Inc. - Common Stock", "test_issue": "N", "ticker": "FBDT"}
+{"category": "G", "etf": "Y", "name": "Franklin US Equity Bitcoin Drip Index ETF", "test_issue": "N", "ticker": "FBEQ"}
 {"category": "S", "etf": "N", "name": "FBS Global Limited - Ordinary Shares", "test_issue": "N", "ticker": "FBGL"}
 {"category": "S", "etf": "N", "name": "Fortress Biotech, Inc. - Common Stock", "test_issue": "N", "ticker": "FBIO"}
 {"category": "S", "etf": "N", "name": "Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock", "test_issue": "N", "ticker": "FBIOP"}
@@ -1821,6 +1823,7 @@
 {"category": "Q", "etf": "N", "name": "First Hawaiian, Inc. - Common Stock", "test_issue": "N", "ticker": "FHB"}
 {"category": "G", "etf": "N", "name": "Foghorn Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "FHTX"}
 {"category": "Q", "etf": "N", "name": "First Interstate BancSystem, Inc. - Common Stock", "test_issue": "N", "ticker": "FIBK"}
+{"category": "G", "etf": "Y", "name": "Franklin US Innovation Bitcoin DRIP Index ETF", "test_issue": "N", "ticker": "FIBT"}
 {"category": "G", "etf": "Y", "name": "First Trust International Developed Capital Strength ETF", "test_issue": "N", "ticker": "FICS"}
 {"category": "G", "etf": "Y", "name": "First Trust S&P International Dividend Aristocrats ETF", "test_issue": "N", "ticker": "FID"}
 {"category": "S", "etf": "N", "name": "FiEE, Inc - Common Stock", "test_issue": "N", "ticker": "FIEE"}
@@ -2024,6 +2027,7 @@
 {"category": "Q", "etf": "N", "name": "StealthGas, Inc. - common stock", "test_issue": "N", "ticker": "GASS"}
 {"category": "G", "etf": "N", "name": "Gauzy Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "GAUZ"}
 {"category": "G", "etf": "Y", "name": "Grayscale Avalanche Staking ETF", "test_issue": "N", "ticker": "GAVA"}
+{"category": "S", "etf": "N", "name": "Georgia Banking Company, Inc. - Common Stock", "test_issue": "N", "ticker": "GBC"}
 {"category": "Q", "etf": "N", "name": "Golub Capital BDC, Inc. - Closed End Fund", "test_issue": "N", "ticker": "GBDC"}
 {"category": "S", "etf": "N", "name": "GBank Financial Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "GBFH"}
 {"category": "Q", "etf": "N", "name": "Global Indemnity Group, LLC - Class A Common Shares", "test_issue": "N", "ticker": "GBLI"}
@@ -2723,7 +2727,7 @@
 {"category": "G", "etf": "Y", "name": "Lazard Japanese Equity ETF", "test_issue": "N", "ticker": "JPY"}
 {"category": "S", "etf": "N", "name": "Jerash Holdings (US), Inc. - Common Stock", "test_issue": "N", "ticker": "JRSH"}
 {"category": "Q", "etf": "N", "name": "James River Group Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "JRVR"}
-{"category": "Q", "etf": "N", "name": "Navient Corporation - 6% Senior Notes due December 15, 2043", "test_issue": "N", "ticker": "JSM"}
+{"category": "Q", "etf": "N", "name": "Navient LLC - 6% Senior Notes due December 15, 2043", "test_issue": "N", "ticker": "JSM"}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Small/Mid Cap Growth Alpha ETF", "test_issue": "N", "ticker": "JSMD"}
 {"category": "G", "etf": "Y", "name": "Janus Henderson Small Cap Growth Alpha ETF", "test_issue": "N", "ticker": "JSML"}
 {"category": "S", "etf": "N", "name": "Jasper Therapeutics, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "JSPR"}
@@ -3353,7 +3357,7 @@
 {"category": "G", "etf": "Y", "name": "Themes Transatlantic Defense ETF", "test_issue": "N", "ticker": "NATO"}
 {"category": "S", "etf": "N", "name": "Nature's Sunshine Products, Inc. - Common Stock", "test_issue": "N", "ticker": "NATR"}
 {"category": "S", "etf": "N", "name": "Nautilus Biotechnology, Inc. - Common Stock", "test_issue": "N", "ticker": "NAUT"}
-{"category": "Q", "etf": "N", "name": "Navient Corporation - Common Stock", "test_issue": "N", "ticker": "NAVI"}
+{"category": "Q", "etf": "N", "name": "Navient Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "NAVI"}
 {"category": "Q", "etf": "N", "name": "Navan, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "NAVN"}
 {"category": "G", "etf": "N", "name": "NioCorp Developments Ltd. - Common Stock", "test_issue": "N", "ticker": "NB"}
 {"category": "S", "etf": "N", "name": "NB Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "NBBK"}
@@ -4566,7 +4570,7 @@
 {"category": "S", "etf": "N", "name": "Sol-Gel Technologies Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "SLGL"}
 {"category": "Q", "etf": "N", "name": "SLM Corporation - Common Stock", "test_issue": "N", "ticker": "SLM"}
 {"category": "Q", "etf": "N", "name": "SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B", "test_issue": "N", "ticker": "SLMBP"}
-{"category": "S", "etf": "N", "name": "Brera Holdings PLC - Class B Ordinary Shares", "test_issue": "N", "ticker": "SLMT"}
+{"category": "S", "etf": "N", "name": "Solmate Infrastructure Public Limited Company - Class B Ordinary Shares", "test_issue": "N", "ticker": "SLMT"}
 {"category": "G", "etf": "N", "name": "Silence Therapeutics Plc - American Depository Share", "test_issue": "N", "ticker": "SLN"}
 {"category": "S", "etf": "N", "name": "Stabilis Solutions, Inc. - Common Stock", "test_issue": "N", "ticker": "SLNG"}
 {"category": "S", "etf": "N", "name": "Soluna Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "SLNH"}

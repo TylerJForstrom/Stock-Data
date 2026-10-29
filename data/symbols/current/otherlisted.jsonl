@@ -1147,7 +1147,7 @@
 {"etf": "N", "exchange": "N", "name": "Cadre Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "CDRE"}
 {"etf": "Y", "exchange": "P", "name": "Simplify High Yield ETF", "test_issue": "N", "ticker": "CDX"}
 {"etf": "N", "exchange": "N", "name": "Celanese Corporation Common Stock", "test_issue": "N", "ticker": "CE"}
-{"etf": "N", "exchange": "F", "name": "CECO Environmental Corp. Common Stock", "test_issue": "N", "ticker": "CECO"}
+{"etf": "N", "exchange": "TXSE", "name": "CECO Environmental Corp. Common Stock", "test_issue": "N", "ticker": "CECO"}
 {"etf": "N", "exchange": "N", "name": "The Central and Eastern Europe Fund, Inc. (The) Common Stock", "test_issue": "N", "ticker": "CEE"}
 {"etf": "Y", "exchange": "P", "name": "Sprott Physical Gold and Silver Trust Units", "test_issue": "N", "ticker": "CEF"}
 {"etf": "Y", "exchange": "P", "name": "ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN", "test_issue": "N", "ticker": "CEFD"}
@@ -1486,7 +1486,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify Managed Futures Strategy ETF", "test_issue": "N", "ticker": "CTA"}
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $3.50 Series", "test_issue": "N", "ticker": "CTA$A"}
 {"etf": "N", "exchange": "N", "name": "EIDP, Inc. Preferred Stock $4.50 Series", "test_issue": "N", "ticker": "CTA$B"}
-{"etf": "Y", "exchange": "F", "name": "Calamos Timpani Active SMID Growth ETF", "test_issue": "N", "ticker": "CTAG"}
+{"etf": "Y", "exchange": "TXSE", "name": "Calamos Timpani Active SMID Growth ETF", "test_issue": "N", "ticker": "CTAG"}
 {"etf": "Y", "exchange": "P", "name": "Simplify US Equity PLUS Managed Futures Strategy ETF", "test_issue": "N", "ticker": "CTAP"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 30% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "CTAU"}
 {"etf": "Y", "exchange": "Z", "name": "Castellan Targeted Equity ETF", "test_issue": "N", "ticker": "CTEF"}
@@ -1621,9 +1621,9 @@
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree Dynamic International SmallCap Equity Fund", "test_issue": "N", "ticker": "DDLS"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Dow30", "test_issue": "N", "ticker": "DDM"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Dual Directional 5 Buffer ETF - Quarterly", "test_issue": "N", "ticker": "DDNQ"}
-{"etf": "N", "exchange": "F", "name": "Dillard's, Inc. Common Stock", "test_issue": "N", "ticker": "DDS"}
+{"etf": "N", "exchange": "TXSE", "name": "Dillard's, Inc. Common Stock", "test_issue": "N", "ticker": "DDS"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 5 Buffer ETF - Quarterly", "test_issue": "N", "ticker": "DDSQ"}
-{"etf": "N", "exchange": "F", "name": "Dillard's Capital Trust I", "test_issue": "N", "ticker": "DDT"}
+{"etf": "N", "exchange": "TXSE", "name": "Dillard's Capital Trust I", "test_issue": "N", "ticker": "DDT"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - April", "test_issue": "N", "ticker": "DDTA"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - December", "test_issue": "N", "ticker": "DDTD"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Dual Directional 10 Buffer ETF - February", "test_issue": "N", "ticker": "DDTF"}
@@ -2035,6 +2035,7 @@
 {"etf": "N", "exchange": "A", "name": "Envela Corporation Common Stock", "test_issue": "N", "ticker": "ELA"}
 {"etf": "N", "exchange": "N", "name": "Elanco Animal Health Incorporated Common Stock", "test_issue": "N", "ticker": "ELAN"}
 {"etf": "N", "exchange": "N", "name": "Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066", "test_issue": "N", "ticker": "ELC"}
+{"etf": "Y", "exchange": "P", "name": "Eventide Large Cap Focus ETF", "test_issue": "N", "ticker": "ELCF"}
 {"etf": "Y", "exchange": "P", "name": "Strategy Shares Eventide High Dividend ETF", "test_issue": "N", "ticker": "ELCV"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Emerging Markets Local Debt Fund", "test_issue": "N", "ticker": "ELD"}
 {"etf": "N", "exchange": "N", "name": "e.l.f. Beauty, Inc. Common Stock", "test_issue": "N", "ticker": "ELF"}
@@ -2177,11 +2178,12 @@
 {"etf": "Y", "exchange": "P", "name": "Eventide Small Cap ETF", "test_issue": "N", "ticker": "ESSC"}
 {"etf": "N", "exchange": "N", "name": "Elastic N.V. Ordinary Shares", "test_issue": "N", "ticker": "ESTC"}
 {"etf": "Y", "exchange": "P", "name": "Eventide US Market ETF", "test_issue": "N", "ticker": "ESUM"}
-{"etf": "N", "exchange": "F", "name": "Energy Transfer LP Common Units", "test_issue": "N", "ticker": "ET"}
-{"etf": "N", "exchange": "F", "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units", "test_issue": "N", "ticker": "ET$I"}
+{"etf": "N", "exchange": "TXSE", "name": "Energy Transfer LP Common Units", "test_issue": "N", "ticker": "ET"}
+{"etf": "N", "exchange": "TXSE", "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units", "test_issue": "N", "ticker": "ET$I"}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ETB"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Ethereum High Income ETF", "test_issue": "N", "ticker": "ETCO"}
 {"etf": "N", "exchange": "N", "name": "Ethan Allen Interiors Inc. Common Stock", "test_issue": "N", "ticker": "ETD"}
+{"etf": "Y", "exchange": "P", "name": "Eventide Dividend Growth ETF", "test_issue": "N", "ticker": "ETDG"}
 {"etf": "Y", "exchange": "P", "name": "Fundsmith Equity ETF", "test_issue": "N", "ticker": "ETFT"}
 {"etf": "N", "exchange": "N", "name": "Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "ETG"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Ethereum Staking Mini ETF Shares", "test_issue": "N", "ticker": "ETH"}
@@ -2431,7 +2433,7 @@
 {"etf": "N", "exchange": "N", "name": "Fair Isaac Corporation Common Stock", "test_issue": "N", "ticker": "FICO"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity International High Dividend ETF", "test_issue": "N", "ticker": "FIDI"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity MSCI Industrials Index ETF", "test_issue": "N", "ticker": "FIDU"}
-{"etf": "Y", "exchange": "F", "name": "HCM Select 50 ETF", "test_issue": "N", "ticker": "FIFT"}
+{"etf": "Y", "exchange": "TXSE", "name": "HCM Select 50 ETF", "test_issue": "N", "ticker": "FIFT"}
 {"etf": "N", "exchange": "N", "name": "Figma, Inc. Class A Common Stock", "test_issue": "N", "ticker": "FIG"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity Investment Grade Bond ETF", "test_issue": "N", "ticker": "FIGB"}
 {"etf": "N", "exchange": "N", "name": "FIGS, Inc. Class A Common Stock", "test_issue": "N", "ticker": "FIGS"}
@@ -3311,7 +3313,7 @@
 {"etf": "N", "exchange": "N", "name": "ICICI Bank Limited Common Stock", "test_issue": "N", "ticker": "IBN"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Bloomberg International Corporate Bond ETF", "test_issue": "N", "ticker": "IBND"}
 {"etf": "N", "exchange": "A", "name": "Impact BioMedical, Inc. Common Stock", "test_issue": "N", "ticker": "IBO"}
-{"etf": "N", "exchange": "F", "name": "International Bancshares Corporation Common Stock", "test_issue": "N", "ticker": "IBOC"}
+{"etf": "N", "exchange": "TXSE", "name": "International Bancshares Corporation Common Stock", "test_issue": "N", "ticker": "IBOC"}
 {"etf": "N", "exchange": "N", "name": "Installed Building Products, Inc. Common Stock", "test_issue": "N", "ticker": "IBP"}
 {"etf": "Y", "exchange": "P", "name": "iShares Neuroscience and Healthcare ETF", "test_issue": "N", "ticker": "IBRN"}
 {"etf": "N", "exchange": "N", "name": "Ibotta, Inc. Class A Common Stock", "test_issue": "N", "ticker": "IBTA"}
@@ -3323,7 +3325,7 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares Select U.S. REIT ETF", "test_issue": "N", "ticker": "ICF"}
 {"etf": "N", "exchange": "N", "name": "ICL Group Ltd. Ordinary Shares", "test_issue": "N", "ticker": "ICL"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco AAA CLO Floating Rate Note ETF", "test_issue": "N", "ticker": "ICLO"}
-{"etf": "Y", "exchange": "F", "name": "Tema Commodity Income ETF", "test_issue": "N", "ticker": "ICOM"}
+{"etf": "Y", "exchange": "TXSE", "name": "Tema Commodity Income ETF", "test_issue": "N", "ticker": "ICOM"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer Developed Markets International Cash Cows 100 ETF", "test_issue": "N", "ticker": "ICOW"}
 {"etf": "Y", "exchange": "P", "name": "iShares 0-1 Year TIPS Bond ETF", "test_issue": "N", "ticker": "ICPI"}
 {"etf": "Y", "exchange": "P", "name": "Tweedy, Browne International Insider + Value ETF", "test_issue": "N", "ticker": "ICPY"}
@@ -3423,7 +3425,7 @@
 {"etf": "Y", "exchange": "P", "name": "First Trust Innovation Leaders ETF", "test_issue": "N", "ticker": "ILDR"}
 {"etf": "Y", "exchange": "P", "name": "iShares Latin America 40 ETF", "test_issue": "N", "ticker": "ILF"}
 {"etf": "Y", "exchange": "P", "name": "AB International Low Volatility Equity ETF", "test_issue": "N", "ticker": "ILOW"}
-{"etf": "Y", "exchange": "F", "name": "Brookmont Catastrophic Bond ETF", "test_issue": "N", "ticker": "ILS"}
+{"etf": "Y", "exchange": "TXSE", "name": "Brookmont Catastrophic Bond ETF", "test_issue": "N", "ticker": "ILS"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 10  Year USD Bond ETF", "test_issue": "N", "ticker": "ILTB"}
 {"etf": "Y", "exchange": "P", "name": "Innovator International Developed Power Buffer ETF  March", "test_issue": "N", "ticker": "IMAR"}
 {"etf": "N", "exchange": "N", "name": "Imax Corporation Common Stock", "test_issue": "N", "ticker": "IMAX"}
@@ -4866,7 +4868,7 @@
 {"etf": "Y", "exchange": "P", "name": "OneAscent Enhanced Small and Mid Cap ETF", "test_issue": "N", "ticker": "OASC"}
 {"etf": "N", "exchange": "N", "name": "Blue Owl Capital Corporation Common Stock", "test_issue": "N", "ticker": "OBDC"}
 {"etf": "N", "exchange": "A", "name": "Obsidian Energy Ltd. Common Shares", "test_issue": "N", "ticker": "OBE"}
-{"etf": "N", "exchange": "F", "name": "Origin Bancorp, Inc. Common Stock", "test_issue": "N", "ticker": "OBK"}
+{"etf": "N", "exchange": "TXSE", "name": "Origin Bancorp, Inc. Common Stock", "test_issue": "N", "ticker": "OBK"}
 {"etf": "Y", "exchange": "Z", "name": "State Street Loomis Sayles Opportunistic Bond ETF", "test_issue": "N", "ticker": "OBND"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares MSCI One Belt One Road Index ETF", "test_issue": "N", "ticker": "OBOR"}
 {"etf": "N", "exchange": "N", "name": "Owens Corning Inc Common Stock New", "test_issue": "N", "ticker": "OC"}
@@ -4913,7 +4915,7 @@
 {"etf": "N", "exchange": "N", "name": "Oceaneering International, Inc. Common Stock", "test_issue": "N", "ticker": "OII"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN", "test_issue": "N", "ticker": "OILD"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares K-1 Free Crude Oil ETF", "test_issue": "N", "ticker": "OILK"}
-{"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Oil Index ETF", "test_issue": "N", "ticker": "OILT"}
+{"etf": "Y", "exchange": "TXSE", "name": "Texas Capital Texas Oil Index ETF", "test_issue": "N", "ticker": "OILT"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN", "test_issue": "N", "ticker": "OILU"}
 {"etf": "N", "exchange": "N", "name": "Oil States International, Inc. Common Stock", "test_issue": "N", "ticker": "OIS"}
 {"etf": "N", "exchange": "N", "name": "ONEOK, Inc. Common Stock", "test_issue": "N", "ticker": "OKE"}
@@ -5175,7 +5177,7 @@
 {"etf": "Y", "exchange": "P", "name": "Aura AI Photonics ETF", "test_issue": "N", "ticker": "PHOX"}
 {"etf": "N", "exchange": "N", "name": "Phreesia, Inc. Common Stock", "test_issue": "N", "ticker": "PHR"}
 {"etf": "N", "exchange": "A", "name": "Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares", "test_issue": "N", "ticker": "PHXE$"}
-{"etf": "Y", "exchange": "P", "name": "PGIM Active High Yield Bond ETF", "test_issue": "N", "ticker": "PHYL"}
+{"etf": "Y", "exchange": "Z", "name": "PGIM Active High Yield Bond ETF", "test_issue": "N", "ticker": "PHYL"}
 {"etf": "Y", "exchange": "P", "name": "Sprott Physical Gold Trust ETV", "test_issue": "N", "ticker": "PHYS"}
 {"etf": "Y", "exchange": "P", "name": "Invesco International Corporate Bond ETF", "test_issue": "N", "ticker": "PICB"}
 {"etf": "Y", "exchange": "Z", "name": "iShares MSCI Global Select Metals & Mining Producers Fund", "test_issue": "N", "ticker": "PICK"}
@@ -5413,7 +5415,7 @@
 {"etf": "Y", "exchange": "P", "name": "Invesco Large Cap Growth ETF", "test_issue": "N", "ticker": "PWB"}
 {"etf": "Y", "exchange": "P", "name": "Nomura Energy Transition ETF", "test_issue": "N", "ticker": "PWER"}
 {"etf": "N", "exchange": "N", "name": "Quanta Services, Inc. Common Stock", "test_issue": "N", "ticker": "PWR"}
-{"etf": "Y", "exchange": "F", "name": "Westwood Salient Enhanced Power & Infrastructure ETF", "test_issue": "N", "ticker": "PWRX"}
+{"etf": "Y", "exchange": "TXSE", "name": "Westwood Salient Enhanced Power & Infrastructure ETF", "test_issue": "N", "ticker": "PWRX"}
 {"etf": "Y", "exchange": "Z", "name": "TrueShares Eagle Global Renewable Energy Income ETF", "test_issue": "N", "ticker": "PWRZ"}
 {"etf": "Y", "exchange": "Z", "name": "Pacer WealthShield ETF", "test_issue": "N", "ticker": "PWS"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Large Cap Value ETF", "test_issue": "N", "ticker": "PWV"}
@@ -6403,9 +6405,9 @@
 {"etf": "Y", "exchange": "P", "name": "iShares Short-Term National Muni Bond ETF", "test_issue": "N", "ticker": "SUB"}
 {"etf": "N", "exchange": "N", "name": "Sun Communities, Inc. Common Stock", "test_issue": "N", "ticker": "SUI"}
 {"etf": "Y", "exchange": "Z", "name": "2x Sui ETF", "test_issue": "N", "ticker": "SUIL"}
-{"etf": "N", "exchange": "F", "name": "Sunoco LP Common Units representing limited partner interests", "test_issue": "N", "ticker": "SUN"}
+{"etf": "N", "exchange": "TXSE", "name": "Sunoco LP Common Units representing limited partner interests", "test_issue": "N", "ticker": "SUN"}
 {"etf": "N", "exchange": "N", "name": "Sunbelt Rentals Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "SUNB"}
-{"etf": "N", "exchange": "F", "name": "SunocoCorp LLC Common Units, representing limited liability company interests", "test_issue": "N", "ticker": "SUNC"}
+{"etf": "N", "exchange": "TXSE", "name": "SunocoCorp LLC Common Units, representing limited liability company interests", "test_issue": "N", "ticker": "SUNC"}
 {"etf": "N", "exchange": "N", "name": "Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares", "test_issue": "N", "ticker": "SUPV"}
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares Insider Advantage ETF", "test_issue": "N", "ticker": "SURE"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Propel Opportunities ETF", "test_issue": "N", "ticker": "SURI"}
@@ -6482,8 +6484,8 @@
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Capital Appreciation Equity ETF", "test_issue": "N", "ticker": "TCAF"}
 {"etf": "Y", "exchange": "N", "name": "Tortoise AI Infrastructure ETF", "test_issue": "N", "ticker": "TCAI"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Capital Appreciation Premium Income ETF", "test_issue": "N", "ticker": "TCAL"}
-{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TCBI"}
-{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B", "test_issue": "N", "ticker": "TCBI$B"}
+{"etf": "N", "exchange": "TXSE", "name": "Texas Capital Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TCBI"}
+{"etf": "N", "exchange": "TXSE", "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B", "test_issue": "N", "ticker": "TCBI$B"}
 {"etf": "N", "exchange": "N", "name": "Third Coast Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TCBX"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Blue Chip Growth ETF", "test_issue": "N", "ticker": "TCHP"}
 {"etf": "N", "exchange": "N", "name": "Transcontinental Realty Investors, Inc. Common Stock", "test_issue": "N", "ticker": "TCI"}
@@ -6582,7 +6584,7 @@
 {"etf": "Y", "exchange": "P", "name": "Thornburg Premium Income Builder ETF", "test_issue": "N", "ticker": "THOR"}
 {"etf": "N", "exchange": "N", "name": "abrdn Healthcare Opportunities Fund Shares of Beneficial Interest", "test_issue": "N", "ticker": "THQ"}
 {"etf": "Y", "exchange": "P", "name": "iShares U.S. Thematic Rotation Active ETF", "test_issue": "N", "ticker": "THRO"}
-{"etf": "Y", "exchange": "F", "name": "Tema Commodity Infrastructure ETF", "test_issue": "N", "ticker": "THRU"}
+{"etf": "Y", "exchange": "TXSE", "name": "Tema Commodity Infrastructure ETF", "test_issue": "N", "ticker": "THRU"}
 {"etf": "Y", "exchange": "P", "name": "SoFi Enhanced Yield ETF", "test_issue": "N", "ticker": "THTA"}
 {"etf": "N", "exchange": "N", "name": "abrdn World Healthcare Fund Shares of Beneficial Interest", "test_issue": "N", "ticker": "THW"}
 {"etf": "Y", "exchange": "P", "name": "Toews Agility Shares Dynamic Tactical Income ETF", "test_issue": "N", "ticker": "THY"}
@@ -6812,7 +6814,7 @@
 {"etf": "N", "exchange": "N", "name": "TXNM Energy, Inc. Common Stock", "test_issue": "N", "ticker": "TXNM"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily TXN Bull 2X ETF", "test_issue": "N", "ticker": "TXNU"}
 {"etf": "N", "exchange": "N", "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests", "test_issue": "N", "ticker": "TXO"}
-{"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Equity Index ETF", "test_issue": "N", "ticker": "TXS"}
+{"etf": "Y", "exchange": "TXSE", "name": "Texas Capital Texas Equity Index ETF", "test_issue": "N", "ticker": "TXS"}
 {"etf": "N", "exchange": "N", "name": "Textron Inc. Common Stock", "test_issue": "N", "ticker": "TXT"}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx IR+M Tax-Aware Intermediate Duration ETF", "test_issue": "N", "ticker": "TXXI"}
 {"etf": "N", "exchange": "N", "name": "Tri Continental Corporation Common Stock", "test_issue": "N", "ticker": "TY"}
@@ -6933,7 +6935,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI World ETF", "test_issue": "N", "ticker": "URTH"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraPro Russell2000", "test_issue": "N", "ticker": "URTY"}
 {"etf": "N", "exchange": "N", "name": "Liberty All-Star Equity Fund Common Stock", "test_issue": "N", "ticker": "USA"}
-{"etf": "N", "exchange": "F", "name": "USA Compression Partners, LP Common Units Representing Limited Partner Interests", "test_issue": "N", "ticker": "USAC"}
+{"etf": "N", "exchange": "TXSE", "name": "USA Compression Partners, LP Common Units Representing Limited Partner Interests", "test_issue": "N", "ticker": "USAC"}
 {"etf": "Y", "exchange": "P", "name": "Pacer American Energy Infrastructure ETF", "test_issue": "N", "ticker": "USAI"}
 {"etf": "N", "exchange": "A", "name": "Americas Gold and Silver Corporation Common Shares, no par value", "test_issue": "N", "ticker": "USAS"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long USAR Daily ETF", "test_issue": "N", "ticker": "USAX"}
@@ -7316,7 +7318,7 @@
 {"etf": "N", "exchange": "A", "name": "Western Copper and Gold Corporation Common Stock", "test_issue": "N", "ticker": "WRN"}
 {"etf": "N", "exchange": "N", "name": "Worthington Steel, Inc. Common Shares", "test_issue": "N", "ticker": "WS"}
 {"etf": "Y", "exchange": "P", "name": "Weitz Short Duration Bond ETF", "test_issue": "N", "ticker": "WSDB"}
-{"etf": "Y", "exchange": "F", "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund", "test_issue": "N", "ticker": "WSLS"}
+{"etf": "Y", "exchange": "TXSE", "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund", "test_issue": "N", "ticker": "WSLS"}
 {"etf": "N", "exchange": "N", "name": "Williams-Sonoma, Inc. Common Stock (DE)", "test_issue": "N", "ticker": "WSM"}
 {"etf": "Y", "exchange": "P", "name": "Wasatch Small/Mid Cap ETF", "test_issue": "N", "ticker": "WSMD"}
 {"etf": "N", "exchange": "N", "name": "Watsco, Inc. Common Stock", "test_issue": "N", "ticker": "WSO"}
@@ -7324,7 +7326,7 @@
 {"etf": "N", "exchange": "N", "name": "West Pharmaceutical Services, Inc. Common Stock", "test_issue": "N", "ticker": "WST"}
 {"etf": "N", "exchange": "N", "name": "WisdomTree, Inc. Common Stock", "test_issue": "N", "ticker": "WT"}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree Artificial Intelligence and Innovation Fund", "test_issue": "N", "ticker": "WTAI"}
-{"etf": "Y", "exchange": "F", "name": "WisdomTree Global Alpha Fund", "test_issue": "N", "ticker": "WTAL"}
+{"etf": "Y", "exchange": "TXSE", "name": "WisdomTree Global Alpha Fund", "test_issue": "N", "ticker": "WTAL"}
 {"etf": "N", "exchange": "N", "name": "W&T Offshore, Inc. Common Stock", "test_issue": "N", "ticker": "WTI"}
 {"etf": "Y", "exchange": "P", "name": "USCF Oil Plus Bitcoin Strategy Fund", "test_issue": "N", "ticker": "WTIB"}
 {"etf": "Y", "exchange": "P", "name": "MicroSectors Energy 3X Inverse Leveraged ETNs", "test_issue": "N", "ticker": "WTID"}
