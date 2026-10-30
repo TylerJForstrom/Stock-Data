@@ -1294,7 +1294,7 @@
 {"etf": "N", "exchange": "A", "name": "Caledonia Mining Corporation Plc Common Shares", "test_issue": "N", "ticker": "CMCL"}
 {"etf": "N", "exchange": "N", "name": "Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares", "test_issue": "N", "ticker": "CMCM"}
 {"etf": "N", "exchange": "N", "name": "Costamare Bulkers Holdings Limited Common Stock", "test_issue": "N", "ticker": "CMDB"}
-{"etf": "Y", "exchange": "P", "name": "PIMCO Commodity Strategy Active Exchange-Traded Fund", "test_issue": "N", "ticker": "CMDT"}
+{"etf": "Y", "exchange": "P", "name": "PIMCO Commodity and Bond Strategy Active Exchange-Traded Fund", "test_issue": "N", "ticker": "CMDT"}
 {"etf": "Y", "exchange": "P", "name": "iShares Bloomberg Roll Select Commodity Strategy ETF", "test_issue": "N", "ticker": "CMDY"}
 {"etf": "Y", "exchange": "P", "name": "iShares California Muni Bond ETF", "test_issue": "N", "ticker": "CMF"}
 {"etf": "N", "exchange": "N", "name": "Chipotle Mexican Grill, Inc. Common Stock", "test_issue": "N", "ticker": "CMG"}
@@ -1378,7 +1378,7 @@
 {"etf": "Y", "exchange": "P", "name": "AB Core Bond ETF", "test_issue": "N", "ticker": "CORB"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Inverse CRWV Daily Target ETF", "test_issue": "N", "ticker": "CORD"}
 {"etf": "Y", "exchange": "P", "name": "Teucrium Corn Fund ETV", "test_issue": "N", "ticker": "CORN"}
-{"etf": "Y", "exchange": "P", "name": "PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund", "test_issue": "N", "ticker": "CORP"}
+{"etf": "Y", "exchange": "P", "name": "PIMCO Investment Grade Corporate Bond Exchange-Traded Fund", "test_issue": "N", "ticker": "CORP"}
 {"etf": "N", "exchange": "N", "name": "CoastalSouth Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "COSO"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill COST WeeklyPay ETF", "test_issue": "N", "ticker": "COSW"}
 {"etf": "N", "exchange": "N", "name": "Coty Inc. Class A Common Stock", "test_issue": "N", "ticker": "COTY"}
@@ -2018,7 +2018,6 @@
 {"etf": "N", "exchange": "N", "name": "Western Asset Global High Income Fund Inc Common Stock", "test_issue": "N", "ticker": "EHI"}
 {"etf": "Y", "exchange": "Z", "name": "Amplify Ethereum Max Income Covered Call ETF", "test_issue": "N", "ticker": "EHY"}
 {"etf": "N", "exchange": "N", "name": "Eagle Point Income Company Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "EIC"}
-{"etf": "N", "exchange": "N", "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026", "test_issue": "N", "ticker": "EICA"}
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI Indonesia ETF", "test_issue": "N", "ticker": "EIDO"}
 {"etf": "N", "exchange": "N", "name": "Employers Holdings Inc Common Stock", "test_issue": "N", "ticker": "EIG"}
 {"etf": "N", "exchange": "N", "name": "Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029", "test_issue": "N", "ticker": "EIIA"}
@@ -2074,7 +2073,7 @@
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Emerging Markets Multifactor Fund", "test_issue": "N", "ticker": "EMMF"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - May Series", "test_issue": "N", "ticker": "EMMY"}
 {"etf": "N", "exchange": "N", "name": "Eastman Chemical Company Common Stock", "test_issue": "N", "ticker": "EMN"}
-{"etf": "Y", "exchange": "P", "name": "PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund", "test_issue": "N", "ticker": "EMNT"}
+{"etf": "Y", "exchange": "P", "name": "PIMCO Enhanced Short Maturity Active ESG and Bond Exchange-Traded Fund", "test_issue": "N", "ticker": "EMNT"}
 {"etf": "N", "exchange": "N", "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock", "test_issue": "N", "ticker": "EMO"}
 {"etf": "Y", "exchange": "P", "name": "AB Emerging Markets Opportunities ETF", "test_issue": "N", "ticker": "EMOP"}
 {"etf": "Y", "exchange": "P", "name": "First Trust S&P 500 Economic Moat ETF", "test_issue": "N", "ticker": "EMOT"}
@@ -2873,7 +2872,6 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - March", "test_issue": "N", "ticker": "GMAR"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - May", "test_issue": "N", "ticker": "GMAY"}
 {"etf": "N", "exchange": "N", "name": "GameStop Corporation Common Stock", "test_issue": "N", "ticker": "GME"}
-{"etf": "N", "exchange": "N", "name": "GameStop Corporation Warrants to Purchase Common Stock", "test_issue": "N", "ticker": "GME.W"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi GME 2x Daily ETF", "test_issue": "N", "ticker": "GMEC"}
 {"etf": "N", "exchange": "N", "name": "Globus Medical, Inc. Class A Common Stock", "test_issue": "N", "ticker": "GMED"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long GME Daily Target ETF", "test_issue": "N", "ticker": "GMEU"}
@@ -3245,7 +3243,7 @@
 {"etf": "N", "exchange": "A", "name": "Hyliion Holdings Corp. Class A Common Stock", "test_issue": "N", "ticker": "HYLN"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Nuveen ICE High Yield Municipal Bond ETF", "test_issue": "N", "ticker": "HYMB"}
 {"etf": "Y", "exchange": "P", "name": "T-REX 2X Long SKHY Daily Target ETF", "test_issue": "N", "ticker": "HYNX"}
-{"etf": "Y", "exchange": "P", "name": "PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund", "test_issue": "N", "ticker": "HYS"}
+{"etf": "Y", "exchange": "P", "name": "PIMCO 0-5 Year High Yield Corporate Bond Exchange-Traded Fund", "test_issue": "N", "ticker": "HYS"}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx High Yield Income ETF", "test_issue": "N", "ticker": "HYSA"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Short Duration High Yield ETF", "test_issue": "N", "ticker": "HYSD"}
 {"etf": "N", "exchange": "N", "name": "Blackrock Corporate High Yield Fund, Inc. Common Stock", "test_issue": "N", "ticker": "HYT"}
@@ -4080,7 +4078,7 @@
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily SpaceX Bull 2X ETF", "test_issue": "N", "ticker": "LOFF"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill HALO ETF", "test_issue": "N", "ticker": "LOHA"}
 {"etf": "N", "exchange": "N", "name": "Loma Negra Compania Industrial Argentina Sociedad Anonima ADS", "test_issue": "N", "ticker": "LOMA"}
-{"etf": "Y", "exchange": "P", "name": "PIMCO Senior Loan Active Exchange-Traded Fund", "test_issue": "N", "ticker": "LONZ"}
+{"etf": "Y", "exchange": "P", "name": "PIMCO Senior Loan and Short-Term Active ETF", "test_issue": "N", "ticker": "LONZ"}
 {"etf": "Y", "exchange": "P", "name": "Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF", "test_issue": "N", "ticker": "LOPP"}
 {"etf": "Y", "exchange": "P", "name": "Innovator Deepwater Frontier Tech ETF", "test_issue": "N", "ticker": "LOUP"}
 {"etf": "N", "exchange": "N", "name": "Lowe's Companies, Inc. Common Stock", "test_issue": "N", "ticker": "LOW"}

@@ -459,6 +459,7 @@
 {"category": "S", "etf": "N", "name": "A SPAC III Acquisition Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ASPC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "A SPAC III Acquisition Corp. - Right", "provable_from": false, "test_issue": "N", "ticker": "ASPCR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "A SPAC III Acquisition Corp. - Unit", "provable_from": false, "test_issue": "N", "ticker": "ASPCU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Aspen Neuroscience, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "ASPE", "valid_from": "2026-10-30", "valid_to": null}
 {"category": "S", "etf": "N", "name": "ASP Isotopes Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASPI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Altisource Portfolio Solutions S.A. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASPS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants", "provable_from": false, "test_issue": "N", "ticker": "ASPSW", "valid_from": "2026-07-28", "valid_to": null}
@@ -606,6 +607,7 @@
 {"category": "G", "etf": "N", "name": "Beta Bionics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BBNX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "BridgeBio Oncology Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BBOT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Barrett Business Services, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BBSI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Bambusa Therapeutics, Inc. - Common stock", "provable_from": true, "test_issue": "N", "ticker": "BBTX", "valid_from": "2026-10-30", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long BB Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "BBUL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST BABA ETF", "provable_from": false, "test_issue": "N", "ticker": "BBYY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BioAtla, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BCAB", "valid_from": "2026-07-28", "valid_to": "2026-08-31"}
@@ -1609,9 +1611,9 @@
 {"category": "G", "etf": "Y", "name": "IDX Dynamic Fixed Income ETF", "provable_from": false, "test_issue": "N", "ticker": "DYFI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Dyne Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DYN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Hartford Dynamic Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "DYNB", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Dynamix Corporation - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "DYNC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Dynamix Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "DYNCU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Dynamix Corporation - Warrant", "provable_from": false, "test_issue": "N", "ticker": "DYNCW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Dynamix Corporation - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "DYNC", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
+{"category": "G", "etf": "N", "name": "Dynamix Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "DYNCU", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
+{"category": "G", "etf": "N", "name": "Dynamix Corporation - Warrant", "provable_from": false, "test_issue": "N", "ticker": "DYNCW", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
 {"category": "G", "etf": "N", "name": "Insight Digital Partners II - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "DYOR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Insight Digital Partners II - Units", "provable_from": false, "test_issue": "N", "ticker": "DYORU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Insight Digital Partners II - Warrants", "provable_from": false, "test_issue": "N", "ticker": "DYORW", "valid_from": "2026-07-28", "valid_to": null}
@@ -2154,7 +2156,7 @@
 {"category": "S", "etf": "N", "name": "GCL Global Holdings Ltd - Warrants", "provable_from": true, "test_issue": "N", "ticker": "GCLWW", "valid_from": "2026-09-18", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GCM Grosvenor Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCMG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GigaCloud Technology Inc - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GCT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "GlucoTrack, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCTK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "GlucoTrack, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCTK", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
 {"category": "S", "etf": "N", "name": "GD Culture Group Limited - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GDC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GDEV Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GDEV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "GDEV Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "GDEVW", "valid_from": "2026-07-28", "valid_to": "2026-08-26"}
@@ -3138,7 +3140,7 @@
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2x Long LMND ETF", "provable_from": false, "test_issue": "N", "ticker": "LMNX", "valid_from": "2026-07-28", "valid_to": "2026-08-28"}
 {"category": "Q", "etf": "N", "name": "Lumexa Imaging Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LMRI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Direxion Daily LMT Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "LMTL", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Lunai Bioworks Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LNAI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Lunai Bioworks Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LNAI", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
 {"category": "S", "etf": "N", "name": "Linkers Industries Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "LNKS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "LENSAR, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LNSR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Alliant Energy Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LNT", "valid_from": "2026-07-28", "valid_to": null}
@@ -3197,7 +3199,7 @@
 {"category": "G", "etf": "N", "name": "Long Table Growth Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "LTGRW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Lantern Pharma Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LTRN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Lantronix, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LTRX", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Sports Entertainment Gaming Global Corporation  - Warrant", "provable_from": false, "test_issue": "N", "ticker": "LTRYW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Sports Entertainment Gaming Global Corporation  - Warrant", "provable_from": false, "test_issue": "N", "ticker": "LTRYW", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
 {"category": "S", "etf": "N", "name": "Lucid Diagnostics Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LUCD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Innovative Eyewear, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LUCY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Innovative Eyewear, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "LUCYW", "valid_from": "2026-07-28", "valid_to": null}
@@ -3318,6 +3320,7 @@
 {"category": "G", "etf": "N", "name": "Meshflow Acquisition Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "MESHW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Mesoblast Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "MESO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Meta Platforms, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "META", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock", "provable_from": true, "test_issue": "N", "ticker": "METAM", "valid_from": "2026-10-30", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Ramaco Resources, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "METC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Ramaco Resources, Inc. - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "METCB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Ramaco Resources, Inc. - 8.250% Senior Notes due 2030", "provable_from": false, "test_issue": "N", "ticker": "METCI", "valid_from": "2026-07-28", "valid_to": null}
@@ -3684,6 +3687,7 @@
 {"category": "G", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NOEMW", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
 {"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "NOEMW", "valid_from": "2026-09-16", "valid_to": null}
 {"category": "S", "etf": "N", "name": "NOMADAR Corp. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NOMA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Nordicus Partners Corporation - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "NORD", "valid_from": "2026-10-30", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "NOVT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Tangible Equity Units", "provable_from": false, "test_issue": "N", "ticker": "NOVTU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long NOW Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "NOWL", "valid_from": "2026-07-28", "valid_to": null}
@@ -5860,9 +5864,9 @@
 {"category": "S", "etf": "N", "name": "YYForce Inc. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "YFOR", "valid_from": "2026-09-02", "valid_to": null}
 {"category": "S", "etf": "N", "name": "LQR House Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "YHC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Yunhong Green CTI Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "YHGJ", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YHNA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Right", "provable_from": false, "test_issue": "N", "ticker": "YHNAR", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Unit", "provable_from": false, "test_issue": "N", "ticker": "YHNAU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YHNA", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
+{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Right", "provable_from": false, "test_issue": "N", "ticker": "YHNAR", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
+{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Unit", "provable_from": false, "test_issue": "N", "ticker": "YHNAU", "valid_from": "2026-07-28", "valid_to": "2026-10-30"}
 {"category": "G", "etf": "N", "name": "111, Inc. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "YI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Planet Image International Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YIBO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Yorkville International Capital Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "YICC", "valid_from": "2026-07-28", "valid_to": null}

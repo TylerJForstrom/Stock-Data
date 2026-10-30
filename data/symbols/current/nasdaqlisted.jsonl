@@ -436,6 +436,7 @@
 {"category": "S", "etf": "N", "name": "A SPAC III Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "ASPC"}
 {"category": "S", "etf": "N", "name": "A SPAC III Acquisition Corp. - Right", "test_issue": "N", "ticker": "ASPCR"}
 {"category": "S", "etf": "N", "name": "A SPAC III Acquisition Corp. - Unit", "test_issue": "N", "ticker": "ASPCU"}
+{"category": "Q", "etf": "N", "name": "Aspen Neuroscience, Inc. - Common Stock", "test_issue": "N", "ticker": "ASPE"}
 {"category": "S", "etf": "N", "name": "ASP Isotopes Inc. - Common Stock", "test_issue": "N", "ticker": "ASPI"}
 {"category": "Q", "etf": "N", "name": "Altisource Portfolio Solutions S.A. - Common Stock", "test_issue": "N", "ticker": "ASPS"}
 {"category": "Q", "etf": "N", "name": "Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants", "test_issue": "N", "ticker": "ASPSW"}
@@ -572,6 +573,7 @@
 {"category": "G", "etf": "N", "name": "Beta Bionics, Inc. - Common Stock", "test_issue": "N", "ticker": "BBNX"}
 {"category": "G", "etf": "N", "name": "BridgeBio Oncology Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "BBOT"}
 {"category": "Q", "etf": "N", "name": "Barrett Business Services, Inc. - Common Stock", "test_issue": "N", "ticker": "BBSI"}
+{"category": "Q", "etf": "N", "name": "Bambusa Therapeutics, Inc. - Common stock", "test_issue": "N", "ticker": "BBTX"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long BB Daily ETF", "test_issue": "N", "ticker": "BBUL"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST BABA ETF", "test_issue": "N", "ticker": "BBYY"}
 {"category": "S", "etf": "N", "name": "California BanCorp - Common Stock", "test_issue": "N", "ticker": "BCAL"}
@@ -1516,9 +1518,6 @@
 {"category": "G", "etf": "Y", "name": "IDX Dynamic Fixed Income ETF", "test_issue": "N", "ticker": "DYFI"}
 {"category": "Q", "etf": "N", "name": "Dyne Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "DYN"}
 {"category": "G", "etf": "Y", "name": "Hartford Dynamic Bond ETF", "test_issue": "N", "ticker": "DYNB"}
-{"category": "G", "etf": "N", "name": "Dynamix Corporation - Class A Ordinary Share", "test_issue": "N", "ticker": "DYNC"}
-{"category": "G", "etf": "N", "name": "Dynamix Corporation - Unit", "test_issue": "N", "ticker": "DYNCU"}
-{"category": "G", "etf": "N", "name": "Dynamix Corporation - Warrant", "test_issue": "N", "ticker": "DYNCW"}
 {"category": "G", "etf": "N", "name": "Insight Digital Partners II - Class A Ordinary Shares", "test_issue": "N", "ticker": "DYOR"}
 {"category": "G", "etf": "N", "name": "Insight Digital Partners II - Units", "test_issue": "N", "ticker": "DYORU"}
 {"category": "G", "etf": "N", "name": "Insight Digital Partners II - Warrants", "test_issue": "N", "ticker": "DYORW"}
@@ -2040,7 +2039,6 @@
 {"category": "S", "etf": "N", "name": "GCL Global Holdings Ltd - Warrants", "test_issue": "N", "ticker": "GCLWW"}
 {"category": "G", "etf": "N", "name": "GCM Grosvenor Inc. - Class A Common Stock", "test_issue": "N", "ticker": "GCMG"}
 {"category": "G", "etf": "N", "name": "GigaCloud Technology Inc - Class A Ordinary Shares", "test_issue": "N", "ticker": "GCT"}
-{"category": "S", "etf": "N", "name": "GlucoTrack, Inc. - Common Stock", "test_issue": "N", "ticker": "GCTK"}
 {"category": "S", "etf": "N", "name": "GD Culture Group Limited - Common Stock", "test_issue": "N", "ticker": "GDC"}
 {"category": "G", "etf": "N", "name": "GDEV Inc. - Ordinary Shares", "test_issue": "N", "ticker": "GDEV"}
 {"category": "S", "etf": "N", "name": "Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares", "test_issue": "N", "ticker": "GDHG"}
@@ -2954,7 +2952,6 @@
 {"category": "Q", "etf": "N", "name": "Limoneira Co - Common Stock", "test_issue": "N", "ticker": "LMNR"}
 {"category": "Q", "etf": "N", "name": "Lumexa Imaging Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "LMRI"}
 {"category": "G", "etf": "Y", "name": "Direxion Daily LMT Bull 2X ETF", "test_issue": "N", "ticker": "LMTL"}
-{"category": "S", "etf": "N", "name": "Lunai Bioworks Inc. - Common Stock", "test_issue": "N", "ticker": "LNAI"}
 {"category": "S", "etf": "N", "name": "Linkers Industries Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "LNKS"}
 {"category": "S", "etf": "N", "name": "LENSAR, Inc. - Common Stock", "test_issue": "N", "ticker": "LNSR"}
 {"category": "Q", "etf": "N", "name": "Alliant Energy Corporation - Common Stock", "test_issue": "N", "ticker": "LNT"}
@@ -3008,7 +3005,6 @@
 {"category": "G", "etf": "N", "name": "Long Table Growth Corp. - Warrants", "test_issue": "N", "ticker": "LTGRW"}
 {"category": "S", "etf": "N", "name": "Lantern Pharma Inc. - Common Stock", "test_issue": "N", "ticker": "LTRN"}
 {"category": "S", "etf": "N", "name": "Lantronix, Inc. - Common Stock", "test_issue": "N", "ticker": "LTRX"}
-{"category": "G", "etf": "N", "name": "Sports Entertainment Gaming Global Corporation  - Warrant", "test_issue": "N", "ticker": "LTRYW"}
 {"category": "S", "etf": "N", "name": "Lucid Diagnostics Inc. - Common Stock", "test_issue": "N", "ticker": "LUCD"}
 {"category": "S", "etf": "N", "name": "Innovative Eyewear, Inc. - Common Stock", "test_issue": "N", "ticker": "LUCY"}
 {"category": "S", "etf": "N", "name": "Innovative Eyewear, Inc. - Warrants", "test_issue": "N", "ticker": "LUCYW"}
@@ -3127,6 +3123,7 @@
 {"category": "G", "etf": "N", "name": "Meshflow Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "MESHW"}
 {"category": "Q", "etf": "N", "name": "Mesoblast Limited - American Depositary Shares", "test_issue": "N", "ticker": "MESO"}
 {"category": "Q", "etf": "N", "name": "Meta Platforms, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "META"}
+{"category": "Q", "etf": "N", "name": "Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock", "test_issue": "N", "ticker": "METAM"}
 {"category": "Q", "etf": "N", "name": "Ramaco Resources, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "METC"}
 {"category": "Q", "etf": "N", "name": "Ramaco Resources, Inc. - Class B Common Stock", "test_issue": "N", "ticker": "METCB"}
 {"category": "G", "etf": "N", "name": "Ramaco Resources, Inc. - 8.250% Senior Notes due 2030", "test_issue": "N", "ticker": "METCI"}
@@ -3472,6 +3469,7 @@
 {"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Unit", "test_issue": "N", "ticker": "NOEMU"}
 {"category": "S", "etf": "N", "name": "CO2 Energy Transition Corp. - Warrant", "test_issue": "N", "ticker": "NOEMW"}
 {"category": "S", "etf": "N", "name": "NOMADAR Corp. - Class A Common Stock", "test_issue": "N", "ticker": "NOMA"}
+{"category": "S", "etf": "N", "name": "Nordicus Partners Corporation - Common Stock", "test_issue": "N", "ticker": "NORD"}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Common Shares", "test_issue": "N", "ticker": "NOVT"}
 {"category": "Q", "etf": "N", "name": "Novanta Inc. - Tangible Equity Units", "test_issue": "N", "ticker": "NOVTU"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long NOW Daily ETF", "test_issue": "N", "ticker": "NOWL"}
@@ -5542,9 +5540,6 @@
 {"category": "S", "etf": "N", "name": "YYForce Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "YFOR"}
 {"category": "S", "etf": "N", "name": "LQR House Inc. - Common Stock", "test_issue": "N", "ticker": "YHC"}
 {"category": "S", "etf": "N", "name": "Yunhong Green CTI Ltd. - Common Stock", "test_issue": "N", "ticker": "YHGJ"}
-{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Ordinary Shares", "test_issue": "N", "ticker": "YHNA"}
-{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Right", "test_issue": "N", "ticker": "YHNAR"}
-{"category": "G", "etf": "N", "name": "YHN Acquisition I Limited - Unit", "test_issue": "N", "ticker": "YHNAU"}
 {"category": "G", "etf": "N", "name": "111, Inc. - American Depositary Shares", "test_issue": "N", "ticker": "YI"}
 {"category": "S", "etf": "N", "name": "Planet Image International Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "YIBO"}
 {"category": "G", "etf": "N", "name": "Yorkville International Capital Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "YICC"}
