@@ -2,14 +2,14 @@
   "failures": [],
   "files": [
     {
-      "bytes": 673653,
+      "bytes": 673420,
       "name": "nasdaqlisted.jsonl",
-      "sha256": "b65bd62c32839fbdf23d5d985b1b96ec96d749c27103f6c2c05f9bc4eb28744f"
+      "sha256": "72b5ca5ada2aa0577bdb2fc78c6c31fcf5faeac2db8b02ab0ab7ae18b6eff04c"
     },
     {
-      "bytes": 942512,
+      "bytes": 942085,
       "name": "otherlisted.jsonl",
-      "sha256": "52b60b09e69af225805802ec02196dcfade045b96d1832ec15d811b23e535cd0"
+      "sha256": "4e822809bac2ca4aacd7d814f5049f3e8770322b115f6fe05efeeaf1ebc95114"
     },
     {
       "bytes": 735752,
@@ -23,16 +23,16 @@
     }
   ],
   "first_observed": {},
-  "generated_at_utc": "2026-11-01T14:15:31Z",
+  "generated_at_utc": "2026-11-02T17:01:58Z",
   "last_success": {
-    "nasdaqlisted": "2026-11-01",
-    "otherlisted": "2026-11-01",
-    "sec_company_tickers": "2026-11-01",
-    "sec_company_tickers_exchange": "2026-11-01"
+    "nasdaqlisted": "2026-11-02",
+    "otherlisted": "2026-11-02",
+    "sec_company_tickers": "2026-11-02",
+    "sec_company_tickers_exchange": "2026-11-02"
   },
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
-  "snapshot_date": "2026-11-01",
+  "snapshot_date": "2026-11-02",
   "source_urls": [
     "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",
     "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt",

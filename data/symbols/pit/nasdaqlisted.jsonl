@@ -671,7 +671,7 @@
 {"category": "S", "etf": "N", "name": "Bullfrog AI Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BFRG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Bullfrog AI Holdings, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BFRGW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Biofrontera Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BFRI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Biofrontera Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BFRIW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Biofrontera Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BFRIW", "valid_from": "2026-07-28", "valid_to": "2026-11-02"}
 {"category": "Q", "etf": "N", "name": "Business First Bancshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BFST", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "BGC Group, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BGC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Baillie Gifford International Concentrated Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "BGCG", "valid_from": "2026-07-28", "valid_to": null}
@@ -996,6 +996,7 @@
 {"category": "G", "etf": "Y", "name": "Angel Oak Income ETF", "provable_from": false, "test_issue": "N", "ticker": "CARY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust S-Network Future Vehicles & Technology ETF", "provable_from": false, "test_issue": "N", "ticker": "CARZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Pathward Financial, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CASH", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Sempreon, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "CASK", "valid_from": "2026-11-02", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Cass Information Systems, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CASS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "FreeCast, Inc. - Class A common stock", "provable_from": false, "test_issue": "N", "ticker": "CAST", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Caseys General Stores, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CASY", "valid_from": "2026-07-28", "valid_to": null}
@@ -1481,7 +1482,7 @@
 {"category": "Q", "etf": "N", "name": "Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046", "provable_from": false, "test_issue": "N", "ticker": "DHCNL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "1stdibs.com, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DIBS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "CoinShares Altcoins ETF", "provable_from": false, "test_issue": "N", "ticker": "DIME", "valid_from": "2026-07-28", "valid_to": "2026-10-21"}
-{"category": "G", "etf": "Y", "name": "Simplify Tax Aware Diversified Income Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "DINE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Simplify Tax Aware Diversified Income Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "DINE", "valid_from": "2026-07-28", "valid_to": "2026-11-02"}
 {"category": "Q", "etf": "N", "name": "Diodes Incorporated - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DIOD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Altrius Global Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "DIVD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Daily Journal Corp. (S.C.) - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DJCO", "valid_from": "2026-07-28", "valid_to": null}
@@ -2839,7 +2840,8 @@
 {"category": "G", "etf": "Y", "name": "Horizon Kinetics Japan Owner Operator ETF", "provable_from": false, "test_issue": "N", "ticker": "JAPN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "JATT II Acquisition Corp - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "JATT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Jazz Pharmaceuticals plc - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "JAZZ", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "JBDI Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "JBDI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "JBDI Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "JBDI", "valid_from": "2026-07-28", "valid_to": "2026-11-02"}
+{"category": "S", "etf": "N", "name": "JBDI Holdings Limited - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "JBDI", "valid_from": "2026-11-02", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "J.B. Hunt Transport Services, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JBHT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Jade Biosciences, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JBIO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "JetBlue Airways Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "JBLU", "valid_from": "2026-07-28", "valid_to": null}
@@ -3174,7 +3176,7 @@
 {"category": "G", "etf": "N", "name": "Open Lending Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LPRO", "valid_from": "2026-07-28", "valid_to": "2026-07-31"}
 {"category": "Q", "etf": "N", "name": "LivePerson, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LPSN", "valid_from": "2026-07-28", "valid_to": "2026-09-08"}
 {"category": "S", "etf": "N", "name": "LightPath Technologies, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LPTH", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "Simplify Tax Aware Alternatives ETF", "provable_from": false, "test_issue": "N", "ticker": "LQ", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Simplify Tax Aware Alternatives ETF", "provable_from": false, "test_issue": "N", "ticker": "LQ", "valid_from": "2026-07-28", "valid_to": "2026-11-02"}
 {"category": "S", "etf": "N", "name": "Liquidia Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LQDA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Liquidity Services, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LQDT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Lam Research Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LRCX", "valid_from": "2026-07-28", "valid_to": null}
@@ -3347,7 +3349,7 @@
 {"category": "Q", "etf": "N", "name": "Magnite, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGNI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "MacroGenics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGNX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Leverage Shares MANGOS ETF", "provable_from": true, "test_issue": "N", "ticker": "MGOL", "valid_from": "2026-10-14", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "MGP Ingredients, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGPI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "MGP Ingredients, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGPI", "valid_from": "2026-07-28", "valid_to": "2026-11-02"}
 {"category": "Q", "etf": "N", "name": "McGrath RentCorp - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGRC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Mega Fortune Company Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MGRT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Mangoceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MGRX", "valid_from": "2026-07-28", "valid_to": null}
@@ -3555,6 +3557,7 @@
 {"category": "G", "etf": "N", "name": "NewAmsterdam Pharma Company N.V. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "NAMSW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Forge Nano Holdings Inc. - Common stock", "provable_from": true, "test_issue": "N", "ticker": "NANO", "valid_from": "2026-10-22", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Forge Nano Holdings Inc. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "NANOW", "valid_from": "2026-10-22", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Narragansett Bancorp, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "NARA", "valid_from": "2026-11-02", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Nathan's Famous, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NATH", "valid_from": "2026-07-28", "valid_to": "2026-10-27"}
 {"category": "G", "etf": "Y", "name": "Themes Transatlantic Defense ETF", "provable_from": false, "test_issue": "N", "ticker": "NATO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Nature's Sunshine Products, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NATR", "valid_from": "2026-07-28", "valid_to": null}
@@ -4391,7 +4394,8 @@
 {"category": "G", "etf": "N", "name": "Quantum-Si Incorporated - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QSI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF", "provable_from": false, "test_issue": "N", "ticker": "QSIX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "WisdomTree U.S. SmallCap Quality Growth Fund", "provable_from": false, "test_issue": "N", "ticker": "QSML", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "First Trust NASDAQ-100-Technology Sector Index Fund", "provable_from": false, "test_issue": "N", "ticker": "QTEC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "First Trust NASDAQ-100-Technology Sector Index Fund", "provable_from": false, "test_issue": "N", "ticker": "QTEC", "valid_from": "2026-07-28", "valid_to": "2026-11-02"}
+{"category": "G", "etf": "Y", "name": "First Trust NASDAQ-100- Technology Index Fund", "provable_from": true, "test_issue": "N", "ticker": "QTEC", "valid_from": "2026-11-02", "valid_to": null}
 {"category": "S", "etf": "N", "name": "QTREX Quantum Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "QTEX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "QT Imaging Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QTI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Nasdaq Top 30 Stocks ETF", "provable_from": false, "test_issue": "N", "ticker": "QTOP", "valid_from": "2026-07-28", "valid_to": null}
