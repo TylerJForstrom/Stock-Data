@@ -625,11 +625,17 @@
       "name": "2026-11-01.jsonl",
       "rows": 623,
       "sha256": "6067d5d80df56aeee557d076fbee4fc54bf2ed2ec784c04c4cb73a7f13ab3621"
+    },
+    {
+      "bytes": 115706,
+      "name": "2026-11-02.jsonl",
+      "rows": 594,
+      "sha256": "00aaf96a6ed8d66c1690269fa85abe1c5eab32bfa2fe3f1fba62b8727136e85c"
     }
   ],
   "first_day": "2026-07-21",
-  "generated_at_utc": "2026-11-02T17:02:03Z",
-  "last_day": "2026-11-01",
+  "generated_at_utc": "2026-11-03T15:04:24Z",
+  "last_day": "2026-11-02",
   "license_note": "Derived aggregate metrics computed by TickerPulse over public social posts (Reddit, StockTwits, Bluesky, Hacker News, finance RSS). Counts and scores only: no post text, author identity, or post identifier is included or redistributable. Not US-government public-domain data.",
   "producer": "TickerPulse",
   "published_fields": [

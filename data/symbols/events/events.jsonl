@@ -7301,3 +7301,67 @@
 {"date": "2026-11-02", "event": "changed", "previous": {"etf": "Y", "exchange": "P", "name": "WBI BullBear Quality 3000 ETF", "test_issue": "N", "ticker": "WBIL"}, "record": {"etf": "Y", "exchange": "P", "name": "WBI Trend Leaders Hedged ETF", "test_issue": "N", "ticker": "WBIL"}, "source": "otherlisted"}
 {"date": "2026-11-02", "event": "changed", "previous": {"etf": "Y", "exchange": "TXSE", "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund", "test_issue": "N", "ticker": "WSLS"}, "record": {"etf": "Y", "exchange": "F", "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund", "test_issue": "N", "ticker": "WSLS"}, "source": "otherlisted"}
 {"date": "2026-11-02", "event": "changed", "previous": {"etf": "Y", "exchange": "TXSE", "name": "WisdomTree Global Alpha Fund", "test_issue": "N", "ticker": "WTAL"}, "record": {"etf": "Y", "exchange": "F", "name": "WisdomTree Global Alpha Fund", "test_issue": "N", "ticker": "WTAL"}, "source": "otherlisted"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 1101215, "ticker": "BDFNV", "title": "BREAD FINANCIAL HOLDINGS, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 1326801, "ticker": "METAM", "title": "Meta Platforms, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 1577496, "ticker": "CTRCY", "title": "Computacenter plc/ADR"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 1620704, "ticker": "MXRX", "title": "MED-X, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 1788230, "ticker": "CASK", "title": "IP STRATEGY HOLDINGS, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 1992001, "ticker": "NPWCS", "title": "Neptune REM, LLC"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2020987, "ticker": "YHNAF", "title": "YHN Acquisition I Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2020987, "ticker": "YHNRF", "title": "YHN Acquisition I Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2020987, "ticker": "YHNUF", "title": "YHN Acquisition I Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2134863, "ticker": "NYO", "title": "NeoCryo Inc"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2137137, "ticker": "BEMTF", "title": "Bangkok Expressway & Metro Public Co Limited/ADR"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2137137, "ticker": "BKKXF", "title": "Bangkok Expressway & Metro Public Co Limited/ADR"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2139482, "ticker": "GGDFF", "title": "G3 Goldfields Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2145371, "ticker": "QSPC", "title": "IPFX Pubco, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "added", "record": {"cik": 2152623, "ticker": "JSM", "title": "Navient Holdings, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 102109, "ticker": "UUU", "title": "DeFi Capital Markets, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1081834, "ticker": "KUBR", "title": "Kuber Resources Corp"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1326380, "ticker": "GME-WT", "title": "GameStop Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1343465, "ticker": "SNPW", "title": "Sun Pacific Holding Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1355736, "ticker": "AVCRF", "title": "Avricore Health Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1397795, "ticker": "BRRND", "title": "Bryn Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1525306, "ticker": "FSTJ", "title": "First America Resources Corp"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1556801, "ticker": "MYCB", "title": "My City Builders, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1695473, "ticker": "GCAND", "title": "TRAFALGAR INTERNATIONAL, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1726711, "ticker": "ADTX", "title": "Aditxt, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1802450, "ticker": "MSPR", "title": "MSP Recovery, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1803096, "ticker": "STRG", "title": "STARGUIDE GROUP, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1833214, "ticker": "SABSW", "title": "SAB Biotherapeutics, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1854480, "ticker": "DEVSF", "title": "DevvStream Legacy Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1864531, "ticker": "VSEED", "title": "VSEE HEALTH, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1869601, "ticker": "EMCGF", "title": "Embrace Change Acquisition Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1879403, "ticker": "LRHC", "title": "Stratum Holdings Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1879848, "ticker": "PEVM", "title": "PHOENIX MOTOR INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1898496, "ticker": "GETY", "title": "Getty Images Holdings, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1907425, "ticker": "JOCM", "title": "JOCOM HOLDINGS CORP."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1937441, "ticker": "AMBIQ", "title": "Ambipar Emergency Response"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1960262, "ticker": "LUDG", "title": "LUDWIG ENTERPRISES, INC."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 1973368, "ticker": "SVUHF", "title": "SRIVARU Holding Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 2020987, "ticker": "YHNAR", "title": "YHN Acquisition I Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 2028516, "ticker": "ATII", "title": "Archimedes Tech SPAC Partners II Co."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 2028516, "ticker": "ATIIU", "title": "Archimedes Tech SPAC Partners II Co."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 2028516, "ticker": "ATIIW", "title": "Archimedes Tech SPAC Partners II Co."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"cik": 803097, "ticker": "SPQSD", "title": "SportsQuest, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 1005284, "ticker": "OLED", "title": "UNIVERSAL DISPLAY CORP PA"}, "record": {"cik": 1005284, "ticker": "OLED", "title": "UNIVERSAL DISPLAY CORP \\PA\\"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 1481513, "ticker": "JKS", "title": "JinkoSolar Holding Co., Ltd."}, "record": {"cik": 1481513, "ticker": "JKS", "title": "Jinko Holdings Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 1826011, "ticker": "PARA", "title": "Banzai International, Inc."}, "record": {"cik": 1826011, "ticker": "PARA", "title": "Parabolic Technologies, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 1826011, "ticker": "PARAW", "title": "Banzai International, Inc."}, "record": {"cik": 1826011, "ticker": "PARAW", "title": "Parabolic Technologies, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 36104, "ticker": "USB", "title": "US BANCORP \\DE\\"}, "record": {"cik": 36104, "ticker": "USB", "title": "US BANCORP DE"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 36104, "ticker": "USB-PA", "title": "US BANCORP \\DE\\"}, "record": {"cik": 36104, "ticker": "USB-PA", "title": "US BANCORP DE"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 36104, "ticker": "USB-PH", "title": "US BANCORP \\DE\\"}, "record": {"cik": 36104, "ticker": "USB-PH", "title": "US BANCORP DE"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 36104, "ticker": "USB-PP", "title": "US BANCORP \\DE\\"}, "record": {"cik": 36104, "ticker": "USB-PP", "title": "US BANCORP DE"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 36104, "ticker": "USB-PQ", "title": "US BANCORP \\DE\\"}, "record": {"cik": 36104, "ticker": "USB-PQ", "title": "US BANCORP DE"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 36104, "ticker": "USB-PR", "title": "US BANCORP \\DE\\"}, "record": {"cik": 36104, "ticker": "USB-PR", "title": "US BANCORP DE"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "changed", "previous": {"cik": 36104, "ticker": "USB-PS", "title": "US BANCORP \\DE\\"}, "record": {"cik": 36104, "ticker": "USB-PS", "title": "US BANCORP DE"}, "source": "sec_company_tickers"}
+{"date": "2026-11-03", "event": "removed", "record": {"category": "Q", "etf": "N", "name": "Aurora Innovation, Inc.  - Warrant", "test_issue": "N", "ticker": "AUROW"}, "source": "nasdaqlisted"}
+{"date": "2026-11-03", "event": "removed", "record": {"category": "S", "etf": "N", "name": "House of Doge Inc. - Common Stock", "test_issue": "N", "ticker": "HODO"}, "source": "nasdaqlisted"}
+{"date": "2026-11-03", "event": "removed", "record": {"category": "Q", "etf": "N", "name": "Indivior Pharmaceuticals, Inc.  - Common Stock", "test_issue": "N", "ticker": "INDV"}, "source": "nasdaqlisted"}
+{"date": "2026-11-03", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Moolec Science SA - Ordinary Shares", "test_issue": "N", "ticker": "MLEC"}, "source": "nasdaqlisted"}
+{"date": "2026-11-03", "event": "removed", "record": {"category": "S", "etf": "N", "name": "Moolec Science SA - Warrant", "test_issue": "N", "ticker": "MLECW"}, "source": "nasdaqlisted"}
+{"date": "2026-11-03", "event": "removed", "record": {"category": "G", "etf": "N", "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027", "test_issue": "N", "ticker": "SWKHL"}, "source": "nasdaqlisted"}
+{"date": "2026-11-03", "event": "changed", "previous": {"category": "G", "etf": "N", "name": "Supernus Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "SUPN"}, "record": {"category": "Q", "etf": "N", "name": "Supernus, Inc. - Common Stock", "test_issue": "N", "ticker": "SUPN"}, "source": "nasdaqlisted"}
+{"date": "2026-11-03", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "VanEck EM Focus Inflation Bond ETF", "test_issue": "N", "ticker": "EMIL"}, "source": "otherlisted"}
+{"date": "2026-11-03", "event": "added", "record": {"etf": "Y", "exchange": "N", "name": "THOR Conservative Risk Dynamic ETF", "test_issue": "N", "ticker": "THCR"}, "source": "otherlisted"}
+{"date": "2026-11-03", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "XFUNDS Value Income ETF", "test_issue": "N", "ticker": "VTVX"}, "source": "otherlisted"}
