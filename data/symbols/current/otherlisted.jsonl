@@ -140,7 +140,6 @@
 {"etf": "N", "exchange": "N", "name": "AFLAC Incorporated Common Stock", "test_issue": "N", "ticker": "AFL"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Active Factor Large Cap ETF", "test_issue": "N", "ticker": "AFLG"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Active Factor Mid Cap ETF", "test_issue": "N", "ticker": "AFMC"}
-{"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long AFRM Daily Target ETF", "test_issue": "N", "ticker": "AFRU"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Active Factor Small Cap ETF", "test_issue": "N", "ticker": "AFSM"}
 {"etf": "N", "exchange": "N", "name": "First Majestic Silver Corp. Ordinary Shares (Canada)", "test_issue": "N", "ticker": "AG"}
 {"etf": "N", "exchange": "N", "name": "AGI Inc Class A Common Shares", "test_issue": "N", "ticker": "AGBK"}
@@ -442,7 +441,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi ASTS 2x Daily ETF", "test_issue": "N", "ticker": "ASTT"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long ASTS Daily ETF", "test_issue": "N", "ticker": "ASTX"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long ASTS ETF", "test_issue": "N", "ticker": "ASTY"}
-{"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long ASTS Daily Target ETF", "test_issue": "N", "ticker": "ASUP"}
 {"etf": "N", "exchange": "N", "name": "ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ", "test_issue": "N", "ticker": "ASX"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Robotics Actuators ETF", "test_issue": "N", "ticker": "AT"}
 {"etf": "N", "exchange": "A", "name": "AtlasClear Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "ATCH"}
@@ -2733,7 +2731,6 @@
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Dynamic California Municipal Income ETF", "test_issue": "N", "ticker": "GCAL"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi FTSE Intermediate Government/Credit Bond ETF", "test_issue": "N", "ticker": "GCB"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree EnhancedContinuous Commodity Index Fund", "test_issue": "N", "ticker": "GCC"}
-{"etf": "N", "exchange": "A", "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares", "test_issue": "N", "ticker": "GCDT"}
 {"etf": "Y", "exchange": "P", "name": "Guggenheim Investment Grade CLO ETF", "test_issue": "N", "ticker": "GCLO"}
 {"etf": "N", "exchange": "N", "name": "Genesco Inc. Common Stock", "test_issue": "N", "ticker": "GCO"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Access U.S. Aggregate Bond ETF", "test_issue": "N", "ticker": "GCOR"}
@@ -4701,7 +4698,7 @@
 {"etf": "N", "exchange": "N", "name": "Nuveen Minnesota Quality Municipal Income Fund ", "test_issue": "N", "ticker": "NMS"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Massachusetts Quality Municipal Income Fund Common Stock", "test_issue": "N", "ticker": "NMT"}
 {"etf": "N", "exchange": "N", "name": "Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share", "test_issue": "N", "ticker": "NMZ"}
-{"etf": "N", "exchange": "N", "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued", "test_issue": "N", "ticker": "NMZ.V"}
+{"etf": "N", "exchange": "N", "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights", "test_issue": "N", "ticker": "NMZ.R"}
 {"etf": "N", "exchange": "N", "name": "Nelnet, Inc. Common Stock", "test_issue": "N", "ticker": "NNI"}
 {"etf": "N", "exchange": "N", "name": "NNN REIT, Inc. Common Stock", "test_issue": "N", "ticker": "NNN"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - November", "test_issue": "N", "ticker": "NNOV"}
@@ -5314,7 +5311,7 @@
 {"etf": "N", "exchange": "A", "name": "Park National Corporation Common Stock", "test_issue": "N", "ticker": "PRK"}
 {"etf": "N", "exchange": "N", "name": "United Parks & Resorts Inc. Common Stock", "test_issue": "N", "ticker": "PRKS"}
 {"etf": "N", "exchange": "N", "name": "Proto Labs, Inc. Common stock", "test_issue": "N", "ticker": "PRLB"}
-{"etf": "N", "exchange": "N", "name": "Perimeter Solutions, SA Common Stock", "test_issue": "N", "ticker": "PRM"}
+{"etf": "N", "exchange": "N", "name": "Perimeter Group Inc. Common Stock", "test_issue": "N", "ticker": "PRM"}
 {"etf": "N", "exchange": "N", "name": "Primo Brands Corporation Class A Common Stock", "test_issue": "N", "ticker": "PRMB"}
 {"etf": "Y", "exchange": "Z", "name": "3D Printing (The) ETF", "test_issue": "N", "ticker": "PRNT"}
 {"etf": "N", "exchange": "N", "name": "Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058", "test_issue": "N", "ticker": "PRS"}
@@ -5590,7 +5587,9 @@
 {"etf": "N", "exchange": "N", "name": "Dr. Reddy's Laboratories Ltd Common Stock", "test_issue": "N", "ticker": "RDY"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax RDDT Option Income Strategy ETF", "test_issue": "N", "ticker": "RDYY"}
 {"etf": "N", "exchange": "A", "name": "Rare Earths Americas, Inc. Common Stock", "test_issue": "N", "ticker": "REA"}
+{"etf": "Y", "exchange": "P", "name": "Columbia RECS Laddered Deep Buffer ETF", "test_issue": "N", "ticker": "RECD"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Research Enhanced Core Premium Income ETF", "test_issue": "N", "ticker": "RECI"}
+{"etf": "Y", "exchange": "P", "name": "Columbia RECS Laddered Moderate Buffer ETF", "test_issue": "N", "ticker": "RECM"}
 {"etf": "Y", "exchange": "P", "name": "Columbia Research Enhanced Core ETF", "test_issue": "N", "ticker": "RECS"}
 {"etf": "N", "exchange": "A", "name": "Reed's, Inc. Common Stock", "test_issue": "N", "ticker": "REED"}
 {"etf": "Y", "exchange": "P", "name": "iShares Global REIT ETF", "test_issue": "N", "ticker": "REET"}
@@ -5870,7 +5869,6 @@
 {"etf": "N", "exchange": "N", "name": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)", "test_issue": "N", "ticker": "SBS"}
 {"etf": "N", "exchange": "N", "name": "Southside Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "SBSI"}
 {"etf": "N", "exchange": "N", "name": "D/B/A Sibanye-Stillwater Limited ADS", "test_issue": "N", "ticker": "SBSW"}
-{"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long SBET Daily Target ETF", "test_issue": "N", "ticker": "SBTU"}
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Class A Ordinary Shares", "test_issue": "N", "ticker": "SBXE"}
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "SBXE.U"}
 {"etf": "N", "exchange": "N", "name": "SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50", "test_issue": "N", "ticker": "SBXE.W"}
@@ -6058,6 +6056,7 @@
 {"etf": "N", "exchange": "N", "name": "SiteOne Landscape Supply, Inc. Common Stock", "test_issue": "N", "ticker": "SITE"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SITM Daily ETF", "test_issue": "N", "ticker": "SITX"}
 {"etf": "Y", "exchange": "P", "name": "abrdn Physical Silver Shares ETF", "test_issue": "N", "ticker": "SIVR"}
+{"etf": "Y", "exchange": "Z", "name": "Global X Magnificent Six ETF", "test_issue": "N", "ticker": "SIX"}
 {"etf": "Y", "exchange": "P", "name": "ETC 6 Meridian Mega Cap Equity ETF", "test_issue": "N", "ticker": "SIXA"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF", "test_issue": "N", "ticker": "SIXD"}
 {"etf": "Y", "exchange": "Z", "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF", "test_issue": "N", "ticker": "SIXF"}
@@ -6533,7 +6532,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi TSLA 2x Daily ETF", "test_issue": "N", "ticker": "TESC"}
 {"etf": "Y", "exchange": "Z", "name": "YieldMax TSLA Performance & Distribution Target 25 ETF", "test_issue": "N", "ticker": "TEST"}
 {"etf": "Y", "exchange": "Z", "name": "21Shares Ethereum ETF", "test_issue": "N", "ticker": "TETH"}
-{"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long TE Daily Target ETF", "test_issue": "N", "ticker": "TEUP"}
 {"etf": "N", "exchange": "N", "name": "Teva Pharmaceutical Industries Limited Ordinary Shares", "test_issue": "N", "ticker": "TEVA"}
 {"etf": "N", "exchange": "N", "name": "Terex Corporation Common Stock", "test_issue": "N", "ticker": "TEX"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Energy Top 5 Bull 2X ETF", "test_issue": "N", "ticker": "TEXU"}
