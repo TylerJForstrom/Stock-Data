@@ -53,6 +53,7 @@
 {"category": "S", "etf": "N", "name": "Acco Group Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "ACCL"}
 {"category": "Q", "etf": "N", "name": "Accelevation Holdings Corp. - Class A ordinary shares", "test_issue": "N", "ticker": "ACCV"}
 {"category": "Q", "etf": "N", "name": "ProFrac Holding Corp. - Class A Common Stock", "test_issue": "N", "ticker": "ACDC"}
+{"category": "G", "etf": "Y", "name": "American Century Emerging Markets Insights ETF", "test_issue": "N", "ticker": "ACEM"}
 {"category": "G", "etf": "Y", "name": "ARS Core Equity Portfolio ETF", "test_issue": "N", "ticker": "ACEP"}
 {"category": "S", "etf": "N", "name": "Adicet Bio, Inc. - Common Stock", "test_issue": "N", "ticker": "ACET"}
 {"category": "S", "etf": "N", "name": "Acorn Energy, Inc. - Common Stock", "test_issue": "N", "ticker": "ACFN"}
@@ -159,6 +160,8 @@
 {"category": "G", "etf": "Y", "name": "EA Astoria Beacon Dynamic Core US Fixed Income ETF", "test_issue": "N", "ticker": "AGGA"}
 {"category": "Q", "etf": "N", "name": "Agios Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "AGIO"}
 {"category": "G", "etf": "Y", "name": "KraneShares Public-Private AI & Technology ETF", "test_issue": "N", "ticker": "AGIX"}
+{"category": "G", "etf": "N", "name": "Agility Robotics, Inc. - Ordinary Shares", "test_issue": "N", "ticker": "AGLT"}
+{"category": "S", "etf": "N", "name": "Agility Robotics, Inc. - Warrants", "test_issue": "N", "ticker": "AGLTW"}
 {"category": "Q", "etf": "N", "name": "AgomAb Therapeutics NV - ADRs representing one common share.", "test_issue": "N", "ticker": "AGMB"}
 {"category": "S", "etf": "N", "name": "AGM Group Holdings Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "AGMH"}
 {"category": "G", "etf": "Y", "name": "Themes Silver Miners ETF", "test_issue": "N", "ticker": "AGMI"}
@@ -989,9 +992,6 @@
 {"category": "Q", "etf": "N", "name": "Consensus Cloud Solutions, Inc. - Common Stock", "test_issue": "N", "ticker": "CCSI"}
 {"category": "G", "etf": "Y", "name": "Carbon Collective Climate Solutions U.S. Equity ETF", "test_issue": "N", "ticker": "CCSO"}
 {"category": "S", "etf": "N", "name": "CCSC Technology International Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "CCTG"}
-{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Class A Ordinary Shares", "test_issue": "N", "ticker": "CCXI"}
-{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Units", "test_issue": "N", "ticker": "CCXIU"}
-{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Warrants", "test_issue": "N", "ticker": "CCXIW"}
 {"category": "G", "etf": "N", "name": "Chaince Digital Holdings Inc. - American Ordinary Shares", "test_issue": "N", "ticker": "CD"}
 {"category": "G", "etf": "Y", "name": "VictoryShares US EQ Income Enhanced Volatility Wtd ETF", "test_issue": "N", "ticker": "CDC"}
 {"category": "G", "etf": "Y", "name": "City Different Investments Global Equity ETF", "test_issue": "N", "ticker": "CDIG"}
@@ -1350,8 +1350,8 @@
 {"category": "G", "etf": "N", "name": "Digital Asset Acquisition Corp. - Units", "test_issue": "N", "ticker": "DAAQU"}
 {"category": "G", "etf": "N", "name": "Digital Asset Acquisition Corp. - Warrant", "test_issue": "N", "ticker": "DAAQW"}
 {"category": "G", "etf": "Y", "name": "Digital Asset Debt Strategy ETF", "test_issue": "N", "ticker": "DADS"}
-{"category": "G", "etf": "N", "name": "CID HoldCo, Inc. - Common Stock", "test_issue": "N", "ticker": "DAIC"}
-{"category": "G", "etf": "N", "name": "CID HoldCo, Inc. - Warrants", "test_issue": "N", "ticker": "DAICW"}
+{"category": "S", "etf": "N", "name": "CID HoldCo, Inc. - Common Stock", "test_issue": "N", "ticker": "DAIC"}
+{"category": "S", "etf": "N", "name": "CID HoldCo, Inc. - Warrants", "test_issue": "N", "ticker": "DAICW"}
 {"category": "S", "etf": "N", "name": "Data I/O Corporation - Common Stock", "test_issue": "N", "ticker": "DAIO"}
 {"category": "G", "etf": "Y", "name": "Dakota Active Equity ETF", "test_issue": "N", "ticker": "DAK"}
 {"category": "Q", "etf": "N", "name": "Daktronics, Inc. - Common Stock", "test_issue": "N", "ticker": "DAKT"}
@@ -1664,7 +1664,7 @@
 {"category": "Q", "etf": "N", "name": "Electra Therapeutics, Inc. - Common stock", "test_issue": "N", "ticker": "ETRA"}
 {"category": "S", "etf": "N", "name": "Elite Express Holding Inc. - Class A Common Stock", "test_issue": "N", "ticker": "ETS"}
 {"category": "S", "etf": "N", "name": "enCore Energy Corp. - Common Stock", "test_issue": "N", "ticker": "EU"}
-{"category": "S", "etf": "N", "name": "Euda Health Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "EUDA"}
+{"category": "S", "etf": "N", "name": "Euda Health Holdings Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "EUDA"}
 {"category": "S", "etf": "N", "name": "Euda Health Holdings Limited - Warrant", "test_issue": "N", "ticker": "EUDAW"}
 {"category": "G", "etf": "Y", "name": "iShares MSCI Europe Financials ETF", "test_issue": "N", "ticker": "EUFN"}
 {"category": "S", "etf": "N", "name": "Eureka Acquisition Corp - Class A Ordinary Share", "test_issue": "N", "ticker": "EURK"}
@@ -2317,6 +2317,7 @@
 {"category": "G", "etf": "N", "name": "Hillman Solutions Corp. - Common Stock", "test_issue": "N", "ticker": "HLMN"}
 {"category": "Q", "etf": "N", "name": "Hamilton Lane Incorporated - Class A Common Stock", "test_issue": "N", "ticker": "HLNE"}
 {"category": "S", "etf": "N", "name": "Hongli Group Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "HLP"}
+{"category": "Q", "etf": "N", "name": "Hilton Worldwide Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "HLT"}
 {"category": "G", "etf": "Y", "name": "Tema Healthcare AI ETF", "test_issue": "N", "ticker": "HLTH"}
 {"category": "G", "etf": "N", "name": "Helix Acquisition Corp. III - Class A Ordinary Shares", "test_issue": "N", "ticker": "HLXC"}
 {"category": "Q", "etf": "N", "name": "HMH Holding Inc. - Common Stock", "test_issue": "N", "ticker": "HMH"}
@@ -2556,6 +2557,7 @@
 {"category": "Q", "etf": "N", "name": "Inogen, Inc - Common Stock", "test_issue": "N", "ticker": "INGN"}
 {"category": "S", "etf": "N", "name": "Inno Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "INHD"}
 {"category": "Q", "etf": "N", "name": "INNIO N.V. - Ordinary Shares", "test_issue": "N", "ticker": "INIO"}
+{"category": "G", "etf": "Y", "name": "Canary Staked INJ ETF", "test_issue": "N", "ticker": "INJC"}
 {"category": "G", "etf": "Y", "name": "AB Equity Premium Income ETF", "test_issue": "N", "ticker": "INK"}
 {"category": "S", "etf": "N", "name": "MiNK Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "INKT"}
 {"category": "S", "etf": "N", "name": "INLIF LIMITED - Class A Ordinary shares", "test_issue": "N", "ticker": "INLF"}
@@ -5511,9 +5513,9 @@
 {"category": "G", "etf": "Y", "name": "VegaShares Space & AI ETF", "test_issue": "N", "ticker": "XSPC"}
 {"category": "G", "etf": "Y", "name": "NEOS Boosted S&P 500 High Income ETF", "test_issue": "N", "ticker": "XSPI"}
 {"category": "G", "etf": "Y", "name": "iShares Future Exponential Technologies ETF", "test_issue": "N", "ticker": "XT"}
-{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "XTER"}
-{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Units", "test_issue": "N", "ticker": "XTERU"}
-{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "XTERW"}
+{"category": "G", "etf": "N", "name": "Xterax Corporation II - Class A Ordinary Shares", "test_issue": "N", "ticker": "XTER"}
+{"category": "G", "etf": "N", "name": "Xterax Corporation II - Units", "test_issue": "N", "ticker": "XTERU"}
+{"category": "G", "etf": "N", "name": "Xterax Corporation II - Warrants", "test_issue": "N", "ticker": "XTERW"}
 {"category": "S", "etf": "N", "name": "XTI Aerospace, Inc. Common Stock  - Common Stock", "test_issue": "N", "ticker": "XTIA"}
 {"category": "S", "etf": "N", "name": "XTL Biopharmaceuticals Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "XTLB"}
 {"category": "G", "etf": "Y", "name": "MarketDesk International Momentum ETF", "test_issue": "N", "ticker": "XUSM"}

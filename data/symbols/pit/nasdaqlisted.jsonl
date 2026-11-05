@@ -57,6 +57,7 @@
 {"category": "S", "etf": "N", "name": "Acco Group Holdings Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ACCL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Accelevation Holdings Corp. - Class A ordinary shares", "provable_from": true, "test_issue": "N", "ticker": "ACCV", "valid_from": "2026-09-30", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ProFrac Holding Corp. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACDC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "American Century Emerging Markets Insights ETF", "provable_from": true, "test_issue": "N", "ticker": "ACEM", "valid_from": "2026-11-05", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "ARS Core Equity Portfolio ETF", "provable_from": false, "test_issue": "N", "ticker": "ACEP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Adicet Bio, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACET", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Acorn Energy, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACFN", "valid_from": "2026-07-28", "valid_to": null}
@@ -165,6 +166,8 @@
 {"category": "G", "etf": "Y", "name": "EA Astoria Beacon Dynamic Core US Fixed Income ETF", "provable_from": false, "test_issue": "N", "ticker": "AGGA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Agios Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "AGIO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "KraneShares Public-Private AI & Technology ETF", "provable_from": false, "test_issue": "N", "ticker": "AGIX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Agility Robotics, Inc. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "AGLT", "valid_from": "2026-11-05", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Agility Robotics, Inc. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "AGLTW", "valid_from": "2026-11-05", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "AgomAb Therapeutics NV - ADRs representing one common share.", "provable_from": false, "test_issue": "N", "ticker": "AGMB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "AGM Group Holdings Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "AGMH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Themes Silver Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "AGMI", "valid_from": "2026-07-28", "valid_to": null}
@@ -1047,9 +1050,9 @@
 {"category": "Q", "etf": "N", "name": "Consensus Cloud Solutions, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CCSI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Carbon Collective Climate Solutions U.S. Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "CCSO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "CCSC Technology International Holdings Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CCTG", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CCXI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Units", "provable_from": false, "test_issue": "N", "ticker": "CCXIU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Warrants", "provable_from": false, "test_issue": "N", "ticker": "CCXIW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CCXI", "valid_from": "2026-07-28", "valid_to": "2026-11-05"}
+{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Units", "provable_from": false, "test_issue": "N", "ticker": "CCXIU", "valid_from": "2026-07-28", "valid_to": "2026-11-05"}
+{"category": "G", "etf": "N", "name": "Churchill Capital Corp XI - Warrants", "provable_from": false, "test_issue": "N", "ticker": "CCXIW", "valid_from": "2026-07-28", "valid_to": "2026-11-05"}
 {"category": "G", "etf": "N", "name": "Chaince Digital Holdings Inc. - American Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "VictoryShares US EQ Income Enhanced Volatility Wtd ETF", "provable_from": false, "test_issue": "N", "ticker": "CDC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "City Different Investments Global Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "CDIG", "valid_from": "2026-07-28", "valid_to": null}
@@ -1422,8 +1425,10 @@
 {"category": "G", "etf": "N", "name": "Digital Asset Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "DAAQU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Digital Asset Acquisition Corp. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "DAAQW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Digital Asset Debt Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "DADS", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CID HoldCo, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DAIC", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CID HoldCo, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "DAICW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "CID HoldCo, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DAIC", "valid_from": "2026-07-28", "valid_to": "2026-11-05"}
+{"category": "S", "etf": "N", "name": "CID HoldCo, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "DAIC", "valid_from": "2026-11-05", "valid_to": null}
+{"category": "G", "etf": "N", "name": "CID HoldCo, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "DAICW", "valid_from": "2026-07-28", "valid_to": "2026-11-05"}
+{"category": "S", "etf": "N", "name": "CID HoldCo, Inc. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "DAICW", "valid_from": "2026-11-05", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Data I/O Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DAIO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Dakota Active Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "DAK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Daktronics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "DAKT", "valid_from": "2026-07-28", "valid_to": null}
@@ -1769,7 +1774,8 @@
 {"category": "Q", "etf": "N", "name": "Electra Therapeutics, Inc. - Common stock", "provable_from": true, "test_issue": "N", "ticker": "ETRA", "valid_from": "2026-09-19", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Elite Express Holding Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ETS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "enCore Energy Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Euda Health Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "EUDA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Euda Health Holdings Limited - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "EUDA", "valid_from": "2026-07-28", "valid_to": "2026-11-05"}
+{"category": "S", "etf": "N", "name": "Euda Health Holdings Limited - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "EUDA", "valid_from": "2026-11-05", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Euda Health Holdings Limited - Warrant", "provable_from": false, "test_issue": "N", "ticker": "EUDAW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares MSCI Europe Financials ETF", "provable_from": false, "test_issue": "N", "ticker": "EUFN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Eureka Acquisition Corp - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "EURK", "valid_from": "2026-07-28", "valid_to": null}
@@ -2452,6 +2458,7 @@
 {"category": "G", "etf": "N", "name": "Hillman Solutions Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HLMN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Hamilton Lane Incorporated - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HLNE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Hongli Group Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "HLP", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Hilton Worldwide Holdings Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "HLT", "valid_from": "2026-11-05", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Tema Healthcare AI ETF", "provable_from": false, "test_issue": "N", "ticker": "HLTH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Helix Acquisition Corp. III - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "HLXC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "HMH Holding Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HMH", "valid_from": "2026-07-28", "valid_to": null}
@@ -2704,6 +2711,7 @@
 {"category": "Q", "etf": "N", "name": "Inogen, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INGN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Inno Holdings Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INHD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "INNIO N.V. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "INIO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Canary Staked INJ ETF", "provable_from": true, "test_issue": "N", "ticker": "INJC", "valid_from": "2026-11-05", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "AB Equity Premium Income ETF", "provable_from": true, "test_issue": "N", "ticker": "INK", "valid_from": "2026-11-04", "valid_to": null}
 {"category": "S", "etf": "N", "name": "MiNK Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INKT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "INLIF LIMITED - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "INLF", "valid_from": "2026-07-28", "valid_to": null}
@@ -5849,9 +5857,12 @@
 {"category": "G", "etf": "Y", "name": "VegaShares Space & AI ETF", "provable_from": true, "test_issue": "N", "ticker": "XSPC", "valid_from": "2026-10-01", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "NEOS Boosted S&P 500 High Income ETF", "provable_from": false, "test_issue": "N", "ticker": "XSPI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Future Exponential Technologies ETF", "provable_from": false, "test_issue": "N", "ticker": "XT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "XTER", "valid_from": "2026-08-27", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Units", "provable_from": true, "test_issue": "N", "ticker": "XTERU", "valid_from": "2026-08-19", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "XTERW", "valid_from": "2026-08-27", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "XTER", "valid_from": "2026-08-27", "valid_to": "2026-11-05"}
+{"category": "G", "etf": "N", "name": "Xterax Corporation II - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "XTER", "valid_from": "2026-11-05", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Units", "provable_from": true, "test_issue": "N", "ticker": "XTERU", "valid_from": "2026-08-19", "valid_to": "2026-11-05"}
+{"category": "G", "etf": "N", "name": "Xterax Corporation II - Units", "provable_from": true, "test_issue": "N", "ticker": "XTERU", "valid_from": "2026-11-05", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Karman Line Acquisition Corp. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "XTERW", "valid_from": "2026-08-27", "valid_to": "2026-11-05"}
+{"category": "G", "etf": "N", "name": "Xterax Corporation II - Warrants", "provable_from": true, "test_issue": "N", "ticker": "XTERW", "valid_from": "2026-11-05", "valid_to": null}
 {"category": "S", "etf": "N", "name": "XTI Aerospace, Inc. Common Stock  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "XTIA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "XTL Biopharmaceuticals Ltd. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "XTLB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "MarketDesk International Momentum ETF", "provable_from": true, "test_issue": "N", "ticker": "XUSM", "valid_from": "2026-09-15", "valid_to": null}

@@ -623,6 +623,7 @@
 {"etf": "Y", "exchange": "Z", "name": "JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF", "test_issue": "N", "ticker": "BBLB"}
 {"etf": "Y", "exchange": "P", "name": "Munificent Seven ETF", "test_issue": "N", "ticker": "BBLS"}
 {"etf": "Y", "exchange": "P", "name": "EA Bridgeway Blue Chip ETF", "test_issue": "N", "ticker": "BBLU"}
+{"etf": "Y", "exchange": "P", "name": "BondBloxx Core Plus ETF", "test_issue": "N", "ticker": "BBLX"}
 {"etf": "Y", "exchange": "Z", "name": "JPMorgan BetaBuilders U.S. Mid Cap Equity ETF", "test_issue": "N", "ticker": "BBMC"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "BBN"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Biotech ETF", "test_issue": "N", "ticker": "BBP"}
@@ -716,6 +717,7 @@
 {"etf": "N", "exchange": "N", "name": "Bread Financial Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "BFH"}
 {"etf": "N", "exchange": "N", "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A", "test_issue": "N", "ticker": "BFH$A"}
 {"etf": "N", "exchange": "N", "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B", "test_issue": "N", "ticker": "BFH$B"}
+{"etf": "N", "exchange": "N", "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C", "test_issue": "N", "ticker": "BFH$C"}
 {"etf": "Y", "exchange": "P", "name": "Build Bond Innovation ETF", "test_issue": "N", "ticker": "BFIX"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest Bitcoin Strategy Floor15 ETF - January", "test_issue": "N", "ticker": "BFJA"}
 {"etf": "Y", "exchange": "P", "name": "FT Vest Bitcoin Strategy Floor15 ETF July", "test_issue": "N", "ticker": "BFJL"}
@@ -1137,7 +1139,7 @@
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long CRCL Daily Target ETF", "test_issue": "N", "ticker": "CCUP"}
 {"etf": "N", "exchange": "N", "name": "Comcast Holdings ZONES", "test_issue": "N", "ticker": "CCZ"}
 {"etf": "N", "exchange": "N", "name": "Coeur Mining, Inc. Common Stock", "test_issue": "N", "ticker": "CDE"}
-{"etf": "N", "exchange": "N", "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)", "test_issue": "N", "ticker": "CDLR"}
+{"etf": "N", "exchange": "N", "name": "Cadeler plc Ordinary Shares", "test_issue": "N", "ticker": "CDLR"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long CDNS Daily ETF", "test_issue": "N", "ticker": "CDNG"}
 {"etf": "N", "exchange": "N", "name": "COPT Defense Properties Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "CDP"}
 {"etf": "Y", "exchange": "P", "name": "Columbia High Dividend Premium Income ETF", "test_issue": "N", "ticker": "CDPI"}
@@ -1688,6 +1690,7 @@
 {"etf": "N", "exchange": "N", "name": "Donnelley Financial Solutions, Inc. Common Stock ", "test_issue": "N", "ticker": "DFIN"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional Inflation-Protected Securities ETF", "test_issue": "N", "ticker": "DFIP"}
 {"etf": "Y", "exchange": "Z", "name": "Dimensional International Small Cap ETF", "test_issue": "N", "ticker": "DFIS"}
+{"etf": "Y", "exchange": "Z", "name": "Davidson Intermediate Taxable ETF", "test_issue": "N", "ticker": "DFIT"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional International Value ETF", "test_issue": "N", "ticker": "DFIV"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Japan SmallCap Fund", "test_issue": "N", "ticker": "DFJ"}
 {"etf": "Y", "exchange": "P", "name": "Dimensional US Large Cap Value ETF", "test_issue": "N", "ticker": "DFLV"}
@@ -1771,6 +1774,7 @@
 {"etf": "N", "exchange": "N", "name": "Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests", "test_issue": "N", "ticker": "DKL"}
 {"etf": "N", "exchange": "N", "name": "Dick's Sporting Goods Inc Common Stock", "test_issue": "N", "ticker": "DKS"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - August", "test_issue": "N", "ticker": "DLAG"}
+{"etf": "Y", "exchange": "Z", "name": "Tuttle Capital AI Bottleneck ETF", "test_issue": "N", "ticker": "DLAY"}
 {"etf": "N", "exchange": "N", "name": "Dolby Laboratories Common Stock", "test_issue": "N", "ticker": "DLB"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - February", "test_issue": "N", "ticker": "DLFE"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - May", "test_issue": "N", "ticker": "DLMY"}
@@ -2539,6 +2543,7 @@
 {"etf": "Y", "exchange": "P", "name": "FM Focus Equity ETF", "test_issue": "N", "ticker": "FMCX"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity Enhanced Mid Cap Core ETF", "test_issue": "N", "ticker": "FMDE"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Managed Futures Strategy Fund", "test_issue": "N", "ticker": "FMF"}
+{"etf": "Y", "exchange": "P", "name": "FMI Global Equity ETF", "test_issue": "N", "ticker": "FMIG"}
 {"etf": "Y", "exchange": "P", "name": "The Free Markets ETF", "test_issue": "N", "ticker": "FMKT"}
 {"etf": "N", "exchange": "N", "name": "Federated Hermes Premier Municipal Income Fund", "test_issue": "N", "ticker": "FMN"}
 {"etf": "Y", "exchange": "P", "name": "First Trust New York Municipal High Income ETF", "test_issue": "N", "ticker": "FMNY"}
@@ -3142,7 +3147,6 @@
 {"etf": "N", "exchange": "N", "name": "Holley Inc. Common Stock", "test_issue": "N", "ticker": "HLLY"}
 {"etf": "N", "exchange": "N", "name": "Haleon plc American Depositary Shares (Each representing two Ordinary Shares)", "test_issue": "N", "ticker": "HLN"}
 {"etf": "N", "exchange": "A", "name": "Tessera Defense and Homeland Security Inc. Common Stock", "test_issue": "N", "ticker": "HLSQ"}
-{"etf": "N", "exchange": "N", "name": "Hilton Worldwide Holdings Inc. Common Stock ", "test_issue": "N", "ticker": "HLT"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series", "test_issue": "N", "ticker": "HMAY"}
 {"etf": "N", "exchange": "N", "name": "Honda Motor Company, Ltd. Common Stock", "test_issue": "N", "ticker": "HMC"}
 {"etf": "N", "exchange": "N", "name": "Horace Mann Educators Corporation Common Stock", "test_issue": "N", "ticker": "HMN"}
