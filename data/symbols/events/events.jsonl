@@ -7521,3 +7521,12 @@
 {"date": "2026-11-05", "event": "added", "record": {"etf": "Y", "exchange": "P", "name": "FMI Global Equity ETF", "test_issue": "N", "ticker": "FMIG"}, "source": "otherlisted"}
 {"date": "2026-11-05", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "Hilton Worldwide Holdings Inc. Common Stock ", "test_issue": "N", "ticker": "HLT"}, "source": "otherlisted"}
 {"date": "2026-11-05", "event": "changed", "previous": {"etf": "N", "exchange": "N", "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)", "test_issue": "N", "ticker": "CDLR"}, "record": {"etf": "N", "exchange": "N", "name": "Cadeler plc Ordinary Shares", "test_issue": "N", "ticker": "CDLR"}, "source": "otherlisted"}
+{"date": "2026-11-06", "event": "added", "record": {"category": "G", "etf": "N", "name": "Leader's Advantage Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "LEDR"}, "source": "nasdaqlisted"}
+{"date": "2026-11-06", "event": "added", "record": {"category": "G", "etf": "N", "name": "Leader's Advantage Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "LEDRW"}, "source": "nasdaqlisted"}
+{"date": "2026-11-06", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Aldel Financial II Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "ALDF"}, "source": "nasdaqlisted"}
+{"date": "2026-11-06", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Aldel Financial II Inc. - Units", "test_issue": "N", "ticker": "ALDFU"}, "source": "nasdaqlisted"}
+{"date": "2026-11-06", "event": "removed", "record": {"category": "G", "etf": "N", "name": "Aldel Financial II Inc. - Warrants", "test_issue": "N", "ticker": "ALDFW"}, "source": "nasdaqlisted"}
+{"date": "2026-11-06", "event": "removed", "record": {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long SK hynix Daily ETF", "test_issue": "N", "ticker": "SKHA"}, "source": "otherlisted"}
+{"date": "2026-11-06", "event": "removed", "record": {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short SK hynix Daily ETF", "test_issue": "N", "ticker": "SKHN"}, "source": "otherlisted"}
+{"date": "2026-11-06", "event": "removed", "record": {"etf": "Y", "exchange": "P", "name": "USCF Energy Commodity Strategy Absolute Return Fund", "test_issue": "N", "ticker": "USE"}, "source": "otherlisted"}
+{"date": "2026-11-06", "event": "removed", "record": {"etf": "Y", "exchange": "P", "name": "USCF Oil Plus Bitcoin Strategy Fund", "test_issue": "N", "ticker": "WTIB"}, "source": "otherlisted"}
