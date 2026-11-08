@@ -23,16 +23,16 @@
     }
   ],
   "first_observed": {},
-  "generated_at_utc": "2026-11-07T13:58:16Z",
+  "generated_at_utc": "2026-11-08T14:16:16Z",
   "last_success": {
-    "nasdaqlisted": "2026-11-07",
-    "otherlisted": "2026-11-07",
-    "sec_company_tickers": "2026-11-07",
-    "sec_company_tickers_exchange": "2026-11-07"
+    "nasdaqlisted": "2026-11-08",
+    "otherlisted": "2026-11-08",
+    "sec_company_tickers": "2026-11-08",
+    "sec_company_tickers_exchange": "2026-11-08"
   },
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
   "schema_version": "1.0",
-  "snapshot_date": "2026-11-07",
+  "snapshot_date": "2026-11-08",
   "source_urls": [
     "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",
     "https://www.nasdaqtrader.com/dynamic/symdir/otherlisted.txt",
