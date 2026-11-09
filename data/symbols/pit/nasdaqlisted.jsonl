@@ -947,7 +947,7 @@
 {"category": "S", "etf": "N", "name": "Broadwind, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BWEN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Bankwell Financial Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BWFG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BWIN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "Bowman Consulting Group Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BWMN", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Bowman Consulting Group Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BWMN", "valid_from": "2026-07-28", "valid_to": "2026-11-09"}
 {"category": "G", "etf": "N", "name": "BOXABL, Inc.  - Common stock", "provable_from": false, "test_issue": "N", "ticker": "BXBL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BYAH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Broadway Financial Corporation - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BYFC", "valid_from": "2026-07-28", "valid_to": null}
@@ -2715,7 +2715,7 @@
 {"category": "G", "etf": "Y", "name": "AB Equity Premium Income ETF", "provable_from": true, "test_issue": "N", "ticker": "INK", "valid_from": "2026-11-04", "valid_to": null}
 {"category": "S", "etf": "N", "name": "MiNK Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INKT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "INLIF LIMITED - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "INLF", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "InMed Pharmaceuticals Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "INM", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "InMed Pharmaceuticals Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "INM", "valid_from": "2026-07-28", "valid_to": "2026-11-09"}
 {"category": "S", "etf": "N", "name": "INmune Bio Inc. - Common stock", "provable_from": false, "test_issue": "N", "ticker": "INMB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "InMode Ltd.  - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "INMD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "InnovAge Holding Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "INNV", "valid_from": "2026-07-28", "valid_to": null}
@@ -3303,7 +3303,7 @@
 {"category": "Q", "etf": "N", "name": "Marchex, Inc. - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MCHX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Seres Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MCRB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Monarch Casino & Resort, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MCRI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Charming Medical Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MCTA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Charming Medical Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "MCTA", "valid_from": "2026-07-28", "valid_to": "2026-11-09"}
 {"category": "S", "etf": "N", "name": "Spectral AI, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MDAI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Spectral AI, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "MDAIW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "MongoDB, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MDB", "valid_from": "2026-07-28", "valid_to": null}
@@ -3498,6 +3498,7 @@
 {"category": "S", "etf": "N", "name": "Mannatech, Incorporated - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MTEX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "MayTech Global Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "MTGG", "valid_from": "2026-10-20", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Materialise NV - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "MTLS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Mentari Therapeutics, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "MTRI", "valid_from": "2026-11-09", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Matrix Service Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MTRX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "MACOM Technology Solutions Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MTSI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "MetaVia Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MTVA", "valid_from": "2026-07-28", "valid_to": null}
@@ -4600,7 +4601,7 @@
 {"category": "G", "etf": "Y", "name": "JPMorgan Equity Premium Yield ETF", "provable_from": false, "test_issue": "N", "ticker": "ROCY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Astoria US Equal Weight Quality Kings ETF", "provable_from": false, "test_issue": "N", "ticker": "ROE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Roivant Sciences Ltd. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "ROIV", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Roku, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ROKU", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Roku, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ROKU", "valid_from": "2026-07-28", "valid_to": "2026-11-09"}
 {"category": "S", "etf": "N", "name": "Roma Green Finance Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ROMA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Root, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ROOT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Roper Technologies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ROP", "valid_from": "2026-07-28", "valid_to": null}
@@ -5443,7 +5444,7 @@
 {"category": "Q", "etf": "N", "name": "Frontier Group Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ULCC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Universal Logistics Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ULH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Ulta Beauty, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ULTA", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "REX IncomeMax Option Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "ULTI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "REX IncomeMax Option Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "ULTI", "valid_from": "2026-07-28", "valid_to": "2026-11-09"}
 {"category": "G", "etf": "Y", "name": "VictoryShares US Value Momentum ETF", "provable_from": false, "test_issue": "N", "ticker": "ULVM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "UMB Financial Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "UMBF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B", "provable_from": false, "test_issue": "N", "ticker": "UMBFO", "valid_from": "2026-07-28", "valid_to": null}

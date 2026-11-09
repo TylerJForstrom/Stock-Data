@@ -375,7 +375,6 @@
 {"etf": "N", "exchange": "N", "name": "Ares Management Corporation Class A Common Stock", "test_issue": "N", "ticker": "ARES"}
 {"etf": "N", "exchange": "N", "name": "Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock", "test_issue": "N", "ticker": "ARES$B"}
 {"etf": "Y", "exchange": "P", "name": "Global X MSCI Argentina ETF", "test_issue": "N", "ticker": "ARGT"}
-{"etf": "N", "exchange": "N", "name": "Apollo Commercial Real Estate Finance, Inc", "test_issue": "N", "ticker": "ARI"}
 {"etf": "Y", "exchange": "P", "name": "ARIA Opportunities ETF", "test_issue": "N", "ticker": "ARIA"}
 {"etf": "N", "exchange": "N", "name": "Aris Mining Corporation Common Shares", "test_issue": "N", "ticker": "ARIS"}
 {"etf": "Y", "exchange": "Z", "name": "ARK 21Shares Bitcoin ETF ", "test_issue": "N", "ticker": "ARKB"}
@@ -3223,7 +3222,10 @@
 {"etf": "Y", "exchange": "P", "name": "Mast HedgeIndex Managed Futures Strategy ETF", "test_issue": "N", "ticker": "HXF"}
 {"etf": "N", "exchange": "N", "name": "Hexcel Corporation Common Stock", "test_issue": "N", "ticker": "HXL"}
 {"etf": "N", "exchange": "N", "name": "Hyster-Yale, Inc. Class A common stock", "test_issue": "N", "ticker": "HY"}
+{"etf": "N", "exchange": "N", "name": "Haymaker Acquisition Corp V Class A Ordinary Shares", "test_issue": "N", "ticker": "HYAC"}
 {"etf": "N", "exchange": "N", "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "HYAC.U"}
+{"etf": "N", "exchange": "N", "name": "Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50", "test_issue": "N", "ticker": "HYAC.W"}
+{"etf": "Y", "exchange": "P", "name": "Lazard US High Yield ETF", "test_issue": "N", "ticker": "HYB"}
 {"etf": "Y", "exchange": "P", "name": "iShares BB Rated Corporate Bond ETF", "test_issue": "N", "ticker": "HYBB"}
 {"etf": "Y", "exchange": "Z", "name": "State Street Blackstone High Income ETF", "test_issue": "N", "ticker": "HYBL"}
 {"etf": "Y", "exchange": "N", "name": "TCW High Yield Bond ETF", "test_issue": "N", "ticker": "HYBX"}
@@ -3232,6 +3234,7 @@
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Low Beta High Yield Bond ETF", "test_issue": "N", "ticker": "HYDW"}
 {"etf": "Y", "exchange": "P", "name": "VanEck Emerging Markets High Yield Bond ETF", "test_issue": "N", "ticker": "HYEM"}
 {"etf": "Y", "exchange": "P", "name": "AB High Yield ETF", "test_issue": "N", "ticker": "HYFI"}
+{"etf": "Y", "exchange": "P", "name": "Lazard Hybrid Financial Income ETF", "test_issue": "N", "ticker": "HYFY"}
 {"etf": "Y", "exchange": "P", "name": "iShares iBoxx $ High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "HYG"}
 {"etf": "Y", "exchange": "Z", "name": "MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs", "test_issue": "N", "ticker": "HYGD"}
 {"etf": "Y", "exchange": "P", "name": "iShares Interest Rate Hedged High Yield Bond ETF", "test_issue": "N", "ticker": "HYGH"}
@@ -4148,6 +4151,8 @@
 {"etf": "N", "exchange": "N", "name": "Lloyds Banking Group Plc American Depositary Shares", "test_issue": "N", "ticker": "LYG"}
 {"etf": "Y", "exchange": "Z", "name": "Cambria Large Cap Shareholder Yield ETF", "test_issue": "N", "ticker": "LYLD"}
 {"etf": "N", "exchange": "N", "name": "Lyntris Inc. Common Stock", "test_issue": "N", "ticker": "LYNX"}
+{"etf": "Y", "exchange": "P", "name": "Lyrical U.S. Value Equity ETF", "test_issue": "N", "ticker": "LYR"}
+{"etf": "Y", "exchange": "P", "name": "Lyrical International Value Equity ETF", "test_issue": "N", "ticker": "LYRI"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Photonics & Optics ETF", "test_issue": "N", "ticker": "LYTE"}
 {"etf": "N", "exchange": "N", "name": "Live Nation Entertainment, Inc. Common Stock", "test_issue": "N", "ticker": "LYV"}
 {"etf": "N", "exchange": "N", "name": "La-Z-Boy Incorporated Common Stock", "test_issue": "N", "ticker": "LZB"}
@@ -4266,6 +4271,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Pacer Swan SOS Moderate (February) ETF", "test_issue": "N", "ticker": "MFEB"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF", "test_issue": "N", "ticker": "MFEM"}
 {"etf": "N", "exchange": "N", "name": "Mizuho Financial Group, Inc. Sponosred ADR (Japan)", "test_issue": "N", "ticker": "MFG"}
+{"etf": "Y", "exchange": "P", "name": "Nomura Strategic Income ETF", "test_issue": "N", "ticker": "MFIX"}
 {"etf": "N", "exchange": "N", "name": "Aberdeen Municipal Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "MFM"}
 {"etf": "Y", "exchange": "N", "name": "MFS Active Core Plus Bond ETF", "test_issue": "N", "ticker": "MFSB"}
 {"etf": "Y", "exchange": "P", "name": "MFS Active Short Duration Income ETF", "test_issue": "N", "ticker": "MFSD"}
@@ -6128,6 +6134,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi SMCI 2x Daily ETF", "test_issue": "N", "ticker": "SMCC"}
 {"etf": "Y", "exchange": "P", "name": "SMART Mid Cap ETF", "test_issue": "N", "ticker": "SMCP"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax SMCI Option Income Strategy ETF", "test_issue": "N", "ticker": "SMCY"}
+{"etf": "Y", "exchange": "P", "name": "Nomura Small and Mid Cap ETF", "test_issue": "N", "ticker": "SMDC"}
 {"etf": "Y", "exchange": "P", "name": "UltraPro Short MidCap400", "test_issue": "N", "ticker": "SMDD"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares Russell 2000 Dividend Growers ETF", "test_issue": "N", "ticker": "SMDV"}
 {"etf": "Y", "exchange": "P", "name": "Intech S&P Small-Mid Cap Diversified Alpha ETF", "test_issue": "N", "ticker": "SMDX"}
@@ -6480,8 +6487,6 @@
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Capital Appreciation Equity ETF", "test_issue": "N", "ticker": "TCAF"}
 {"etf": "Y", "exchange": "N", "name": "Tortoise AI Infrastructure ETF", "test_issue": "N", "ticker": "TCAI"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Capital Appreciation Premium Income ETF", "test_issue": "N", "ticker": "TCAL"}
-{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TCBI"}
-{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B", "test_issue": "N", "ticker": "TCBI$B"}
 {"etf": "N", "exchange": "N", "name": "Third Coast Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TCBX"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Blue Chip Growth ETF", "test_issue": "N", "ticker": "TCHP"}
 {"etf": "N", "exchange": "N", "name": "Transcontinental Realty Investors, Inc. Common Stock", "test_issue": "N", "ticker": "TCI"}
@@ -6618,7 +6623,6 @@
 {"etf": "N", "exchange": "N", "name": "TKO Group Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "TKO"}
 {"etf": "N", "exchange": "N", "name": "Timken Company (The) Common Stock", "test_issue": "N", "ticker": "TKR"}
 {"etf": "Y", "exchange": "P", "name": "Touchstone International Equity ETF", "test_issue": "N", "ticker": "TLCI"}
-{"etf": "Y", "exchange": "Z", "name": "The Laddered T-Bill ETF", "test_issue": "N", "ticker": "TLDR"}
 {"etf": "Y", "exchange": "P", "name": "iShares 10-20 Year Treasury Bond ETF", "test_issue": "N", "ticker": "TLH"}
 {"etf": "Y", "exchange": "P", "name": "American Beacon The London Company Income Equity ETF", "test_issue": "N", "ticker": "TLIE"}
 {"etf": "N", "exchange": "N", "name": "PT Telekomunikasi Indonesia, Tbk", "test_issue": "N", "ticker": "TLK"}
@@ -6806,6 +6810,8 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi TSM 2x Daily ETF", "test_issue": "N", "ticker": "TWSC"}
 {"etf": "N", "exchange": "N", "name": "Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)", "test_issue": "N", "ticker": "TX"}
 {"etf": "Y", "exchange": "P", "name": "21Shares FTSE Crypto 10 ex-BTC Index ETF", "test_issue": "N", "ticker": "TXBC"}
+{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "TXCP"}
+{"etf": "N", "exchange": "F", "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B", "test_issue": "N", "ticker": "TXCP$B"}
 {"etf": "N", "exchange": "N", "name": "TXNM Energy, Inc. Common Stock", "test_issue": "N", "ticker": "TXNM"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily TXN Bull 2X ETF", "test_issue": "N", "ticker": "TXNU"}
 {"etf": "N", "exchange": "N", "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests", "test_issue": "N", "ticker": "TXO"}
@@ -7372,6 +7378,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Franklin Exponential Data ETF", "test_issue": "N", "ticker": "XDAT"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December", "test_issue": "N", "ticker": "XDEC"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill S&P 500 No Dividend Target ETF", "test_issue": "N", "ticker": "XDIV"}
+{"etf": "Y", "exchange": "P", "name": "Lazard Non-Dollar Active Income ETF", "test_issue": "N", "ticker": "XDLR"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth Accelerated ETF - Quarterly", "test_issue": "N", "ticker": "XDQQ"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Equity Accelerated ETF - Quarterly", "test_issue": "N", "ticker": "XDSQ"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF", "test_issue": "N", "ticker": "XDTE"}
