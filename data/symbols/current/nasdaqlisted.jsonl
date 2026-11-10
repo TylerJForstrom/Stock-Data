@@ -65,7 +65,6 @@
 {"category": "Q", "etf": "N", "name": "Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F", "test_issue": "N", "ticker": "ACGLO"}
 {"category": "Q", "etf": "N", "name": "Acadia Healthcare Company, Inc. - Common Stock", "test_issue": "N", "ticker": "ACHC"}
 {"category": "G", "etf": "Y", "name": "Global X Asia Semiconductor ETF", "test_issue": "N", "ticker": "ACHP"}
-{"category": "S", "etf": "N", "name": "Achieve Life Sciences, Inc.  - Common Shares", "test_issue": "N", "ticker": "ACHV"}
 {"category": "S", "etf": "N", "name": "American Coastal Insurance Corporation - Common Stock", "test_issue": "N", "ticker": "ACIC"}
 {"category": "G", "etf": "N", "name": "AC Immune SA - Common Stock", "test_issue": "N", "ticker": "ACIU"}
 {"category": "Q", "etf": "N", "name": "ACI Worldwide, Inc. - Common Stock", "test_issue": "N", "ticker": "ACIW"}
@@ -1706,7 +1705,6 @@
 {"category": "S", "etf": "N", "name": "EZGO Technologies Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "EZGO"}
 {"category": "G", "etf": "Y", "name": "AlphaDroid Broad Markets Momentum ETF", "test_issue": "N", "ticker": "EZMO"}
 {"category": "Q", "etf": "N", "name": "EZCORP, Inc. - Class A Non-Voting Common Stock", "test_issue": "N", "ticker": "EZPW"}
-{"category": "S", "etf": "N", "name": "Reliance Global Group, Inc. - Common Stock", "test_issue": "N", "ticker": "EZRA"}
 {"category": "G", "etf": "Y", "name": "AlphaDroid Defensive Sector Rotation ETF", "test_issue": "N", "ticker": "EZRO"}
 {"category": "Q", "etf": "N", "name": "First Advantage Corporation - Common Stock", "test_issue": "N", "ticker": "FA"}
 {"category": "G", "etf": "Y", "name": "Fidelity AAA CLO ETF", "test_issue": "N", "ticker": "FAAA"}
@@ -2025,7 +2023,7 @@
 {"category": "S", "etf": "N", "name": "GBank Financial Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "GBFH"}
 {"category": "Q", "etf": "N", "name": "Global Indemnity Group, LLC - Class A Common Shares", "test_issue": "N", "ticker": "GBLI"}
 {"category": "G", "etf": "Y", "name": "Sprott Active Gold & Silver Miners ETF", "test_issue": "N", "ticker": "GBUG"}
-{"category": "S", "etf": "N", "name": "Greene County Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "GCBC"}
+{"category": "S", "etf": "N", "name": "Greene Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "GCBC"}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "GCGR"}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Units", "test_issue": "N", "ticker": "GCGRU"}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Warrants", "test_issue": "N", "ticker": "GCGRW"}
@@ -4145,6 +4143,7 @@
 {"category": "S", "etf": "N", "name": "Quantum Computing Inc. - Common Stock", "test_issue": "N", "ticker": "QUBT"}
 {"category": "S", "etf": "N", "name": "Quantum Cyber N.V. - Ordinary Shares", "test_issue": "N", "ticker": "QUCY"}
 {"category": "S", "etf": "N", "name": "QuickLogic Corporation - Common Stock", "test_issue": "N", "ticker": "QUIK"}
+{"category": "S", "etf": "N", "name": "Achieve Life Sciences, Inc.  - Common Shares", "test_issue": "N", "ticker": "QUIT"}
 {"category": "G", "etf": "N", "name": "Quantumsphere Acquisition Corp. - Ordinary Shares", "test_issue": "N", "ticker": "QUMS"}
 {"category": "G", "etf": "N", "name": "Quantumsphere Acquisition Corp. - Rights", "test_issue": "N", "ticker": "QUMSR"}
 {"category": "G", "etf": "N", "name": "Quantumsphere Acquisition Corp. - Units", "test_issue": "N", "ticker": "QUMSU"}
@@ -4210,7 +4209,6 @@
 {"category": "Q", "etf": "N", "name": "Radware Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "RDWR"}
 {"category": "G", "etf": "N", "name": "Roadzen, Inc. - Ordinary Shares", "test_issue": "N", "ticker": "RDZN"}
 {"category": "S", "etf": "N", "name": "Roadzen, Inc. - Warrants", "test_issue": "N", "ticker": "RDZNW"}
-{"category": "G", "etf": "Y", "name": "Intelligent Real Estate ETF", "test_issue": "N", "ticker": "REAI"}
 {"category": "Q", "etf": "N", "name": "The RealReal, Inc. - Common Stock", "test_issue": "N", "ticker": "REAL"}
 {"category": "S", "etf": "N", "name": "Real REMAX Group Inc. - Common Stock", "test_issue": "N", "ticker": "REAX"}
 {"category": "S", "etf": "N", "name": "Reborn Coffee, Inc. - Common Stock", "test_issue": "N", "ticker": "REBN"}
@@ -4432,7 +4430,10 @@
 {"category": "G", "etf": "N", "name": "Social Commerce Partners Corporation - Class A Ordinary Shares", "test_issue": "N", "ticker": "SCPQ"}
 {"category": "G", "etf": "N", "name": "Social Commerce Partners Corporation - Unit", "test_issue": "N", "ticker": "SCPQU"}
 {"category": "G", "etf": "N", "name": "Social Commerce Partners Corporation - Warrant", "test_issue": "N", "ticker": "SCPQW"}
+{"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "SCQC"}
+{"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Rights", "test_issue": "N", "ticker": "SCQCR"}
 {"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Units", "test_issue": "N", "ticker": "SCQCU"}
+{"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "SCQCW"}
 {"category": "Q", "etf": "N", "name": "ScanSource, Inc. - Common Stock", "test_issue": "N", "ticker": "SCSC"}
 {"category": "G", "etf": "N", "name": "Scribe Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "SCTX"}
 {"category": "S", "etf": "N", "name": "374Water Inc. - common stock", "test_issue": "N", "ticker": "SCWO"}
@@ -4772,7 +4773,6 @@
 {"category": "S", "etf": "N", "name": "SaverOne 2014 Ltd. - Warrant", "test_issue": "N", "ticker": "SVREW"}
 {"category": "S", "etf": "N", "name": "SVRN, Inc. - Common Stock", "test_issue": "N", "ticker": "SVRN"}
 {"category": "S", "etf": "N", "name": "Stran & Company, Inc. - Common Stock", "test_issue": "N", "ticker": "SWAG"}
-{"category": "S", "etf": "N", "name": "Stran & Company, Inc. - Warrant", "test_issue": "N", "ticker": "SWAGW"}
 {"category": "Q", "etf": "N", "name": "Smith & Wesson Brands, Inc. - Common Stock", "test_issue": "N", "ticker": "SWBI"}
 {"category": "Q", "etf": "N", "name": "Latham Group, Inc. - Common Stock", "test_issue": "N", "ticker": "SWIM"}
 {"category": "Q", "etf": "N", "name": "Skyworks Solutions, Inc. - Common Stock", "test_issue": "N", "ticker": "SWKS"}
@@ -5471,6 +5471,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST Ether ETF", "test_issue": "N", "ticker": "XEY"}
 {"category": "S", "etf": "N", "name": "X4 Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "XFOR"}
 {"category": "G", "etf": "N", "name": "Exagen Inc. - Common Stock", "test_issue": "N", "ticker": "XGN"}
+{"category": "S", "etf": "N", "name": "Reliance Global Group, Inc. - Common Stock", "test_issue": "N", "ticker": "XGPU"}
 {"category": "S", "etf": "N", "name": "XChange TEC.INC - American Depositary Shares", "test_issue": "N", "ticker": "XHG"}
 {"category": "S", "etf": "N", "name": "TEN Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "XHLD"}
 {"category": "G", "etf": "N", "name": "Churchill Capital Corp XIII - Class A Ordinary Shares", "test_issue": "N", "ticker": "XIII"}

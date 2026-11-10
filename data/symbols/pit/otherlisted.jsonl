@@ -770,6 +770,7 @@
 {"etf": "Y", "exchange": "P", "name": "Bahl & Gaynor Income Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "BGIG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Gold Strategy Quarterly Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "BGLD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "BlackRock Energy and Resources Trust", "provable_from": false, "test_issue": "N", "ticker": "BGR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "BNY Mellon Power Ecosystem ETF", "provable_from": true, "test_issue": "N", "ticker": "BGRD", "valid_from": "2026-11-10", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "B&G Foods, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BGS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "BGSF, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BGSF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Boyd Group Services Inc. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "BGSI", "valid_from": "2026-07-28", "valid_to": null}
@@ -2155,6 +2156,7 @@
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF", "provable_from": false, "test_issue": "N", "ticker": "EMCR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers MSCI Emerging Markets Select ETF", "provable_from": false, "test_issue": "N", "ticker": "EMCS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Western Asset Emerging Markets Debt Fund Inc Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EMD", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Principal Finisterre Emerging Markets Diversified Income ETF", "provable_from": true, "test_issue": "N", "ticker": "EMDI", "valid_from": "2026-11-10", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "First Trust Bloomberg Emerging Market Democracies ETF", "provable_from": false, "test_issue": "N", "ticker": "EMDM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "ProShares MSCI Emerging Markets Dividend Growers ETF", "provable_from": false, "test_issue": "N", "ticker": "EMDV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "EMCOR Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EME", "valid_from": "2026-07-28", "valid_to": null}
@@ -3184,7 +3186,7 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify Commodities Strategy No K-1 ETF", "provable_from": false, "test_issue": "N", "ticker": "HARD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "HA Sustainable Infrastructure Capital, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HASI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series", "provable_from": true, "test_issue": "N", "ticker": "HAUG", "valid_from": "2026-08-04", "valid_to": null}
-{"etf": "Y", "exchange": "Z", "name": "Residential REIT ETF", "provable_from": false, "test_issue": "N", "ticker": "HAUS", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Residential REIT ETF", "provable_from": false, "test_issue": "N", "ticker": "HAUS", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers International Real Estate ETF", "provable_from": false, "test_issue": "N", "ticker": "HAUZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "HCM Hedged Equity ETF", "provable_from": true, "test_issue": "N", "ticker": "HAWG", "valid_from": "2026-08-14", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "HawkEye 360, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HAWK", "valid_from": "2026-07-28", "valid_to": null}
@@ -4323,6 +4325,7 @@
 {"etf": "Y", "exchange": "P", "name": "Nomura Tax-Free USA ETF", "provable_from": false, "test_issue": "N", "ticker": "LTAX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi FTSE 20 Year U.S. Treasury Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "LTB", "valid_from": "2026-10-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "LTC Properties, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LTC", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "N", "name": "Equity Partners ETF", "provable_from": true, "test_issue": "N", "ticker": "LTEQ", "valid_from": "2026-11-10", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Life Time Group Holdings, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LTH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Communication Services", "provable_from": false, "test_issue": "N", "ticker": "LTL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)", "provable_from": false, "test_issue": "N", "ticker": "LTM", "valid_from": "2026-07-28", "valid_to": null}
@@ -5431,6 +5434,7 @@
 {"etf": "N", "exchange": "N", "name": "Progressive Corporation (The) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PGR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Putnam International Stock ETF", "provable_from": false, "test_issue": "N", "ticker": "PGRI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Putnam Focused Large Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "PGRO", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Principal Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "PGRW", "valid_from": "2026-11-10", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Invesco Preferred ETF", "provable_from": false, "test_issue": "N", "ticker": "PGX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Principal Real Estate Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "PGZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Parker-Hannifin Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PH", "valid_from": "2026-07-28", "valid_to": null}
@@ -5656,8 +5660,8 @@
 {"etf": "Y", "exchange": "P", "name": "Invesco Global Listed Private Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "PSP", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Short QQQ", "provable_from": false, "test_issue": "N", "ticker": "PSQ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Palmer Square CLO Senior Debt ETF", "provable_from": false, "test_issue": "N", "ticker": "PSQA", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "PSQ Holdings, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PSQH", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share", "provable_from": false, "test_issue": "N", "ticker": "PSQH.W", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "PSQ Holdings, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PSQH", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
+{"etf": "N", "exchange": "N", "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share", "provable_from": false, "test_issue": "N", "ticker": "PSQH.W", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
 {"etf": "Y", "exchange": "P", "name": "Palmer Square Credit Opportunities ETF", "provable_from": false, "test_issue": "N", "ticker": "PSQO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Invesco Active U.S. Real Estate Fund", "provable_from": false, "test_issue": "N", "ticker": "PSR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Lehman 7-10 Year Treasury", "provable_from": false, "test_issue": "N", "ticker": "PST", "valid_from": "2026-07-28", "valid_to": null}

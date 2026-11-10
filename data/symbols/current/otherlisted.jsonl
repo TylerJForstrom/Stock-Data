@@ -737,6 +737,7 @@
 {"etf": "Y", "exchange": "P", "name": "Bahl & Gaynor Income Growth ETF", "test_issue": "N", "ticker": "BGIG"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Gold Strategy Quarterly Buffer ETF", "test_issue": "N", "ticker": "BGLD"}
 {"etf": "N", "exchange": "N", "name": "BlackRock Energy and Resources Trust", "test_issue": "N", "ticker": "BGR"}
+{"etf": "Y", "exchange": "Z", "name": "BNY Mellon Power Ecosystem ETF", "test_issue": "N", "ticker": "BGRD"}
 {"etf": "N", "exchange": "N", "name": "B&G Foods, Inc. Common Stock", "test_issue": "N", "ticker": "BGS"}
 {"etf": "N", "exchange": "N", "name": "BGSF, Inc. Common Stock", "test_issue": "N", "ticker": "BGSF"}
 {"etf": "N", "exchange": "N", "name": "Boyd Group Services Inc. Common Shares", "test_issue": "N", "ticker": "BGSI"}
@@ -2056,6 +2057,7 @@
 {"etf": "Y", "exchange": "P", "name": "Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF", "test_issue": "N", "ticker": "EMCR"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers MSCI Emerging Markets Select ETF", "test_issue": "N", "ticker": "EMCS"}
 {"etf": "N", "exchange": "N", "name": "Western Asset Emerging Markets Debt Fund Inc Common Stock", "test_issue": "N", "ticker": "EMD"}
+{"etf": "Y", "exchange": "P", "name": "Principal Finisterre Emerging Markets Diversified Income ETF", "test_issue": "N", "ticker": "EMDI"}
 {"etf": "Y", "exchange": "P", "name": "First Trust Bloomberg Emerging Market Democracies ETF", "test_issue": "N", "ticker": "EMDM"}
 {"etf": "Y", "exchange": "Z", "name": "ProShares MSCI Emerging Markets Dividend Growers ETF", "test_issue": "N", "ticker": "EMDV"}
 {"etf": "N", "exchange": "N", "name": "EMCOR Group, Inc. Common Stock", "test_issue": "N", "ticker": "EME"}
@@ -3051,7 +3053,6 @@
 {"etf": "Y", "exchange": "P", "name": "Simplify Commodities Strategy No K-1 ETF", "test_issue": "N", "ticker": "HARD"}
 {"etf": "N", "exchange": "N", "name": "HA Sustainable Infrastructure Capital, Inc. Common Stock", "test_issue": "N", "ticker": "HASI"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series", "test_issue": "N", "ticker": "HAUG"}
-{"etf": "Y", "exchange": "Z", "name": "Residential REIT ETF", "test_issue": "N", "ticker": "HAUS"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers International Real Estate ETF", "test_issue": "N", "ticker": "HAUZ"}
 {"etf": "Y", "exchange": "P", "name": "HCM Hedged Equity ETF", "test_issue": "N", "ticker": "HAWG"}
 {"etf": "N", "exchange": "N", "name": "HawkEye 360, Inc. Common Stock", "test_issue": "N", "ticker": "HAWK"}
@@ -4125,6 +4126,7 @@
 {"etf": "Y", "exchange": "P", "name": "Nomura Tax-Free USA ETF", "test_issue": "N", "ticker": "LTAX"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi FTSE 20 Year U.S. Treasury Bond ETF", "test_issue": "N", "ticker": "LTB"}
 {"etf": "N", "exchange": "N", "name": "LTC Properties, Inc. Common Stock", "test_issue": "N", "ticker": "LTC"}
+{"etf": "Y", "exchange": "N", "name": "Equity Partners ETF", "test_issue": "N", "ticker": "LTEQ"}
 {"etf": "N", "exchange": "N", "name": "Life Time Group Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "LTH"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Communication Services", "test_issue": "N", "ticker": "LTL"}
 {"etf": "N", "exchange": "N", "name": "LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)", "test_issue": "N", "ticker": "LTM"}
@@ -5167,6 +5169,7 @@
 {"etf": "N", "exchange": "N", "name": "Progressive Corporation (The) Common Stock", "test_issue": "N", "ticker": "PGR"}
 {"etf": "Y", "exchange": "P", "name": "Putnam International Stock ETF", "test_issue": "N", "ticker": "PGRI"}
 {"etf": "Y", "exchange": "P", "name": "Putnam Focused Large Cap Growth ETF", "test_issue": "N", "ticker": "PGRO"}
+{"etf": "Y", "exchange": "Z", "name": "Principal Growth ETF", "test_issue": "N", "ticker": "PGRW"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Preferred ETF", "test_issue": "N", "ticker": "PGX"}
 {"etf": "N", "exchange": "N", "name": "Principal Real Estate Income Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "PGZ"}
 {"etf": "N", "exchange": "N", "name": "Parker-Hannifin Corporation Common Stock", "test_issue": "N", "ticker": "PH"}
@@ -5383,8 +5386,6 @@
 {"etf": "Y", "exchange": "P", "name": "Invesco Global Listed Private Equity ETF", "test_issue": "N", "ticker": "PSP"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Short QQQ", "test_issue": "N", "ticker": "PSQ"}
 {"etf": "Y", "exchange": "P", "name": "Palmer Square CLO Senior Debt ETF", "test_issue": "N", "ticker": "PSQA"}
-{"etf": "N", "exchange": "N", "name": "PSQ Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "PSQH"}
-{"etf": "N", "exchange": "N", "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "PSQH.W"}
 {"etf": "Y", "exchange": "P", "name": "Palmer Square Credit Opportunities ETF", "test_issue": "N", "ticker": "PSQO"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Active U.S. Real Estate Fund", "test_issue": "N", "ticker": "PSR"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Lehman 7-10 Year Treasury", "test_issue": "N", "ticker": "PST"}

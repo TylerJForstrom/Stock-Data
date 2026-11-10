@@ -69,7 +69,7 @@
 {"category": "Q", "etf": "N", "name": "Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F", "provable_from": false, "test_issue": "N", "ticker": "ACGLO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Acadia Healthcare Company, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACHC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Global X Asia Semiconductor ETF", "provable_from": true, "test_issue": "N", "ticker": "ACHP", "valid_from": "2026-10-14", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Achieve Life Sciences, Inc.  - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "ACHV", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Achieve Life Sciences, Inc.  - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "ACHV", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
 {"category": "S", "etf": "N", "name": "American Coastal Insurance Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACIC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "AC Immune SA - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACIU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ACI Worldwide, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACIW", "valid_from": "2026-07-28", "valid_to": null}
@@ -1821,7 +1821,7 @@
 {"category": "S", "etf": "N", "name": "EZGO Technologies Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "EZGO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "AlphaDroid Broad Markets Momentum ETF", "provable_from": false, "test_issue": "N", "ticker": "EZMO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "EZCORP, Inc. - Class A Non-Voting Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EZPW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Reliance Global Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EZRA", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Reliance Global Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EZRA", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
 {"category": "G", "etf": "Y", "name": "AlphaDroid Defensive Sector Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "EZRO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Advantage Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Fidelity AAA CLO ETF", "provable_from": false, "test_issue": "N", "ticker": "FAAA", "valid_from": "2026-07-28", "valid_to": null}
@@ -2153,7 +2153,8 @@
 {"category": "S", "etf": "N", "name": "GBank Financial Holdings Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GBFH", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Global Indemnity Group, LLC - Class A Common Shares", "provable_from": false, "test_issue": "N", "ticker": "GBLI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Sprott Active Gold & Silver Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "GBUG", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Greene County Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCBC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Greene County Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GCBC", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
+{"category": "S", "etf": "N", "name": "Greene Bancorp, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "GCBC", "valid_from": "2026-11-10", "valid_to": null}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GCGR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "GCGRU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "General Catalyst Global Resilience Merger Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "GCGRW", "valid_from": "2026-07-28", "valid_to": null}
@@ -4419,6 +4420,7 @@
 {"category": "S", "etf": "N", "name": "Quantum Computing Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QUBT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Quantum Cyber N.V. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "QUCY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "QuickLogic Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "QUIK", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Achieve Life Sciences, Inc.  - Common Shares", "provable_from": true, "test_issue": "N", "ticker": "QUIT", "valid_from": "2026-11-10", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Quantumsphere Acquisition Corp. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "QUMS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Quantumsphere Acquisition Corp. - Rights", "provable_from": false, "test_issue": "N", "ticker": "QUMSR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Quantumsphere Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "QUMSU", "valid_from": "2026-07-28", "valid_to": null}
@@ -4487,7 +4489,7 @@
 {"category": "Q", "etf": "N", "name": "Radware Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RDWR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Roadzen, Inc. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RDZN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Roadzen, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "RDZNW", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "Y", "name": "Intelligent Real Estate ETF", "provable_from": false, "test_issue": "N", "ticker": "REAI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Intelligent Real Estate ETF", "provable_from": false, "test_issue": "N", "ticker": "REAI", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
 {"category": "Q", "etf": "N", "name": "The RealReal, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "REAL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "The Real Brokerage, Inc. - Common Shares", "provable_from": false, "test_issue": "N", "ticker": "REAX", "valid_from": "2026-07-28", "valid_to": "2026-08-24"}
 {"category": "S", "etf": "N", "name": "The Real Brokerage, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "REAX", "valid_from": "2026-08-24", "valid_to": "2026-08-25"}
@@ -4719,7 +4721,10 @@
 {"category": "G", "etf": "N", "name": "Social Commerce Partners Corporation - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "SCPQ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Social Commerce Partners Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "SCPQU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Social Commerce Partners Corporation - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SCPQW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "SCQC", "valid_from": "2026-11-10", "valid_to": null}
+{"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Rights", "provable_from": true, "test_issue": "N", "ticker": "SCQCR", "valid_from": "2026-11-10", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Units", "provable_from": true, "test_issue": "N", "ticker": "SCQCU", "valid_from": "2026-10-27", "valid_to": null}
+{"category": "G", "etf": "N", "name": "SPACCircle Acquisition Corp. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "SCQCW", "valid_from": "2026-11-10", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "ScanSource, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SCSC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Scribe Therapeutics Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SCTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "374Water Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "SCWO", "valid_from": "2026-07-28", "valid_to": null}
@@ -5079,7 +5084,7 @@
 {"category": "S", "etf": "N", "name": "OceanPal Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SVRN", "valid_from": "2026-07-28", "valid_to": "2026-08-31"}
 {"category": "S", "etf": "N", "name": "SVRN, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "SVRN", "valid_from": "2026-08-31", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Stran & Company, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SWAG", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Stran & Company, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SWAGW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Stran & Company, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SWAGW", "valid_from": "2026-07-28", "valid_to": "2026-11-10"}
 {"category": "Q", "etf": "N", "name": "Smith & Wesson Brands, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SWBI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Latham Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SWIM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027", "provable_from": false, "test_issue": "N", "ticker": "SWKHL", "valid_from": "2026-07-28", "valid_to": "2026-11-03"}
@@ -5817,6 +5822,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST Ether ETF", "provable_from": false, "test_issue": "N", "ticker": "XEY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "X4 Pharmaceuticals, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "XFOR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Exagen Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "XGN", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Reliance Global Group, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "XGPU", "valid_from": "2026-11-10", "valid_to": null}
 {"category": "S", "etf": "N", "name": "XChange TEC.INC - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "XHG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "TEN Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "XHLD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Churchill Capital Corp XIII - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "XIII", "valid_from": "2026-09-19", "valid_to": null}
