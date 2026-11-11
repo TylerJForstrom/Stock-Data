@@ -442,7 +442,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long ASTS ETF", "test_issue": "N", "ticker": "ASTY"}
 {"etf": "N", "exchange": "N", "name": "ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ", "test_issue": "N", "ticker": "ASX"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Robotics Actuators ETF", "test_issue": "N", "ticker": "AT"}
-{"etf": "N", "exchange": "A", "name": "AtlasClear Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "ATCH"}
 {"etf": "Y", "exchange": "P", "name": "REX Autocallable Income ETF", "test_issue": "N", "ticker": "ATCL"}
 {"etf": "N", "exchange": "N", "name": "A10 Networks, Inc. Common Stock", "test_issue": "N", "ticker": "ATEN"}
 {"etf": "Y", "exchange": "P", "name": "Alger 35 ETF", "test_issue": "N", "ticker": "ATFV"}
@@ -3146,7 +3145,6 @@
 {"etf": "N", "exchange": "N", "name": "Helios Technologies, Inc. Common Stock", "test_issue": "N", "ticker": "HLIO"}
 {"etf": "N", "exchange": "N", "name": "Holley Inc. Common Stock", "test_issue": "N", "ticker": "HLLY"}
 {"etf": "N", "exchange": "N", "name": "Haleon plc American Depositary Shares (Each representing two Ordinary Shares)", "test_issue": "N", "ticker": "HLN"}
-{"etf": "N", "exchange": "A", "name": "Tessera Defense and Homeland Security Inc. Common Stock", "test_issue": "N", "ticker": "HLSQ"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series", "test_issue": "N", "ticker": "HMAY"}
 {"etf": "N", "exchange": "N", "name": "Honda Motor Company, Ltd. Common Stock", "test_issue": "N", "ticker": "HMC"}
 {"etf": "N", "exchange": "N", "name": "Horace Mann Educators Corporation Common Stock", "test_issue": "N", "ticker": "HMN"}
@@ -3304,6 +3302,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2035 Term TIPS ETF", "test_issue": "N", "ticker": "IBIL"}
 {"etf": "Y", "exchange": "P", "name": "iShares iBonds Oct 2036 Term TIPS ETF", "test_issue": "N", "ticker": "IBIM"}
 {"etf": "Y", "exchange": "P", "name": "iShares Blockchain and Tech ETF", "test_issue": "N", "ticker": "IBLC"}
+{"etf": "Y", "exchange": "Z", "name": "FT Vest Equity Target Income Plus 0-3 Month Treasury ETF", "test_issue": "N", "ticker": "IBLY"}
 {"etf": "N", "exchange": "N", "name": "International Business Machines Corporation Common Stock", "test_issue": "N", "ticker": "IBM"}
 {"etf": "Y", "exchange": "Z", "name": "iShares iBonds Dec 2026 Term Muni Bond ETF", "test_issue": "N", "ticker": "IBMO"}
 {"etf": "Y", "exchange": "Z", "name": "iShares iBonds Dec 2027 Term Muni Bond ETF", "test_issue": "N", "ticker": "IBMP"}
@@ -3507,6 +3506,10 @@
 {"etf": "Y", "exchange": "P", "name": "Northern Trust International Quality Dividend ETF", "test_issue": "N", "ticker": "IQDF"}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree International Quality Dividend Growth Fund", "test_issue": "N", "ticker": "IQDG"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust International Quality Dividend Dynamic ETF", "test_issue": "N", "ticker": "IQDY"}
+{"etf": "Y", "exchange": "P", "name": "Invesco Emerging Markets Enhanced ETF", "test_issue": "N", "ticker": "IQEE"}
+{"etf": "Y", "exchange": "P", "name": "Invesco International Developed Enhanced ETF", "test_issue": "N", "ticker": "IQEI"}
+{"etf": "Y", "exchange": "P", "name": "Invesco U.S. Large Cap Enhanced ETF", "test_issue": "N", "ticker": "IQEL"}
+{"etf": "Y", "exchange": "P", "name": "Invesco U.S. Small Cap Enhanced ETF", "test_issue": "N", "ticker": "IQES"}
 {"etf": "Y", "exchange": "P", "name": "NYLIM MacKay High Income ETF", "test_issue": "N", "ticker": "IQHI"}
 {"etf": "N", "exchange": "N", "name": "Invesco Quality Municipal Income Trust Common Stock", "test_issue": "N", "ticker": "IQI"}
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI Intl Quality Factor ETF", "test_issue": "N", "ticker": "IQLT"}
@@ -4252,7 +4255,6 @@
 {"etf": "Y", "exchange": "P", "name": "Matthews Emerging Markets Equity Active ETF", "test_issue": "N", "ticker": "MEM"}
 {"etf": "Y", "exchange": "P", "name": "Roundhill Meme Stock ETF", "test_issue": "N", "ticker": "MEME"}
 {"etf": "Y", "exchange": "P", "name": "Matthews Emerging Markets ex China Active ETF", "test_issue": "N", "ticker": "MEMX"}
-{"etf": "Y", "exchange": "Z", "name": "Tuttle Capital Meme Stock Income Blast ETF", "test_issue": "N", "ticker": "MEMY"}
 {"etf": "N", "exchange": "N", "name": "Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066", "test_issue": "N", "ticker": "MER$K"}
 {"etf": "N", "exchange": "N", "name": "MetLife, Inc. Common Stock", "test_issue": "N", "ticker": "MET"}
 {"etf": "N", "exchange": "N", "name": "MetLife, Inc. Preferred Series A Floating Rate", "test_issue": "N", "ticker": "MET$A"}
