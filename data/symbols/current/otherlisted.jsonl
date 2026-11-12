@@ -1168,8 +1168,8 @@
 {"etf": "N", "exchange": "N", "name": "Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I", "test_issue": "N", "ticker": "CFG$I"}
 {"etf": "Y", "exchange": "Z", "name": "Cambria Fixed Income Trend ETF", "test_issue": "N", "ticker": "CFIT"}
 {"etf": "N", "exchange": "N", "name": "C1 Fund Inc. Common Stock", "test_issue": "N", "ticker": "CFND"}
-{"etf": "N", "exchange": "N", "name": "Cullen/Frost Bankers, Inc. Common Stock", "test_issue": "N", "ticker": "CFR"}
-{"etf": "N", "exchange": "N", "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B", "test_issue": "N", "ticker": "CFR$B"}
+{"etf": "N", "exchange": "F", "name": "Cullen/Frost Bankers, Inc. Common Stock", "test_issue": "N", "ticker": "CFR"}
+{"etf": "N", "exchange": "F", "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B", "test_issue": "N", "ticker": "CFR$B"}
 {"etf": "N", "exchange": "N", "name": "Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "CFTR$A"}
 {"etf": "N", "exchange": "N", "name": "Centerra Gold Inc. Common Shares", "test_issue": "N", "ticker": "CGAU"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Core Balanced ETF", "test_issue": "N", "ticker": "CGBL"}
@@ -2853,6 +2853,7 @@
 {"etf": "Y", "exchange": "P", "name": "VanEck India Growth Leaders ETF", "test_issue": "N", "ticker": "GLIN"}
 {"etf": "Y", "exchange": "P", "name": "Lazard Listed Infrastructure ETF", "test_issue": "N", "ticker": "GLIX"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Gold", "test_issue": "N", "ticker": "GLL"}
+{"etf": "Y", "exchange": "P", "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043", "test_issue": "N", "ticker": "GLLD"}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Chainlink Trust ETF", "test_issue": "N", "ticker": "GLNK"}
 {"etf": "N", "exchange": "A", "name": "Clough Global Opportunities Fund Common Stock", "test_issue": "N", "ticker": "GLO"}
 {"etf": "N", "exchange": "N", "name": "Globant S.A. Common Shares", "test_issue": "N", "ticker": "GLOB"}
@@ -3824,6 +3825,7 @@
 {"etf": "Y", "exchange": "P", "name": "Innovator U.S. Small Cap Managed 10 Buffer ETF", "test_issue": "N", "ticker": "KBFR"}
 {"etf": "N", "exchange": "N", "name": "KB Home Common Stock", "test_issue": "N", "ticker": "KBH"}
 {"etf": "N", "exchange": "N", "name": "KBR, Inc. Common Stock", "test_issue": "N", "ticker": "KBR"}
+{"etf": "Y", "exchange": "P", "name": "Guinness Atkinson K-Beauty ETF", "test_issue": "N", "ticker": "KBTY"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares 90% KWEB Defined Outcome January 2027 ETF", "test_issue": "N", "ticker": "KBUF"}
 {"etf": "N", "exchange": "N", "name": "Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant", "test_issue": "N", "ticker": "KCA.U"}
 {"etf": "N", "exchange": "N", "name": "Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant", "test_issue": "N", "ticker": "KCAC.U"}
@@ -3901,7 +3903,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Small Cap Power Buffer ETF - November", "test_issue": "N", "ticker": "KNOV"}
 {"etf": "Y", "exchange": "Z", "name": "Fundamentals First ETF", "test_issue": "N", "ticker": "KNOW"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Kayne Anderson Energy and Infrastructure Credit ETF", "test_issue": "N", "ticker": "KNRG"}
-{"etf": "N", "exchange": "A", "name": "KNOREX LTD. Class A Ordinary Shares", "test_issue": "N", "ticker": "KNRX"}
 {"etf": "N", "exchange": "N", "name": "Kinsale Capital Group, Inc. Common Stock", "test_issue": "N", "ticker": "KNSL"}
 {"etf": "N", "exchange": "N", "name": "Kinetik Holdings Inc. Class A Common Stock", "test_issue": "N", "ticker": "KNTK"}
 {"etf": "N", "exchange": "N", "name": "Knight-Swift Transportation Holdings Inc.", "test_issue": "N", "ticker": "KNX"}
@@ -4172,6 +4173,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Roundhill China Magnificent Seven ETF", "test_issue": "N", "ticker": "MAGC"}
 {"etf": "Y", "exchange": "P", "name": "Madison Aggregate Bond ETF", "test_issue": "N", "ticker": "MAGG"}
 {"etf": "N", "exchange": "N", "name": "Magnera Corporation Common Stock", "test_issue": "N", "ticker": "MAGN"}
+{"etf": "Y", "exchange": "Z", "name": "Roundhill Magnificent Seven Plus ETF", "test_issue": "N", "ticker": "MAGP"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Magnificent Seven ETF", "test_issue": "N", "ticker": "MAGS"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Daily 2X Long Magnificent Seven ETF", "test_issue": "N", "ticker": "MAGX"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Magnificent Seven Covered Call ETF", "test_issue": "N", "ticker": "MAGY"}
@@ -4684,6 +4686,7 @@
 {"etf": "Y", "exchange": "P", "name": "The Nightview Fund NITE", "test_issue": "N", "ticker": "NITE"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - January", "test_issue": "N", "ticker": "NJAN"}
 {"etf": "Y", "exchange": "P", "name": "Columbia U.S. High Yield ETF", "test_issue": "N", "ticker": "NJNK"}
+{"etf": "Y", "exchange": "P", "name": "Nomura Japan Equity ETF", "test_issue": "N", "ticker": "NJPN"}
 {"etf": "N", "exchange": "N", "name": "NewJersey Resources Corporation Common Stock", "test_issue": "N", "ticker": "NJR"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - July", "test_issue": "N", "ticker": "NJUL"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - June", "test_issue": "N", "ticker": "NJUN"}
@@ -6034,7 +6037,6 @@
 {"etf": "N", "exchange": "N", "name": "Shinhan Financial Group Co Ltd American Depositary Shares", "test_issue": "N", "ticker": "SHG"}
 {"etf": "Y", "exchange": "P", "name": "Global X Defense Tech ETF", "test_issue": "N", "ticker": "SHLD"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Nuveen ICE Short Term Municipal Bond ETF", "test_issue": "N", "ticker": "SHM"}
-{"etf": "Y", "exchange": "P", "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043", "test_issue": "N", "ticker": "SHNY"}
 {"etf": "N", "exchange": "N", "name": "Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares", "test_issue": "N", "ticker": "SHO"}
 {"etf": "N", "exchange": "N", "name": "Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "SHO$H"}
 {"etf": "N", "exchange": "N", "name": "Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "SHO$I"}
@@ -7055,6 +7057,7 @@
 {"etf": "N", "exchange": "N", "name": "Velocity Financial, Inc. Common Stock", "test_issue": "N", "ticker": "VEL"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long VELO ETF", "test_issue": "N", "ticker": "VELL"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Emerging Markets Dividend ETF", "test_issue": "N", "ticker": "VEM"}
+{"etf": "Y", "exchange": "Z", "name": "Vanguard Emerging Markets Bond Active ETF", "test_issue": "N", "ticker": "VEMB"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Stone Harbor Emerging Markets High Yield Bond ETF", "test_issue": "N", "ticker": "VEMY"}
 {"etf": "N", "exchange": "A", "name": "Venu Holding Corporation Common Stock", "test_issue": "N", "ticker": "VENU"}
 {"etf": "N", "exchange": "N", "name": "Vermilion Energy Inc. Common (Canada)", "test_issue": "N", "ticker": "VET"}

@@ -1221,8 +1221,10 @@
 {"etf": "N", "exchange": "N", "name": "Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I", "provable_from": false, "test_issue": "N", "ticker": "CFG$I", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Cambria Fixed Income Trend ETF", "provable_from": false, "test_issue": "N", "ticker": "CFIT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "C1 Fund Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CFND", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Cullen/Frost Bankers, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CFR", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B", "provable_from": false, "test_issue": "N", "ticker": "CFR$B", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Cullen/Frost Bankers, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CFR", "valid_from": "2026-07-28", "valid_to": "2026-11-12"}
+{"etf": "N", "exchange": "F", "name": "Cullen/Frost Bankers, Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "CFR", "valid_from": "2026-11-12", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B", "provable_from": false, "test_issue": "N", "ticker": "CFR$B", "valid_from": "2026-07-28", "valid_to": "2026-11-12"}
+{"etf": "N", "exchange": "F", "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B", "provable_from": true, "test_issue": "N", "ticker": "CFR$B", "valid_from": "2026-11-12", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "CFTR$A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Centerra Gold Inc. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "CGAU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Core Balanced ETF", "provable_from": false, "test_issue": "N", "ticker": "CGBL", "valid_from": "2026-07-28", "valid_to": null}
@@ -2981,6 +2983,7 @@
 {"etf": "Y", "exchange": "P", "name": "VanEck India Growth Leaders ETF", "provable_from": false, "test_issue": "N", "ticker": "GLIN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Lazard Listed Infrastructure ETF", "provable_from": false, "test_issue": "N", "ticker": "GLIX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Gold", "provable_from": false, "test_issue": "N", "ticker": "GLL", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043", "provable_from": true, "test_issue": "N", "ticker": "GLLD", "valid_from": "2026-11-12", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Grayscale Chainlink Trust ETF", "provable_from": false, "test_issue": "N", "ticker": "GLNK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Clough Global Opportunities Fund Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GLO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Globant S.A. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "GLOB", "valid_from": "2026-07-28", "valid_to": null}
@@ -4012,6 +4015,7 @@
 {"etf": "Y", "exchange": "P", "name": "Innovator U.S. Small Cap Managed 10 Buffer ETF", "provable_from": false, "test_issue": "N", "ticker": "KBFR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "KB Home Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KBH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "KBR, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KBR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Guinness Atkinson K-Beauty ETF", "provable_from": true, "test_issue": "N", "ticker": "KBTY", "valid_from": "2026-11-12", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "KraneShares 90% KWEB Defined Outcome January 2027 ETF", "provable_from": false, "test_issue": "N", "ticker": "KBUF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant", "provable_from": false, "test_issue": "N", "ticker": "KCA.U", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant", "provable_from": false, "test_issue": "N", "ticker": "KCAC.U", "valid_from": "2026-07-28", "valid_to": null}
@@ -4092,7 +4096,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator U.S. Small Cap Power Buffer ETF - November", "provable_from": false, "test_issue": "N", "ticker": "KNOV", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Fundamentals First ETF", "provable_from": false, "test_issue": "N", "ticker": "KNOW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Simplify Kayne Anderson Energy and Infrastructure Credit ETF", "provable_from": false, "test_issue": "N", "ticker": "KNRG", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "A", "name": "KNOREX LTD. Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KNRX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "A", "name": "KNOREX LTD. Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KNRX", "valid_from": "2026-07-28", "valid_to": "2026-11-12"}
 {"etf": "N", "exchange": "N", "name": "Kinsale Capital Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KNSL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Kinetik Holdings Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KNTK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Knight-Swift Transportation Holdings Inc.", "provable_from": false, "test_issue": "N", "ticker": "KNX", "valid_from": "2026-07-28", "valid_to": null}
@@ -4378,6 +4382,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Roundhill China Magnificent Seven ETF", "provable_from": false, "test_issue": "N", "ticker": "MAGC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Madison Aggregate Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "MAGG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Magnera Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MAGN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Roundhill Magnificent Seven Plus ETF", "provable_from": true, "test_issue": "N", "ticker": "MAGP", "valid_from": "2026-11-12", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Magnificent Seven ETF", "provable_from": false, "test_issue": "N", "ticker": "MAGS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Daily 2X Long Magnificent Seven ETF", "provable_from": false, "test_issue": "N", "ticker": "MAGX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Magnificent Seven Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "MAGY", "valid_from": "2026-07-28", "valid_to": null}
@@ -4928,6 +4933,7 @@
 {"etf": "Y", "exchange": "P", "name": "The Nightview Fund NITE", "provable_from": false, "test_issue": "N", "ticker": "NITE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - January", "provable_from": false, "test_issue": "N", "ticker": "NJAN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Columbia U.S. High Yield ETF", "provable_from": false, "test_issue": "N", "ticker": "NJNK", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Nomura Japan Equity ETF", "provable_from": true, "test_issue": "N", "ticker": "NJPN", "valid_from": "2026-11-12", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NewJersey Resources Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NJR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - July", "provable_from": false, "test_issue": "N", "ticker": "NJUL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Growth-100 Power Buffer ETF - June", "provable_from": false, "test_issue": "N", "ticker": "NJUN", "valid_from": "2026-07-28", "valid_to": null}
@@ -6343,7 +6349,7 @@
 {"etf": "N", "exchange": "N", "name": "Shinhan Financial Group Co Ltd American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "SHG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X Defense Tech ETF", "provable_from": false, "test_issue": "N", "ticker": "SHLD", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Nuveen ICE Short Term Municipal Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "SHM", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043", "provable_from": false, "test_issue": "N", "ticker": "SHNY", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043", "provable_from": false, "test_issue": "N", "ticker": "SHNY", "valid_from": "2026-07-28", "valid_to": "2026-11-12"}
 {"etf": "N", "exchange": "N", "name": "Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares", "provable_from": false, "test_issue": "N", "ticker": "SHO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "SHO$H", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "SHO$I", "valid_from": "2026-07-28", "valid_to": null}
@@ -7444,6 +7450,7 @@
 {"etf": "N", "exchange": "N", "name": "Velocity Financial, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VEL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long VELO ETF", "provable_from": false, "test_issue": "N", "ticker": "VELL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Emerging Markets Dividend ETF", "provable_from": false, "test_issue": "N", "ticker": "VEM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Vanguard Emerging Markets Bond Active ETF", "provable_from": true, "test_issue": "N", "ticker": "VEMB", "valid_from": "2026-11-12", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Stone Harbor Emerging Markets High Yield Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "VEMY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Venu Holding Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VENU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "ProShares Metaverse ETF", "provable_from": false, "test_issue": "N", "ticker": "VERS", "valid_from": "2026-07-28", "valid_to": "2026-10-13"}

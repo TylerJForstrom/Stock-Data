@@ -1244,6 +1244,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long CRM Daily ETF", "test_issue": "N", "ticker": "CRMG"}
 {"category": "G", "etf": "N", "name": "Critical Metals Corp. - Ordinary Shares", "test_issue": "N", "ticker": "CRML"}
 {"category": "S", "etf": "N", "name": "Critical Metals Corp. - Warrants", "test_issue": "N", "ticker": "CRMLW"}
+{"category": "S", "etf": "N", "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "CRMN"}
 {"category": "Q", "etf": "N", "name": "America's Car-Mart, Inc. - Common Stock", "test_issue": "N", "ticker": "CRMT"}
 {"category": "Q", "etf": "N", "name": "Cerence Inc. - Common Stock", "test_issue": "N", "ticker": "CRNC"}
 {"category": "Q", "etf": "N", "name": "Ceragon Networks Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "CRNT"}
@@ -2736,7 +2737,6 @@
 {"category": "G", "etf": "N", "name": "Kardigan, Inc. - Common Stock", "test_issue": "N", "ticker": "KARD"}
 {"category": "S", "etf": "N", "name": "Karooooo Ltd. - Ordinary shares", "test_issue": "N", "ticker": "KARO"}
 {"category": "G", "etf": "Y", "name": "Scharf ETF", "test_issue": "N", "ticker": "KAT"}
-{"category": "S", "etf": "N", "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "KAZR"}
 {"category": "G", "etf": "N", "name": "Karbon Capital Partners Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "KBON"}
 {"category": "G", "etf": "N", "name": "Karbon Capital Partners Corp. - Units", "test_issue": "N", "ticker": "KBONU"}
 {"category": "G", "etf": "N", "name": "Karbon Capital Partners Corp. - Warrant", "test_issue": "N", "ticker": "KBONW"}
@@ -3561,7 +3561,6 @@
 {"category": "G", "etf": "Y", "name": "First Trust Indxx NextG ETF", "test_issue": "N", "ticker": "NXTG"}
 {"category": "S", "etf": "N", "name": "Nexentis Technologies Inc. - Common Stock", "test_issue": "N", "ticker": "NXTS"}
 {"category": "S", "etf": "N", "name": "Next Technology Holding Inc. - Ordinary Shares", "test_issue": "N", "ticker": "NXTT"}
-{"category": "S", "etf": "N", "name": "NextNRG, Inc. - Common Stock", "test_issue": "N", "ticker": "NXXT"}
 {"category": "Q", "etf": "N", "name": "Nayax Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "NYAX"}
 {"category": "G", "etf": "N", "name": "Nyxoah SA - Ordinary Shares", "test_issue": "N", "ticker": "NYXH"}
 {"category": "G", "etf": "Y", "name": "State Street SPDR MSCI ACWI Climate Paris Aligned ETF", "test_issue": "N", "ticker": "NZAC"}
@@ -4166,7 +4165,7 @@
 {"category": "G", "etf": "N", "name": "Range Capital Acquisition Corp. - Ordinary Shares", "test_issue": "N", "ticker": "RANG"}
 {"category": "G", "etf": "N", "name": "Range Capital Acquisition Corp. - Rights", "test_issue": "N", "ticker": "RANGR"}
 {"category": "G", "etf": "N", "name": "Range Capital Acquisition Corp. - Units", "test_issue": "N", "ticker": "RANGU"}
-{"category": "G", "etf": "N", "name": "Rani Therapeutics Holdings, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "RANI"}
+{"category": "S", "etf": "N", "name": "Rani Therapeutics Holdings, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "RANI"}
 {"category": "G", "etf": "N", "name": "Rapport Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "RAPP"}
 {"category": "Q", "etf": "N", "name": "Ultragenyx Pharmaceutical Inc. - Common Stock", "test_issue": "N", "ticker": "RARE"}
 {"category": "G", "etf": "Y", "name": "RACWI US ETF", "test_issue": "N", "ticker": "RAUS"}
