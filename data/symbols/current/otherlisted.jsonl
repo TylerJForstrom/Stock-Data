@@ -1024,6 +1024,7 @@
 {"etf": "N", "exchange": "N", "name": "Blue Water Acquisition Corp. IV Class A Ordinary Shares", "test_issue": "N", "ticker": "BWIV"}
 {"etf": "N", "exchange": "N", "name": "Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant", "test_issue": "N", "ticker": "BWIV.U"}
 {"etf": "N", "exchange": "N", "name": "Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share", "test_issue": "N", "ticker": "BWIV.W"}
+{"etf": "Y", "exchange": "P", "name": "Brandywine Large Cap ETF", "test_issue": "N", "ticker": "BWLB"}
 {"etf": "N", "exchange": "N", "name": "BW LPG Limited Common Shares", "test_issue": "N", "ticker": "BWLP"}
 {"etf": "N", "exchange": "N", "name": "Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares", "test_issue": "N", "ticker": "BWMX"}
 {"etf": "Y", "exchange": "Z", "name": "BWM Quality Growth ETF", "test_issue": "N", "ticker": "BWQG"}
@@ -2593,7 +2594,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Fidelity Preferred Securities & Income ETF", "test_issue": "N", "ticker": "FPFD"}
 {"etf": "N", "exchange": "N", "name": "Five Point Holdings, LLC Class A Common Shares", "test_issue": "N", "ticker": "FPH"}
 {"etf": "N", "exchange": "N", "name": "Farmland Partners Inc. Common Stock", "test_issue": "N", "ticker": "FPI"}
-{"etf": "Y", "exchange": "Z", "name": "Fidelity Real Estate Investment ETF", "test_issue": "N", "ticker": "FPRO"}
 {"etf": "N", "exchange": "N", "name": "Forgent Power Solutions, Inc. Class A Common Stock", "test_issue": "N", "ticker": "FPS"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long FPS Daily ETF", "test_issue": "N", "ticker": "FPSX"}
 {"etf": "Y", "exchange": "P", "name": "First Trust EIP Power Solutions ETF", "test_issue": "N", "ticker": "FPWR"}
@@ -4078,6 +4078,7 @@
 {"etf": "N", "exchange": "N", "name": "Loar Holdings Inc. Common Stock", "test_issue": "N", "ticker": "LOAR"}
 {"etf": "N", "exchange": "N", "name": "Live Oak Bancshares, Inc. Common Stock", "test_issue": "N", "ticker": "LOB"}
 {"etf": "N", "exchange": "N", "name": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock", "test_issue": "N", "ticker": "LOB$A"}
+{"etf": "N", "exchange": "N", "name": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock", "test_issue": "N", "ticker": "LOB$B"}
 {"etf": "N", "exchange": "N", "name": "Local Bounti Corporation Common Stock", "test_issue": "N", "ticker": "LOCL"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Premium Income 15 Buffer ETF - October", "test_issue": "N", "ticker": "LOCT"}
 {"etf": "N", "exchange": "A", "name": "Comstock Inc. Common Stock", "test_issue": "N", "ticker": "LODE"}
@@ -4240,6 +4241,7 @@
 {"etf": "Y", "exchange": "Z", "name": "First Trust Indxx Medical Devices ETF", "test_issue": "N", "ticker": "MDEV"}
 {"etf": "Y", "exchange": "Z", "name": "Morgan Dempsey Large Cap Value ETF", "test_issue": "N", "ticker": "MDLV"}
 {"etf": "Y", "exchange": "Z", "name": "Monarch Dividend Plus Index ETF", "test_issue": "N", "ticker": "MDPL"}
+{"etf": "N", "exchange": "A", "name": "Modern Mining Technology Corp. Common Shares", "test_issue": "N", "ticker": "MDRN"}
 {"etf": "Y", "exchange": "N", "name": "Westwood Salient Enhanced Midstream Income ETF", "test_issue": "N", "ticker": "MDST"}
 {"etf": "N", "exchange": "N", "name": "Medtronic plc. Ordinary Shares", "test_issue": "N", "ticker": "MDT"}
 {"etf": "N", "exchange": "N", "name": "MDU Resources Group, Inc. Common Stock (Holding Company)", "test_issue": "N", "ticker": "MDU"}
@@ -6962,7 +6964,6 @@
 {"etf": "N", "exchange": "N", "name": "US Foods Holding Corp. Common Stock", "test_issue": "N", "ticker": "USFD"}
 {"etf": "Y", "exchange": "P", "name": "First Eagle US Equity ETF", "test_issue": "N", "ticker": "USFE"}
 {"etf": "Y", "exchange": "P", "name": "WisdomTree Floating Rate Treasury Fund", "test_issue": "N", "ticker": "USFR"}
-{"etf": "Y", "exchange": "P", "name": "USCF Gold Strategy Plus Income Fund", "test_issue": "N", "ticker": "USG"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Growth 2x Daily ETF", "test_issue": "N", "ticker": "USGX"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Broad USD High Yield Corporate Bond ETF", "test_issue": "N", "ticker": "USHY"}
 {"etf": "Y", "exchange": "P", "name": "United States 12 Month Oil", "test_issue": "N", "ticker": "USL"}
@@ -7197,6 +7198,7 @@
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Large-Cap ETF", "test_issue": "N", "ticker": "VV"}
 {"etf": "N", "exchange": "N", "name": "Invesco Senior Income Trust Common Stock (DE)", "test_issue": "N", "ticker": "VVR"}
 {"etf": "N", "exchange": "N", "name": "Valvoline Inc. Common Stock", "test_issue": "N", "ticker": "VVV"}
+{"etf": "N", "exchange": "N", "name": "vVARDIS Holding AG Class A Ordinary Shares", "test_issue": "N", "ticker": "VVVV"}
 {"etf": "N", "exchange": "N", "name": "V2X, Inc. Common Stock", "test_issue": "N", "ticker": "VVX"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard FTSE Emerging Markets ETF", "test_issue": "N", "ticker": "VWO"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Extended Market ETF", "test_issue": "N", "ticker": "VXF"}

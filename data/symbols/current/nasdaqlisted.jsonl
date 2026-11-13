@@ -1110,7 +1110,6 @@
 {"category": "Q", "etf": "N", "name": "Cellebrite DI Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "CLBT"}
 {"category": "S", "etf": "N", "name": "Celldex Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "CLDX"}
 {"category": "G", "etf": "N", "name": "Clearfield, Inc. - Common Stock", "test_issue": "N", "ticker": "CLFD"}
-{"category": "S", "etf": "N", "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "CLGN"}
 {"category": "S", "etf": "N", "name": "Click Holdings Limited - Ordinary Share", "test_issue": "N", "ticker": "CLIK"}
 {"category": "S", "etf": "N", "name": "ClearSign Technologies Corporation - Common Stock", "test_issue": "N", "ticker": "CLIR"}
 {"category": "G", "etf": "N", "name": "Cellectis S.A. - American Depositary Shares", "test_issue": "N", "ticker": "CLLS"}
@@ -1759,8 +1758,6 @@
 {"category": "G", "etf": "Y", "name": "First Trust SSI Strategic Convertible Securities ETF", "test_issue": "N", "ticker": "FCVT"}
 {"category": "G", "etf": "N", "name": "Fidelity D & D Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "FDBC"}
 {"category": "G", "etf": "Y", "name": "Fidelity Disruptive Communications ETF", "test_issue": "N", "ticker": "FDCF"}
-{"category": "G", "etf": "Y", "name": "Fidelity Disruptive Finance ETF", "test_issue": "N", "ticker": "FDFF"}
-{"category": "G", "etf": "Y", "name": "Fidelity Disruptors ETF", "test_issue": "N", "ticker": "FDIF"}
 {"category": "G", "etf": "Y", "name": "Fidelity Crypto Industry and Digital Payments ETF", "test_issue": "N", "ticker": "FDIG"}
 {"category": "G", "etf": "Y", "name": "Invesco Bloomberg Financial Data Providers ETF", "test_issue": "N", "ticker": "FDIQ"}
 {"category": "G", "etf": "Y", "name": "MarketDesk Focused U.S. Dividend ETF", "test_issue": "N", "ticker": "FDIV"}
@@ -1868,8 +1865,6 @@
 {"category": "S", "etf": "N", "name": "Farmers & Merchants Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "FMAO"}
 {"category": "G", "etf": "Y", "name": "First Trust Managed Municipal ETF", "test_issue": "N", "ticker": "FMB"}
 {"category": "G", "etf": "N", "name": "First Mid Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "FMBH"}
-{"category": "G", "etf": "Y", "name": "Fidelity Disruptive Medicine ETF", "test_issue": "N", "ticker": "FMED"}
-{"category": "G", "etf": "Y", "name": "Fidelity Metaverse ETF", "test_issue": "N", "ticker": "FMET"}
 {"category": "S", "etf": "N", "name": "Kandal M Venture Limited - Class A ordinary Shares", "test_issue": "N", "ticker": "FMFC"}
 {"category": "G", "etf": "Y", "name": "First Trust Municipal High Income ETF", "test_issue": "N", "ticker": "FMHI"}
 {"category": "S", "etf": "N", "name": "Farmers National Banc Corp. - Common Stock", "test_issue": "N", "ticker": "FMNB"}
@@ -2962,7 +2957,9 @@
 {"category": "G", "etf": "Y", "name": "Liberty One Tactical Income ETF", "test_issue": "N", "ticker": "LOTI"}
 {"category": "S", "etf": "N", "name": "Lotus Technology Inc. - Warrants", "test_issue": "N", "ticker": "LOTWW"}
 {"category": "G", "etf": "N", "name": "The Lovesac Company - Common Stock", "test_issue": "N", "ticker": "LOVE"}
+{"category": "G", "etf": "N", "name": "Live Oak Acquisition Corp. VI - Class A Ordinary Shares", "test_issue": "N", "ticker": "LOVI"}
 {"category": "G", "etf": "N", "name": "Live Oak Acquisition Corp. VI - Units", "test_issue": "N", "ticker": "LOVIU"}
+{"category": "G", "etf": "N", "name": "Live Oak Acquisition Corp. VI - Warrants", "test_issue": "N", "ticker": "LOVIW"}
 {"category": "G", "etf": "N", "name": "Launch One Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "LPAA"}
 {"category": "G", "etf": "N", "name": "Launch One Acquisition Corp. - Unit", "test_issue": "N", "ticker": "LPAAU"}
 {"category": "G", "etf": "N", "name": "Launch One Acquisition Corp. - Warrant", "test_issue": "N", "ticker": "LPAAW"}
@@ -3626,7 +3623,7 @@
 {"category": "S", "etf": "N", "name": "The OLB Group, Inc. - Common Stock", "test_issue": "N", "ticker": "OLB"}
 {"category": "Q", "etf": "N", "name": "Universal Display Corporation - Common Stock", "test_issue": "N", "ticker": "OLED"}
 {"category": "G", "etf": "N", "name": "Ollie's Bargain Outlet Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "OLLI"}
-{"category": "Q", "etf": "N", "name": "Olema Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "OLMA"}
+{"category": "Q", "etf": "N", "name": "Olema Oncology, Inc. - Common Stock", "test_issue": "N", "ticker": "OLMA"}
 {"category": "S", "etf": "N", "name": "Olenox Industries Inc. - Common Stock", "test_issue": "N", "ticker": "OLOX"}
 {"category": "Q", "etf": "N", "name": "Outset Medical, Inc. - Common Stock", "test_issue": "N", "ticker": "OM"}
 {"category": "Q", "etf": "N", "name": "Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares", "test_issue": "N", "ticker": "OMAB"}
@@ -3664,6 +3661,7 @@
 {"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant", "test_issue": "N", "ticker": "OPENL"}
 {"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant", "test_issue": "N", "ticker": "OPENW"}
 {"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant", "test_issue": "N", "ticker": "OPENZ"}
+{"category": "S", "etf": "N", "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "OPHI"}
 {"category": "S", "etf": "N", "name": "Office Properties Income Trust - Common shares of beneficial interest", "test_issue": "N", "ticker": "OPI"}
 {"category": "Q", "etf": "N", "name": "Opko Health, Inc. - Common Stock", "test_issue": "N", "ticker": "OPK"}
 {"category": "S", "etf": "N", "name": "OpenWorld, Inc. - Common Stock", "test_issue": "N", "ticker": "OPNW"}
@@ -4023,7 +4021,6 @@
 {"category": "G", "etf": "N", "name": "Protagonist Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "PTGX"}
 {"category": "G", "etf": "Y", "name": "Invesco Dorsey Wright Healthcare Momentum ETF", "test_issue": "N", "ticker": "PTH"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long PLTR Daily ETF", "test_issue": "N", "ticker": "PTIR"}
-{"category": "S", "etf": "N", "name": "PTL LTD - Class A Ordinary Shares", "test_issue": "N", "ticker": "PTLE"}
 {"category": "Q", "etf": "N", "name": "Portillo's Inc. - Class A Common Stock", "test_issue": "N", "ticker": "PTLO"}
 {"category": "S", "etf": "N", "name": "Palatin Technologies, Inc. - Common Stock", "test_issue": "N", "ticker": "PTN"}
 {"category": "G", "etf": "Y", "name": "Pacer Trendpilot 100 ETF", "test_issue": "N", "ticker": "PTNQ"}
@@ -5364,7 +5361,7 @@
 {"category": "Q", "etf": "N", "name": "Weyco Group, Inc. - Common Stock", "test_issue": "N", "ticker": "WEYS"}
 {"category": "S", "etf": "N", "name": "Where Food Comes From, Inc. - Common Stock", "test_issue": "N", "ticker": "WFCF"}
 {"category": "S", "etf": "N", "name": "WF Holding Limited - Ordinary Shares", "test_issue": "N", "ticker": "WFF"}
-{"category": "Q", "etf": "N", "name": "Weatherford International plc - Ordinary shares", "test_issue": "N", "ticker": "WFRD"}
+{"category": "Q", "etf": "N", "name": "Weatherford International Corp - Common Stock", "test_issue": "N", "ticker": "WFRD"}
 {"category": "G", "etf": "Y", "name": "CoinShares Bitcoin Mining and Digital Power ETF", "test_issue": "N", "ticker": "WGMI"}
 {"category": "Q", "etf": "N", "name": "GeneDx Holdings Corp. - Class A Common Stock", "test_issue": "N", "ticker": "WGS"}
 {"category": "Q", "etf": "N", "name": "WhiteHorse Finance, Inc. - Closed End Fund", "test_issue": "N", "ticker": "WHF"}
@@ -5438,6 +5435,7 @@
 {"category": "S", "etf": "N", "name": "Willamette Valley Vineyards, Inc. - Common Stock", "test_issue": "N", "ticker": "WVVI"}
 {"category": "S", "etf": "N", "name": "Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock", "test_issue": "N", "ticker": "WVVIP"}
 {"category": "G", "etf": "N", "name": "WW International, Inc.  - Common Stock", "test_issue": "N", "ticker": "WW"}
+{"category": "Q", "etf": "N", "name": "Windward Bio Group AG - Common shares", "test_issue": "N", "ticker": "WWB"}
 {"category": "Q", "etf": "N", "name": "Woodward, Inc. - Common Stock", "test_issue": "N", "ticker": "WWD"}
 {"category": "S", "etf": "N", "name": "WF International Limited - Ordinary Shares", "test_issue": "N", "ticker": "WXM"}
 {"category": "S", "etf": "N", "name": "WhiteFiber, Inc. - Ordinary Shares", "test_issue": "N", "ticker": "WYFI"}
@@ -5595,3 +5593,4 @@
 {"category": "Q", "etf": "N", "name": "Zevra Therapeutics, Inc.  - Common Stock", "test_issue": "N", "ticker": "ZVRA"}
 {"category": "S", "etf": "N", "name": "Zhengye Biotechnology Holding Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "ZYBT"}
 {"category": "Q", "etf": "N", "name": "Zymeworks Inc. - Common Stock", "test_issue": "N", "ticker": "ZYME"}
+{"category": "S", "etf": "N", "name": "PTL LTD - Class A Ordinary Shares", "test_issue": "N", "ticker": "ZYN"}
