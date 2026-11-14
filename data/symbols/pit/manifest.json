@@ -15,25 +15,25 @@
       "sha256": "0812e6076669cf1445e674e45cfa9e88038f21cc5ed0e99bc62d39d476958f9b"
     },
     {
-      "bytes": 1708923,
+      "bytes": 1716640,
       "name": "sec_company_tickers.jsonl",
-      "rows": 12068,
-      "sha256": "791c263885182a36ad99fe9cefe4dde54121dd6bcde290ae28bb654679054145"
+      "rows": 12119,
+      "sha256": "d120dbed070ef879ec81643ade9b594a02142fa80a7ef87332c059605f21125c"
     },
     {
-      "bytes": 2024836,
+      "bytes": 2035497,
       "name": "sec_company_tickers_exchange.jsonl",
-      "rows": 12481,
-      "sha256": "d359ce66e9ee1b46b561228f33e33a3b07899e16f51c9dcc041fcd142fb35f3e"
+      "rows": 12543,
+      "sha256": "0298ad193c0267b43e2ad410e365d23ccaf910f2ec46163c5c8374e05996dcfd"
     }
   ],
-  "generated_at_utc": "2026-11-13T15:21:51Z",
+  "generated_at_utc": "2026-11-14T14:07:27Z",
   "input_sha256": {
     "data/symbols/current/nasdaqlisted.jsonl": "1f08c8d555ecaeb1a9ac9c57a878f542949f54cf9832f72d0b093c7dd6e50e71",
     "data/symbols/current/otherlisted.jsonl": "cc77922eefe489624a5adeb6896d386ae3b1c857ad6d01858a8cea332194112d",
-    "data/symbols/current/sec_company_tickers.jsonl": "be286499975adc698b4d6b18994a931babdca434109211d8c9858df9baa8f8b0",
-    "data/symbols/current/sec_company_tickers_exchange.jsonl": "94544977cc4007ba48569c0b634855cf5aa8677bd9d6ed41ea1e9be15760446e",
-    "data/symbols/events/events.jsonl": "74a198a491ef1b28ddf60b37a117cd48fa0fc000f65b69ead7f6d01b9cf076fa"
+    "data/symbols/current/sec_company_tickers.jsonl": "19e93734ae938d438fbfb5f1d0b2689356ef4ab6346713973f84d006fa8bbd52",
+    "data/symbols/current/sec_company_tickers_exchange.jsonl": "16a096fb304d586321dda354294ae747262a23b305fbee446659e230414a8075",
+    "data/symbols/events/events.jsonl": "1618cec106ae216ba8377500cd10978b4e9c06877c79c302f10afde380858026"
   },
   "interval_semantics": "half-open: a row is the directory state for its identity key on every date D with valid_from <= D < valid_to; valid_to null means still current. Membership at asof = rows whose interval covers asof.",
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",
