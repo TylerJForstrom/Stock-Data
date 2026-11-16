@@ -611,7 +611,6 @@
 {"category": "G", "etf": "N", "name": "Bold Eagle Acquisition Corp. - Units", "test_issue": "N", "ticker": "BEAGU"}
 {"category": "Q", "etf": "N", "name": "Beam Therapeutics Inc. - Common Stock", "test_issue": "N", "ticker": "BEAM"}
 {"category": "S", "etf": "N", "name": "Heartbeam, Inc. - Common Stock", "test_issue": "N", "ticker": "BEAT"}
-{"category": "S", "etf": "N", "name": "Heartbeam, Inc. - Warrant", "test_issue": "N", "ticker": "BEATW"}
 {"category": "G", "etf": "Y", "name": "BNY Mellon Enhanced Dividend and Income ETF", "test_issue": "N", "ticker": "BEDY"}
 {"category": "S", "etf": "N", "name": "Beam Global - Common Stock", "test_issue": "N", "ticker": "BEEM"}
 {"category": "G", "etf": "N", "name": "Mobile Infrastructure Corporation - Common Stock", "test_issue": "N", "ticker": "BEEP"}
@@ -792,7 +791,9 @@
 {"category": "G", "etf": "N", "name": "Brilliant Earth Group, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "BRLT"}
 {"category": "S", "etf": "N", "name": "BrenX Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "BRNX"}
 {"category": "G", "etf": "Y", "name": "Burney U.S. Factor Rotation ETF", "test_issue": "N", "ticker": "BRNY"}
+{"category": "G", "etf": "N", "name": "Bluerock Acquisition Corp. II - Class A Ordinary Shares", "test_issue": "N", "ticker": "BRRK"}
 {"category": "G", "etf": "N", "name": "Bluerock Acquisition Corp. II - Units", "test_issue": "N", "ticker": "BRRKU"}
+{"category": "G", "etf": "N", "name": "Bluerock Acquisition Corp. II - Warrants", "test_issue": "N", "ticker": "BRRKW"}
 {"category": "G", "etf": "Y", "name": "Coinshares Bitcoin ETF", "test_issue": "N", "ticker": "BRRR"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "BRTM"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Units", "test_issue": "N", "ticker": "BRTMU"}
@@ -851,7 +852,6 @@
 {"category": "G", "etf": "Y", "name": "EA Bridgeway Omni Small-Cap Value ETF", "test_issue": "N", "ticker": "BSVO"}
 {"category": "Q", "etf": "N", "name": "Bentley Systems, Incorporated - Class B Common Stock", "test_issue": "N", "ticker": "BSY"}
 {"category": "S", "etf": "N", "name": "BT Brands, Inc. - Common Stock", "test_issue": "N", "ticker": "BTBD"}
-{"category": "S", "etf": "N", "name": "BT Brands, Inc. - Warrant", "test_issue": "N", "ticker": "BTBDW"}
 {"category": "S", "etf": "N", "name": "Bit Digital, Inc. - Ordinary Share", "test_issue": "N", "ticker": "BTBT"}
 {"category": "S", "etf": "N", "name": "BTCS Inc. - Common Stock", "test_issue": "N", "ticker": "BTCS"}
 {"category": "S", "etf": "N", "name": "BTC Digital Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "BTCT"}
@@ -1884,7 +1884,7 @@
 {"category": "G", "etf": "Y", "name": "First Trust Mid Cap Core AlphaDEX Fund", "test_issue": "N", "ticker": "FNX"}
 {"category": "G", "etf": "Y", "name": "First Trust Mid Cap Growth AlphaDEX Fund", "test_issue": "N", "ticker": "FNY"}
 {"category": "G", "etf": "N", "name": "EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share", "test_issue": "N", "ticker": "FOCL"}
-{"category": "S", "etf": "N", "name": "Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "FOFO"}
+{"category": "S", "etf": "N", "name": "Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "FOFO"}
 {"category": "Q", "etf": "N", "name": "FormFactor, Inc. - Common Stock", "test_issue": "N", "ticker": "FORM"}
 {"category": "Q", "etf": "N", "name": "Forrester Research, Inc. - Common Stock", "test_issue": "N", "ticker": "FORR"}
 {"category": "Q", "etf": "N", "name": "Formula Systems (1985) Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "FORTY"}
@@ -2265,6 +2265,7 @@
 {"category": "G", "etf": "N", "name": "HCM III Acquisition Corp. - Class A Ordinary Share", "test_issue": "N", "ticker": "HCMA"}
 {"category": "G", "etf": "N", "name": "HCM III Acquisition Corp. - Units", "test_issue": "N", "ticker": "HCMAU"}
 {"category": "G", "etf": "N", "name": "HCM III Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "HCMAW"}
+{"category": "G", "etf": "Y", "name": "Hartford Hybrid and Credit Opportunities ETF", "test_issue": "N", "ticker": "HCOP"}
 {"category": "G", "etf": "Y", "name": "Amplify COWS Covered Call ETF", "test_issue": "N", "ticker": "HCOW"}
 {"category": "Q", "etf": "N", "name": "Healthcare Services Group, Inc. - Common Stock", "test_issue": "N", "ticker": "HCSG"}
 {"category": "S", "etf": "N", "name": "Healthcare Triangle, Inc. - Common Stock", "test_issue": "N", "ticker": "HCTI"}
@@ -3535,7 +3536,6 @@
 {"category": "Q", "etf": "N", "name": "Northwest Bancshares, Inc. - Common Stock", "test_issue": "N", "ticker": "NWBI"}
 {"category": "Q", "etf": "N", "name": "newcleo plc - Ordinary Shares", "test_issue": "N", "ticker": "NWCL"}
 {"category": "Q", "etf": "N", "name": "newcleo plc - Warrants", "test_issue": "N", "ticker": "NWCLW"}
-{"category": "Q", "etf": "N", "name": "NorthWestern Energy Group, Inc.  - Common Stock", "test_issue": "N", "ticker": "NWE"}
 {"category": "G", "etf": "N", "name": "Norwood Financial Corp. - Common Stock", "test_issue": "N", "ticker": "NWFL"}
 {"category": "S", "etf": "N", "name": "CL Workshop Group Limited - American Depositary Shares", "test_issue": "N", "ticker": "NWGL"}
 {"category": "Q", "etf": "N", "name": "Newell Brands Inc. - Common Stock", "test_issue": "N", "ticker": "NWL"}
@@ -3884,7 +3884,6 @@
 {"category": "S", "etf": "N", "name": "Plumas Bancorp - Common Stock", "test_issue": "N", "ticker": "PLBC"}
 {"category": "G", "etf": "N", "name": "Polibeli Group Ltd - Class A Ordinary Shares", "test_issue": "N", "ticker": "PLBL"}
 {"category": "G", "etf": "N", "name": "Playboy, Inc. - Common Stock", "test_issue": "N", "ticker": "PLBY"}
-{"category": "Q", "etf": "N", "name": "Children's Place, Inc. (The) - Common Stock", "test_issue": "N", "ticker": "PLCE"}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Ordinary Shares", "test_issue": "N", "ticker": "PLCI"}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Right", "test_issue": "N", "ticker": "PLCIR"}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Unit", "test_issue": "N", "ticker": "PLCIU"}
@@ -4716,7 +4715,6 @@
 {"category": "S", "etf": "N", "name": "The ONE Group Hospitality, Inc. - Common Stock", "test_issue": "N", "ticker": "STKS"}
 {"category": "Q", "etf": "N", "name": "Steel Dynamics, Inc. - Common Stock", "test_issue": "N", "ticker": "STLD"}
 {"category": "S", "etf": "N", "name": "Starling Oncology, Inc. - Common Stock", "test_issue": "N", "ticker": "STLN"}
-{"category": "S", "etf": "N", "name": "Starling Oncology, Inc. - Warrant", "test_issue": "N", "ticker": "STLNW"}
 {"category": "G", "etf": "Y", "name": "Hennessy Sustainable ETF", "test_issue": "N", "ticker": "STNC"}
 {"category": "Q", "etf": "N", "name": "StoneCo Ltd. - Class A Common Share", "test_issue": "N", "ticker": "STNE"}
 {"category": "Q", "etf": "N", "name": "Stoke Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "STOK"}

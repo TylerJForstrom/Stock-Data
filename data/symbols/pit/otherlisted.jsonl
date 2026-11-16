@@ -843,7 +843,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI BIC ETF", "provable_from": false, "test_issue": "N", "ticker": "BKF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon Active Core Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "BKFI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "BNY Mellon Global Infrastructure Income ETF", "provable_from": false, "test_issue": "N", "ticker": "BKGI", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Black Hills Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BKH", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Black Hills Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BKH", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon High Yield ETF", "provable_from": false, "test_issue": "N", "ticker": "BKHY", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon International Equity ETF", "provable_from": false, "test_issue": "N", "ticker": "BKIE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Bakkt, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BKKT", "valid_from": "2026-07-28", "valid_to": null}
@@ -3406,6 +3406,7 @@
 {"etf": "Y", "exchange": "P", "name": "FT Vest High Yield & Target Income ETF", "provable_from": false, "test_issue": "N", "ticker": "HYTI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "N", "name": "Counterpoint High Yield Trend ETF", "provable_from": false, "test_issue": "N", "ticker": "HYTR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers High Beta High Yield Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "HYUP", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Bright Horizon Energy Corporation Common Stock", "provable_from": true, "test_issue": "N", "ticker": "HZN", "valid_from": "2026-11-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "MarineMax, Inc.  (FL) Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HZO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "GraniteShares US 100 Autocallable Income ETF", "provable_from": true, "test_issue": "N", "ticker": "IACL", "valid_from": "2026-08-18", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "IAE", "valid_from": "2026-07-28", "valid_to": "2026-10-14"}
@@ -3740,7 +3741,7 @@
 {"etf": "Y", "exchange": "P", "name": "iShares LifePath Target Date 2065 ETF", "provable_from": false, "test_issue": "N", "ticker": "ITDI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares LifePath Target Date 2070 ETF", "provable_from": false, "test_issue": "N", "ticker": "ITDJ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Amplify BlueStar Israel Technology ETF", "provable_from": false, "test_issue": "N", "ticker": "ITEQ", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Integer Holdings Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ITGR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Integer Holdings Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ITGR", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"etf": "Y", "exchange": "Z", "name": "VanEck Intermediate Muni ETF", "provable_from": false, "test_issue": "N", "ticker": "ITM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "iShares Core S&P Total U.S. Stock Market ETF", "provable_from": false, "test_issue": "N", "ticker": "ITOT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "IT Tech Packaging, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ITP", "valid_from": "2026-07-28", "valid_to": null}
@@ -4144,7 +4145,7 @@
 {"etf": "N", "exchange": "N", "name": "KT Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Kontoor Brands, Inc. Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "KTB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Hang Seng TECH Index ETF", "provable_from": false, "test_issue": "N", "ticker": "KTEC", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "DWS Municipal Income Trust", "provable_from": false, "test_issue": "N", "ticker": "KTF", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "DWS Municipal Income Trust", "provable_from": false, "test_issue": "N", "ticker": "KTF", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"etf": "N", "exchange": "N", "name": "Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock", "provable_from": false, "test_issue": "N", "ticker": "KTH", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)", "provable_from": false, "test_issue": "N", "ticker": "KTN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long KTOS Daily Target ETF", "provable_from": false, "test_issue": "N", "ticker": "KTUP", "valid_from": "2026-07-28", "valid_to": null}
@@ -4356,7 +4357,7 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Leveraged Loan ETF", "provable_from": false, "test_issue": "N", "ticker": "LVLN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Las Vegas Sands Corp. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LVS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "LVWR", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share", "provable_from": false, "test_issue": "N", "ticker": "LVWR.W", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share", "provable_from": false, "test_issue": "N", "ticker": "LVWR.W", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"etf": "N", "exchange": "N", "name": "Lamb Weston Holdings, Inc. Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "LW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long LWLG Daily ETF", "provable_from": true, "test_issue": "N", "ticker": "LWLX", "valid_from": "2026-08-18", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Luxfer Holdings PLC Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "LXFR", "valid_from": "2026-07-28", "valid_to": null}
@@ -4431,7 +4432,8 @@
 {"etf": "Y", "exchange": "P", "name": "FlexShares Disciplined Duration MBS Index Fund", "provable_from": false, "test_issue": "N", "ticker": "MBSD", "valid_from": "2026-07-28", "valid_to": "2026-08-17"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Disciplined Duration MBS ETF", "provable_from": true, "test_issue": "N", "ticker": "MBSD", "valid_from": "2026-08-17", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Regan Floating Rate MBS ETF", "provable_from": false, "test_issue": "N", "ticker": "MBSF", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Regan Fixed Rate MBS ETF", "provable_from": false, "test_issue": "N", "ticker": "MBSX", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Regan Fixed Rate MBS ETF", "provable_from": false, "test_issue": "N", "ticker": "MBSX", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
+{"etf": "Y", "exchange": "F", "name": "Regan Fixed Rate MBS ETF", "provable_from": true, "test_issue": "N", "ticker": "MBSX", "valid_from": "2026-11-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Moelis & Company Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MC", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Metropolitan Bank Holding Corp. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MCB", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "McDonald's Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MCD", "valid_from": "2026-07-28", "valid_to": null}
@@ -5568,7 +5570,9 @@
 {"etf": "Y", "exchange": "P", "name": "PRIMECAP Odyssey Discovery ETF", "provable_from": true, "test_issue": "N", "ticker": "POMG", "valid_from": "2026-10-21", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long PONY Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "PONX", "valid_from": "2026-07-28", "valid_to": "2026-10-21"}
 {"etf": "N", "exchange": "N", "name": "Portland General Electric Co Common Stock", "provable_from": false, "test_issue": "N", "ticker": "POR", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Southport Acquisition Corp. II Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "PORT", "valid_from": "2026-11-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "provable_from": true, "test_issue": "N", "ticker": "PORT.U", "valid_from": "2026-10-01", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50", "provable_from": true, "test_issue": "N", "ticker": "PORT.W", "valid_from": "2026-11-16", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Post Holdings, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "POST", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Electrification Supercycle ETF", "provable_from": false, "test_issue": "N", "ticker": "POW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Invesco Bloomberg Pricing Power ETF", "provable_from": false, "test_issue": "N", "ticker": "POWA", "valid_from": "2026-07-28", "valid_to": null}

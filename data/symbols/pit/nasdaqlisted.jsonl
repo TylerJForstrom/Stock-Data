@@ -654,7 +654,7 @@
 {"category": "G", "etf": "N", "name": "Bold Eagle Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "BEAGU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Beam Therapeutics Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BEAM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Heartbeam, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BEAT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Heartbeam, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BEATW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Heartbeam, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BEATW", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"category": "G", "etf": "Y", "name": "BNY Mellon Enhanced Dividend and Income ETF", "provable_from": false, "test_issue": "N", "ticker": "BEDY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Beam Global - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BEEM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Mobile Infrastructure Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BEEP", "valid_from": "2026-07-28", "valid_to": null}
@@ -849,7 +849,9 @@
 {"category": "S", "etf": "N", "name": "BrenX Ltd. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BRNX", "valid_from": "2026-08-14", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Burney U.S. Factor Rotation ETF", "provable_from": false, "test_issue": "N", "ticker": "BRNY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "ProCap Financial, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BRR", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
+{"category": "G", "etf": "N", "name": "Bluerock Acquisition Corp. II - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BRRK", "valid_from": "2026-11-16", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Bluerock Acquisition Corp. II - Units", "provable_from": true, "test_issue": "N", "ticker": "BRRKU", "valid_from": "2026-09-25", "valid_to": null}
+{"category": "G", "etf": "N", "name": "Bluerock Acquisition Corp. II - Warrants", "provable_from": true, "test_issue": "N", "ticker": "BRRKW", "valid_from": "2026-11-16", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Coinshares Bitcoin ETF", "provable_from": false, "test_issue": "N", "ticker": "BRRR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "ProCap Financial, Inc. - Warrant.", "provable_from": false, "test_issue": "N", "ticker": "BRRWW", "valid_from": "2026-07-28", "valid_to": "2026-09-22"}
 {"category": "G", "etf": "N", "name": "B&R Technology Merger Corp. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "BRTM", "valid_from": "2026-09-11", "valid_to": null}
@@ -911,7 +913,7 @@
 {"category": "Q", "etf": "N", "name": "Bentley Systems, Incorporated - Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BSY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BioXcel Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BTAI", "valid_from": "2026-07-28", "valid_to": "2026-09-08"}
 {"category": "S", "etf": "N", "name": "BT Brands, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BTBD", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "BT Brands, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BTBDW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "BT Brands, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BTBDW", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"category": "S", "etf": "N", "name": "Bit Digital, Inc. - Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "BTBT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BTCS Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BTCS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "BTC Digital Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "BTCT", "valid_from": "2026-07-28", "valid_to": null}
@@ -2012,7 +2014,8 @@
 {"category": "G", "etf": "Y", "name": "First Trust Mid Cap Core AlphaDEX Fund", "provable_from": false, "test_issue": "N", "ticker": "FNX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "First Trust Mid Cap Growth AlphaDEX Fund", "provable_from": false, "test_issue": "N", "ticker": "FNY", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "FOCL", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FOFO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "FOFO", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
+{"category": "S", "etf": "N", "name": "Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "FOFO", "valid_from": "2026-11-16", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "FormFactor, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FORM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Forrester Research, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FORR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Formula Systems (1985) Ltd. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "FORTY", "valid_from": "2026-07-28", "valid_to": null}
@@ -2416,6 +2419,7 @@
 {"category": "G", "etf": "N", "name": "HCM III Acquisition Corp. - Class A Ordinary Share", "provable_from": false, "test_issue": "N", "ticker": "HCMA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "HCM III Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "HCMAU", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "HCM III Acquisition Corp. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "HCMAW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "Y", "name": "Hartford Hybrid and Credit Opportunities ETF", "provable_from": true, "test_issue": "N", "ticker": "HCOP", "valid_from": "2026-11-16", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Amplify COWS Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "HCOW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Healthcare Services Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCSG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Healthcare Triangle, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCTI", "valid_from": "2026-07-28", "valid_to": null}
@@ -3793,7 +3797,7 @@
 {"category": "Q", "etf": "N", "name": "Northwest Bancshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWBI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "newcleo plc - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "NWCL", "valid_from": "2026-09-22", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "newcleo plc - Warrants", "provable_from": true, "test_issue": "N", "ticker": "NWCLW", "valid_from": "2026-09-22", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "NorthWestern Energy Group, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "NorthWestern Energy Group, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWE", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"category": "G", "etf": "N", "name": "Norwood Financial Corp. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWFL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "CL Workshop Group Limited - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "NWGL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Newell Brands Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NWL", "valid_from": "2026-07-28", "valid_to": null}
@@ -4155,7 +4159,7 @@
 {"category": "S", "etf": "N", "name": "Plumas Bancorp - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLBC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Polibeli Group Ltd - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PLBL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Playboy, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLBY", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "Q", "etf": "N", "name": "Children's Place, Inc. (The) - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLCE", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Children's Place, Inc. (The) - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PLCE", "valid_from": "2026-07-28", "valid_to": "2026-11-16"}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "PLCI", "valid_from": "2026-08-13", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Right", "provable_from": true, "test_issue": "N", "ticker": "PLCIR", "valid_from": "2026-08-13", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Pelican Acquisition II Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "PLCIU", "valid_from": "2026-07-28", "valid_to": null}
@@ -5035,7 +5039,7 @@
 {"category": "S", "etf": "N", "name": "Starling Oncology Institute, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "STLN", "valid_from": "2026-08-04", "valid_to": "2026-08-05"}
 {"category": "S", "etf": "N", "name": "Starling Oncology, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "STLN", "valid_from": "2026-08-05", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Starling Oncology Institute, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "STLNW", "valid_from": "2026-08-04", "valid_to": "2026-08-05"}
-{"category": "S", "etf": "N", "name": "Starling Oncology, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "STLNW", "valid_from": "2026-08-05", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Starling Oncology, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "STLNW", "valid_from": "2026-08-05", "valid_to": "2026-11-16"}
 {"category": "G", "etf": "Y", "name": "Hennessy Sustainable ETF", "provable_from": false, "test_issue": "N", "ticker": "STNC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "StoneCo Ltd. - Class A Common Share", "provable_from": false, "test_issue": "N", "ticker": "STNE", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Stoke Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STOK", "valid_from": "2026-07-28", "valid_to": null}

@@ -809,7 +809,6 @@
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI BIC ETF", "test_issue": "N", "ticker": "BKF"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon Active Core Bond ETF", "test_issue": "N", "ticker": "BKFI"}
 {"etf": "Y", "exchange": "Z", "name": "BNY Mellon Global Infrastructure Income ETF", "test_issue": "N", "ticker": "BKGI"}
-{"etf": "N", "exchange": "N", "name": "Black Hills Corporation Common Stock", "test_issue": "N", "ticker": "BKH"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon High Yield ETF", "test_issue": "N", "ticker": "BKHY"}
 {"etf": "Y", "exchange": "P", "name": "BNY Mellon International Equity ETF", "test_issue": "N", "ticker": "BKIE"}
 {"etf": "N", "exchange": "N", "name": "Bakkt, Inc. Class A Common Stock", "test_issue": "N", "ticker": "BKKT"}
@@ -3256,6 +3255,7 @@
 {"etf": "Y", "exchange": "P", "name": "FT Vest High Yield & Target Income ETF", "test_issue": "N", "ticker": "HYTI"}
 {"etf": "Y", "exchange": "N", "name": "Counterpoint High Yield Trend ETF", "test_issue": "N", "ticker": "HYTR"}
 {"etf": "Y", "exchange": "P", "name": "Xtrackers High Beta High Yield Bond ETF", "test_issue": "N", "ticker": "HYUP"}
+{"etf": "N", "exchange": "N", "name": "Bright Horizon Energy Corporation Common Stock", "test_issue": "N", "ticker": "HZN"}
 {"etf": "N", "exchange": "N", "name": "MarineMax, Inc.  (FL) Common Stock", "test_issue": "N", "ticker": "HZO"}
 {"etf": "Y", "exchange": "Z", "name": "GraniteShares US 100 Autocallable Income ETF", "test_issue": "N", "ticker": "IACL"}
 {"etf": "N", "exchange": "A", "name": "abrdn Australia Equity Fund, Inc. Common Stock", "test_issue": "N", "ticker": "IAF"}
@@ -3562,7 +3562,6 @@
 {"etf": "Y", "exchange": "P", "name": "iShares LifePath Target Date 2065 ETF", "test_issue": "N", "ticker": "ITDI"}
 {"etf": "Y", "exchange": "P", "name": "iShares LifePath Target Date 2070 ETF", "test_issue": "N", "ticker": "ITDJ"}
 {"etf": "Y", "exchange": "P", "name": "Amplify BlueStar Israel Technology ETF", "test_issue": "N", "ticker": "ITEQ"}
-{"etf": "N", "exchange": "N", "name": "Integer Holdings Corporation Common Stock", "test_issue": "N", "ticker": "ITGR"}
 {"etf": "Y", "exchange": "Z", "name": "VanEck Intermediate Muni ETF", "test_issue": "N", "ticker": "ITM"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core S&P Total U.S. Stock Market ETF", "test_issue": "N", "ticker": "ITOT"}
 {"etf": "N", "exchange": "A", "name": "IT Tech Packaging, Inc. Common Stock", "test_issue": "N", "ticker": "ITP"}
@@ -3949,7 +3948,6 @@
 {"etf": "N", "exchange": "N", "name": "KT Corporation Common Stock", "test_issue": "N", "ticker": "KT"}
 {"etf": "N", "exchange": "N", "name": "Kontoor Brands, Inc. Common Stock ", "test_issue": "N", "ticker": "KTB"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Hang Seng TECH Index ETF", "test_issue": "N", "ticker": "KTEC"}
-{"etf": "N", "exchange": "N", "name": "DWS Municipal Income Trust", "test_issue": "N", "ticker": "KTF"}
 {"etf": "N", "exchange": "N", "name": "Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock", "test_issue": "N", "ticker": "KTH"}
 {"etf": "N", "exchange": "N", "name": "Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)", "test_issue": "N", "ticker": "KTN"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long KTOS Daily Target ETF", "test_issue": "N", "ticker": "KTUP"}
@@ -4149,7 +4147,6 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Leveraged Loan ETF", "test_issue": "N", "ticker": "LVLN"}
 {"etf": "N", "exchange": "N", "name": "Las Vegas Sands Corp. Common Stock", "test_issue": "N", "ticker": "LVS"}
 {"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Common Stock", "test_issue": "N", "ticker": "LVWR"}
-{"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "LVWR.W"}
 {"etf": "N", "exchange": "N", "name": "Lamb Weston Holdings, Inc. Common Stock ", "test_issue": "N", "ticker": "LW"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long LWLG Daily ETF", "test_issue": "N", "ticker": "LWLX"}
 {"etf": "N", "exchange": "N", "name": "Luxfer Holdings PLC Ordinary Shares", "test_issue": "N", "ticker": "LXFR"}
@@ -4218,7 +4215,7 @@
 {"etf": "Y", "exchange": "P", "name": "Freedom Day Dividend ETF", "test_issue": "N", "ticker": "MBOX"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Disciplined Duration MBS ETF", "test_issue": "N", "ticker": "MBSD"}
 {"etf": "Y", "exchange": "P", "name": "Regan Floating Rate MBS ETF", "test_issue": "N", "ticker": "MBSF"}
-{"etf": "Y", "exchange": "P", "name": "Regan Fixed Rate MBS ETF", "test_issue": "N", "ticker": "MBSX"}
+{"etf": "Y", "exchange": "F", "name": "Regan Fixed Rate MBS ETF", "test_issue": "N", "ticker": "MBSX"}
 {"etf": "N", "exchange": "N", "name": "Moelis & Company Class A Common Stock", "test_issue": "N", "ticker": "MC"}
 {"etf": "N", "exchange": "N", "name": "Metropolitan Bank Holding Corp. Common Stock", "test_issue": "N", "ticker": "MCB"}
 {"etf": "N", "exchange": "N", "name": "McDonald's Corporation Common Stock", "test_issue": "N", "ticker": "MCD"}
@@ -5291,7 +5288,9 @@
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long POET ETF", "test_issue": "N", "ticker": "POEL"}
 {"etf": "Y", "exchange": "P", "name": "PRIMECAP Odyssey Discovery ETF", "test_issue": "N", "ticker": "POMG"}
 {"etf": "N", "exchange": "N", "name": "Portland General Electric Co Common Stock", "test_issue": "N", "ticker": "POR"}
+{"etf": "N", "exchange": "N", "name": "Southport Acquisition Corp. II Class A Ordinary Shares", "test_issue": "N", "ticker": "PORT"}
 {"etf": "N", "exchange": "N", "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant", "test_issue": "N", "ticker": "PORT.U"}
+{"etf": "N", "exchange": "N", "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50", "test_issue": "N", "ticker": "PORT.W"}
 {"etf": "N", "exchange": "N", "name": "Post Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "POST"}
 {"etf": "Y", "exchange": "P", "name": "VistaShares Electrification Supercycle ETF", "test_issue": "N", "ticker": "POW"}
 {"etf": "Y", "exchange": "P", "name": "Invesco Bloomberg Pricing Power ETF", "test_issue": "N", "ticker": "POWA"}
