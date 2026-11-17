@@ -52,7 +52,6 @@
 {"etf": "Y", "exchange": "P", "name": "ALPS Clean Energy ETF", "test_issue": "N", "ticker": "ACES"}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture Growth ETF", "test_issue": "N", "ticker": "ACGO"}
 {"etf": "Y", "exchange": "P", "name": "American Century Large Cap Growth ETF", "test_issue": "N", "ticker": "ACGR"}
-{"etf": "N", "exchange": "N", "name": "Accendra Health, Inc. Common Stock", "test_issue": "N", "ticker": "ACH"}
 {"etf": "N", "exchange": "N", "name": "Archer Aviation Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACHR"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ACHR 2x Daily ETF", "test_issue": "N", "ticker": "ACHX"}
 {"etf": "N", "exchange": "N", "name": "Albertsons Companies, Inc. Class A Common Stock", "test_issue": "N", "ticker": "ACI"}
@@ -436,7 +435,6 @@
 {"etf": "N", "exchange": "N", "name": "Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock", "test_issue": "N", "ticker": "ASR"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long ASST Daily Target ETF", "test_issue": "N", "ticker": "ASSX"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ASTS Daily ETF", "test_issue": "N", "ticker": "ASTG"}
-{"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Short ASTS ETF", "test_issue": "N", "ticker": "ASTN"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ASTS 2x Daily ETF", "test_issue": "N", "ticker": "ASTT"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long ASTS Daily ETF", "test_issue": "N", "ticker": "ASTX"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long ASTS ETF", "test_issue": "N", "ticker": "ASTY"}
@@ -2871,7 +2869,6 @@
 {"etf": "N", "exchange": "N", "name": "Corning Incorporated Common Stock", "test_issue": "N", "ticker": "GLW"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi GLXY 2x Daily ETF", "test_issue": "N", "ticker": "GLX"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long GLXY Daily Target ETF", "test_issue": "N", "ticker": "GLXU"}
-{"etf": "N", "exchange": "N", "name": "General Motors Company Common Stock", "test_issue": "N", "ticker": "GM"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Brookwood Global Macro ETF", "test_issue": "N", "ticker": "GMAC"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - March", "test_issue": "N", "ticker": "GMAR"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - May", "test_issue": "N", "ticker": "GMAY"}
@@ -4402,7 +4399,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Pacer Swan SOS Moderate (November) ETF", "test_issue": "N", "ticker": "MNVR"}
 {"etf": "N", "exchange": "N", "name": "Altria Group, Inc.", "test_issue": "N", "ticker": "MO"}
 {"etf": "Y", "exchange": "Z", "name": "VanEck Morningstar Wide Moat ETF", "test_issue": "N", "ticker": "MOAT"}
-{"etf": "N", "exchange": "N", "name": "Modine Manufacturing Company Common Stock", "test_issue": "N", "ticker": "MOD"}
+{"etf": "N", "exchange": "N", "name": "Modexus Solutions, Inc. Common Stock", "test_issue": "N", "ticker": "MOD"}
 {"etf": "N", "exchange": "N", "name": "Moog Inc. Class A Common Stock", "test_issue": "N", "ticker": "MOG.A"}
 {"etf": "N", "exchange": "N", "name": "Moog Inc. Class B Common Stock", "test_issue": "N", "ticker": "MOG.B"}
 {"etf": "N", "exchange": "N", "name": "MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)", "test_issue": "N", "ticker": "MOGU"}
@@ -6063,6 +6060,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Silver Miners ETF", "test_issue": "N", "ticker": "SIL"}
 {"etf": "Y", "exchange": "P", "name": "Amplify Junior Silver Miners ETF", "test_issue": "N", "ticker": "SILJ"}
 {"etf": "N", "exchange": "A", "name": "Grupo Simec, S.A.B. de C.V. American Depositary Shares", "test_issue": "N", "ticker": "SIM"}
+{"etf": "Y", "exchange": "P", "name": "American Beacon SiM High Income ETF", "test_issue": "N", "ticker": "SIMI"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Kensho Intelligent Structures ETF", "test_issue": "N", "ticker": "SIMS"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi SIMO 2x Daily ETF", "test_issue": "N", "ticker": "SIMX"}
 {"etf": "N", "exchange": "N", "name": "Sinda Ltd. Common Stock", "test_issue": "N", "ticker": "SIND"}
@@ -6391,7 +6389,6 @@
 {"etf": "Y", "exchange": "P", "name": "PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund", "test_issue": "N", "ticker": "STPZ"}
 {"etf": "Y", "exchange": "P", "name": "SMART Trend 25 ETF", "test_issue": "N", "ticker": "STRN"}
 {"etf": "N", "exchange": "A", "name": "Strawberry Fields REIT, Inc. Common Stock", "test_issue": "N", "ticker": "STRW"}
-{"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Short TSM ETF", "test_issue": "N", "ticker": "STSM"}
 {"etf": "N", "exchange": "N", "name": "State Street Corporation Common Stock", "test_issue": "N", "ticker": "STT"}
 {"etf": "N", "exchange": "N", "name": "State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative", "test_issue": "N", "ticker": "STT$G"}
 {"etf": "N", "exchange": "N", "name": "StubHub Holdings, Inc. Class A Common Stock", "test_issue": "N", "ticker": "STUB"}
@@ -6821,6 +6818,7 @@
 {"etf": "N", "exchange": "N", "name": "TXNM Energy, Inc. Common Stock", "test_issue": "N", "ticker": "TXNM"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily TXN Bull 2X ETF", "test_issue": "N", "ticker": "TXNU"}
 {"etf": "N", "exchange": "N", "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests", "test_issue": "N", "ticker": "TXO"}
+{"etf": "N", "exchange": "N", "name": "Torex Resources Inc. Common Shares", "test_issue": "N", "ticker": "TXR"}
 {"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Equity Index ETF", "test_issue": "N", "ticker": "TXS"}
 {"etf": "N", "exchange": "N", "name": "Textron Inc. Common Stock", "test_issue": "N", "ticker": "TXT"}
 {"etf": "Y", "exchange": "P", "name": "BondBloxx IR+M Tax-Aware Intermediate Duration ETF", "test_issue": "N", "ticker": "TXXI"}
@@ -7615,6 +7613,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2034 ETF", "test_issue": "N", "ticker": "ZCBF"}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2035 ETF", "test_issue": "N", "ticker": "ZCBG"}
 {"etf": "Y", "exchange": "P", "name": "The Zcash ETF Shares", "test_issue": "N", "ticker": "ZCSH"}
+{"etf": "Y", "exchange": "P", "name": "Bitwise AI Cyber Defense ETF", "test_issue": "N", "ticker": "ZDAY"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr December", "test_issue": "N", "ticker": "ZDEK"}
 {"etf": "N", "exchange": "A", "name": "Zedge, Inc. Class B Common Stock ", "test_issue": "N", "ticker": "ZDGE"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Zevenbergen Discovery Growth ETF", "test_issue": "N", "ticker": "ZDIS"}

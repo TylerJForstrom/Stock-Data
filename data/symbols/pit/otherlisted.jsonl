@@ -53,7 +53,7 @@
 {"etf": "Y", "exchange": "P", "name": "ALPS Clean Energy ETF", "provable_from": false, "test_issue": "N", "ticker": "ACES", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Hartford Alpha Capture Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "ACGO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "American Century Large Cap Growth ETF", "provable_from": false, "test_issue": "N", "ticker": "ACGR", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Accendra Health, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACH", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Accendra Health, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACH", "valid_from": "2026-07-28", "valid_to": "2026-11-17"}
 {"etf": "N", "exchange": "N", "name": "Archer Aviation Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ACHR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50", "provable_from": false, "test_issue": "N", "ticker": "ACHR.W", "valid_from": "2026-07-28", "valid_to": "2026-09-15"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ACHR 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ACHX", "valid_from": "2026-07-28", "valid_to": null}
@@ -456,7 +456,7 @@
 {"etf": "N", "exchange": "N", "name": "Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ASR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long ASST Daily Target ETF", "provable_from": true, "test_issue": "N", "ticker": "ASSX", "valid_from": "2026-09-18", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long ASTS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTG", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Short ASTS ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTN", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Short ASTS ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTN", "valid_from": "2026-07-28", "valid_to": "2026-11-17"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi ASTS 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long ASTS Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long ASTS ETF", "provable_from": false, "test_issue": "N", "ticker": "ASTY", "valid_from": "2026-07-28", "valid_to": null}
@@ -3004,7 +3004,7 @@
 {"etf": "N", "exchange": "N", "name": "Corning Incorporated Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GLW", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi GLXY 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "GLX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long GLXY Daily Target ETF", "provable_from": false, "test_issue": "N", "ticker": "GLXU", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "General Motors Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "General Motors Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GM", "valid_from": "2026-07-28", "valid_to": "2026-11-17"}
 {"etf": "Y", "exchange": "P", "name": "Simplify Brookwood Global Macro ETF", "provable_from": true, "test_issue": "N", "ticker": "GMAC", "valid_from": "2026-10-06", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - March", "provable_from": false, "test_issue": "N", "ticker": "GMAR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - May", "provable_from": false, "test_issue": "N", "ticker": "GMAY", "valid_from": "2026-07-28", "valid_to": null}
@@ -4641,7 +4641,8 @@
 {"etf": "Y", "exchange": "Z", "name": "Pacer Swan SOS Moderate (November) ETF", "provable_from": false, "test_issue": "N", "ticker": "MNVR", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Altria Group, Inc.", "provable_from": false, "test_issue": "N", "ticker": "MO", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "VanEck Morningstar Wide Moat ETF", "provable_from": false, "test_issue": "N", "ticker": "MOAT", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "N", "exchange": "N", "name": "Modine Manufacturing Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MOD", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Modine Manufacturing Company Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MOD", "valid_from": "2026-07-28", "valid_to": "2026-11-17"}
+{"etf": "N", "exchange": "N", "name": "Modexus Solutions, Inc. Common Stock", "provable_from": true, "test_issue": "N", "ticker": "MOD", "valid_from": "2026-11-17", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Moog Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MOG.A", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Moog Inc. Class B Common Stock", "provable_from": false, "test_issue": "N", "ticker": "MOG.B", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)", "provable_from": false, "test_issue": "N", "ticker": "MOGU", "valid_from": "2026-07-28", "valid_to": null}
@@ -6383,6 +6384,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Silver Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "SIL", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Amplify Junior Silver Miners ETF", "provable_from": false, "test_issue": "N", "ticker": "SILJ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Grupo Simec, S.A.B. de C.V. American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "SIM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "American Beacon SiM High Income ETF", "provable_from": true, "test_issue": "N", "ticker": "SIMI", "valid_from": "2026-11-17", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Kensho Intelligent Structures ETF", "provable_from": false, "test_issue": "N", "ticker": "SIMS", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Corgi SIMO 2x Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "SIMX", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Sinda Ltd. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SIND", "valid_from": "2026-07-28", "valid_to": null}
@@ -6730,7 +6732,7 @@
 {"etf": "Y", "exchange": "P", "name": "PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund", "provable_from": false, "test_issue": "N", "ticker": "STPZ", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "SMART Trend 25 ETF", "provable_from": false, "test_issue": "N", "ticker": "STRN", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Strawberry Fields REIT, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STRW", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Short TSM ETF", "provable_from": false, "test_issue": "N", "ticker": "STSM", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Short TSM ETF", "provable_from": false, "test_issue": "N", "ticker": "STSM", "valid_from": "2026-07-28", "valid_to": "2026-11-17"}
 {"etf": "N", "exchange": "N", "name": "State Street Corporation Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STT", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative", "provable_from": false, "test_issue": "N", "ticker": "STT$G", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "StubHub Holdings, Inc. Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STUB", "valid_from": "2026-07-28", "valid_to": null}
@@ -7198,6 +7200,7 @@
 {"etf": "N", "exchange": "N", "name": "TXNM Energy, Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "TXNM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily TXN Bull 2X ETF", "provable_from": false, "test_issue": "N", "ticker": "TXNU", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests", "provable_from": false, "test_issue": "N", "ticker": "TXO", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "N", "exchange": "N", "name": "Torex Resources Inc. Common Shares", "provable_from": true, "test_issue": "N", "ticker": "TXR", "valid_from": "2026-11-17", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Texas Capital Texas Equity Index ETF", "provable_from": false, "test_issue": "N", "ticker": "TXS", "valid_from": "2026-07-28", "valid_to": "2026-09-16"}
 {"etf": "Y", "exchange": "F", "name": "Texas Capital Texas Equity Index ETF", "provable_from": true, "test_issue": "N", "ticker": "TXS", "valid_from": "2026-09-16", "valid_to": "2026-10-29"}
 {"etf": "Y", "exchange": "TXSE", "name": "Texas Capital Texas Equity Index ETF", "provable_from": true, "test_issue": "N", "ticker": "TXS", "valid_from": "2026-10-29", "valid_to": "2026-11-02"}
@@ -8047,6 +8050,7 @@
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2034 ETF", "provable_from": false, "test_issue": "N", "ticker": "ZCBF", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2035 ETF", "provable_from": false, "test_issue": "N", "ticker": "ZCBG", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "The Zcash ETF Shares", "provable_from": true, "test_issue": "N", "ticker": "ZCSH", "valid_from": "2026-08-25", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Bitwise AI Cyber Defense ETF", "provable_from": true, "test_issue": "N", "ticker": "ZDAY", "valid_from": "2026-11-17", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr December", "provable_from": false, "test_issue": "N", "ticker": "ZDEK", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "A", "name": "Zedge, Inc. Class B Common Stock ", "provable_from": false, "test_issue": "N", "ticker": "ZDGE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "P", "name": "Virtus Zevenbergen Discovery Growth ETF", "provable_from": true, "test_issue": "N", "ticker": "ZDIS", "valid_from": "2026-08-17", "valid_to": null}

@@ -1321,6 +1321,8 @@
 {"category": "S", "etf": "N", "name": "Community West Bancshares - Common Stock", "test_issue": "N", "ticker": "CWBC"}
 {"category": "Q", "etf": "N", "name": "Consolidated Water Co. Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "CWCO"}
 {"category": "S", "etf": "N", "name": "CaliberCos Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CWD"}
+{"category": "G", "etf": "Y", "name": "CWP Premium Dividend ETF", "test_issue": "N", "ticker": "CWPD"}
+{"category": "G", "etf": "Y", "name": "CWP Premium Growth ETF", "test_issue": "N", "ticker": "CWPG"}
 {"category": "Q", "etf": "N", "name": "Casella Waste Systems, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CWST"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST CRWV ETF", "test_issue": "N", "ticker": "CWY"}
 {"category": "S", "etf": "N", "name": "CXApp Inc. - Class A Common Stock", "test_issue": "N", "ticker": "CXAI"}
@@ -1354,6 +1356,7 @@
 {"category": "G", "etf": "Y", "name": "VanEck Digital Transformation ETF", "test_issue": "N", "ticker": "DAPP"}
 {"category": "S", "etf": "N", "name": "Dare Bioscience, Inc. - Common Stock", "test_issue": "N", "ticker": "DARE"}
 {"category": "Q", "etf": "N", "name": "DoorDash, Inc. - Common Stock", "test_issue": "N", "ticker": "DASH"}
+{"category": "G", "etf": "Y", "name": "GraniteShares Autocallable AMD ETF", "test_issue": "N", "ticker": "DAU"}
 {"category": "G", "etf": "N", "name": "Dave Inc.  - Class A Common Stock", "test_issue": "N", "ticker": "DAVE"}
 {"category": "G", "etf": "N", "name": "Dave Inc.  - Warrants", "test_issue": "N", "ticker": "DAVEW"}
 {"category": "G", "etf": "N", "name": "Davion Healthcare Plc - Ordinary Shares", "test_issue": "N", "ticker": "DAVI"}
@@ -1446,6 +1449,7 @@
 {"category": "S", "etf": "N", "name": "Draganfly Inc. - Common Shares", "test_issue": "N", "ticker": "DPRO"}
 {"category": "S", "etf": "N", "name": "Nexpu Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "DPU"}
 {"category": "Q", "etf": "N", "name": "Domino's Pizza Inc - Common Stock", "test_issue": "N", "ticker": "DPZ"}
+{"category": "G", "etf": "Y", "name": "GraniteShares Autocallable DRAM ETF", "test_issue": "N", "ticker": "DRAC"}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Ordinary shares", "test_issue": "N", "ticker": "DRDB"}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Unit", "test_issue": "N", "ticker": "DRDBU"}
 {"category": "G", "etf": "N", "name": "Roman DBDR Acquisition Corp. II - Warrants", "test_issue": "N", "ticker": "DRDBW"}
@@ -1490,7 +1494,6 @@
 {"category": "S", "etf": "N", "name": "Duos Technologies Group, Inc. - Common Stock", "test_issue": "N", "ticker": "DUOT"}
 {"category": "G", "etf": "Y", "name": "U.S. Small Cap Growth Portfolio: ETF Class Shares", "test_issue": "N", "ticker": "DUSG"}
 {"category": "G", "etf": "Y", "name": "DAC 3D Dividend Growth ETF", "test_issue": "N", "ticker": "DVGR"}
-{"category": "S", "etf": "N", "name": "Datavault AI Inc. - Common Stock", "test_issue": "N", "ticker": "DVLT"}
 {"category": "G", "etf": "Y", "name": "First Trust Dorsey Wright Momentum & Value ETF", "test_issue": "N", "ticker": "DVLU"}
 {"category": "G", "etf": "Y", "name": "First Trust Dorsey Wright Momentum & Low Volatility ETF", "test_issue": "N", "ticker": "DVOL"}
 {"category": "G", "etf": "Y", "name": "WEBs QQQ Defined Volatility ETF", "test_issue": "N", "ticker": "DVQQ"}
@@ -2112,6 +2115,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long GLW Daily ETF", "test_issue": "N", "ticker": "GLWG"}
 {"category": "S", "etf": "N", "name": "Galaxy Payroll Group Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "GLXG"}
 {"category": "Q", "etf": "N", "name": "Galaxy Digital Inc. - Class A common stock", "test_issue": "N", "ticker": "GLXY"}
+{"category": "Q", "etf": "N", "name": "General Motors Company - Common Stock", "test_issue": "N", "ticker": "GM"}
 {"category": "Q", "etf": "N", "name": "Genmab A/S - American Depositary Shares", "test_issue": "N", "ticker": "GMAB"}
 {"category": "S", "etf": "N", "name": "GMEX ROBOTICS CORPORATION - Class A Ordinary Shares", "test_issue": "N", "ticker": "GMEX"}
 {"category": "S", "etf": "N", "name": "Gamehaus Holdings Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "GMHS"}
@@ -3096,6 +3100,7 @@
 {"category": "G", "etf": "N", "name": "MediWound Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "MDWD"}
 {"category": "S", "etf": "N", "name": "MiMedx Group, Inc - Common Stock", "test_issue": "N", "ticker": "MDXG"}
 {"category": "S", "etf": "N", "name": "MDxHealth SA - Ordinary Shares", "test_issue": "N", "ticker": "MDXH"}
+{"category": "G", "etf": "Y", "name": "GraniteShares Autocallable META ETF", "test_issue": "N", "ticker": "MEA"}
 {"category": "Q", "etf": "N", "name": "Medpace Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "MEDP"}
 {"category": "S", "etf": "N", "name": "DataMeds AI, Inc. - Common Stock", "test_issue": "N", "ticker": "MEDS"}
 {"category": "G", "etf": "Y", "name": "Horizon Kinetics Medical ETF", "test_issue": "N", "ticker": "MEDX"}
@@ -3488,6 +3493,7 @@
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long NTAP Daily ETF", "test_issue": "N", "ticker": "NTAL"}
 {"category": "Q", "etf": "N", "name": "NetApp, Inc. - Common Stock", "test_issue": "N", "ticker": "NTAP"}
 {"category": "S", "etf": "N", "name": "NETCLASS TECHNOLOGY INC - Class A Ordinary Shares", "test_issue": "N", "ticker": "NTCL"}
+{"category": "G", "etf": "Y", "name": "Nuveen Technology & Infrastructure Credit ETF", "test_issue": "N", "ticker": "NTCR"}
 {"category": "Q", "etf": "N", "name": "NetScout Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "NTCT"}
 {"category": "Q", "etf": "N", "name": "NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares", "test_issue": "N", "ticker": "NTES"}
 {"category": "Q", "etf": "N", "name": "NETGEAR, Inc. - Common Stock", "test_issue": "N", "ticker": "NTGR"}
@@ -3796,6 +3802,7 @@
 {"category": "G", "etf": "N", "name": "ProCap Acquisition Corp - Warrant", "test_issue": "N", "ticker": "PCAPW"}
 {"category": "Q", "etf": "N", "name": "PACCAR Inc. - Common Stock", "test_issue": "N", "ticker": "PCAR"}
 {"category": "Q", "etf": "N", "name": "PCB Bancorp - Common Stock", "test_issue": "N", "ticker": "PCB"}
+{"category": "G", "etf": "Y", "name": "State Street SPDR Nasdaq MyPaycheck ETF", "test_issue": "N", "ticker": "PCHX"}
 {"category": "S", "etf": "N", "name": "PicoCELA Inc. - American Depositary Shares", "test_issue": "N", "ticker": "PCLA"}
 {"category": "G", "etf": "Y", "name": "BondBloxx Private Credit CLO ETF", "test_issue": "N", "ticker": "PCMM"}
 {"category": "G", "etf": "Y", "name": "PIMCO Inflation PLUS Active Exchange-Traded Fund", "test_issue": "N", "ticker": "PCPI"}
@@ -3874,6 +3881,7 @@
 {"category": "S", "etf": "N", "name": "P3 Health Partners Inc. - Class A Common Stock", "test_issue": "N", "ticker": "PIII"}
 {"category": "S", "etf": "N", "name": "P3 Health Partners Inc. - Warrant", "test_issue": "N", "ticker": "PIIIW"}
 {"category": "G", "etf": "Y", "name": "Invesco Global Water ETF", "test_issue": "N", "ticker": "PIO"}
+{"category": "G", "etf": "Y", "name": "VanEck Pivotal Trends ETF", "test_issue": "N", "ticker": "PIVT"}
 {"category": "G", "etf": "Y", "name": "Invesco Dorsey Wright Developed Markets Momentum ETF", "test_issue": "N", "ticker": "PIZ"}
 {"category": "S", "etf": "N", "name": "Parke Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "PKBK"}
 {"category": "Q", "etf": "N", "name": "Park-Ohio Holdings Corp. - Common Stock", "test_issue": "N", "ticker": "PKOH"}
@@ -4267,7 +4275,6 @@
 {"category": "S", "etf": "N", "name": "Arcadia Biosciences, Inc. - Common Stock", "test_issue": "N", "ticker": "RKDA"}
 {"category": "Q", "etf": "N", "name": "Rocket Lab Corporation - Common Stock", "test_issue": "N", "ticker": "RKLB"}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2X Long RKLB ETF", "test_issue": "N", "ticker": "RKLX"}
-{"category": "G", "etf": "Y", "name": "Defiance Daily Target 2x Short RKLB ETF", "test_issue": "N", "ticker": "RKLZ"}
 {"category": "G", "etf": "Y", "name": "Defiance Retail Kings ETF", "test_issue": "N", "ticker": "RKNG"}
 {"category": "S", "etf": "N", "name": "Rocket One Inc. - Common Stock", "test_issue": "N", "ticker": "RKTO"}
 {"category": "G", "etf": "N", "name": "Relay Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "RLAY"}
@@ -5192,7 +5199,6 @@
 {"category": "G", "etf": "Y", "name": "Vanguard 0-3 Month Treasury Bill ETF", "test_issue": "N", "ticker": "VBIL"}
 {"category": "S", "etf": "N", "name": "Valion Bio, Inc. - Common stock", "test_issue": "N", "ticker": "VBIO"}
 {"category": "G", "etf": "Y", "name": "VanEck BNB ETF", "test_issue": "N", "ticker": "VBNB"}
-{"category": "Q", "etf": "N", "name": "VersaBank - Common Shares", "test_issue": "N", "ticker": "VBNK"}
 {"category": "Q", "etf": "N", "name": "Visteon Corporation - Common Stock", "test_issue": "N", "ticker": "VC"}
 {"category": "G", "etf": "N", "name": "Vericel Corporation - Common Stock", "test_issue": "N", "ticker": "VCEL"}
 {"category": "S", "etf": "N", "name": "VCI Global Limited - Ordinary Share", "test_issue": "N", "ticker": "VCIG"}
@@ -5287,6 +5293,7 @@
 {"category": "G", "etf": "N", "name": "Vroom, Inc. - Common Stock", "test_issue": "N", "ticker": "VRM"}
 {"category": "Q", "etf": "N", "name": "Varonis Systems, Inc. - Common Stock", "test_issue": "N", "ticker": "VRNS"}
 {"category": "S", "etf": "N", "name": "Verra Mobility Corporation - Class A Common Stock", "test_issue": "N", "ticker": "VRRM"}
+{"category": "Q", "etf": "N", "name": "Versa Bancorp - Common Stock", "test_issue": "N", "ticker": "VRSA"}
 {"category": "Q", "etf": "N", "name": "Verisk Analytics, Inc. - Common Stock", "test_issue": "N", "ticker": "VRSK"}
 {"category": "Q", "etf": "N", "name": "VeriSign, Inc. - Common Stock", "test_issue": "N", "ticker": "VRSN"}
 {"category": "G", "etf": "Y", "name": "GraniteShares 2x Long VRT Daily ETF", "test_issue": "N", "ticker": "VRTL"}
