@@ -330,6 +330,7 @@
 {"etf": "Y", "exchange": "P", "name": "ActivePassive Core Bond ETF", "test_issue": "N", "ticker": "APCB"}
 {"etf": "N", "exchange": "N", "name": "Air Products and Chemicals, Inc. Common Stock", "test_issue": "N", "ticker": "APD"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus April Deep Buffer ETF", "test_issue": "N", "ticker": "APDB"}
+{"etf": "Y", "exchange": "P", "name": "Artisan Focus Fund: ETF Class Shares", "test_issue": "N", "ticker": "APFS"}
 {"etf": "N", "exchange": "N", "name": "APi Group Corporation Common Stock", "test_issue": "N", "ticker": "APG"}
 {"etf": "N", "exchange": "N", "name": "Amphenol Corporation Common Stock", "test_issue": "N", "ticker": "APH"}
 {"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long APH Daily ETF", "test_issue": "N", "ticker": "APHG"}
@@ -342,6 +343,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short APLD Daily ETF", "test_issue": "N", "ticker": "APLZ"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi AMAT 2x Daily ETF", "test_issue": "N", "ticker": "APMI"}
 {"etf": "Y", "exchange": "P", "name": "ActivePassive Intermediate Municipal Bond ETF", "test_issue": "N", "ticker": "APMU"}
+{"etf": "Y", "exchange": "P", "name": "Artisan Select Equity Fund: ETF Class Shares", "test_issue": "N", "ticker": "APNX"}
 {"etf": "N", "exchange": "N", "name": "Apollo Global Management, Inc. (New) Common Stock", "test_issue": "N", "ticker": "APO"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 6mo Apr/Oct", "test_issue": "N", "ticker": "APOC"}
 {"etf": "N", "exchange": "N", "name": "Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053", "test_issue": "N", "ticker": "APOS"}
@@ -2879,6 +2881,7 @@
 {"etf": "Y", "exchange": "P", "name": "YieldMax GME Option Income Strategy ETF", "test_issue": "N", "ticker": "GMEY"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Emerging Asia Pacific ETF", "test_issue": "N", "ticker": "GMF"}
 {"etf": "Y", "exchange": "P", "name": "GMO International Equity Fund, ETF Class", "test_issue": "N", "ticker": "GMIE"}
+{"etf": "Y", "exchange": "P", "name": "iShares Macro AlphaBeta Active ETF", "test_issue": "N", "ticker": "GMIX"}
 {"etf": "Y", "exchange": "P", "name": "GammaRoad Market Navigation ETF", "test_issue": "N", "ticker": "GMMA"}
 {"etf": "Y", "exchange": "N", "name": "iShares Government Money Market ETF", "test_issue": "N", "ticker": "GMMF"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Dynamic New York Municipal Income ETF", "test_issue": "N", "ticker": "GMNY"}
@@ -3314,7 +3317,6 @@
 {"etf": "Y", "exchange": "Z", "name": "iShares iBonds Dec 2035 Term Muni Bond ETF", "test_issue": "N", "ticker": "IBMX"}
 {"etf": "N", "exchange": "N", "name": "ICICI Bank Limited Common Stock", "test_issue": "N", "ticker": "IBN"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Bloomberg International Corporate Bond ETF", "test_issue": "N", "ticker": "IBND"}
-{"etf": "N", "exchange": "A", "name": "Impact BioMedical, Inc. Common Stock", "test_issue": "N", "ticker": "IBO"}
 {"etf": "N", "exchange": "F", "name": "International Bancshares Corporation Common Stock", "test_issue": "N", "ticker": "IBOC"}
 {"etf": "N", "exchange": "N", "name": "Installed Building Products, Inc. Common Stock", "test_issue": "N", "ticker": "IBP"}
 {"etf": "Y", "exchange": "P", "name": "iShares Neuroscience and Healthcare ETF", "test_issue": "N", "ticker": "IBRN"}
@@ -6033,6 +6035,7 @@
 {"etf": "Y", "exchange": "P", "name": "Shell plc ADRhedged", "test_issue": "N", "ticker": "SHEH"}
 {"etf": "N", "exchange": "N", "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ", "test_issue": "N", "ticker": "SHEL"}
 {"etf": "N", "exchange": "N", "name": "Shinhan Financial Group Co Ltd American Depositary Shares", "test_issue": "N", "ticker": "SHG"}
+{"etf": "Y", "exchange": "P", "name": "Global X Asia Defense Tech ETF", "test_issue": "N", "ticker": "SHLA"}
 {"etf": "Y", "exchange": "P", "name": "Global X Defense Tech ETF", "test_issue": "N", "ticker": "SHLD"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR Nuveen ICE Short Term Municipal Bond ETF", "test_issue": "N", "ticker": "SHM"}
 {"etf": "N", "exchange": "N", "name": "Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares", "test_issue": "N", "ticker": "SHO"}
@@ -6727,6 +6730,7 @@
 {"etf": "Y", "exchange": "Z", "name": "VegaShares Trillions ETF", "test_issue": "N", "ticker": "TRIL"}
 {"etf": "N", "exchange": "N", "name": "Trinity Capital Inc. Common Stock", "test_issue": "N", "ticker": "TRIN"}
 {"etf": "Y", "exchange": "Z", "name": "MC Trio Equity Buffered ETF", "test_issue": "N", "ticker": "TRIO"}
+{"etf": "Y", "exchange": "P", "name": "Direxion Trillions ETF", "test_issue": "N", "ticker": "TRLL"}
 {"etf": "N", "exchange": "N", "name": "Trulieve Cannabis Corp. Subordinate Voting Shares", "test_issue": "N", "ticker": "TRLV"}
 {"etf": "N", "exchange": "N", "name": "Trinity Industries, Inc. Common Stock", "test_issue": "N", "ticker": "TRN"}
 {"etf": "Y", "exchange": "P", "name": "Pacer Trendpilot Fund of Funds ETF", "test_issue": "N", "ticker": "TRND"}
@@ -6831,7 +6835,6 @@
 {"etf": "Y", "exchange": "Z", "name": "Cambria Tactical Yield ETF", "test_issue": "N", "ticker": "TYLD"}
 {"etf": "Y", "exchange": "P", "name": "Global X Information Technology Covered Call & Growth ETF", "test_issue": "N", "ticker": "TYLG"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily 10-Yr Treasury Bear 3x Shrs", "test_issue": "N", "ticker": "TYO"}
-{"etf": "Y", "exchange": "P", "name": "xETFs TSLA Daily Income ETF", "test_issue": "N", "ticker": "TYYY"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Small Cap Bear 3X ETF", "test_issue": "N", "ticker": "TZA"}
 {"etf": "N", "exchange": "N", "name": "Unity Software Inc. Common Stock", "test_issue": "N", "ticker": "U"}
 {"etf": "N", "exchange": "N", "name": "Under Armour, Inc. Class C Common Stock", "test_issue": "N", "ticker": "UA"}
@@ -7057,6 +7060,7 @@
 {"etf": "Y", "exchange": "P", "name": "Virtus Emerging Markets Dividend ETF", "test_issue": "N", "ticker": "VEM"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard Emerging Markets Bond Active ETF", "test_issue": "N", "ticker": "VEMB"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Stone Harbor Emerging Markets High Yield Bond ETF", "test_issue": "N", "ticker": "VEMY"}
+{"etf": "Y", "exchange": "P", "name": "Teucrium Venezuela Future Opportunities ETF", "test_issue": "N", "ticker": "VEN"}
 {"etf": "N", "exchange": "A", "name": "Venu Holding Corporation Common Stock", "test_issue": "N", "ticker": "VENU"}
 {"etf": "N", "exchange": "N", "name": "Vermilion Energy Inc. Common (Canada)", "test_issue": "N", "ticker": "VET"}
 {"etf": "Y", "exchange": "P", "name": "Academy Veteran Bond ETF", "test_issue": "N", "ticker": "VETZ"}
@@ -7193,6 +7197,7 @@
 {"etf": "Y", "exchange": "P", "name": "Voya Ultra Short Income ETF", "test_issue": "N", "ticker": "VUSI"}
 {"etf": "Y", "exchange": "Z", "name": "Vanguard Wellington U.S. Value Active ETF", "test_issue": "N", "ticker": "VUSV"}
 {"etf": "Y", "exchange": "P", "name": "Vanguard Morningstar Large-Cap ETF", "test_issue": "N", "ticker": "VV"}
+{"etf": "Y", "exchange": "Z", "name": "Vulcan Value Partners ETF", "test_issue": "N", "ticker": "VVPL"}
 {"etf": "N", "exchange": "N", "name": "Invesco Senior Income Trust Common Stock (DE)", "test_issue": "N", "ticker": "VVR"}
 {"etf": "N", "exchange": "N", "name": "Valvoline Inc. Common Stock", "test_issue": "N", "ticker": "VVV"}
 {"etf": "N", "exchange": "N", "name": "vVARDIS Holding AG Class A Ordinary Shares", "test_issue": "N", "ticker": "VVVV"}
@@ -7356,7 +7361,6 @@
 {"etf": "N", "exchange": "N", "name": "Weyerhaeuser Company Common Stock", "test_issue": "N", "ticker": "WY"}
 {"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2X Long WYFI ETF", "test_issue": "N", "ticker": "WYFL"}
 {"etf": "N", "exchange": "A", "name": "WidePoint Corporation Common Stock", "test_issue": "N", "ticker": "WYY"}
-{"etf": "Y", "exchange": "Z", "name": "Opportunistic Trader ETF", "test_issue": "N", "ticker": "WZRD"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi AI Cybersecurity ETF", "test_issue": "N", "ticker": "XA"}
 {"etf": "Y", "exchange": "P", "name": "Eaton Vance Income Opportunities ETF", "test_issue": "N", "ticker": "XAGG"}
 {"etf": "Y", "exchange": "Z", "name": "Corgi AGIX 2x Daily ETF", "test_issue": "N", "ticker": "XAGI"}
@@ -7561,6 +7565,7 @@
 {"etf": "N", "exchange": "N", "name": "Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share", "test_issue": "N", "ticker": "YALA"}
 {"etf": "Y", "exchange": "P", "name": "Truth Social God Bless America ETF", "test_issue": "N", "ticker": "YALL"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily FTSE China Bear 3X ETF", "test_issue": "N", "ticker": "YANG"}
+{"etf": "Y", "exchange": "P", "name": "Yorkville America Space Index ETF", "test_issue": "N", "ticker": "YASX"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax Bitcoin Option Income Strategy ETF", "test_issue": "N", "ticker": "YBIT"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Bitcoin Covered Call Strategy ETF", "test_issue": "N", "ticker": "YBTC"}
 {"etf": "N", "exchange": "A", "name": "cbdMD, Inc. Common Stock", "test_issue": "N", "ticker": "YCBD"}
@@ -7588,6 +7593,7 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest International Equity Moderate Buffer ETF - March", "test_issue": "N", "ticker": "YMAR"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax Universe Fund of Option Income ETFs", "test_issue": "N", "ticker": "YMAX"}
 {"etf": "N", "exchange": "N", "name": "Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)", "test_issue": "N", "ticker": "YMM"}
+{"etf": "Y", "exchange": "P", "name": "Amplify S&P 500 Buffered Autocallable Yield Opportunity ETF", "test_issue": "N", "ticker": "YO"}
 {"etf": "Y", "exchange": "P", "name": "AdvisorShares Pure Cannabis ETF", "test_issue": "N", "ticker": "YOLO"}
 {"etf": "N", "exchange": "N", "name": "Clear Secure, Inc. Class A Common Stock", "test_issue": "N", "ticker": "YOU"}
 {"etf": "N", "exchange": "N", "name": "YPF Sociedad Anonima American Depositary Shares", "test_issue": "N", "ticker": "YPF"}
@@ -7636,6 +7642,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr March", "test_issue": "N", "ticker": "ZMAR"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr May", "test_issue": "N", "ticker": "ZMAY"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr November", "test_issue": "N", "ticker": "ZNOV"}
+{"etf": "N", "exchange": "A", "name": "Zoar Limited Ordinary Shares", "test_issue": "N", "ticker": "ZOAR"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr October", "test_issue": "N", "ticker": "ZOCT"}
 {"etf": "N", "exchange": "A", "name": "Zone Frontier Inc. Class B Common Stock", "test_issue": "N", "ticker": "ZONE"}
 {"etf": "Y", "exchange": "P", "name": "PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund", "test_issue": "N", "ticker": "ZROZ"}
