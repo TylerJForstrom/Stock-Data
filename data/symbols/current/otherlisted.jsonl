@@ -1172,6 +1172,7 @@
 {"etf": "N", "exchange": "F", "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B", "test_issue": "N", "ticker": "CFR$B"}
 {"etf": "N", "exchange": "N", "name": "Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock", "test_issue": "N", "ticker": "CFTR$A"}
 {"etf": "N", "exchange": "N", "name": "Centerra Gold Inc. Common Shares", "test_issue": "N", "ticker": "CGAU"}
+{"etf": "Y", "exchange": "P", "name": "Capital Group Multi-Asset Income Builder ETF", "test_issue": "N", "ticker": "CGBI"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Core Balanced ETF", "test_issue": "N", "ticker": "CGBL"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Core Bond ETF", "test_issue": "N", "ticker": "CGCB"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Core Plus Income ETF", "test_issue": "N", "ticker": "CGCP"}
@@ -1188,6 +1189,7 @@
 {"etf": "Y", "exchange": "P", "name": "Capital Group International Bond ETF (USD-Hedged)", "test_issue": "N", "ticker": "CGIB"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group International Core Equity ETF", "test_issue": "N", "ticker": "CGIC"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group International Equity ETF", "test_issue": "N", "ticker": "CGIE"}
+{"etf": "Y", "exchange": "P", "name": "Capital Group Multi-Asset Income ETF", "test_issue": "N", "ticker": "CGMI"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group U.S. Small and Mid Cap ETF", "test_issue": "N", "ticker": "CGMM"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group U.S. Multi-Sector Income ETF", "test_issue": "N", "ticker": "CGMS"}
 {"etf": "Y", "exchange": "P", "name": "Capital Group Municipal Income ETF", "test_issue": "N", "ticker": "CGMU"}
@@ -2538,6 +2540,7 @@
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Buffer ETF - March", "test_issue": "N", "ticker": "FMAR"}
 {"etf": "Y", "exchange": "P", "name": "Fidelity MSCI Materials Index ETF", "test_issue": "N", "ticker": "FMAT"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Buffer ETF - May", "test_issue": "N", "ticker": "FMAY"}
+{"etf": "N", "exchange": "A", "name": "F&M Bank Corp. Common Stock", "test_issue": "N", "ticker": "FMBM"}
 {"etf": "N", "exchange": "N", "name": "FMC Corporation Common Stock", "test_issue": "N", "ticker": "FMC"}
 {"etf": "Y", "exchange": "P", "name": "FM Compounders Equity ETF", "test_issue": "N", "ticker": "FMCE"}
 {"etf": "Y", "exchange": "P", "name": "FM Focus Equity ETF", "test_issue": "N", "ticker": "FMCX"}
@@ -2882,7 +2885,6 @@
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR S&P Emerging Asia Pacific ETF", "test_issue": "N", "ticker": "GMF"}
 {"etf": "Y", "exchange": "P", "name": "GMO International Equity Fund, ETF Class", "test_issue": "N", "ticker": "GMIE"}
 {"etf": "Y", "exchange": "P", "name": "iShares Macro AlphaBeta Active ETF", "test_issue": "N", "ticker": "GMIX"}
-{"etf": "Y", "exchange": "P", "name": "GammaRoad Market Navigation ETF", "test_issue": "N", "ticker": "GMMA"}
 {"etf": "Y", "exchange": "N", "name": "iShares Government Money Market ETF", "test_issue": "N", "ticker": "GMMF"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Dynamic New York Municipal Income ETF", "test_issue": "N", "ticker": "GMNY"}
 {"etf": "Y", "exchange": "P", "name": "GMO Ultra-Short Income ETF", "test_issue": "N", "ticker": "GMOC"}
@@ -2944,6 +2946,7 @@
 {"etf": "N", "exchange": "A", "name": "Hyperscale Data, Inc. Common Stock", "test_issue": "N", "ticker": "GPUS"}
 {"etf": "N", "exchange": "A", "name": "Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock", "test_issue": "N", "ticker": "GPUS$D"}
 {"etf": "Y", "exchange": "P", "name": "VanEck Alternative Asset Manager ETF", "test_issue": "N", "ticker": "GPZ"}
+{"etf": "Y", "exchange": "P", "name": "GQG Global Equity ETF", "test_issue": "N", "ticker": "GQGG"}
 {"etf": "Y", "exchange": "P", "name": "GQG US Equity ETF", "test_issue": "N", "ticker": "GQGU"}
 {"etf": "Y", "exchange": "P", "name": "Natixis Gateway Quality Income ETF", "test_issue": "N", "ticker": "GQI"}
 {"etf": "Y", "exchange": "P", "name": "Northern Trust Global Quality Real Estate ETF", "test_issue": "N", "ticker": "GQRE"}
@@ -2975,6 +2978,7 @@
 {"etf": "N", "exchange": "N", "name": "Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg", "test_issue": "N", "ticker": "GS$D"}
 {"etf": "N", "exchange": "N", "name": "Goldman Sachs BDC, Inc. Common Stock", "test_issue": "N", "ticker": "GSBD"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs Small Cap Equity ETF", "test_issue": "N", "ticker": "GSC"}
+{"etf": "Y", "exchange": "P", "name": "Goldman Sachs Securitized Income ETF", "test_issue": "N", "ticker": "GSCZ"}
 {"etf": "Y", "exchange": "Z", "name": "Goldman Sachs MarketBeta Emerging Markets Equity ETF", "test_issue": "N", "ticker": "GSEE"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest U.S. Equity Moderate Buffer ETF - September", "test_issue": "N", "ticker": "GSEP"}
 {"etf": "Y", "exchange": "P", "name": "Goldman Sachs ActiveBeta Europe Equity ETF", "test_issue": "N", "ticker": "GSEU"}
@@ -3639,6 +3643,7 @@
 {"etf": "Y", "exchange": "P", "name": "JPMorgan Active Developing Markets Equity ETF", "test_issue": "N", "ticker": "JADE"}
 {"etf": "N", "exchange": "A", "name": "Jaguar Uranium Corp. Class A Common Shares", "test_issue": "N", "ticker": "JAGU"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 6mo Jan/Jul", "test_issue": "N", "ticker": "JAJL"}
+{"etf": "Y", "exchange": "P", "name": "JPMorgan All Country Research Enhanced Equity ETF", "test_issue": "N", "ticker": "JALL"}
 {"etf": "N", "exchange": "N", "name": "Janus Living, Inc. Class A-1 Common Stock", "test_issue": "N", "ticker": "JAN"}
 {"etf": "Y", "exchange": "Z", "name": "Aptus January Buffer ETF", "test_issue": "N", "ticker": "JANB"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Premium Income 20 Barrier ETF - January", "test_issue": "N", "ticker": "JANH"}
@@ -4148,7 +4153,6 @@
 {"etf": "N", "exchange": "N", "name": "LiveWire Group, Inc. Common Stock", "test_issue": "N", "ticker": "LVWR"}
 {"etf": "N", "exchange": "N", "name": "Lamb Weston Holdings, Inc. Common Stock ", "test_issue": "N", "ticker": "LW"}
 {"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long LWLG Daily ETF", "test_issue": "N", "ticker": "LWLX"}
-{"etf": "N", "exchange": "N", "name": "Luxfer Holdings PLC Ordinary Shares", "test_issue": "N", "ticker": "LXFR"}
 {"etf": "N", "exchange": "N", "name": "LSB Industries, Inc. Common Stock", "test_issue": "N", "ticker": "LXU"}
 {"etf": "N", "exchange": "N", "name": "LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)", "test_issue": "N", "ticker": "LYB"}
 {"etf": "N", "exchange": "N", "name": "Lloyds Banking Group Plc American Depositary Shares", "test_issue": "N", "ticker": "LYG"}
@@ -6557,6 +6561,7 @@
 {"etf": "N", "exchange": "N", "name": "TFI International Inc. Common Shares", "test_issue": "N", "ticker": "TFII"}
 {"etf": "N", "exchange": "N", "name": "Triumph Financial, Inc. Common Stock", "test_issue": "N", "ticker": "TFIN"}
 {"etf": "N", "exchange": "N", "name": "Triumph Financial, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock", "test_issue": "N", "ticker": "TFIN$"}
+{"etf": "Y", "exchange": "P", "name": "T. Rowe Price Capital Appreciation Fixed Income ETF", "test_issue": "N", "ticker": "TFIX"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator 20  Year Treasury Bond 5 Floor ETF - July", "test_issue": "N", "ticker": "TFJL"}
 {"etf": "Y", "exchange": "P", "name": "iShares Treasury Floating Rate Bond ETF", "test_issue": "N", "ticker": "TFLO"}
 {"etf": "Y", "exchange": "P", "name": "T. Rowe Price Floating Rate ETF", "test_issue": "N", "ticker": "TFLR"}
@@ -6854,7 +6859,7 @@
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF", "test_issue": "N", "ticker": "UBOT"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra MSCI Brazil Capped", "test_issue": "N", "ticker": "UBR"}
 {"etf": "N", "exchange": "N", "name": "UBS Group AG Registered Ordinary Shares", "test_issue": "N", "ticker": "UBS"}
-{"etf": "Y", "exchange": "P", "name": "ProShares Ultra 20+ Year Treasury", "test_issue": "N", "ticker": "UBT"}
+{"etf": "Y", "exchange": "P", "name": "ProShares Ultra 20 Year Treasury", "test_issue": "N", "ticker": "UBT"}
 {"etf": "N", "exchange": "N", "name": "United Community Banks, Inc. Common Stock", "test_issue": "N", "ticker": "UCB"}
 {"etf": "Y", "exchange": "P", "name": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF", "test_issue": "N", "ticker": "UCBG"}
 {"etf": "Y", "exchange": "P", "name": "ProShares Ultra Consumer Discretionary", "test_issue": "N", "ticker": "UCC"}

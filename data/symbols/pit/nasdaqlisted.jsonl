@@ -356,6 +356,7 @@
 {"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ANSC", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
 {"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Unit", "provable_from": false, "test_issue": "N", "ticker": "ANSCU", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
 {"category": "G", "etf": "N", "name": "Agriculture & Natural Solutions Acquisition Corporation - Warrant", "provable_from": false, "test_issue": "N", "ticker": "ANSCW", "valid_from": "2026-07-28", "valid_to": "2026-08-13"}
+{"category": "Q", "etf": "N", "name": "Anthropic, PBC - Class A Common Stock", "provable_from": true, "test_issue": "N", "ticker": "ANT", "valid_from": "2026-11-19", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Antalpha Platform Holding Company - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ANTA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "AN2 Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ANTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable NVDA ETF", "provable_from": false, "test_issue": "N", "ticker": "ANV", "valid_from": "2026-07-28", "valid_to": null}
@@ -1737,6 +1738,7 @@
 {"category": "S", "etf": "N", "name": "Entera Bio Ltd. - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "ENTX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Enveric Biosciences, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ENVB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Enovix Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "ENVX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "Enovix Corporation - Warrants", "provable_from": true, "test_issue": "N", "ticker": "ENVXW", "valid_from": "2026-11-19", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares MSCI New Zealand ETF", "provable_from": false, "test_issue": "N", "ticker": "ENZL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Eocene Ltd. - Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "EOCN", "valid_from": "2026-09-10", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Evolus, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "EOLS", "valid_from": "2026-07-28", "valid_to": null}
@@ -1886,6 +1888,9 @@
 {"category": "G", "etf": "N", "name": "Fidelity D & D Bancorp, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FDBC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Fidelity Disruptive Communications ETF", "provable_from": false, "test_issue": "N", "ticker": "FDCF", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Fidelity Disruptive Finance ETF", "provable_from": false, "test_issue": "N", "ticker": "FDFF", "valid_from": "2026-07-28", "valid_to": "2026-11-13"}
+{"category": "G", "etf": "N", "name": "First Digital Acquisition Corp Ltd. - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "FDGX", "valid_from": "2026-11-19", "valid_to": null}
+{"category": "G", "etf": "N", "name": "First Digital Acquisition Corp Ltd. - Units", "provable_from": true, "test_issue": "N", "ticker": "FDGXU", "valid_from": "2026-11-19", "valid_to": null}
+{"category": "G", "etf": "N", "name": "First Digital Acquisition Corp Ltd. - Warrants", "provable_from": true, "test_issue": "N", "ticker": "FDGXW", "valid_from": "2026-11-19", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Fidelity Disruptors ETF", "provable_from": false, "test_issue": "N", "ticker": "FDIF", "valid_from": "2026-07-28", "valid_to": "2026-11-13"}
 {"category": "G", "etf": "Y", "name": "Fidelity Crypto Industry and Digital Payments ETF", "provable_from": false, "test_issue": "N", "ticker": "FDIG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Invesco Bloomberg Financial Data Providers ETF", "provable_from": false, "test_issue": "N", "ticker": "FDIQ", "valid_from": "2026-07-28", "valid_to": null}
@@ -2995,9 +3000,9 @@
 {"category": "G", "etf": "Y", "name": "KraneShares Global Humanoid Robotics and Physical AI Index ETF", "provable_from": false, "test_issue": "N", "ticker": "KOID", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Kopin Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KOPN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Koss Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KOSS", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KOYN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Units", "provable_from": false, "test_issue": "N", "ticker": "KOYNU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Warrants", "provable_from": false, "test_issue": "N", "ticker": "KOYNW", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "KOYN", "valid_from": "2026-07-28", "valid_to": "2026-11-19"}
+{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Units", "provable_from": false, "test_issue": "N", "ticker": "KOYNU", "valid_from": "2026-07-28", "valid_to": "2026-11-19"}
+{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Warrants", "provable_from": false, "test_issue": "N", "ticker": "KOYNW", "valid_from": "2026-07-28", "valid_to": "2026-11-19"}
 {"category": "G", "etf": "Y", "name": "KraneShares 2x Long PDD Daily ETF", "provable_from": false, "test_issue": "N", "ticker": "KPDD", "valid_from": "2026-07-28", "valid_to": "2026-10-27"}
 {"category": "G", "etf": "N", "name": "Katapult Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KPLT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Kiora Pharmaceuticals, Inc.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "KPRX", "valid_from": "2026-07-28", "valid_to": null}
@@ -4734,7 +4739,7 @@
 {"category": "G", "etf": "N", "name": "SC II Acquisition Corp. - Class A ordinary share", "provable_from": false, "test_issue": "N", "ticker": "SCII", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SC II Acquisition Corp. - Rights", "provable_from": false, "test_issue": "N", "ticker": "SCIIR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SC II Acquisition Corp. - Units", "provable_from": false, "test_issue": "N", "ticker": "SCIIU", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Socket Mobile, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SCKT", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Socket Mobile, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SCKT", "valid_from": "2026-07-28", "valid_to": "2026-11-19"}
 {"category": "S", "etf": "N", "name": "Scilex Holding Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SCLX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Scilex Holding Company - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SCLXW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Scinai Immunotherapeutics Ltd. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "SCNI", "valid_from": "2026-07-28", "valid_to": null}
@@ -5033,7 +5038,7 @@
 {"category": "Q", "etf": "N", "name": "E.W. Scripps Company (The) - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SSP", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "SSR Mining Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SSRM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF", "provable_from": false, "test_issue": "N", "ticker": "SSS", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "SoundThinking, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SSTI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "SoundThinking, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SSTI", "valid_from": "2026-07-28", "valid_to": "2026-11-19"}
 {"category": "Q", "etf": "N", "name": "Stratasys, Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SSYS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "STAAR Surgical Company - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "STAA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "STAK Inc. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "STAK", "valid_from": "2026-07-28", "valid_to": null}

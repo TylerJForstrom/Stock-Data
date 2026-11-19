@@ -337,6 +337,7 @@
 {"category": "S", "etf": "N", "name": "AleAnna, Inc. - Warrant", "test_issue": "N", "ticker": "ANNAW"}
 {"category": "Q", "etf": "N", "name": "Annexon, Inc. - common stock", "test_issue": "N", "ticker": "ANNX"}
 {"category": "S", "etf": "N", "name": "Rich Sparkle Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "ANPA"}
+{"category": "Q", "etf": "N", "name": "Anthropic, PBC - Class A Common Stock", "test_issue": "N", "ticker": "ANT"}
 {"category": "G", "etf": "N", "name": "Antalpha Platform Holding Company - Class A Ordinary Shares", "test_issue": "N", "ticker": "ANTA"}
 {"category": "Q", "etf": "N", "name": "AN2 Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "ANTX"}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable NVDA ETF", "test_issue": "N", "ticker": "ANV"}
@@ -1619,6 +1620,7 @@
 {"category": "S", "etf": "N", "name": "Entera Bio Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "ENTX"}
 {"category": "S", "etf": "N", "name": "Enveric Biosciences, Inc.  - Common Stock", "test_issue": "N", "ticker": "ENVB"}
 {"category": "Q", "etf": "N", "name": "Enovix Corporation - Common Stock", "test_issue": "N", "ticker": "ENVX"}
+{"category": "Q", "etf": "N", "name": "Enovix Corporation - Warrants", "test_issue": "N", "ticker": "ENVXW"}
 {"category": "G", "etf": "Y", "name": "iShares MSCI New Zealand ETF", "test_issue": "N", "ticker": "ENZL"}
 {"category": "S", "etf": "N", "name": "Eocene Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "EOCN"}
 {"category": "G", "etf": "N", "name": "Evolus, Inc. - Common Stock", "test_issue": "N", "ticker": "EOLS"}
@@ -1762,6 +1764,9 @@
 {"category": "G", "etf": "Y", "name": "First Trust SSI Strategic Convertible Securities ETF", "test_issue": "N", "ticker": "FCVT"}
 {"category": "G", "etf": "N", "name": "Fidelity D & D Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "FDBC"}
 {"category": "G", "etf": "Y", "name": "Fidelity Disruptive Communications ETF", "test_issue": "N", "ticker": "FDCF"}
+{"category": "G", "etf": "N", "name": "First Digital Acquisition Corp Ltd. - Class A Ordinary Shares", "test_issue": "N", "ticker": "FDGX"}
+{"category": "G", "etf": "N", "name": "First Digital Acquisition Corp Ltd. - Units", "test_issue": "N", "ticker": "FDGXU"}
+{"category": "G", "etf": "N", "name": "First Digital Acquisition Corp Ltd. - Warrants", "test_issue": "N", "ticker": "FDGXW"}
 {"category": "G", "etf": "Y", "name": "Fidelity Crypto Industry and Digital Payments ETF", "test_issue": "N", "ticker": "FDIG"}
 {"category": "G", "etf": "Y", "name": "Invesco Bloomberg Financial Data Providers ETF", "test_issue": "N", "ticker": "FDIQ"}
 {"category": "G", "etf": "Y", "name": "MarketDesk Focused U.S. Dividend ETF", "test_issue": "N", "ticker": "FDIV"}
@@ -2795,9 +2800,6 @@
 {"category": "G", "etf": "Y", "name": "KraneShares Global Humanoid Robotics and Physical AI Index ETF", "test_issue": "N", "ticker": "KOID"}
 {"category": "S", "etf": "N", "name": "Kopin Corporation - Common Stock", "test_issue": "N", "ticker": "KOPN"}
 {"category": "S", "etf": "N", "name": "Koss Corporation - Common Stock", "test_issue": "N", "ticker": "KOSS"}
-{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares", "test_issue": "N", "ticker": "KOYN"}
-{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Units", "test_issue": "N", "ticker": "KOYNU"}
-{"category": "G", "etf": "N", "name": "CSLM Digital Asset Acquisition Corp III - Warrants", "test_issue": "N", "ticker": "KOYNW"}
 {"category": "G", "etf": "N", "name": "Katapult Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "KPLT"}
 {"category": "S", "etf": "N", "name": "Kiora Pharmaceuticals, Inc.  - Common Stock", "test_issue": "N", "ticker": "KPRX"}
 {"category": "G", "etf": "Y", "name": "Kurv Technology Titans Select ETF", "test_issue": "N", "ticker": "KQQQ"}
@@ -4424,7 +4426,6 @@
 {"category": "G", "etf": "N", "name": "SC II Acquisition Corp. - Class A ordinary share", "test_issue": "N", "ticker": "SCII"}
 {"category": "G", "etf": "N", "name": "SC II Acquisition Corp. - Rights", "test_issue": "N", "ticker": "SCIIR"}
 {"category": "G", "etf": "N", "name": "SC II Acquisition Corp. - Units", "test_issue": "N", "ticker": "SCIIU"}
-{"category": "S", "etf": "N", "name": "Socket Mobile, Inc. - Common Stock", "test_issue": "N", "ticker": "SCKT"}
 {"category": "S", "etf": "N", "name": "Scilex Holding Company - Common Stock", "test_issue": "N", "ticker": "SCLX"}
 {"category": "S", "etf": "N", "name": "Scilex Holding Company - Warrant", "test_issue": "N", "ticker": "SCLXW"}
 {"category": "S", "etf": "N", "name": "Scinai Immunotherapeutics Ltd. - American Depositary Shares", "test_issue": "N", "ticker": "SCNI"}
@@ -4706,7 +4707,6 @@
 {"category": "Q", "etf": "N", "name": "E.W. Scripps Company (The) - Class A Common Stock", "test_issue": "N", "ticker": "SSP"}
 {"category": "Q", "etf": "N", "name": "SSR Mining Inc. - Common Stock", "test_issue": "N", "ticker": "SSRM"}
 {"category": "G", "etf": "Y", "name": "CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF", "test_issue": "N", "ticker": "SSS"}
-{"category": "S", "etf": "N", "name": "SoundThinking, Inc. - Common Stock", "test_issue": "N", "ticker": "SSTI"}
 {"category": "Q", "etf": "N", "name": "Stratasys, Ltd. - Common Stock", "test_issue": "N", "ticker": "SSYS"}
 {"category": "G", "etf": "N", "name": "STAAR Surgical Company - Common Stock", "test_issue": "N", "ticker": "STAA"}
 {"category": "S", "etf": "N", "name": "STAK Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "STAK"}
