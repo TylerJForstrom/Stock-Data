@@ -24,6 +24,7 @@
 {"category": "G", "etf": "Y", "name": "Direxion Daily AAPL Bull 2X ETF", "test_issue": "N", "ticker": "AAPU"}
 {"category": "Q", "etf": "N", "name": "Aardvark Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "AARD"}
 {"category": "G", "etf": "Y", "name": "Alpha Architect US Equity 4 ETF", "test_issue": "N", "ticker": "AAUB"}
+{"category": "G", "etf": "Y", "name": "Alpha Architect US Equity 5 ETF", "test_issue": "N", "ticker": "AAUD"}
 {"category": "G", "etf": "Y", "name": "Alpha Architect US Equity ETF", "test_issue": "N", "ticker": "AAUS"}
 {"category": "G", "etf": "Y", "name": "Alpha Architect Global Factor Equity ETF", "test_issue": "N", "ticker": "AAVM"}
 {"category": "G", "etf": "Y", "name": "iShares MSCI All Country Asia ex Japan ETF", "test_issue": "N", "ticker": "AAXJ"}
@@ -302,7 +303,6 @@
 {"category": "S", "etf": "N", "name": "Alpha Modus Holdings, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "AMOD"}
 {"category": "S", "etf": "N", "name": "Alpha Modus Holdings, Inc. - Warrant", "test_issue": "N", "ticker": "AMODW"}
 {"category": "S", "etf": "N", "name": "Amplitech Group, Inc. - Common Stock", "test_issue": "N", "ticker": "AMPG"}
-{"category": "S", "etf": "N", "name": "Amplitech Group, Inc. - Series B Right", "test_issue": "N", "ticker": "AMPGZ"}
 {"category": "Q", "etf": "N", "name": "Amphastar Pharmaceuticals, Inc. - Common Stock", "test_issue": "N", "ticker": "AMPH"}
 {"category": "S", "etf": "N", "name": "Amplitude, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "AMPL"}
 {"category": "S", "etf": "N", "name": "Amarin Corporation plc - American Depositary Shares", "test_issue": "N", "ticker": "AMRN"}
@@ -1345,6 +1345,7 @@
 {"category": "S", "etf": "N", "name": "Citizens & Northern Corp - Common Stock", "test_issue": "N", "ticker": "CZNC"}
 {"category": "Q", "etf": "N", "name": "Caesars Entertainment, Inc. - Common Stock", "test_issue": "N", "ticker": "CZR"}
 {"category": "G", "etf": "N", "name": "Citizens Community Bancorp, Inc. - Common Stock", "test_issue": "N", "ticker": "CZWI"}
+{"category": "S", "etf": "N", "name": "Cizzle Brands Corporation - Common Stock", "test_issue": "N", "ticker": "CZZL"}
 {"category": "G", "etf": "N", "name": "Digital Asset Acquisition Corp. - Class A Ordinary shares", "test_issue": "N", "ticker": "DAAQ"}
 {"category": "G", "etf": "N", "name": "Digital Asset Acquisition Corp. - Units", "test_issue": "N", "ticker": "DAAQU"}
 {"category": "G", "etf": "N", "name": "Digital Asset Acquisition Corp. - Warrant", "test_issue": "N", "ticker": "DAAQW"}
@@ -2642,6 +2643,7 @@
 {"category": "S", "etf": "N", "name": "Isabella Bank Corporation - Common stock", "test_issue": "N", "ticker": "ISBA"}
 {"category": "G", "etf": "Y", "name": "iShares 1-3 Year International Treasury Bond ETF", "test_issue": "N", "ticker": "ISHG"}
 {"category": "G", "etf": "Y", "name": "First Trust S-Network E-Commerce ETF", "test_issue": "N", "ticker": "ISHP"}
+{"category": "G", "etf": "Y", "name": "xETFs International Semiconductor ETF", "test_issue": "N", "ticker": "ISMH"}
 {"category": "G", "etf": "N", "name": "Snow Rothschild Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "ISNR"}
 {"category": "G", "etf": "N", "name": "Snow Rothschild Acquisition Corp. - Units", "test_issue": "N", "ticker": "ISNRU"}
 {"category": "G", "etf": "N", "name": "Snow Rothschild Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "ISNRW"}
@@ -3115,7 +3117,6 @@
 {"category": "G", "etf": "Y", "name": "Matthews Emerging Markets Discovery Active ETF", "test_issue": "N", "ticker": "MEMS"}
 {"category": "G", "etf": "N", "name": "Jyong Biotech Ltd. - Ordinary shares", "test_issue": "N", "ticker": "MENS"}
 {"category": "Q", "etf": "N", "name": "Methanex Corporation - Common Stock", "test_issue": "N", "ticker": "MEOH"}
-{"category": "Q", "etf": "N", "name": "Mercer International Inc. - Common Stock", "test_issue": "N", "ticker": "MERC"}
 {"category": "G", "etf": "N", "name": "Meshflow Acquisition Corp. - Class A Ordinary Shares", "test_issue": "N", "ticker": "MESH"}
 {"category": "G", "etf": "N", "name": "Meshflow Acquisition Corp. - Units", "test_issue": "N", "ticker": "MESHU"}
 {"category": "G", "etf": "N", "name": "Meshflow Acquisition Corp. - Warrants", "test_issue": "N", "ticker": "MESHW"}
@@ -3669,9 +3670,6 @@
 {"category": "G", "etf": "N", "name": "OP Bancorp - Common Stock", "test_issue": "N", "ticker": "OPBK"}
 {"category": "Q", "etf": "N", "name": "Option Care Health, Inc. - Common Stock", "test_issue": "N", "ticker": "OPCH"}
 {"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Common Stock", "test_issue": "N", "ticker": "OPEN"}
-{"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant", "test_issue": "N", "ticker": "OPENL"}
-{"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant", "test_issue": "N", "ticker": "OPENW"}
-{"category": "Q", "etf": "N", "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant", "test_issue": "N", "ticker": "OPENZ"}
 {"category": "S", "etf": "N", "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "OPHI"}
 {"category": "S", "etf": "N", "name": "Office Properties Income Trust - Common shares of beneficial interest", "test_issue": "N", "ticker": "OPI"}
 {"category": "Q", "etf": "N", "name": "Opko Health, Inc. - Common Stock", "test_issue": "N", "ticker": "OPK"}
