@@ -8489,3 +8489,53 @@
 {"date": "2026-11-20", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares", "test_issue": "N", "ticker": "OPAY"}, "source": "otherlisted"}
 {"date": "2026-11-20", "event": "removed", "record": {"etf": "N", "exchange": "N", "name": "Utz Brands Inc Class A Common Stock ", "test_issue": "N", "ticker": "UTZ"}, "source": "otherlisted"}
 {"date": "2026-11-20", "event": "changed", "previous": {"etf": "Y", "exchange": "P", "name": "Virtus Terranova U.S. Quality Momentum ETF", "test_issue": "N", "ticker": "JOET"}, "record": {"etf": "Y", "exchange": "P", "name": "Virtus NYSE Terranova U.S. Quality Momentum ETF", "test_issue": "N", "ticker": "JOET"}, "source": "otherlisted"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 1518561, "ticker": "EWGFF", "title": "Agrion International Ltd"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 1828318, "ticker": "ENVXW", "title": "Enovix Corp"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2045873, "ticker": "BLTG", "title": "BOUNDLESS GROUP"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2068454, "ticker": "FDGX", "title": "First Digital Acquisition Corp Ltd."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2068454, "ticker": "FDGXU", "title": "First Digital Acquisition Corp Ltd."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2068454, "ticker": "FDGXW", "title": "First Digital Acquisition Corp Ltd."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2105038, "ticker": "CZZL", "title": "Cizzle Brands Corp"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2133939, "ticker": "FBLLU", "title": "Football Manager SPAC Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2141116, "ticker": "SCNLF", "title": "Scancell Holdings plc"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2152975, "ticker": "ZEC", "title": "Bitwise Zcash ETF"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2155396, "ticker": "BIP", "title": "Brookfield Infrastructure Partners Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 92122, "ticker": "SONN", "title": "SOUTHERN CO"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1077428, "ticker": "TCBI", "title": "TEXAS CAPITAL BANCSHARES INC/TX"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1295810, "ticker": "SHO.PRI", "title": "Sunstone Hotel Investors, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1406234, "ticker": "BIP", "title": "Brookfield Infrastructure Partners L.P."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1428439, "ticker": "ROKU", "title": "ROKU, INC"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1467760, "ticker": "ARI", "title": "Apollo Commercial Real Estate Finance Liquidating Trust"}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1689448, "ticker": "LILIF", "title": "Argentina Lithium & Energy Corp."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1728328, "ticker": "INM", "title": "InMed Pharmaceuticals Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1847590, "ticker": "BWMN", "title": "Bowman Consulting Group Ltd."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1872525, "ticker": "SWAGW", "title": "Stran & Company, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 2031561, "ticker": "ALDF", "title": "Aldel Financial II Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 2131613, "ticker": "KVLT", "title": "CoVolt Power, Inc."}, "source": "sec_company_tickers"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 1518561, "exchange": "OTC", "ticker": "EWGFF", "title": "Agrion International Ltd"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 1828318, "exchange": "Nasdaq", "ticker": "ENVXW", "title": "Enovix Corp"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2045873, "exchange": null, "ticker": "BLTG", "title": "BOUNDLESS GROUP"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2068454, "exchange": "Nasdaq", "ticker": "FDGX", "title": "First Digital Acquisition Corp Ltd."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2068454, "exchange": "Nasdaq", "ticker": "FDGXU", "title": "First Digital Acquisition Corp Ltd."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2068454, "exchange": "Nasdaq", "ticker": "FDGXW", "title": "First Digital Acquisition Corp Ltd."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2105038, "exchange": "Nasdaq", "ticker": "CZZL", "title": "Cizzle Brands Corp"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2133939, "exchange": "Nasdaq", "ticker": "FBLLU", "title": "Football Manager SPAC Inc."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2141116, "exchange": null, "ticker": "SCNLF", "title": "Scancell Holdings plc"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2152975, "exchange": null, "ticker": "ZEC", "title": "Bitwise Zcash ETF"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 2155396, "exchange": "NYSE", "ticker": "BIP", "title": "Brookfield Infrastructure Partners Inc."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "added", "record": {"cik": 92122, "exchange": "NYSE", "ticker": "SONN", "title": "SOUTHERN CO"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1077428, "exchange": "TXSE", "ticker": "TCBI", "title": "TEXAS CAPITAL BANCSHARES INC/TX"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1295810, "exchange": null, "ticker": "SHO.PRI", "title": "Sunstone Hotel Investors, Inc."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1406234, "exchange": "NYSE", "ticker": "BIP", "title": "Brookfield Infrastructure Partners L.P."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1428439, "exchange": "Nasdaq", "ticker": "ROKU", "title": "ROKU, INC"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1467760, "exchange": "NYSE", "ticker": "ARI", "title": "Apollo Commercial Real Estate Finance Liquidating Trust"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1689448, "exchange": "OTC", "ticker": "LILIF", "title": "Argentina Lithium & Energy Corp."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1728328, "exchange": "Nasdaq", "ticker": "INM", "title": "InMed Pharmaceuticals Inc."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1847590, "exchange": "Nasdaq", "ticker": "BWMN", "title": "Bowman Consulting Group Ltd."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 1872525, "exchange": "Nasdaq", "ticker": "SWAGW", "title": "Stran & Company, Inc."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 2031561, "exchange": null, "ticker": "ALDF", "title": "Aldel Financial II Inc."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "removed", "record": {"cik": 2131613, "exchange": null, "ticker": "KVLT", "title": "CoVolt Power, Inc."}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "changed", "previous": {"cik": 2078148, "exchange": null, "ticker": "ZOAR", "title": "Zoar Ltd"}, "record": {"cik": 2078148, "exchange": "NYSE", "ticker": "ZOAR", "title": "Zoar Ltd"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "changed", "previous": {"cik": 2130357, "exchange": null, "ticker": "ANT", "title": "Anthropic, PBC"}, "record": {"cik": 2130357, "exchange": "Nasdaq", "ticker": "ANT", "title": "Anthropic, PBC"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "changed", "previous": {"cik": 740806, "exchange": "OTC", "ticker": "FMBM", "title": "F&M BANK CORP"}, "record": {"cik": 740806, "exchange": "NYSE", "ticker": "FMBM", "title": "F&M BANK CORP"}, "source": "sec_company_tickers_exchange"}
+{"date": "2026-11-21", "event": "changed", "previous": {"cik": 75252, "exchange": null, "ticker": "ACCH", "title": "ACCENDRA HEALTH INC/VA/"}, "record": {"cik": 75252, "exchange": "OTC", "ticker": "ACCH", "title": "ACCENDRA HEALTH INC/VA/"}, "source": "sec_company_tickers_exchange"}
