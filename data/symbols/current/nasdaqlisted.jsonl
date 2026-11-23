@@ -198,6 +198,7 @@
 {"category": "S", "etf": "N", "name": "Robo.ai Inc. - Class B Ordinary Shares", "test_issue": "N", "ticker": "AIIO"}
 {"category": "S", "etf": "N", "name": "Robo.ai Inc. - Warrant", "test_issue": "N", "ticker": "AIIOW"}
 {"category": "S", "etf": "N", "name": "Air Global PLC - Ordinary shares", "test_issue": "N", "ticker": "AIIR"}
+{"category": "G", "etf": "Y", "name": "GraniteShares 2x Long Anthropic Daily ETF", "test_issue": "N", "ticker": "AIL"}
 {"category": "S", "etf": "N", "name": "Ainos, Inc. - Common Stock", "test_issue": "N", "ticker": "AIMD"}
 {"category": "S", "etf": "N", "name": "Ainos, Inc. - warrants", "test_issue": "N", "ticker": "AIMDW"}
 {"category": "G", "etf": "Y", "name": "Defiance AI Magnificent 10 ETF", "test_issue": "N", "ticker": "AIMG"}
@@ -337,9 +338,16 @@
 {"category": "S", "etf": "N", "name": "AleAnna, Inc. - Warrant", "test_issue": "N", "ticker": "ANNAW"}
 {"category": "Q", "etf": "N", "name": "Annexon, Inc. - common stock", "test_issue": "N", "ticker": "ANNX"}
 {"category": "S", "etf": "N", "name": "Rich Sparkle Holdings Limited - Ordinary Shares", "test_issue": "N", "ticker": "ANPA"}
+{"category": "G", "etf": "Y", "name": "GraniteShares 2x Short Anthropic Daily ETF", "test_issue": "N", "ticker": "ANS"}
 {"category": "Q", "etf": "N", "name": "Anthropic, PBC - Class A Common Stock", "test_issue": "N", "ticker": "ANT"}
 {"category": "G", "etf": "N", "name": "Antalpha Platform Holding Company - Class A Ordinary Shares", "test_issue": "N", "ticker": "ANTA"}
+{"category": "G", "etf": "Y", "name": "Defiance 2X ANT Long Daily ETF", "test_issue": "N", "ticker": "ANTC"}
+{"category": "G", "etf": "Y", "name": "Direxion Daily Anthropic Bear 2X ETF", "test_issue": "N", "ticker": "ANTD"}
+{"category": "G", "etf": "Y", "name": "Direxion Daily Anthropic Bull 2X ETF", "test_issue": "N", "ticker": "ANTO"}
+{"category": "G", "etf": "Y", "name": "Defiance 2X ANT Short Daily ETF", "test_issue": "N", "ticker": "ANTQ"}
+{"category": "G", "etf": "Y", "name": "ProShares Ultra Anthropic", "test_issue": "N", "ticker": "ANTU"}
 {"category": "Q", "etf": "N", "name": "AN2 Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "ANTX"}
+{"category": "G", "etf": "Y", "name": "ProShares UltraShort Anthropic", "test_issue": "N", "ticker": "ANTY"}
 {"category": "G", "etf": "Y", "name": "GraniteShares Autocallable NVDA ETF", "test_issue": "N", "ticker": "ANV"}
 {"category": "G", "etf": "Y", "name": "Angel Oak High Yield Opportunities ETF", "test_issue": "N", "ticker": "AOHY"}
 {"category": "Q", "etf": "N", "name": "Alpha and Omega Semiconductor Limited - Common Shares", "test_issue": "N", "ticker": "AOSL"}
@@ -520,6 +528,7 @@
 {"category": "G", "etf": "Y", "name": "Avantis Emerging Markets ex-China Equity ETF", "test_issue": "N", "ticker": "AVXC"}
 {"category": "Q", "etf": "N", "name": "Anavex Life Sciences Corp. - Common Stock", "test_issue": "N", "ticker": "AVXL"}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2x Long AVAV ETF", "test_issue": "N", "ticker": "AVXX"}
+{"category": "S", "etf": "N", "name": "Avenzo Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "AVZO"}
 {"category": "G", "etf": "N", "name": "Aware, Inc. - Common Stock", "test_issue": "N", "ticker": "AWRE"}
 {"category": "S", "etf": "N", "name": "Solowin Holdings - Class A Ordinary Share", "test_issue": "N", "ticker": "AXG"}
 {"category": "S", "etf": "N", "name": "Axogen, Inc. - Common Stock", "test_issue": "N", "ticker": "AXGN"}
@@ -687,9 +696,6 @@
 {"category": "S", "etf": "N", "name": "Bluejay Diagnostics, Inc. - Common Stock", "test_issue": "N", "ticker": "BJDX"}
 {"category": "Q", "etf": "N", "name": "BJ's Restaurants, Inc. - Common Stock", "test_issue": "N", "ticker": "BJRI"}
 {"category": "G", "etf": "Y", "name": "Global X Blockchain ETF", "test_issue": "N", "ticker": "BKCH"}
-{"category": "G", "etf": "N", "name": "Black Hawk Acquisition Corporation - Class A Ordinary Shares", "test_issue": "N", "ticker": "BKHA"}
-{"category": "G", "etf": "N", "name": "Black Hawk Acquisition Corporation - Rights", "test_issue": "N", "ticker": "BKHAR"}
-{"category": "G", "etf": "N", "name": "Black Hawk Acquisition Corporation - Units", "test_issue": "N", "ticker": "BKHAU"}
 {"category": "G", "etf": "Y", "name": "BNY Mellon Municipal Intermediate ETF", "test_issue": "N", "ticker": "BKMI"}
 {"category": "G", "etf": "Y", "name": "BNY Mellon Municipal Short Duration ETF", "test_issue": "N", "ticker": "BKMS"}
 {"category": "Q", "etf": "N", "name": "Booking Holdings Inc. - Common Stock", "test_issue": "N", "ticker": "BKNG"}
@@ -1132,6 +1138,7 @@
 {"category": "G", "etf": "Y", "name": "ETC Cabana Target Leading Sector Moderate ETF", "test_issue": "N", "ticker": "CLSM"}
 {"category": "S", "etf": "N", "name": "Catalyst Bancorp, Inc. - common stock", "test_issue": "N", "ticker": "CLST"}
 {"category": "S", "etf": "N", "name": "Euro Tech Holdings Company Limited - Ordinary Shares", "test_issue": "N", "ticker": "CLWT"}
+{"category": "S", "etf": "N", "name": "Clywedog Therapeutics Holdings, Inc. - Common Stock", "test_issue": "N", "ticker": "CLYD"}
 {"category": "G", "etf": "N", "name": "Climb Bio, Inc. - Common Stock", "test_issue": "N", "ticker": "CLYM"}
 {"category": "G", "etf": "Y", "name": "Wayfinder Dynamic U.S. Interest Rate ETF", "test_issue": "N", "ticker": "CMBO"}
 {"category": "Q", "etf": "N", "name": "Columbus McKinnon Corporation - Common Stock", "test_issue": "N", "ticker": "CMCO"}
@@ -1609,6 +1616,7 @@
 {"category": "G", "etf": "Y", "name": "iShares Enhanced Emerging Markets Active ETF", "test_issue": "N", "ticker": "ENHE"}
 {"category": "G", "etf": "Y", "name": "iShares Enhanced International Active ETF", "test_issue": "N", "ticker": "ENHI"}
 {"category": "G", "etf": "Y", "name": "iShares Enhanced Large Cap Core Active ETF", "test_issue": "N", "ticker": "ENHU"}
+{"category": "G", "etf": "Y", "name": "iShares Enhanced Large Cap Value Active ETF", "test_issue": "N", "ticker": "ENHV"}
 {"category": "Q", "etf": "N", "name": "Enlight Renewable Energy Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "ENLT"}
 {"category": "S", "etf": "N", "name": "Enlivex Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "ENLV"}
 {"category": "G", "etf": "N", "name": "Enphase Energy, Inc. - Common Stock", "test_issue": "N", "ticker": "ENPH"}
@@ -1685,6 +1693,8 @@
 {"category": "G", "etf": "N", "name": "Evolution Global Acquisition Corp - Warrants", "test_issue": "N", "ticker": "EVOXW"}
 {"category": "G", "etf": "Y", "name": "Eaton Vance Preferred Securities and Income ETF", "test_issue": "N", "ticker": "EVPF"}
 {"category": "Q", "etf": "N", "name": "Evergy, Inc. - Common Stock", "test_issue": "N", "ticker": "EVRG"}
+{"category": "G", "etf": "N", "name": "Everli Global Holdings - Class A Ordinary Shares", "test_issue": "N", "ticker": "EVRL"}
+{"category": "S", "etf": "N", "name": "Everli Global Holdings - Warrant", "test_issue": "N", "ticker": "EVRLW"}
 {"category": "G", "etf": "Y", "name": "Eaton Vance Short Duration Income ETF", "test_issue": "N", "ticker": "EVSD"}
 {"category": "G", "etf": "Y", "name": "Eaton Vance High Income Municipal ETF", "test_issue": "N", "ticker": "EVYM"}
 {"category": "G", "etf": "N", "name": "East West Ave Acquisition Corp. - Common Stock", "test_issue": "N", "ticker": "EWAV"}
@@ -2066,7 +2076,7 @@
 {"category": "G", "etf": "Y", "name": "Leverage Shares 2X Long GEV Daily ETF", "test_issue": "N", "ticker": "GEVG"}
 {"category": "S", "etf": "N", "name": "Gevo, Inc. - Common Stock", "test_issue": "N", "ticker": "GEVO"}
 {"category": "G", "etf": "Y", "name": "Cambria Global EW ETF", "test_issue": "N", "ticker": "GEW"}
-{"category": "S", "etf": "N", "name": "Guardforce AI Co., Limited - Ordinary Shares", "test_issue": "N", "ticker": "GFAI"}
+{"category": "S", "etf": "N", "name": "Guardforce AI Co., Limited - Class A Ordinary Shares", "test_issue": "N", "ticker": "GFAI"}
 {"category": "G", "etf": "Y", "name": "VictoryShares Free Cash Flow Growth ETF", "test_issue": "N", "ticker": "GFLW"}
 {"category": "Q", "etf": "N", "name": "GlobalFoundries Inc. - Ordinary Share", "test_issue": "N", "ticker": "GFS"}
 {"category": "G", "etf": "N", "name": "General Fusion Group Ltd. - Common Shares", "test_issue": "N", "ticker": "GFUZ"}
@@ -3035,9 +3045,6 @@
 {"category": "S", "etf": "N", "name": "LZ Technology Holdings Limited - Class B Ordinary Shares", "test_issue": "N", "ticker": "LZMH"}
 {"category": "G", "etf": "N", "name": "Maase Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "MAAS"}
 {"category": "G", "etf": "Y", "name": "GraniteShares YieldBOOST MARA ETF", "test_issue": "N", "ticker": "MAAY"}
-{"category": "G", "etf": "N", "name": "Melar Acquisition Corp. I - Class A Ordinary Shares", "test_issue": "N", "ticker": "MACI"}
-{"category": "G", "etf": "N", "name": "Melar Acquisition Corp. I - Unit", "test_issue": "N", "ticker": "MACIU"}
-{"category": "G", "etf": "N", "name": "Melar Acquisition Corp. I - Warrant", "test_issue": "N", "ticker": "MACIW"}
 {"category": "S", "etf": "N", "name": "Magnitude International Ltd - Ordinary Shares", "test_issue": "N", "ticker": "MAGH"}
 {"category": "S", "etf": "N", "name": "Mako Mining Corp - Common Stock", "test_issue": "N", "ticker": "MAKO"}
 {"category": "S", "etf": "N", "name": "Mama's Creations, Inc. - Common Stock", "test_issue": "N", "ticker": "MAMA"}
@@ -4277,11 +4284,9 @@
 {"category": "S", "etf": "N", "name": "Arcadia Biosciences, Inc. - Common Stock", "test_issue": "N", "ticker": "RKDA"}
 {"category": "Q", "etf": "N", "name": "Rocket Lab Corporation - Common Stock", "test_issue": "N", "ticker": "RKLB"}
 {"category": "G", "etf": "Y", "name": "Defiance Daily Target 2X Long RKLB ETF", "test_issue": "N", "ticker": "RKLX"}
-{"category": "G", "etf": "Y", "name": "Defiance Retail Kings ETF", "test_issue": "N", "ticker": "RKNG"}
 {"category": "S", "etf": "N", "name": "Rocket One Inc. - Common Stock", "test_issue": "N", "ticker": "RKTO"}
 {"category": "G", "etf": "N", "name": "Relay Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "RLAY"}
 {"category": "S", "etf": "N", "name": "Relmada Therapeutics, Inc. - Common Stock", "test_issue": "N", "ticker": "RLMD"}
-{"category": "S", "etf": "N", "name": "Rallybio Corporation - Common Stock", "test_issue": "N", "ticker": "RLYB"}
 {"category": "S", "etf": "N", "name": "Richmond Mutual Bancorporation, Inc. - Common Stock", "test_issue": "N", "ticker": "RMBI"}
 {"category": "Q", "etf": "N", "name": "Rambus, Inc. - Common Stock", "test_issue": "N", "ticker": "RMBS"}
 {"category": "S", "etf": "N", "name": "Rocky Mountain Chocolate Factory, Inc. - Common Stock", "test_issue": "N", "ticker": "RMCF"}
@@ -5220,6 +5225,7 @@
 {"category": "G", "etf": "N", "name": "Veritone, Inc. - Common Stock", "test_issue": "N", "ticker": "VERI"}
 {"category": "S", "etf": "N", "name": "Veru Inc. - Common Stock", "test_issue": "N", "ticker": "VERU"}
 {"category": "G", "etf": "N", "name": "Vertex, Inc. - Class A Common Stock", "test_issue": "N", "ticker": "VERX"}
+{"category": "S", "etf": "N", "name": "Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares", "test_issue": "N", "ticker": "VESI"}
 {"category": "S", "etf": "N", "name": "Village Farms International, Inc. - Common Shares", "test_issue": "N", "ticker": "VFF"}
 {"category": "G", "etf": "Y", "name": "VictoryShares Free Cash Flow ETF", "test_issue": "N", "ticker": "VFLO"}
 {"category": "Q", "etf": "N", "name": "VinFast Auto Ltd. - Ordinary Shares", "test_issue": "N", "ticker": "VFS"}

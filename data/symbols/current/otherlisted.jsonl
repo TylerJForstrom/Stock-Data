@@ -247,6 +247,7 @@
 {"etf": "N", "exchange": "N", "name": "Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series J", "test_issue": "N", "ticker": "ALL$J"}
 {"etf": "N", "exchange": "N", "name": "Allegion plc Ordinary Shares", "test_issue": "N", "ticker": "ALLE"}
 {"etf": "N", "exchange": "N", "name": "Ally Financial Inc. Common Stock", "test_issue": "N", "ticker": "ALLY"}
+{"etf": "Y", "exchange": "Z", "name": "Zacks All-Cap Core ETF", "test_issue": "N", "ticker": "ALLZ"}
 {"etf": "Y", "exchange": "P", "name": "Allspring LT Large Core ETF", "test_issue": "N", "ticker": "ALRG"}
 {"etf": "N", "exchange": "N", "name": "Allison Transmission Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "ALSN"}
 {"etf": "N", "exchange": "N", "name": "Alta Equipment Group Inc. Class A Common Stock", "test_issue": "N", "ticker": "ALTG"}
@@ -304,6 +305,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Roundhill AMZN WeeklyPay ETF", "test_issue": "N", "ticker": "AMZW"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax AMZN Option Income Strategy ETF", "test_issue": "N", "ticker": "AMZY"}
 {"etf": "N", "exchange": "N", "name": "AutoNation, Inc. Common Stock", "test_issue": "N", "ticker": "AN"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Short Anthropic Daily ETF", "test_issue": "N", "ticker": "ANDD"}
 {"etf": "N", "exchange": "N", "name": "Andersen Group Inc. Class A Common Stock", "test_issue": "N", "ticker": "ANDG"}
 {"etf": "N", "exchange": "N", "name": "Arista Networks, Inc. Common Stock", "test_issue": "N", "ticker": "ANET"}
 {"etf": "N", "exchange": "N", "name": "Abercrombie & Fitch Company Common Stock", "test_issue": "N", "ticker": "ANF"}
@@ -311,7 +313,11 @@
 {"etf": "N", "exchange": "N", "name": "American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D", "test_issue": "N", "ticker": "ANG$D"}
 {"etf": "N", "exchange": "N", "name": "Angel Studios, Inc. Class A Common Stock", "test_issue": "N", "ticker": "ANGX"}
 {"etf": "N", "exchange": "N", "name": "Alto Neuroscience, Inc. Common Stock", "test_issue": "N", "ticker": "ANRO"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 1X Short Anthropic Daily ETF", "test_issue": "N", "ticker": "ANSS"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Long Anthropic Daily ETF", "test_issue": "N", "ticker": "ANTT"}
 {"etf": "Y", "exchange": "P", "name": "Anthropic AI Lab Ecosystem ETF", "test_issue": "N", "ticker": "ANTW"}
+{"etf": "Y", "exchange": "Z", "name": "Tradr 2X Short Anthropic Daily ETF", "test_issue": "N", "ticker": "ANTZ"}
+{"etf": "Y", "exchange": "Z", "name": "Leverage Shares 2X Long Anthropic Daily ETF", "test_issue": "N", "ticker": "ANUU"}
 {"etf": "N", "exchange": "N", "name": "Annovis Bio, Inc. Common Stock", "test_issue": "N", "ticker": "ANVS"}
 {"etf": "Y", "exchange": "P", "name": "iShares Core 80/20 Aggressive Allocation ETF", "test_issue": "N", "ticker": "AOA"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028", "test_issue": "N", "ticker": "AOCT"}
@@ -451,6 +457,7 @@
 {"etf": "N", "exchange": "N", "name": "Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.750% Fixed-Rate Reset Perpetual Non-Cumulative Preference Share, Series E", "test_issue": "N", "ticker": "ATH$E"}
 {"etf": "N", "exchange": "N", "name": "Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.", "test_issue": "N", "ticker": "ATHM"}
 {"etf": "N", "exchange": "N", "name": "Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064", "test_issue": "N", "ticker": "ATHS"}
+{"etf": "Y", "exchange": "Z", "name": "2x Anthropic ETF", "test_issue": "N", "ticker": "ATHX"}
 {"etf": "N", "exchange": "N", "name": "ATI Inc. Common Stock", "test_issue": "N", "ticker": "ATI"}
 {"etf": "N", "exchange": "Z", "name": "iPath Select MLP ETN", "test_issue": "N", "ticker": "ATMP"}
 {"etf": "N", "exchange": "N", "name": "Atmus Filtration Technologies Inc. Common Stock", "test_issue": "N", "ticker": "ATMU"}
@@ -775,10 +782,9 @@
 {"etf": "Y", "exchange": "Z", "name": "Brandes International ETF", "test_issue": "N", "ticker": "BINV"}
 {"etf": "N", "exchange": "N", "name": "Bio-Rad Laboratories, Inc. Class A Common Stock", "test_issue": "N", "ticker": "BIO"}
 {"etf": "N", "exchange": "N", "name": "Bio-Rad Laboratories, Inc. Class B  Common Stock", "test_issue": "N", "ticker": "BIO.B"}
-{"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Partners LP Limited Partnership Units", "test_issue": "N", "ticker": "BIP"}
-{"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13", "test_issue": "N", "ticker": "BIP$A"}
-{"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14", "test_issue": "N", "ticker": "BIP$B"}
-{"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation", "test_issue": "N", "ticker": "BIPC"}
+{"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares", "test_issue": "N", "ticker": "BIP"}
+{"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13", "test_issue": "N", "ticker": "BIPF$A"}
+{"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14", "test_issue": "N", "ticker": "BIPF$B"}
 {"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081", "test_issue": "N", "ticker": "BIPH"}
 {"etf": "N", "exchange": "N", "name": "BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes", "test_issue": "N", "ticker": "BIPI"}
 {"etf": "N", "exchange": "N", "name": "Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084", "test_issue": "N", "ticker": "BIPJ"}
@@ -1257,6 +1263,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi U.S. Equities 15% Structured Buffer ETF - June Series", "test_issue": "N", "ticker": "CJUN"}
 {"etf": "N", "exchange": "A", "name": "CKX Lands, Inc. Common Stock", "test_issue": "N", "ticker": "CKX"}
 {"etf": "N", "exchange": "N", "name": "Colgate-Palmolive Company Common Stock", "test_issue": "N", "ticker": "CL"}
+{"etf": "Y", "exchange": "Z", "name": "T-REX 2X Long Anthropic Daily Target ETF", "test_issue": "N", "ticker": "CLAU"}
 {"etf": "N", "exchange": "N", "name": "Core Laboratories Inc. Common Stock", "test_issue": "N", "ticker": "CLB"}
 {"etf": "N", "exchange": "N", "name": "Colombier Acquisition Corp. III Class A Ordinary Shares", "test_issue": "N", "ticker": "CLBR"}
 {"etf": "N", "exchange": "N", "name": "Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant", "test_issue": "N", "ticker": "CLBR.U"}
@@ -1752,6 +1759,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Dimensional International Small Cap Value ETF", "test_issue": "N", "ticker": "DISV"}
 {"etf": "N", "exchange": "A", "name": "AMCON Distributing Company Common Stock", "test_issue": "N", "ticker": "DIT"}
 {"etf": "Y", "exchange": "P", "name": "Global X Super Dividend ETF", "test_issue": "N", "ticker": "DIV"}
+{"etf": "Y", "exchange": "P", "name": "AB Equity Income ETF", "test_issue": "N", "ticker": "DIVA"}
 {"etf": "Y", "exchange": "Z", "name": "iShares Core Dividend ETF", "test_issue": "N", "ticker": "DIVB"}
 {"etf": "Y", "exchange": "P", "name": "Dana Concentrated Dividend ETF", "test_issue": "N", "ticker": "DIVE"}
 {"etf": "Y", "exchange": "P", "name": "Invesco S&P 500 High Dividend Growers ETF", "test_issue": "N", "ticker": "DIVG"}
@@ -6345,7 +6353,6 @@
 {"etf": "N", "exchange": "N", "name": "Spire Inc. 6.375% Junior Subordinated Notes due 2086", "test_issue": "N", "ticker": "SRJN"}
 {"etf": "N", "exchange": "N", "name": "Scully Royalty Ltd.", "test_issue": "N", "ticker": "SRL"}
 {"etf": "Y", "exchange": "P", "name": "State Street Blackstone Senior Loan ETF", "test_issue": "N", "ticker": "SRLN"}
-{"etf": "Y", "exchange": "P", "name": "Calamos Antetokounmpo Global Sustainable Equities ETF", "test_issue": "N", "ticker": "SROI"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraShort Real Estate", "test_issue": "N", "ticker": "SRS"}
 {"etf": "Y", "exchange": "P", "name": "ProShares UltraPro Short Russell2000", "test_issue": "N", "ticker": "SRTY"}
 {"etf": "N", "exchange": "N", "name": "NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest", "test_issue": "N", "ticker": "SRV"}
@@ -7617,6 +7624,7 @@
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr April", "test_issue": "N", "ticker": "ZAPR"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr August", "test_issue": "N", "ticker": "ZAUG"}
 {"etf": "N", "exchange": "N", "name": "Zimmer Biomet Holdings, Inc. Common Stock", "test_issue": "N", "ticker": "ZBH"}
+{"etf": "Y", "exchange": "Z", "name": "Zacks Small-Cap Core ETF", "test_issue": "N", "ticker": "ZCAP"}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2030 ETF", "test_issue": "N", "ticker": "ZCBA"}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2031 ETF", "test_issue": "N", "ticker": "ZCBB"}
 {"etf": "Y", "exchange": "P", "name": "Global X Zero Coupon Bond 2032 ETF", "test_issue": "N", "ticker": "ZCBC"}
@@ -7629,6 +7637,7 @@
 {"etf": "N", "exchange": "A", "name": "Zedge, Inc. Class B Common Stock ", "test_issue": "N", "ticker": "ZDGE"}
 {"etf": "Y", "exchange": "P", "name": "Virtus Zevenbergen Discovery Growth ETF", "test_issue": "N", "ticker": "ZDIS"}
 {"etf": "Y", "exchange": "Z", "name": "Zacks Earnings Consistent Portfolio ETF", "test_issue": "N", "ticker": "ZECP"}
+{"etf": "Y", "exchange": "P", "name": "2x ZCSH ETF", "test_issue": "N", "ticker": "ZECX"}
 {"etf": "N", "exchange": "N", "name": "Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares", "test_issue": "N", "ticker": "ZEPP"}
 {"etf": "N", "exchange": "N", "name": "Zeta Global Holdings Corp. Class A Common Stock", "test_issue": "N", "ticker": "ZETA"}
 {"etf": "Y", "exchange": "Z", "name": "Innovator Equity Defined Protection ETF - 1 Yr February", "test_issue": "N", "ticker": "ZFEB"}
