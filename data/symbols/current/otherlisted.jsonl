@@ -1382,7 +1382,6 @@
 {"etf": "N", "exchange": "A", "name": "Idaho Copper Corporation Common Stock Purchase Warrant", "test_issue": "N", "ticker": "COPR.W"}
 {"etf": "Y", "exchange": "P", "name": "Global X Copper Miners ETF", "test_issue": "N", "ticker": "COPX"}
 {"etf": "Y", "exchange": "P", "name": "Tweedy, Browne Insider + Value ETF", "test_issue": "N", "ticker": "COPY"}
-{"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Long Copper Miners ETF", "test_issue": "N", "ticker": "COPZ"}
 {"etf": "N", "exchange": "N", "name": "Cencora, Inc. Common Stock", "test_issue": "N", "ticker": "COR"}
 {"etf": "Y", "exchange": "P", "name": "AB Core Bond ETF", "test_issue": "N", "ticker": "CORB"}
 {"etf": "Y", "exchange": "Z", "name": "T-REX 2X Inverse CRWV Daily Target ETF", "test_issue": "N", "ticker": "CORD"}
@@ -3583,6 +3582,7 @@
 {"etf": "Y", "exchange": "Z", "name": "ProShares Russell 2000 High Income ETF", "test_issue": "N", "ticker": "ITWO"}
 {"etf": "N", "exchange": "N", "name": "Ives Ultra AI Opportunities Inc. Common Stock", "test_issue": "N", "ticker": "IVAI"}
 {"etf": "Y", "exchange": "P", "name": "iShares S&P 500 Value ETF", "test_issue": "N", "ticker": "IVE"}
+{"etf": "Y", "exchange": "P", "name": "Dan IVES Wedbush AI Autocallable Income ETF", "test_issue": "N", "ticker": "IVEA"}
 {"etf": "Y", "exchange": "P", "name": "Dan IVES Wedbush AI Power & Infrastructure ETF", "test_issue": "N", "ticker": "IVEP"}
 {"etf": "Y", "exchange": "P", "name": "Dan IVES Wedbush AI Revolution ETF", "test_issue": "N", "ticker": "IVES"}
 {"etf": "Y", "exchange": "P", "name": "iShares MSCI Intl Value Factor ETF", "test_issue": "N", "ticker": "IVLU"}
@@ -3851,7 +3851,6 @@
 {"etf": "Y", "exchange": "P", "name": "PLUS Korea Defense Industry Index ETF", "test_issue": "N", "ticker": "KDEF"}
 {"etf": "Y", "exchange": "P", "name": "Kingsbarn Tactical Bond ETF", "test_issue": "N", "ticker": "KDRN"}
 {"etf": "Y", "exchange": "P", "name": "Keeley Dividend ETF", "test_issue": "N", "ticker": "KDVD"}
-{"etf": "Y", "exchange": "Z", "name": "Defiance Daily Target 2x Long KEEL ETF", "test_issue": "N", "ticker": "KEEX"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares Public-Private Emerging Markets Internet and Technology ETF", "test_issue": "N", "ticker": "KEMQ"}
 {"etf": "Y", "exchange": "P", "name": "KraneShares MSCI Emerging Markets ex China Index ETF", "test_issue": "N", "ticker": "KEMX"}
 {"etf": "N", "exchange": "N", "name": "Kenon Holdings Ltd. Ordinary Shares", "test_issue": "N", "ticker": "KEN"}
@@ -5534,6 +5533,8 @@
 {"etf": "Y", "exchange": "Z", "name": "Corgi Growth & Technology 10% Structured Buffer ETF - September Series", "test_issue": "N", "ticker": "QSE"}
 {"etf": "Y", "exchange": "Z", "name": "WisdomTree U.S. Short Term Corporate Bond Fund", "test_issue": "N", "ticker": "QSIG"}
 {"etf": "Y", "exchange": "Z", "name": "Invesco Galaxy Solana ETF", "test_issue": "N", "ticker": "QSOL"}
+{"etf": "N", "exchange": "N", "name": "Quantum Space, Inc. Class A-1 Common Stock", "test_issue": "N", "ticker": "QSPC"}
+{"etf": "N", "exchange": "A", "name": "Quantum Space, Inc. Warrants, each whole warrant exercisable for one share of Class A-1 Common Stock at an exercise price of $11.50 per share", "test_issue": "N", "ticker": "QSPC.W"}
 {"etf": "Y", "exchange": "Z", "name": "FT Vest Nasdaq-100 Buffer ETF - September", "test_issue": "N", "ticker": "QSPT"}
 {"etf": "N", "exchange": "N", "name": "Restaurant Brands International Inc. Common Shares", "test_issue": "N", "ticker": "QSR"}
 {"etf": "Y", "exchange": "P", "name": "Defiance Daily Target 2X Long QS ETF", "test_issue": "N", "ticker": "QSU"}
@@ -7576,6 +7577,7 @@
 {"etf": "N", "exchange": "N", "name": "Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share", "test_issue": "N", "ticker": "YALA"}
 {"etf": "Y", "exchange": "P", "name": "Truth Social God Bless America ETF", "test_issue": "N", "ticker": "YALL"}
 {"etf": "Y", "exchange": "P", "name": "Direxion Daily FTSE China Bear 3X ETF", "test_issue": "N", "ticker": "YANG"}
+{"etf": "Y", "exchange": "P", "name": "YieldMax ANT Option Income Strategy ETF", "test_issue": "N", "ticker": "YANT"}
 {"etf": "Y", "exchange": "P", "name": "Yorkville America Space Index ETF", "test_issue": "N", "ticker": "YASX"}
 {"etf": "Y", "exchange": "P", "name": "YieldMax Bitcoin Option Income Strategy ETF", "test_issue": "N", "ticker": "YBIT"}
 {"etf": "Y", "exchange": "Z", "name": "Roundhill Bitcoin Covered Call Strategy ETF", "test_issue": "N", "ticker": "YBTC"}
