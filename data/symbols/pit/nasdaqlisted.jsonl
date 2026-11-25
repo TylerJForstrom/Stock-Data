@@ -681,6 +681,7 @@
 {"category": "G", "etf": "N", "name": "Better Home & Finance Holding Company - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BETR", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Better Home & Finance Holding Company - Warrant", "provable_from": false, "test_issue": "N", "ticker": "BETRW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Bank First Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BFC", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "BlueFlare, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "BFLR", "valid_from": "2026-11-25", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "iShares Flexible Equity Active ETF", "provable_from": false, "test_issue": "N", "ticker": "BFLX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Bullfrog AI Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "BFRG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Bullfrog AI Holdings, Inc. - Warrants", "provable_from": false, "test_issue": "N", "ticker": "BFRGW", "valid_from": "2026-07-28", "valid_to": null}
@@ -1297,6 +1298,7 @@
 {"category": "S", "etf": "N", "name": "Central Plains Bancshares, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CPBI", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Canterbury Park Holding Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CPHC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "F/m Compoundr High Yield Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "CPHY", "valid_from": "2026-07-28", "valid_to": "2026-11-24"}
+{"category": "G", "etf": "Y", "name": "F/m Compoundr High Yield Bond ETF", "provable_from": true, "test_issue": "N", "ticker": "CPHY", "valid_from": "2026-11-25", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Cumberland Pharmaceuticals Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "CPIX", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "AB Core Plus Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "CPLS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "CPOP", "valid_from": "2026-07-28", "valid_to": null}
@@ -2028,7 +2030,7 @@
 {"category": "G", "etf": "Y", "name": "MarketDesk Focused U.S. Momentum ETF", "provable_from": false, "test_issue": "N", "ticker": "FMTM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Fidelity Municipal Bond Opportunities ETF", "provable_from": false, "test_issue": "N", "ticker": "FMUB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Fidelity Systematic Municipal Bond Index ETF", "provable_from": false, "test_issue": "N", "ticker": "FMUN", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "FingerMotion, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "FNGR", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "FingerMotion, Inc. - common stock", "provable_from": false, "test_issue": "N", "ticker": "FNGR", "valid_from": "2026-07-28", "valid_to": "2026-11-25"}
 {"category": "G", "etf": "Y", "name": "First Trust Mid Cap Value AlphaDEX Fund", "provable_from": false, "test_issue": "N", "ticker": "FNK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Funko, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FNKO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "First Bancorp, Inc (ME) - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "FNLC", "valid_from": "2026-07-28", "valid_to": null}
@@ -4065,7 +4067,7 @@
 {"category": "S", "etf": "N", "name": "Banzai International, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "PARAW", "valid_from": "2026-08-07", "valid_to": "2026-10-27"}
 {"category": "S", "etf": "N", "name": "Parabolic Technologies, Inc. - Warrant", "provable_from": true, "test_issue": "N", "ticker": "PARAW", "valid_from": "2026-10-27", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Park Dental Partners, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PARK", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Passage Bio, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PASG", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Passage Bio, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PASG", "valid_from": "2026-07-28", "valid_to": "2026-11-25"}
 {"category": "S", "etf": "N", "name": "Ping An Biomedical Co., Ltd. - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "PASW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Patrick Industries, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "PATK", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Pacer Nasdaq International Patent Leaders ETF", "provable_from": false, "test_issue": "N", "ticker": "PATN", "valid_from": "2026-07-28", "valid_to": null}
@@ -4623,6 +4625,7 @@
 {"category": "S", "etf": "N", "name": "Real Messenger Corporation - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "RMSG", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Real Messenger Corporation - Warrants", "provable_from": false, "test_issue": "N", "ticker": "RMSGW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Rockwell Medical, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RMTI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Remix Therapeutics, Inc. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "RMTX", "valid_from": "2026-11-25", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Atrium Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RNA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Cartesian Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "RNAC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Rainier Acquisition Corporation - Class A Ordinary Shares", "provable_from": true, "test_issue": "N", "ticker": "RNAQ", "valid_from": "2026-09-15", "valid_to": null}
@@ -4715,7 +4718,7 @@
 {"category": "S", "etf": "N", "name": "SAB Biotherapeutics, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "SABSW", "valid_from": "2026-07-28", "valid_to": "2026-10-23"}
 {"category": "S", "etf": "N", "name": "Genenta Science S.p.A. - American Depositary Shares", "provable_from": true, "test_issue": "N", "ticker": "SAEN", "valid_from": "2026-11-04", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Safety Insurance Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SAFT", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "XCF Global, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SAFX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "XCF Global, Inc. - Class A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SAFX", "valid_from": "2026-07-28", "valid_to": "2026-11-25"}
 {"category": "S", "etf": "N", "name": "SAGTEC GLOBAL LIMITED - Class A Ordinary shares", "provable_from": false, "test_issue": "N", "ticker": "SAGT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Saia, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SAIA", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Science Applications International Corporation - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SAIC", "valid_from": "2026-07-28", "valid_to": null}

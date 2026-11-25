@@ -4950,7 +4950,8 @@
 {"etf": "Y", "exchange": "P", "name": "Nuveen High Yield Municipal Income ETF", "provable_from": false, "test_issue": "N", "ticker": "NHYM", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "NiSource Inc Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nicolet Bankshares Inc. Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NIC", "valid_from": "2026-07-28", "valid_to": null}
-{"etf": "Y", "exchange": "P", "name": "Hexis Active Nicotine Engagement ETF", "provable_from": false, "test_issue": "N", "ticker": "NICO", "valid_from": "2026-07-28", "valid_to": null}
+{"etf": "Y", "exchange": "P", "name": "Hexis Active Nicotine Engagement ETF", "provable_from": false, "test_issue": "N", "ticker": "NICO", "valid_from": "2026-07-28", "valid_to": "2026-11-25"}
+{"etf": "Y", "exchange": "F", "name": "Hexis Active Nicotine Engagement ETF", "provable_from": true, "test_issue": "N", "ticker": "NICO", "valid_from": "2026-11-25", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest", "provable_from": false, "test_issue": "N", "ticker": "NIE", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "Y", "exchange": "Z", "name": "NEOS MSCI EAFE High Income ETF", "provable_from": false, "test_issue": "N", "ticker": "NIHI", "valid_from": "2026-07-28", "valid_to": null}
 {"etf": "N", "exchange": "N", "name": "Nuveen Select Maturities Municipal Fund Common Stock", "provable_from": false, "test_issue": "N", "ticker": "NIM", "valid_from": "2026-07-28", "valid_to": null}
