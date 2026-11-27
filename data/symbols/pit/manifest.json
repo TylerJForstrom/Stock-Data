@@ -3,10 +3,10 @@
   "event_ordering": "events are un-applied newest-first by (date, position in the append-only events.jsonl); two snapshot runs on one UTC day emit two same-date events for one identity key, and the second must be reversed first",
   "files": [
     {
-      "bytes": 1146838,
+      "bytes": 1147403,
       "name": "nasdaqlisted.jsonl",
-      "rows": 6019,
-      "sha256": "cc81691465ae61fbb3f3046ecd1c82c6917e7e65bf72878f7fd82abebc29a1af"
+      "rows": 6022,
+      "sha256": "69901c28c3c298beb071fc05c20b2ce98afdedde0534ca55bab0be72a911222d"
     },
     {
       "bytes": 1576901,
@@ -27,13 +27,13 @@
       "sha256": "81aec5858304955dfe96baee8cafe40d54e6f367c574c46a23410d0514e4c6a7"
     }
   ],
-  "generated_at_utc": "2026-11-26T17:41:50Z",
+  "generated_at_utc": "2026-11-27T17:26:39Z",
   "input_sha256": {
-    "data/symbols/current/nasdaqlisted.jsonl": "de3bed4ba52790793a54bcd585d45fe5786a2b35c908dfc1a3c84dc041cf47df",
+    "data/symbols/current/nasdaqlisted.jsonl": "1af0395cb9739914c0102aa1a2c0cfc8174bf5a38b3314653165d5bd6c00fd19",
     "data/symbols/current/otherlisted.jsonl": "8919771893eb987b5295f2b6020c6db988ddf3eb688c6c582accd040af09a24a",
     "data/symbols/current/sec_company_tickers.jsonl": "3cd6d85b0a4a2c67c8aeb2d2a43e749bd9fa9567413b84f5dc8478c3869c2b0a",
     "data/symbols/current/sec_company_tickers_exchange.jsonl": "6958509683ff7e7ed584afc702c45f7cfa46b4a4684a95bafe93f346619527af",
-    "data/symbols/events/events.jsonl": "2ed8f8d8af05d0ed0f95fe85ba065e5e2bf729c78cc80578ae07f2005b403ac3"
+    "data/symbols/events/events.jsonl": "a1bf84af325b5c748d94be4228b301f866cd1e021e11102c8532cd7420b520c1"
   },
   "interval_semantics": "half-open: a row is the directory state for its identity key on every date D with valid_from <= D < valid_to; valid_to null means still current. Membership at asof = rows whose interval covers asof.",
   "license_note": "US-government public-domain source data (17 USC 105); derived work, freely redistributable.",

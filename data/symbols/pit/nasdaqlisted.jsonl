@@ -2340,7 +2340,8 @@
 {"category": "Q", "etf": "N", "name": "GRAIL, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GRAL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Grande Group Limited - Class A Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "GRAN", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Grace Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GRCE", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "GridAI Technologies Corp.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GRDX", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "GridAI Technologies Corp.  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GRDX", "valid_from": "2026-07-28", "valid_to": "2026-11-27"}
+{"category": "S", "etf": "N", "name": "GridAI Power Corp. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "GRDX", "valid_from": "2026-11-27", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026", "provable_from": false, "test_issue": "N", "ticker": "GREEL", "valid_from": "2026-07-28", "valid_to": "2026-10-13"}
 {"category": "Q", "etf": "N", "name": "Grifols, S.A. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "GRFS", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "GRI Bio, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "GRI", "valid_from": "2026-07-28", "valid_to": null}
@@ -2452,7 +2453,7 @@
 {"category": "G", "etf": "Y", "name": "Hartford Hybrid and Credit Opportunities ETF", "provable_from": true, "test_issue": "N", "ticker": "HCOP", "valid_from": "2026-11-16", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Amplify COWS Covered Call ETF", "provable_from": false, "test_issue": "N", "ticker": "HCOW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Healthcare Services Group, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCSG", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Healthcare Triangle, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCTI", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Healthcare Triangle, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCTI", "valid_from": "2026-07-28", "valid_to": "2026-11-27"}
 {"category": "S", "etf": "N", "name": "HCW Biologics Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HCWB", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares", "provable_from": false, "test_issue": "N", "ticker": "HDL", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Hadron Energy, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HDRN", "valid_from": "2026-07-28", "valid_to": null}
@@ -2551,6 +2552,7 @@
 {"category": "Q", "etf": "N", "name": "Heartland Express, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HTLD", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "HomesToLife Ltd - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "HTLM", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "H2O America  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HTO", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "Q", "etf": "N", "name": "H2O America  - Equity Units", "provable_from": true, "test_issue": "N", "ticker": "HTOEU", "valid_from": "2026-11-27", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Fusion Fuel Green PLC - Ordinary Shares", "provable_from": false, "test_issue": "N", "ticker": "HTOO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Hertz Global Holdings, Inc - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "HTZ", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Hertz Global Holdings, Inc - Warrant", "provable_from": false, "test_issue": "N", "ticker": "HTZWW", "valid_from": "2026-07-28", "valid_to": null}
@@ -4830,7 +4832,8 @@
 {"category": "G", "etf": "N", "name": "Superior Group of Companies, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGC", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "Sight Sciences, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGHT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Scorpio Gold Corporation - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "SGLD", "valid_from": "2026-09-02", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Singularity Future Technology Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGLY", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Singularity Future Technology Ltd. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGLY", "valid_from": "2026-07-28", "valid_to": "2026-11-27"}
+{"category": "S", "etf": "N", "name": "Compower Ltd. - Common Stock", "provable_from": true, "test_issue": "N", "ticker": "SGLY", "valid_from": "2026-11-27", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Sigma Lithium Corporation - common shares", "provable_from": false, "test_issue": "N", "ticker": "SGML", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "N", "name": "Sagimet Biosciences Inc. - Series A Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGMT", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "Q", "etf": "N", "name": "SpyGlass Pharma, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "SGP", "valid_from": "2026-07-28", "valid_to": null}
@@ -5715,7 +5718,7 @@
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 2000 ETF", "provable_from": false, "test_issue": "N", "ticker": "VTWO", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Russell 2000 Value ETF", "provable_from": false, "test_issue": "N", "ticker": "VTWV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "Vuzix Corporation  - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VUZI", "valid_from": "2026-07-28", "valid_to": null}
-{"category": "S", "etf": "N", "name": "Vivos Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VVOS", "valid_from": "2026-07-28", "valid_to": null}
+{"category": "S", "etf": "N", "name": "Vivos Therapeutics, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VVOS", "valid_from": "2026-07-28", "valid_to": "2026-11-27"}
 {"category": "G", "etf": "N", "name": "VisionWave Holdings, Inc. - Common Stock", "provable_from": false, "test_issue": "N", "ticker": "VWAV", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "S", "etf": "N", "name": "VisionWave Holdings, Inc. - Warrant", "provable_from": false, "test_issue": "N", "ticker": "VWAVW", "valid_from": "2026-07-28", "valid_to": null}
 {"category": "G", "etf": "Y", "name": "Vanguard Emerging Markets Government Bond ETF", "provable_from": false, "test_issue": "N", "ticker": "VWOB", "valid_from": "2026-07-28", "valid_to": null}
